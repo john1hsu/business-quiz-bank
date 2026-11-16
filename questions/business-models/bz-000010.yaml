@@ -1,0 +1,18 @@
+id: bz-000010
+area: business-models
+kind: origin
+topic: Two-Sided Market
+topic_type: Concept
+true_statement: Jean-Charles Rochet and Jean Tirole formalized two-sided markets in a 2003 paper whose model was built around the payment-card industry.
+false_statement: Jean-Charles Rochet and Jean Tirole formalized two-sided markets in a 2003 paper whose model was built around the newspaper industry.
+explanation: Their 2003 Journal of the European Economic Association paper modelled how card platforms split prices between cardholders and merchants. Armstrong's 2006 paper later extended the analysis to competing platforms.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/two-sided-market.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 761c5aa411dc9dfc454182404618c609195361d4
+concepts:
+- kt:two-sided-market
+difficulty: 2
+created: '2026-11-16'
+status: active

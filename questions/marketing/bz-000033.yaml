@@ -1,0 +1,19 @@
+id: bz-000033
+area: marketing
+kind: evidence
+topic: Segmentation, Targeting and Positioning
+topic_type: Framework
+true_statement: Yankelovich and Meer argued in 2006 that firms should keep segmentations for building brand identity separate from those for choosing markets and products.
+false_statement: Yankelovich and Meer argued in 2006 that firms should use one psychographic segmentation for both building brand identity and choosing markets and products.
+explanation: They found demographic and psychographic segments, often reduced to ad personas, predicted purchases poorly. Their fix was to use different segmentations for different decisions rather than one for everything.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/segmentation-targeting-positioning.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: f1a926cde2b13608d329e589eec02f020b248a71
+concepts:
+- kt:segmentation-targeting-positioning
+- kt:brand-equity
+difficulty: 3
+created: '2026-11-16'
+status: active

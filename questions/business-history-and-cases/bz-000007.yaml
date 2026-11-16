@@ -1,0 +1,19 @@
+id: bz-000007
+area: business-history-and-cases
+kind: mechanism
+topic: Ford Model T
+topic_type: Case
+true_statement: By early 1914, Ford's moving assembly lines finished a Model T chassis every 93 minutes, versus about 12½ hours with stationary assembly.
+false_statement: By early 1914, Ford's moving assembly lines finished a Model T chassis every 93 minutes, versus about 3 hours with stationary assembly.
+explanation: Moving the work to the worker, tried first on flywheel magnetos in 1913 and then the whole chassis, cut assembly time roughly eightfold. The savings funded price cuts that expanded demand.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/ford-model-t.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 8c7bc58a884e20929309f696e074bb7759db4669
+concepts:
+- kt:ford-model-t
+- kt:mass-production
+difficulty: 2
+created: '2026-11-16'
+status: active

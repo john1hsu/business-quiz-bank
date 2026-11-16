@@ -1,0 +1,19 @@
+id: bz-000022
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: Federal Acquisition Regulation
+topic_type: Regulation
+true_statement: Under the FAR, only warranted contracting officers may sign contracts for the government, and only within their written limits.
+false_statement: Under the FAR, any agency program manager may sign contracts for the government, as long as funds are available.
+explanation: Contracting authority is personal and delegated through a written warrant, and a contracting officer can bind the government only within those limits. Program managers shape requirements but cannot obligate the government.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/federal-acquisition-regulation.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 515b2b2147343c7cce1260c25e67db909fb1df34
+concepts:
+- kt:federal-acquisition-regulation
+- kt:contracting-officer
+difficulty: 2
+created: '2026-11-16'
+status: active

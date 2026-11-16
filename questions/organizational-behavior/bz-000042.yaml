@@ -1,0 +1,18 @@
+id: bz-000042
+area: organizational-behavior
+kind: evidence
+topic: Psychological Safety
+topic_type: Concept
+true_statement: A 2017 meta-analysis found psychological safety correlated far more with subjectively rated performance than with objective performance.
+false_statement: A 2017 meta-analysis found psychological safety correlated far more with objective performance than with subjectively rated performance.
+explanation: Frazier and colleagues found a correlation of .40 with subjective ratings but only .07 with objective measures. Single-source, single-time designs also inflated effects, so causal claims stay weak.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/psychological-safety.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: db7dcab814b8097a2f061a58aa7e58e69e5435da
+concepts:
+- kt:psychological-safety
+difficulty: 3
+created: '2026-11-16'
+status: active

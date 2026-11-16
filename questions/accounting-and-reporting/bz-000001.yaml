@@ -1,0 +1,19 @@
+id: bz-000001
+area: accounting-and-reporting
+kind: evidence
+topic: Accrual Accounting
+topic_type: Concept
+true_statement: Richard Sloan's 1996 study found that the accrual part of earnings persists less into future earnings than the cash flow part.
+false_statement: Richard Sloan's 1996 study found that the accrual part of earnings persists more into future earnings than the cash flow part.
+explanation: Sloan showed accruals are the less persistent piece of earnings, yet prices treated both pieces alike; a long low-accrual, short high-accrual portfolio earned about 10.4% in year one. That gap is the 'accrual anomaly' analysts now screen for.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/accrual-accounting.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 60a5c5958bacf6343d5030d3dc497bf63d01b3ca
+concepts:
+- kt:accrual-accounting
+- kt:free-cash-flow
+difficulty: 3
+created: '2026-11-16'
+status: active

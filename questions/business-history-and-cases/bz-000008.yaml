@@ -1,0 +1,19 @@
+id: bz-000008
+area: business-history-and-cases
+kind: evidence
+topic: Ford Model T
+topic_type: Case
+true_statement: After Ford's 1914 five-dollar day, annual worker turnover fell from 370 percent in 1913 to 54 percent in 1914.
+false_statement: After Ford's 1914 five-dollar day, annual worker turnover rose from 54 percent in 1913 to 370 percent in 1914.
+explanation: In 1913 Ford hired over 50,000 men to keep about 13,600 on the payroll. Raff and Summers found the near-doubled wage slashed turnover and absenteeism, which is why the case is classic evidence for efficiency-wage theory.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/ford-model-t.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 8c7bc58a884e20929309f696e074bb7759db4669
+concepts:
+- kt:ford-model-t
+- kt:efficiency-wages
+difficulty: 2
+created: '2026-11-16'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000027
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: Disruptive Innovation
+topic_type: Theory
+true_statement: A 2015 study by King and Baatartogtokh found only 9% of 77 cited disruption cases met all four core conditions they tested.
+false_statement: A 2015 study by King and Baatartogtokh found 90% of 77 cited disruption cases met all four core conditions they tested.
+explanation: Their experts judged most of Christensen and Raynor's example cases a poor fit, though the authors suggested blending the theory with classic strategy rather than discarding it. Defenders replied that the theory has more than four elements.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/disruptive-innovation.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 21cd4e0152889729246c3294951dd80027db5854
+concepts:
+- kt:disruptive-innovation
+difficulty: 3
+created: '2026-11-16'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000014
+area: consulting-and-problem-solving
+kind: definition
+topic: Benchmarking
+topic_type: Practice
+true_statement: Functional benchmarking compares a function, such as logistics or billing, with firms in other industries that run similar processes.
+false_statement: Functional benchmarking compares a function, such as logistics or billing, with similar units inside the same organization.
+explanation: Comparing similar units within one organization is internal benchmarking. Functional benchmarking looks outside the industry at firms that perform the same function well, which can surface bigger ideas but is harder to translate.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/benchmarking.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: cb9c6d7ef75850a86190292651438129ec1ff099
+concepts:
+- kt:benchmarking
+difficulty: 2
+created: '2026-11-16'
+status: active

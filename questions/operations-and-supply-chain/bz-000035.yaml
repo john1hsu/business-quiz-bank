@@ -1,0 +1,19 @@
+id: bz-000035
+area: operations-and-supply-chain
+kind: mechanism
+topic: Kanban
+topic_type: Practice
+true_statement: In a two-card kanban system, a withdrawal kanban lets the downstream stage take parts, and a production kanban authorizes upstream to replace them.
+false_statement: In a two-card kanban system, a production kanban lets the downstream stage take parts, and a withdrawal kanban authorizes upstream to replace them.
+explanation: Withdrawal (transport) cards control how much moves downstream; production cards tell the upstream process to make exactly what was removed. Together they pull material through the line and cap work in process.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/kanban.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 9a42d24f591f053e6a5ae448e053d3535efd5d77
+concepts:
+- kt:kanban
+- kt:just-in-time
+difficulty: 2
+created: '2026-11-16'
+status: active

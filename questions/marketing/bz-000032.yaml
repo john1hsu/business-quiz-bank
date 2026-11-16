@@ -1,0 +1,18 @@
+id: bz-000032
+area: marketing
+kind: mechanism
+topic: Segmentation, Targeting and Positioning
+topic_type: Framework
+true_statement: Good segmentation bases explain differences in how customers buy or use a product; demographics mostly serve as descriptors to find and reach segments.
+false_statement: Good segmentation bases are demographics such as age and sex; buying and usage behavior mostly serve as descriptors to find and reach segments.
+explanation: Wind and Bell separate bases, which should predict response to marketing (usage, benefits sought, price sensitivity), from descriptors used to locate those customers. Age or sex alone often predicts response poorly.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/segmentation-targeting-positioning.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: f1a926cde2b13608d329e589eec02f020b248a71
+concepts:
+- kt:segmentation-targeting-positioning
+difficulty: 2
+created: '2026-11-16'
+status: active

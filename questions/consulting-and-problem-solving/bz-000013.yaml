@@ -1,0 +1,20 @@
+id: bz-000013
+area: consulting-and-problem-solving
+kind: origin
+topic: Benchmarking
+topic_type: Practice
+true_statement: Benchmarking as a management method is credited to Robert C. Camp, who developed his ten-step process at Xerox.
+false_statement: Benchmarking as a management method is credited to Robert C. Camp, who developed his ten-step process at General Electric.
+explanation: Camp's book laid out the ten steps he built at Xerox and tied them to Xerox's recovery after the late 1970s. L.L. Bean, IBM and Boeing were among the early adopters that followed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/benchmarking.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: cb9c6d7ef75850a86190292651438129ec1ff099
+concepts:
+- kt:benchmarking
+- kt:robert-c-camp
+- kt:xerox
+difficulty: 1
+created: '2026-11-16'
+status: active

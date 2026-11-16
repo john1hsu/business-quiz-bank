@@ -1,0 +1,113 @@
+{
+ "totals": {
+  "active": 42
+ },
+ "areas": {
+  "accounting-and-reporting": {
+   "active": 3
+  },
+  "business-ethics-and-governance": {
+   "active": 3
+  },
+  "business-history-and-cases": {
+   "active": 3
+  },
+  "business-models": {
+   "active": 3
+  },
+  "consulting-and-problem-solving": {
+   "active": 3
+  },
+  "corporate-finance": {
+   "active": 3
+  },
+  "government-contracting-and-public-sector": {
+   "active": 3
+  },
+  "innovation-and-entrepreneurship": {
+   "active": 3
+  },
+  "leadership-and-management": {
+   "active": 3
+  },
+  "managerial-economics": {
+   "active": 3
+  },
+  "marketing": {
+   "active": 3
+  },
+  "operations-and-supply-chain": {
+   "active": 3
+  },
+  "organizational-behavior": {
+   "active": 3
+  },
+  "strategy": {
+   "active": 3
+  }
+ },
+ "kinds": {
+  "application": {
+   "active": 5
+  },
+  "definition": {
+   "active": 6
+  },
+  "evidence": {
+   "active": 9
+  },
+  "figure": {
+   "active": 2
+  },
+  "mechanism": {
+   "active": 11
+  },
+  "origin": {
+   "active": 9
+  }
+ },
+ "articles": {
+  "articles/accounting-and-reporting/accrual-accounting.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/agency-costs.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/ford-model-t.md": {
+   "active": 3
+  },
+  "articles/business-models/two-sided-market.md": {
+   "active": 3
+  },
+  "articles/consulting-and-problem-solving/benchmarking.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/modigliani-miller-theorem.md": {
+   "active": 3
+  },
+  "articles/government-contracting-and-public-sector/federal-acquisition-regulation.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/disruptive-innovation.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/balanced-scorecard.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/economies-of-scale.md": {
+   "active": 3
+  },
+  "articles/marketing/segmentation-targeting-positioning.md": {
+   "active": 3
+  },
+  "articles/operations-and-supply-chain/kanban.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/psychological-safety.md": {
+   "active": 3
+  },
+  "articles/strategy/barriers-to-entry.md": {
+   "active": 3
+  }
+ }
+}

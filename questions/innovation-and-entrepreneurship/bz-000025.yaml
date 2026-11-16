@@ -1,0 +1,18 @@
+id: bz-000025
+area: innovation-and-entrepreneurship
+kind: definition
+topic: Disruptive Innovation
+topic_type: Theory
+true_statement: In new-market disruption, an entrant first serves people who previously did without the product, as early personal computers did.
+false_statement: In new-market disruption, an entrant first takes the least profitable customers of an existing market, as early personal computers did.
+explanation: Taking an incumbent's least profitable customers is low-end disruption, the path of steel minimills and discount retailers. New-market disruption competes against non-consumption, as PCs and Sony's pocket radios did.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/disruptive-innovation.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 21cd4e0152889729246c3294951dd80027db5854
+concepts:
+- kt:disruptive-innovation
+difficulty: 2
+created: '2026-11-16'
+status: active

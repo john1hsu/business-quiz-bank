@@ -1,0 +1,19 @@
+id: bz-000020
+area: corporate-finance
+kind: mechanism
+topic: Modigliani-Miller Theorem
+topic_type: Theory
+true_statement: Under MM Proposition II, a levered firm's expected return on equity rises linearly with its debt-to-equity ratio.
+false_statement: Under MM Proposition II, a levered firm's expected return on equity falls linearly as its debt-to-equity ratio rises.
+explanation: Adding debt makes the remaining equity riskier, so shareholders demand more. The higher cost of equity exactly offsets the cheaper debt, which is why the overall cost of capital stays the same.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/modigliani-miller-theorem.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 5eb36c79675f82c9a36216a5986b4adaec42d7a8
+concepts:
+- kt:modigliani-miller-theorem
+- kt:capital-structure
+difficulty: 2
+created: '2026-11-16'
+status: active

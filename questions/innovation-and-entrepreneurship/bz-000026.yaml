@@ -1,0 +1,20 @@
+id: bz-000026
+area: innovation-and-entrepreneurship
+kind: origin
+topic: Disruptive Innovation
+topic_type: Theory
+true_statement: Christensen built disruptive innovation theory from evidence in the rigid disk-drive industry.
+false_statement: Christensen built disruptive innovation theory from evidence in the semiconductor chip industry.
+explanation: In disk drives, incumbents led on capacity improvements their customers wanted, but entrants won each shift to smaller, initially weaker drives. That pattern became The Innovator's Dilemma (1997).
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/disruptive-innovation.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 21cd4e0152889729246c3294951dd80027db5854
+concepts:
+- kt:disruptive-innovation
+- kt:clayton-christensen
+- kt:innovators-dilemma
+difficulty: 2
+created: '2026-11-16'
+status: active

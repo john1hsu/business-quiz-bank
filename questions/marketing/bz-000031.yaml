@@ -1,0 +1,19 @@
+id: bz-000031
+area: marketing
+kind: origin
+topic: Segmentation, Targeting and Positioning
+topic_type: Framework
+true_statement: Market segmentation is usually traced to Wendell Smith's 1956 Journal of Marketing article on differentiation and segmentation.
+false_statement: Market segmentation is usually traced to Al Ries and Jack Trout's 1956 Journal of Marketing article on differentiation and segmentation.
+explanation: Wendell R. Smith argued in 1956 that products find their best markets by recognising differences between segments. Ries and Trout contributed positioning, first published in 1969 and popularised in the 1970s and 1980s.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/segmentation-targeting-positioning.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: f1a926cde2b13608d329e589eec02f020b248a71
+concepts:
+- kt:segmentation-targeting-positioning
+- kt:market-segmentation-1956
+difficulty: 2
+created: '2026-11-16'
+status: active

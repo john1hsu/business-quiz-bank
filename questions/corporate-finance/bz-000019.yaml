@@ -1,0 +1,20 @@
+id: bz-000019
+area: corporate-finance
+kind: origin
+topic: Modigliani-Miller Theorem
+topic_type: Theory
+true_statement: Franco Modigliani and Merton Miller published their capital structure irrelevance result in the American Economic Review in 1958.
+false_statement: Franco Modigliani and Merton Miller published their capital structure irrelevance result in the American Economic Review in 1972.
+explanation: Their June 1958 paper on the cost of capital launched modern corporate finance; follow-up essays came in 1963 and 1966. Modigliani won the Nobel prize in 1985 and Miller shared it in 1990.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/modigliani-miller-theorem.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 5eb36c79675f82c9a36216a5986b4adaec42d7a8
+concepts:
+- kt:modigliani-miller-theorem
+- kt:franco-modigliani
+- kt:merton-miller
+difficulty: 1
+created: '2026-11-16'
+status: active

@@ -1,0 +1,677 @@
+{
+ "version": 1,
+ "count": 42,
+ "active": 42,
+ "questions": [
+  {
+   "id": "bz-000001",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Accrual Accounting",
+   "t": "Richard Sloan's 1996 study found that the accrual part of earnings persists less into future earnings than the cash flow part.",
+   "f": "Richard Sloan's 1996 study found that the accrual part of earnings persists more into future earnings than the cash flow part.",
+   "x": "Sloan showed accruals are the less persistent piece of earnings, yet prices treated both pieces alike; a long low-accrual, short high-accrual portfolio earned about 10.4% in year one. That gap is the 'accrual anomaly' analysts now screen for.",
+   "concepts": [
+    "kt:accrual-accounting",
+    "kt:free-cash-flow"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/accrual-accounting.html"
+  },
+  {
+   "id": "bz-000002",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Accrual Accounting",
+   "t": "Under accrual accounting, a major equipment purchase is capitalized and depreciated over its useful life rather than expensed when paid for.",
+   "f": "Under accrual accounting, a major equipment purchase is expensed in full in the period it is paid for rather than depreciated over its useful life.",
+   "x": "Because the matching principle ties expenses to the periods they help earn revenue, long-lived assets are capitalized and spread over their useful lives through depreciation. Expensing the full cost on payment is how the cash basis treats it.",
+   "concepts": [
+    "kt:accrual-accounting",
+    "kt:matching-principle"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/accrual-accounting.html"
+  },
+  {
+   "id": "bz-000003",
+   "area": "accounting-and-reporting",
+   "kind": "figure",
+   "topic": "Accrual Accounting",
+   "t": "The 2017 Tax Cuts and Jobs Act let most taxpayers under a $25 million average annual gross receipts test use the cash method.",
+   "f": "The 2017 Tax Cuts and Jobs Act let most taxpayers under a $50 million average annual gross receipts test use the cash method.",
+   "x": "The 2017 law raised the Sec. 448(c) gross receipts threshold for the cash method from $5 million to $25 million, widening who can skip accrual accounting for tax. $50 million was never the test.",
+   "concepts": [
+    "kt:accrual-accounting",
+    "kt:cash-basis-accounting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/accrual-accounting.html",
+   "asOf": "2017"
+  },
+  {
+   "id": "bz-000004",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "Agency Costs",
+   "t": "Michael Jensen and William Meckling formalized agency costs in a 1976 Journal of Financial Economics paper on the theory of the firm.",
+   "f": "Ronald Coase and Oliver Williamson formalized agency costs in a 1976 Journal of Financial Economics paper on the theory of the firm.",
+   "x": "Jensen and Meckling's 1976 'Theory of the Firm' paper defined agency costs and tied them to the separation of ownership and control. It also recast the firm as a nexus of contracts among individuals.",
+   "concepts": [
+    "kt:agency-costs",
+    "kt:michael-c-jensen",
+    "kt:william-h-meckling"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/agency-costs.html"
+  },
+  {
+   "id": "bz-000005",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Agency Costs",
+   "t": "Agency costs are the sum of the principal's monitoring costs, the agent's bonding costs and the residual loss that remains after both.",
+   "f": "Agency costs are the sum of the principal's monitoring costs, the agent's salary and the residual loss that remains after both.",
+   "x": "Jensen and Meckling split agency costs into monitoring (spent by the principal), bonding (spent by the agent to reassure the principal) and residual loss, the welfare still lost because the agent's choices differ. An agent's ordinary pay is not one of the three.",
+   "concepts": [
+    "kt:agency-costs",
+    "kt:principal-agent-problem"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/agency-costs.html"
+  },
+  {
+   "id": "bz-000006",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Agency Costs",
+   "t": "Jensen's 1986 free cash flow argument holds that debt can discipline managers by committing excess cash to creditors, much like paying dividends.",
+   "f": "Jensen's 1986 free cash flow argument holds that equity issues can discipline managers by committing excess cash to creditors, much like paying dividends.",
+   "x": "Jensen argued conflicts are worst where cash exceeds positive-NPV projects, and debt forces that cash out to lenders. He used this to explain 1980s takeovers and LBOs in cash-rich industries such as oil.",
+   "concepts": [
+    "kt:agency-costs",
+    "kt:free-cash-flow",
+    "kt:leveraged-buyout"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/agency-costs.html"
+  },
+  {
+   "id": "bz-000007",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Ford Model T",
+   "t": "By early 1914, Ford's moving assembly lines finished a Model T chassis every 93 minutes, versus about 12½ hours with stationary assembly.",
+   "f": "By early 1914, Ford's moving assembly lines finished a Model T chassis every 93 minutes, versus about 3 hours with stationary assembly.",
+   "x": "Moving the work to the worker, tried first on flywheel magnetos in 1913 and then the whole chassis, cut assembly time roughly eightfold. The savings funded price cuts that expanded demand.",
+   "concepts": [
+    "kt:ford-model-t",
+    "kt:mass-production"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ford-model-t.html"
+  },
+  {
+   "id": "bz-000008",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Ford Model T",
+   "t": "After Ford's 1914 five-dollar day, annual worker turnover fell from 370 percent in 1913 to 54 percent in 1914.",
+   "f": "After Ford's 1914 five-dollar day, annual worker turnover rose from 54 percent in 1913 to 370 percent in 1914.",
+   "x": "In 1913 Ford hired over 50,000 men to keep about 13,600 on the payroll. Raff and Summers found the near-doubled wage slashed turnover and absenteeism, which is why the case is classic evidence for efficiency-wage theory.",
+   "concepts": [
+    "kt:ford-model-t",
+    "kt:efficiency-wages"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ford-model-t.html"
+  },
+  {
+   "id": "bz-000009",
+   "area": "business-history-and-cases",
+   "kind": "application",
+   "topic": "Ford Model T",
+   "t": "In the 1920s General Motors overtook the Model T by offering annual model changes, trade-ins and installment buying.",
+   "f": "In the 1920s General Motors overtook the Model T by offering a single unchanging model at an ever-lower price.",
+   "x": "Ford bet on one nearly unchanged car built at huge volume; that was Ford's strategy, not GM's. Under Alfred Sloan, GM competed on variety and novelty, and Chevrolet was outselling the Model T by early 1927.",
+   "concepts": [
+    "kt:ford-model-t",
+    "kt:annual-model-change"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ford-model-t.html"
+  },
+  {
+   "id": "bz-000010",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Two-Sided Market",
+   "t": "Jean-Charles Rochet and Jean Tirole formalized two-sided markets in a 2003 paper whose model was built around the payment-card industry.",
+   "f": "Jean-Charles Rochet and Jean Tirole formalized two-sided markets in a 2003 paper whose model was built around the newspaper industry.",
+   "x": "Their 2003 Journal of the European Economic Association paper modelled how card platforms split prices between cardholders and merchants. Armstrong's 2006 paper later extended the analysis to competing platforms.",
+   "concepts": [
+    "kt:two-sided-market"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/two-sided-market.html"
+  },
+  {
+   "id": "bz-000011",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Two-Sided Market",
+   "t": "When one side of a two-sided market multi-homes, platforms compete hardest for the single-homing side and can charge the multi-homing side more.",
+   "f": "When one side of a two-sided market multi-homes, platforms compete hardest for the multi-homing side and can charge the single-homing side more.",
+   "x": "A single-homing user is reachable only through the platform it joins, so platforms fight for those users and then charge the other side for access to them. That is Armstrong's 'competitive bottleneck' result.",
+   "concepts": [
+    "kt:two-sided-market",
+    "kt:network-effect"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/two-sided-market.html"
+  },
+  {
+   "id": "bz-000012",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Two-Sided Market",
+   "t": "In Ohio v. American Express (2018), a 5–4 Supreme Court majority defined the card market to include both cardholders and merchants.",
+   "f": "In Ohio v. American Express (2018), a 5–4 Supreme Court majority defined the card market to include merchants only, not cardholders.",
+   "x": "The majority treated card networks as two-sided transaction platforms and found no proven net harm from Amex's anti-steering rules. Justice Breyer's dissent argued the two sides are complements and should not be merged into one market.",
+   "concepts": [
+    "kt:two-sided-market",
+    "kt:ohio-v-american-express"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/two-sided-market.html"
+  },
+  {
+   "id": "bz-000013",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "Benchmarking",
+   "t": "Benchmarking as a management method is credited to Robert C. Camp, who developed his ten-step process at Xerox.",
+   "f": "Benchmarking as a management method is credited to Robert C. Camp, who developed his ten-step process at General Electric.",
+   "x": "Camp's book laid out the ten steps he built at Xerox and tied them to Xerox's recovery after the late 1970s. L.L. Bean, IBM and Boeing were among the early adopters that followed.",
+   "concepts": [
+    "kt:benchmarking",
+    "kt:robert-c-camp",
+    "kt:xerox"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/benchmarking.html"
+  },
+  {
+   "id": "bz-000014",
+   "area": "consulting-and-problem-solving",
+   "kind": "definition",
+   "topic": "Benchmarking",
+   "t": "Functional benchmarking compares a function, such as logistics or billing, with firms in other industries that run similar processes.",
+   "f": "Functional benchmarking compares a function, such as logistics or billing, with similar units inside the same organization.",
+   "x": "Comparing similar units within one organization is internal benchmarking. Functional benchmarking looks outside the industry at firms that perform the same function well, which can surface bigger ideas but is harder to translate.",
+   "concepts": [
+    "kt:benchmarking"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/benchmarking.html"
+  },
+  {
+   "id": "bz-000015",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Benchmarking",
+   "t": "Michael Porter argued that heavy benchmarking makes rivals more alike, a process he called competitive convergence.",
+   "f": "Michael Porter argued that heavy benchmarking makes rivals more distinct, a process he called competitive divergence.",
+   "x": "Porter saw benchmarking as improving operational effectiveness, but because best practices spread and are easy to copy, it pushes firms toward sameness. A sustainable advantage needs a distinct strategic position instead.",
+   "concepts": [
+    "kt:benchmarking",
+    "kt:operational-effectiveness",
+    "kt:strategic-positioning"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/benchmarking.html"
+  },
+  {
+   "id": "bz-000016",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Economies of Scale",
+   "t": "If minimum average cost is reached only at a large share of market demand, an industry tends toward oligopoly.",
+   "f": "If minimum average cost is reached only at a small share of market demand, an industry tends toward oligopoly.",
+   "x": "Where the cost curve bottoms out relative to demand predicts how many efficient firms fit in the market. A small efficient size leaves room for many rivals; a large one supports only a few, and one bigger than demand points to a single producer.",
+   "concepts": [
+    "kt:economies-of-scale",
+    "kt:minimum-efficient-scale"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/economies-of-scale.html"
+  },
+  {
+   "id": "bz-000017",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Economies of Scale",
+   "t": "Diseconomies of scale arise mainly from coordination problems, as extra management layers and communication failures disrupt work.",
+   "f": "Diseconomies of scale arise mainly from spreading fixed costs over more units as output grows.",
+   "x": "Spreading fixed costs is a source of economies of scale, which lower unit cost. Diseconomies push average cost up as a firm grows, chiefly because coordinating a larger organization gets harder.",
+   "concepts": [
+    "kt:economies-of-scale"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/economies-of-scale.html"
+  },
+  {
+   "id": "bz-000018",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Economies of Scale",
+   "t": "Christensen and Greene's 1976 study found no significant scale economies for U.S. electricity generators above about 19 billion kWh a year.",
+   "f": "Christensen and Greene's 1976 study found scale economies kept growing for U.S. electricity generators well beyond 19 billion kWh a year.",
+   "x": "Their work is a classic sign that scale economies run out sooner than intuition suggests. Later studies questioned their data and assumptions, and a 2019 replication found returns to scale in U.S. generation declined from 1955 to 1996.",
+   "concepts": [
+    "kt:economies-of-scale",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/economies-of-scale.html"
+  },
+  {
+   "id": "bz-000019",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Modigliani-Miller Theorem",
+   "t": "Franco Modigliani and Merton Miller published their capital structure irrelevance result in the American Economic Review in 1958.",
+   "f": "Franco Modigliani and Merton Miller published their capital structure irrelevance result in the American Economic Review in 1972.",
+   "x": "Their June 1958 paper on the cost of capital launched modern corporate finance; follow-up essays came in 1963 and 1966. Modigliani won the Nobel prize in 1985 and Miller shared it in 1990.",
+   "concepts": [
+    "kt:modigliani-miller-theorem",
+    "kt:franco-modigliani",
+    "kt:merton-miller"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/modigliani-miller-theorem.html"
+  },
+  {
+   "id": "bz-000020",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Modigliani-Miller Theorem",
+   "t": "Under MM Proposition II, a levered firm's expected return on equity rises linearly with its debt-to-equity ratio.",
+   "f": "Under MM Proposition II, a levered firm's expected return on equity falls linearly as its debt-to-equity ratio rises.",
+   "x": "Adding debt makes the remaining equity riskier, so shareholders demand more. The higher cost of equity exactly offsets the cheaper debt, which is why the overall cost of capital stays the same.",
+   "concepts": [
+    "kt:modigliani-miller-theorem",
+    "kt:capital-structure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/modigliani-miller-theorem.html"
+  },
+  {
+   "id": "bz-000021",
+   "area": "corporate-finance",
+   "kind": "application",
+   "topic": "Modigliani-Miller Theorem",
+   "t": "MM implies that a debt-funded recapitalization adds value only through a friction such as a tax shield or lower agency costs, not through leverage itself.",
+   "f": "MM implies that a debt-funded recapitalization adds value through leverage itself, because debt is cheaper than equity.",
+   "x": "In MM's frictionless world, investors can create leverage themselves, so they won't pay a premium for a firm doing it. Practitioners use the theorem to demand that any value claim name the imperfection responsible, such as taxes, distress costs or agency effects.",
+   "concepts": [
+    "kt:modigliani-miller-theorem",
+    "kt:leveraged-buyout"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/modigliani-miller-theorem.html"
+  },
+  {
+   "id": "bz-000022",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Federal Acquisition Regulation",
+   "t": "Under the FAR, only warranted contracting officers may sign contracts for the government, and only within their written limits.",
+   "f": "Under the FAR, any agency program manager may sign contracts for the government, as long as funds are available.",
+   "x": "Contracting authority is personal and delegated through a written warrant, and a contracting officer can bind the government only within those limits. Program managers shape requirements but cannot obligate the government.",
+   "concepts": [
+    "kt:federal-acquisition-regulation",
+    "kt:contracting-officer"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/federal-acquisition-regulation.html"
+  },
+  {
+   "id": "bz-000023",
+   "area": "government-contracting-and-public-sector",
+   "kind": "definition",
+   "topic": "Federal Acquisition Regulation",
+   "t": "FAR Parts 52 and 53 hold the standard solicitation provisions, contract clauses and forms that get written into actual contracts.",
+   "f": "FAR Parts 1 and 2 hold the standard solicitation provisions, contract clauses and forms that get written into actual contracts.",
+   "x": "The FAR has 53 parts: Parts 1-51 set policy across the acquisition life cycle, while Parts 52 and 53 supply the clauses and forms. Parts 1 and 2 cover the FAR system itself and definitions.",
+   "concepts": [
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/federal-acquisition-regulation.html"
+  },
+  {
+   "id": "bz-000024",
+   "area": "government-contracting-and-public-sector",
+   "kind": "figure",
+   "topic": "Federal Acquisition Regulation",
+   "t": "GAO reported that the U.S. government committed about $793 billion on contracts in FY 2025.",
+   "f": "GAO reported that the U.S. government committed about $293 billion on contracts in FY 2025.",
+   "x": "GAO's May 2026 report put FY 2025 contract commitments near $793 billion, roughly $17.8 billion above FY 2024 after inflation. The figure shows why FAR rules shape the strategy of so many firms.",
+   "concepts": [
+    "kt:federal-acquisition-regulation",
+    "kt:public-procurement"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/federal-acquisition-regulation.html",
+   "asOf": "FY 2025"
+  },
+  {
+   "id": "bz-000025",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "definition",
+   "topic": "Disruptive Innovation",
+   "t": "In new-market disruption, an entrant first serves people who previously did without the product, as early personal computers did.",
+   "f": "In new-market disruption, an entrant first takes the least profitable customers of an existing market, as early personal computers did.",
+   "x": "Taking an incumbent's least profitable customers is low-end disruption, the path of steel minimills and discount retailers. New-market disruption competes against non-consumption, as PCs and Sony's pocket radios did.",
+   "concepts": [
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/disruptive-innovation.html"
+  },
+  {
+   "id": "bz-000026",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Disruptive Innovation",
+   "t": "Christensen built disruptive innovation theory from evidence in the rigid disk-drive industry.",
+   "f": "Christensen built disruptive innovation theory from evidence in the semiconductor chip industry.",
+   "x": "In disk drives, incumbents led on capacity improvements their customers wanted, but entrants won each shift to smaller, initially weaker drives. That pattern became The Innovator's Dilemma (1997).",
+   "concepts": [
+    "kt:disruptive-innovation",
+    "kt:clayton-christensen",
+    "kt:innovators-dilemma"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/disruptive-innovation.html"
+  },
+  {
+   "id": "bz-000027",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Disruptive Innovation",
+   "t": "A 2015 study by King and Baatartogtokh found only 9% of 77 cited disruption cases met all four core conditions they tested.",
+   "f": "A 2015 study by King and Baatartogtokh found 90% of 77 cited disruption cases met all four core conditions they tested.",
+   "x": "Their experts judged most of Christensen and Raynor's example cases a poor fit, though the authors suggested blending the theory with classic strategy rather than discarding it. Defenders replied that the theory has more than four elements.",
+   "concepts": [
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/disruptive-innovation.html"
+  },
+  {
+   "id": "bz-000028",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Balanced Scorecard",
+   "t": "The balanced scorecard's four perspectives are financial, customer, internal business process, and learning and growth.",
+   "f": "The balanced scorecard's four perspectives are financial, customer, competitor, and learning and growth.",
+   "x": "Kaplan and Norton paired financial outcome measures with three perspectives that drive future results: customers, internal processes, and learning and growth. Competitors are not one of the four lenses.",
+   "concepts": [
+    "kt:balanced-scorecard"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/balanced-scorecard.html"
+  },
+  {
+   "id": "bz-000029",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Balanced Scorecard",
+   "t": "A key spur for the balanced scorecard was Analog Devices, whose quality measures all improved while its stock price fell by nearly 70%.",
+   "f": "A key spur for the balanced scorecard was Analog Devices, whose quality measures all worsened while its stock price rose by nearly 70%.",
+   "x": "Arthur Schneiderman showed the paradox at a 1990 project meeting: operational gains never linked to customer or financial outcomes didn't protect shareholder value. Kaplan and Norton published the scorecard in HBR in 1992.",
+   "concepts": [
+    "kt:balanced-scorecard",
+    "kt:analog-devices"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/balanced-scorecard.html"
+  },
+  {
+   "id": "bz-000030",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Balanced Scorecard",
+   "t": "In a 2003 study of a bank's scorecard bonus plan, supervisors put more weight on financial measures, and the bank eventually dropped the scorecard.",
+   "f": "In a 2003 study of a bank's scorecard bonus plan, supervisors put more weight on nonfinancial measures, and the bank expanded the scorecard firm-wide.",
+   "x": "Ittner, Larcker and Meyer found supervisors favoured financial measures and used subjectivity to add or ignore others, prompting complaints of favouritism. It shows the risk of tying pay to an unweighted set of measures.",
+   "concepts": [
+    "kt:balanced-scorecard",
+    "kt:performance-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/balanced-scorecard.html"
+  },
+  {
+   "id": "bz-000031",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Segmentation, Targeting and Positioning",
+   "t": "Market segmentation is usually traced to Wendell Smith's 1956 Journal of Marketing article on differentiation and segmentation.",
+   "f": "Market segmentation is usually traced to Al Ries and Jack Trout's 1956 Journal of Marketing article on differentiation and segmentation.",
+   "x": "Wendell R. Smith argued in 1956 that products find their best markets by recognising differences between segments. Ries and Trout contributed positioning, first published in 1969 and popularised in the 1970s and 1980s.",
+   "concepts": [
+    "kt:segmentation-targeting-positioning",
+    "kt:market-segmentation-1956"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/segmentation-targeting-positioning.html"
+  },
+  {
+   "id": "bz-000032",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Segmentation, Targeting and Positioning",
+   "t": "Good segmentation bases explain differences in how customers buy or use a product; demographics mostly serve as descriptors to find and reach segments.",
+   "f": "Good segmentation bases are demographics such as age and sex; buying and usage behavior mostly serve as descriptors to find and reach segments.",
+   "x": "Wind and Bell separate bases, which should predict response to marketing (usage, benefits sought, price sensitivity), from descriptors used to locate those customers. Age or sex alone often predicts response poorly.",
+   "concepts": [
+    "kt:segmentation-targeting-positioning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/segmentation-targeting-positioning.html"
+  },
+  {
+   "id": "bz-000033",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Segmentation, Targeting and Positioning",
+   "t": "Yankelovich and Meer argued in 2006 that firms should keep segmentations for building brand identity separate from those for choosing markets and products.",
+   "f": "Yankelovich and Meer argued in 2006 that firms should use one psychographic segmentation for both building brand identity and choosing markets and products.",
+   "x": "They found demographic and psychographic segments, often reduced to ad personas, predicted purchases poorly. Their fix was to use different segmentations for different decisions rather than one for everything.",
+   "concepts": [
+    "kt:segmentation-targeting-positioning",
+    "kt:brand-equity"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/segmentation-targeting-positioning.html"
+  },
+  {
+   "id": "bz-000034",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Kanban",
+   "t": "Taiichi Ohno modelled Toyota's kanban system on American supermarkets, where shelves were refilled as customers took only what they needed.",
+   "f": "Taiichi Ohno modelled Toyota's kanban system on Ford's assembly lines, where shelves were refilled as workers took only what they needed.",
+   "x": "Ohno went to the U.S. to study Ford's mass production but took his key idea from supermarkets, where restocking matched what was taken. That pull logic is the heart of kanban.",
+   "concepts": [
+    "kt:kanban",
+    "kt:taiichi-ohno"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kanban.html"
+  },
+  {
+   "id": "bz-000035",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Kanban",
+   "t": "In a two-card kanban system, a withdrawal kanban lets the downstream stage take parts, and a production kanban authorizes upstream to replace them.",
+   "f": "In a two-card kanban system, a production kanban lets the downstream stage take parts, and a withdrawal kanban authorizes upstream to replace them.",
+   "x": "Withdrawal (transport) cards control how much moves downstream; production cards tell the upstream process to make exactly what was removed. Together they pull material through the line and cap work in process.",
+   "concepts": [
+    "kt:kanban",
+    "kt:just-in-time"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kanban.html"
+  },
+  {
+   "id": "bz-000036",
+   "area": "operations-and-supply-chain",
+   "kind": "definition",
+   "topic": "Kanban",
+   "t": "Kanban is a pull system driven by actual consumption, in contrast to the forecast-driven push logic of material requirements planning.",
+   "f": "Kanban is a push system driven by a forecast schedule, much like the forecast-driven logic of material requirements planning.",
+   "x": "Kanban orders replacement parts only as parts are used, so production follows real demand. MRP pushes work through the plant from a forecast-based plan; single-card kanban systems sit between the two.",
+   "concepts": [
+    "kt:kanban",
+    "kt:material-requirements-planning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kanban.html"
+  },
+  {
+   "id": "bz-000037",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Barriers to Entry",
+   "t": "George Stigler defined an entry barrier narrowly as a cost that entrants must bear but incumbents did not.",
+   "f": "Joe Bain defined an entry barrier narrowly as a cost that entrants must bear but incumbents did not.",
+   "x": "Bain (1956) used the broad test: anything letting incumbents keep above-normal profits without attracting entry. Stigler (1968) narrowed it to cost asymmetries, so scale economies available to all firms wouldn't count.",
+   "concepts": [
+    "kt:barriers-to-entry",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/barriers-to-entry.html"
+  },
+  {
+   "id": "bz-000038",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "Barriers to Entry",
+   "t": "Sunk costs deter entry because an incumbent can ignore money already sunk when pricing, while an entrant must still commit it.",
+   "f": "Sunk costs deter entry because an entrant can ignore money already sunk when pricing, while an incumbent must still commit it.",
+   "x": "The asymmetry means an entrant usually needs to be considerably more efficient than the incumbent to enter profitably. In contestability theory, scale economies deter entry only when combined with sunk costs.",
+   "concepts": [
+    "kt:barriers-to-entry",
+    "kt:contestable-markets"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/barriers-to-entry.html"
+  },
+  {
+   "id": "bz-000039",
+   "area": "strategy",
+   "kind": "application",
+   "topic": "Barriers to Entry",
+   "t": "Under the 2023 DOJ and FTC Merger Guidelines, merging firms citing new entry must show it would be timely, likely and sufficient.",
+   "f": "Under the 2023 DOJ and FTC Merger Guidelines, merging firms citing new entry need only show that some entry is possible.",
+   "x": "Regulators ask not whether a barrier exists in the abstract but whether entry would actually restore competition. A history of absent or failed entry signals that entry will be slow or difficult.",
+   "concepts": [
+    "kt:barriers-to-entry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/barriers-to-entry.html"
+  },
+  {
+   "id": "bz-000040",
+   "area": "organizational-behavior",
+   "kind": "definition",
+   "topic": "Psychological Safety",
+   "t": "Psychological safety differs from group cohesiveness, which can suppress disagreement the way groupthink describes.",
+   "f": "Psychological safety is essentially group cohesiveness, which reliably encourages disagreement and dissent.",
+   "x": "Edmondson separated the two: a cohesive team may feel comfortable yet discourage dissent. Psychological safety is defined by the freedom to dissent, admit errors and challenge plans without punishment.",
+   "concepts": [
+    "kt:psychological-safety",
+    "kt:groupthink"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/psychological-safety.html"
+  },
+  {
+   "id": "bz-000041",
+   "area": "organizational-behavior",
+   "kind": "application",
+   "topic": "Psychological Safety",
+   "t": "Google's Project Aristotle ranked psychological safety first among five dynamics of effective teams, ahead of dependability.",
+   "f": "Google's Project Aristotle ranked dependability first among five dynamics of effective teams, ahead of psychological safety.",
+   "x": "Studying 180 teams, Google put psychological safety at the top, followed by dependability, structure and clarity, meaning, and impact. It adopted Edmondson's definition directly.",
+   "concepts": [
+    "kt:psychological-safety",
+    "kt:google-project-aristotle"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/psychological-safety.html"
+  },
+  {
+   "id": "bz-000042",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Psychological Safety",
+   "t": "A 2017 meta-analysis found psychological safety correlated far more with subjectively rated performance than with objective performance.",
+   "f": "A 2017 meta-analysis found psychological safety correlated far more with objective performance than with subjectively rated performance.",
+   "x": "Frazier and colleagues found a correlation of .40 with subjective ratings but only .07 with objective measures. Single-source, single-time designs also inflated effects, so causal claims stay weak.",
+   "concepts": [
+    "kt:psychological-safety"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/psychological-safety.html"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+id: bz-000030
+area: leadership-and-management
+kind: evidence
+topic: Balanced Scorecard
+topic_type: Framework
+true_statement: In a 2003 study of a bank's scorecard bonus plan, supervisors put more weight on financial measures, and the bank eventually dropped the scorecard.
+false_statement: In a 2003 study of a bank's scorecard bonus plan, supervisors put more weight on nonfinancial measures, and the bank expanded the scorecard firm-wide.
+explanation: Ittner, Larcker and Meyer found supervisors favoured financial measures and used subjectivity to add or ignore others, prompting complaints of favouritism. It shows the risk of tying pay to an unweighted set of measures.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/balanced-scorecard.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 4cdf4c7c11420c6dcc1969039eaf8badbf945d5c
+concepts:
+- kt:balanced-scorecard
+- kt:performance-management
+difficulty: 3
+created: '2026-11-16'
+status: active

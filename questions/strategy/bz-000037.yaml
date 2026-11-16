@@ -1,0 +1,19 @@
+id: bz-000037
+area: strategy
+kind: origin
+topic: Barriers to Entry
+topic_type: Concept
+true_statement: George Stigler defined an entry barrier narrowly as a cost that entrants must bear but incumbents did not.
+false_statement: Joe Bain defined an entry barrier narrowly as a cost that entrants must bear but incumbents did not.
+explanation: 'Bain (1956) used the broad test: anything letting incumbents keep above-normal profits without attracting entry. Stigler (1968) narrowed it to cost asymmetries, so scale economies available to all firms wouldn''t count.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/barriers-to-entry.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 5aee210bc0a9d0b8bcaf0f562f74cabad7a1941f
+concepts:
+- kt:barriers-to-entry
+- kt:industrial-organization
+difficulty: 3
+created: '2026-11-16'
+status: active

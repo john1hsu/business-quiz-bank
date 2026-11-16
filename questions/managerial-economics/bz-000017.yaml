@@ -1,0 +1,18 @@
+id: bz-000017
+area: managerial-economics
+kind: mechanism
+topic: Economies of Scale
+topic_type: Concept
+true_statement: Diseconomies of scale arise mainly from coordination problems, as extra management layers and communication failures disrupt work.
+false_statement: Diseconomies of scale arise mainly from spreading fixed costs over more units as output grows.
+explanation: Spreading fixed costs is a source of economies of scale, which lower unit cost. Diseconomies push average cost up as a firm grows, chiefly because coordinating a larger organization gets harder.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/economies-of-scale.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: e6095527be6c8a165e1ba01b639f038a5141a4dd
+concepts:
+- kt:economies-of-scale
+difficulty: 1
+created: '2026-11-16'
+status: active

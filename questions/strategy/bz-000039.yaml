@@ -1,0 +1,18 @@
+id: bz-000039
+area: strategy
+kind: application
+topic: Barriers to Entry
+topic_type: Concept
+true_statement: Under the 2023 DOJ and FTC Merger Guidelines, merging firms citing new entry must show it would be timely, likely and sufficient.
+false_statement: Under the 2023 DOJ and FTC Merger Guidelines, merging firms citing new entry need only show that some entry is possible.
+explanation: Regulators ask not whether a barrier exists in the abstract but whether entry would actually restore competition. A history of absent or failed entry signals that entry will be slow or difficult.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/barriers-to-entry.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 5aee210bc0a9d0b8bcaf0f562f74cabad7a1941f
+concepts:
+- kt:barriers-to-entry
+difficulty: 2
+created: '2026-11-16'
+status: active

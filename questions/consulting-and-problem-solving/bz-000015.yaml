@@ -1,0 +1,20 @@
+id: bz-000015
+area: consulting-and-problem-solving
+kind: evidence
+topic: Benchmarking
+topic_type: Practice
+true_statement: Michael Porter argued that heavy benchmarking makes rivals more alike, a process he called competitive convergence.
+false_statement: Michael Porter argued that heavy benchmarking makes rivals more distinct, a process he called competitive divergence.
+explanation: Porter saw benchmarking as improving operational effectiveness, but because best practices spread and are easy to copy, it pushes firms toward sameness. A sustainable advantage needs a distinct strategic position instead.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/benchmarking.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: cb9c6d7ef75850a86190292651438129ec1ff099
+concepts:
+- kt:benchmarking
+- kt:operational-effectiveness
+- kt:strategic-positioning
+difficulty: 3
+created: '2026-11-16'
+status: active

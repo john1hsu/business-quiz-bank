@@ -1,0 +1,18 @@
+id: bz-000028
+area: leadership-and-management
+kind: definition
+topic: Balanced Scorecard
+topic_type: Framework
+true_statement: The balanced scorecard's four perspectives are financial, customer, internal business process, and learning and growth.
+false_statement: The balanced scorecard's four perspectives are financial, customer, competitor, and learning and growth.
+explanation: 'Kaplan and Norton paired financial outcome measures with three perspectives that drive future results: customers, internal processes, and learning and growth. Competitors are not one of the four lenses.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/balanced-scorecard.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 4cdf4c7c11420c6dcc1969039eaf8badbf945d5c
+concepts:
+- kt:balanced-scorecard
+difficulty: 1
+created: '2026-11-16'
+status: active

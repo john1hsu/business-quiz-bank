@@ -1,0 +1,19 @@
+id: bz-000002
+area: accounting-and-reporting
+kind: mechanism
+topic: Accrual Accounting
+topic_type: Concept
+true_statement: Under accrual accounting, a major equipment purchase is capitalized and depreciated over its useful life rather than expensed when paid for.
+false_statement: Under accrual accounting, a major equipment purchase is expensed in full in the period it is paid for rather than depreciated over its useful life.
+explanation: Because the matching principle ties expenses to the periods they help earn revenue, long-lived assets are capitalized and spread over their useful lives through depreciation. Expensing the full cost on payment is how the cash basis treats it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/accrual-accounting.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 60a5c5958bacf6343d5030d3dc497bf63d01b3ca
+concepts:
+- kt:accrual-accounting
+- kt:matching-principle
+difficulty: 2
+created: '2026-11-16'
+status: active

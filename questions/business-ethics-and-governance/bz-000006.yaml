@@ -1,0 +1,20 @@
+id: bz-000006
+area: business-ethics-and-governance
+kind: application
+topic: Agency Costs
+topic_type: Concept
+true_statement: Jensen's 1986 free cash flow argument holds that debt can discipline managers by committing excess cash to creditors, much like paying dividends.
+false_statement: Jensen's 1986 free cash flow argument holds that equity issues can discipline managers by committing excess cash to creditors, much like paying dividends.
+explanation: Jensen argued conflicts are worst where cash exceeds positive-NPV projects, and debt forces that cash out to lenders. He used this to explain 1980s takeovers and LBOs in cash-rich industries such as oil.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/agency-costs.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: f1785cb3734f029d38307d215eee029008e81e4d
+concepts:
+- kt:agency-costs
+- kt:free-cash-flow
+- kt:leveraged-buyout
+difficulty: 2
+created: '2026-11-16'
+status: active

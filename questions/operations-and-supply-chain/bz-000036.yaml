@@ -1,0 +1,19 @@
+id: bz-000036
+area: operations-and-supply-chain
+kind: definition
+topic: Kanban
+topic_type: Practice
+true_statement: Kanban is a pull system driven by actual consumption, in contrast to the forecast-driven push logic of material requirements planning.
+false_statement: Kanban is a push system driven by a forecast schedule, much like the forecast-driven logic of material requirements planning.
+explanation: Kanban orders replacement parts only as parts are used, so production follows real demand. MRP pushes work through the plant from a forecast-based plan; single-card kanban systems sit between the two.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/kanban.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 9a42d24f591f053e6a5ae448e053d3535efd5d77
+concepts:
+- kt:kanban
+- kt:material-requirements-planning
+difficulty: 2
+created: '2026-11-16'
+status: active

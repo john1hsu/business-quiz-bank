@@ -1,0 +1,19 @@
+id: bz-000021
+area: corporate-finance
+kind: application
+topic: Modigliani-Miller Theorem
+topic_type: Theory
+true_statement: MM implies that a debt-funded recapitalization adds value only through a friction such as a tax shield or lower agency costs, not through leverage itself.
+false_statement: MM implies that a debt-funded recapitalization adds value through leverage itself, because debt is cheaper than equity.
+explanation: In MM's frictionless world, investors can create leverage themselves, so they won't pay a premium for a firm doing it. Practitioners use the theorem to demand that any value claim name the imperfection responsible, such as taxes, distress costs or agency effects.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/modigliani-miller-theorem.md
+  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
+  blob: 5eb36c79675f82c9a36216a5986b4adaec42d7a8
+concepts:
+- kt:modigliani-miller-theorem
+- kt:leveraged-buyout
+difficulty: 3
+created: '2026-11-16'
+status: active
