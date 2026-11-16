@@ -19,8 +19,8 @@ There are no answer or next buttons. New users get quiet hints that fade away on
 
 Built for learning, not just scoring:
 
-- **Learn why.** After each answer the question is replaced by a green check or a red ✗, the topic it came from (for example *Porter's Five Forces · Strategy · Who and when*) and an explanation of why it's true or false.
-- **Read the topic.** Tap the topic, or the book icon on the right, to open the full cited article on the [business-knowledge-graph website](https://john1hsu.github.io/business-knowledge-graph/).
+- **Learn why.** After each answer the question is replaced by a green check or a red ✗ and an explanation of why it's true or false.
+- **Read the topic.** Tap the book icon on the right to open the full cited article on the [business-knowledge-graph website](https://john1hsu.github.io/business-knowledge-graph/).
 - **Missed.** Questions you get wrong go into a Missed feed until you answer them right, so you can review your gaps.
 - **Learn a topic from every side.** Each question has a type: *What it is*, *Who and when*, *How it works*, *Evidence and critiques*, *In practice*, or *Numbers and dates*. Tap the filter chip to drill one type or one business area, switch to Missed or Saved, and see today's score and your best streak.
 

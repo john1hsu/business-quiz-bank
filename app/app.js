@@ -2,8 +2,8 @@
    One question per full-screen slide. Swipe right = true, left = false, up = next.
    One way only: the next question appears once you've answered this one, and
    the question you leave is removed, so you can't skip ahead or go back. Double-tap saves a question. The feed never ends: questions are drawn completely
-   at random (no weighting), each one once before any repeats. After each answer you see the topic
-   it came from and why, and can tap through to the full article. Questions you miss are kept in
+   at random (no weighting), each one once before any repeats. After each answer you see why, and
+   the source icon opens the full article. Questions you miss are kept in
    a Missed feed until you get them right. Everything stays on this device. */
 (() => {
   "use strict";
@@ -156,11 +156,6 @@
     node.querySelector(".q").setAttribute("aria-label", `${areaName(q.area)}, ${kindName(q.kind)}, ${DIFFICULTY[q.difficulty] || "MBA core"}`);
     node.querySelector(".q-text").textContent = item.showsTrue ? q.t : q.f;
     node.querySelector(".act-source").href = q.source;
-    const topic = node.querySelector(".topic");
-    topic.href = q.source;
-    topic.setAttribute("aria-label", `Read about ${q.topic}`);
-    topic.querySelector(".topic-name").textContent = q.topic;
-    topic.querySelector(".topic-kind").textContent = `${areaName(q.area)} · ${kindName(q.kind)}`;
     syncSaveButton(item);
     return item;
   }
