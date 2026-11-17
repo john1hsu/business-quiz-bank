@@ -1,0 +1,19 @@
+id: bz-000083
+area: strategy
+kind: evidence
+topic: Dynamic Capabilities
+topic_type: Theory
+true_statement: Eisenhardt and Martin (2000) argued dynamic capabilities share common features across firms, making them more substitutable and closer to best practice than Teece implied.
+false_statement: Eisenhardt and Martin (2000) argued dynamic capabilities are unique to each firm, making them less substitutable and further from best practice than Teece implied.
+explanation: They treated dynamic capabilities as identifiable processes like product development and alliancing. Teece holds that widely known best practices are not dynamic capabilities because rivals can copy them, so this firm-specific versus best-practice dispute remains a core tension.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/dynamic-capabilities.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 90daaf97c5c3c8c6ac7a62dc9493600c14768929
+concepts:
+- kt:dynamic-capabilities
+- kt:resource-based-view
+difficulty: 3
+created: '2026-11-17'
+status: active

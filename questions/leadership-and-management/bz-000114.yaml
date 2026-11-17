@@ -1,0 +1,18 @@
+id: bz-000114
+area: leadership-and-management
+kind: evidence
+topic: Hoshin Kanri
+topic_type: Practice
+true_statement: Witcher notes that hoshin kanri is nearly absent from mainstream strategy texts, partly because outsiders see it as mechanistic and tool-heavy.
+false_statement: Witcher notes that hoshin kanri dominates mainstream strategy texts, partly because insiders see it as flexible and light on tools.
+explanation: Its literature sits mainly in quality and operations management. Its inside-out, process-driven logic also fits awkwardly with market-positioning views of strategy, which dominate strategy textbooks.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/hoshin-kanri.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ef676d1f8a0d7df5276d5103b8e59c5151e3dbd7
+concepts:
+- kt:hoshin-kanri
+difficulty: 3
+created: '2026-11-17'
+status: active

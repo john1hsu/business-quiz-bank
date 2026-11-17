@@ -1,0 +1,19 @@
+id: bz-000098
+area: business-history-and-cases
+kind: mechanism
+topic: Intel
+topic_type: Company
+true_statement: Intel regained manufacturing parity with Japanese chipmakers by the early 1990s by adopting Japanese production methods and standardizing its factories.
+false_statement: Intel regained manufacturing parity with Japanese chipmakers by the early 1990s by outsourcing wafer fabrication to Japanese partners.
+explanation: Lécuyer shows that after 1985 management treated manufacturing weakness as a survival threat. Engineers adopted Japanese routines, put fabrication on a more scientific footing and improved transfer from development to production, a reform that took most of a decade.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/intel.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 35ca143b94585f815b98b2ef9401317200cb8505
+concepts:
+- kt:intel
+- kt:semiconductor-industry
+difficulty: 2
+created: '2026-11-17'
+status: active

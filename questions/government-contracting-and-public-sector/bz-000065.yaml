@@ -1,0 +1,19 @@
+id: bz-000065
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: Best-Value Tradeoff
+topic_type: Practice
+true_statement: A tradeoff award decision must document the business judgments behind it, including benefits tied to extra cost, but the tradeoffs need not be quantified.
+false_statement: A tradeoff award decision must quantify the dollar value of every tradeoff, but the business judgments behind it need not be documented.
+explanation: Because the method rests on subjective judgment, the written rationale is what protects the award. Protests of tradeoff awards usually turn on whether the record explains why a rival's advantages were or were not worth the price.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/best-value-tradeoff.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 1a905e8f9b1f37ffff8fadb909c7c8ff4a85124c
+concepts:
+- kt:best-value-tradeoff
+- kt:bid-protest
+difficulty: 2
+created: '2026-11-17'
+status: active

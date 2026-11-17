@@ -1,0 +1,20 @@
+id: bz-000129
+area: business-ethics-and-governance
+kind: definition
+topic: ESG
+topic_type: Framework
+true_statement: Of the ISSB's June 2023 standards, IFRS S1 sets general sustainability disclosure requirements, while IFRS S2 adds climate-specific disclosures.
+false_statement: Of the ISSB's June 2023 standards, IFRS S2 sets general sustainability disclosure requirements, while IFRS S1 adds climate-specific disclosures.
+explanation: S1 covers sustainability-related risks and opportunities over the short, medium and long term, and S2 fully incorporates the TCFD recommendations. Both are built around investor decision-usefulness, like financial-reporting standards.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/esg.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 3dd60ffdc36cdeb2788ab2f580c01fadc4804f27
+concepts:
+- kt:esg
+- kt:ifrs-sustainability-disclosure-standards
+- kt:ifrs
+difficulty: 2
+created: '2026-11-17'
+status: active

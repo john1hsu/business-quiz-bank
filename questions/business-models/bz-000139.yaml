@@ -1,0 +1,19 @@
+id: bz-000139
+area: business-models
+kind: definition
+topic: Software as a Service
+topic_type: BusinessModel
+true_statement: In NIST's cloud models, PaaS customers deploy their own applications on the provider's platform, while IaaS customers rent raw computing, storage and networking.
+false_statement: In NIST's cloud models, IaaS customers deploy their own applications on the provider's platform, while PaaS customers rent raw computing, storage and networking.
+explanation: The three models differ by how much the customer controls. In SaaS it controls almost nothing beyond user settings, in PaaS it brings its own applications, and in IaaS it runs whatever software it likes on rented infrastructure.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/saas-business-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4cdf8a61409fc60d6b6d257c860c891373664c81
+concepts:
+- kt:saas-business-model
+- kt:cloud-computing
+difficulty: 1
+created: '2026-11-17'
+status: active

@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 42,
- "active": 42,
+ "count": 142,
+ "active": 142,
  "questions": [
   {
    "id": "bz-000001",
@@ -672,6 +672,1625 @@
    "difficulty": 3,
    "status": "active",
    "source": "https://john1hsu.github.io/business-knowledge-graph/articles/psychological-safety.html"
+  },
+  {
+   "id": "bz-000043",
+   "area": "accounting-and-reporting",
+   "kind": "definition",
+   "topic": "FASB Conceptual Framework",
+   "t": "FASB Concepts Statements are nonauthoritative: they guide the Board when it writes standards but do not themselves establish GAAP.",
+   "f": "FASB Concepts Statements are authoritative: they sit in the Codification and establish GAAP that preparers must apply directly.",
+   "x": "The framework explains why standards look the way they do, but companies apply the standards, not the concepts. ASU 2024-02 even stripped remaining references to the Concepts Statements out of the Codification to keep that line clear.",
+   "concepts": [
+    "kt:fasb-conceptual-framework",
+    "kt:gaap"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fasb-conceptual-framework.html"
+  },
+  {
+   "id": "bz-000044",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "FASB Conceptual Framework",
+   "t": "The FASB completed its rebuilt conceptual framework in July 2024 by issuing Chapter 6 of Concepts Statement No. 8, on measurement.",
+   "f": "The FASB completed its rebuilt conceptual framework in July 2024 by issuing Chapter 6 of Concepts Statement No. 8, on presentation.",
+   "x": "Measurement was the last piece of the project the Board reopened in 2014. Presentation was Chapter 7, issued earlier in December 2021 alongside Chapter 4 on the elements of financial statements.",
+   "concepts": [
+    "kt:fasb-conceptual-framework",
+    "kt:financial-accounting-standards-board"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fasb-conceptual-framework.html"
+  },
+  {
+   "id": "bz-000045",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "FASB Conceptual Framework",
+   "t": "The FASB framework treats investors, lenders and other creditors as primary users because they usually cannot demand information directly from the company.",
+   "f": "The FASB framework treats regulators and tax authorities as primary users because they usually cannot demand information directly from the company.",
+   "x": "Chapter 1 sets the objective of general purpose reporting as helping capital providers decide whether to supply resources. Regulators can compel information, so they do not depend on general purpose reports the way outside capital providers do.",
+   "concepts": [
+    "kt:fasb-conceptual-framework",
+    "kt:financial-accounting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fasb-conceptual-framework.html"
+  },
+  {
+   "id": "bz-000046",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Corporate Governance",
+   "t": "Bebchuk, Cohen and Ferrell found that six entrenchment provisions drive the negative link between weak shareholder rights and firm value; the other 18 showed no such link.",
+   "f": "Bebchuk, Cohen and Ferrell found that 18 routine provisions drive the negative link between weak shareholder rights and firm value; the six entrenchment ones showed no such link.",
+   "x": "They decomposed the 24-provision Governance Index and found that staggered boards, poison pills, golden parachutes and similar shields against removal do the damage. The practical lesson is that a long governance checklist can mislead when a few provisions matter most.",
+   "concepts": [
+    "kt:corporate-governance",
+    "kt:entrenchment-index"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-governance.html"
+  },
+  {
+   "id": "bz-000047",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "Corporate Governance",
+   "t": "The UK's 1992 Cadbury Report followed the 1991 collapses of BCCI and Maxwell, which strengthened the case for common standards of accountability.",
+   "f": "The UK's 1992 Cadbury Report followed the 2001 collapses of Enron and WorldCom, which strengthened the case for common standards of accountability.",
+   "x": "Cadbury is seen as the starting point of modern UK governance codes, and it was a reaction to British scandals of 1991. Enron and WorldCom came a decade later and shaped US reform instead.",
+   "concepts": [
+    "kt:corporate-governance",
+    "kt:cadbury-report"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-governance.html"
+  },
+  {
+   "id": "bz-000048",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Corporate Governance",
+   "t": "Shleifer and Vishny's 1997 governance survey organized the field around two forces: legal protection of investors and concentration of ownership.",
+   "f": "Shleifer and Vishny's 1997 governance survey organized the field around two forces: board independence and the structure of executive pay.",
+   "x": "Their comparative lens explained why governance looks so different across countries: where law protects outside investors poorly, concentrated owners step in to monitor managers. Board make-up and pay are internal mechanisms, not the two forces they emphasized.",
+   "concepts": [
+    "kt:corporate-governance"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-governance.html"
+  },
+  {
+   "id": "bz-000049",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Antitrust Law",
+   "t": "Under the Sherman Act, naked price fixing among competitors is illegal per se, while most other restraints are judged under the rule of reason.",
+   "f": "Under the Sherman Act, naked price fixing among competitors is judged under the rule of reason, while most other restraints are illegal per se.",
+   "x": "Since Standard Oil (1911), courts ban only unreasonable restraints. Price fixing, market division and bid rigging are treated as so harmful that no justification is heard, while other conduct is weighed for its procompetitive and anticompetitive effects.",
+   "concepts": [
+    "kt:antitrust-law",
+    "kt:sherman-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/antitrust-law.html"
+  },
+  {
+   "id": "bz-000050",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Antitrust Law",
+   "t": "The 1976 Hart-Scott-Rodino amendment to the Clayton Act requires parties to large mergers to notify the US government before closing.",
+   "f": "The 1936 Robinson-Patman amendment to the Clayton Act requires parties to large mergers to notify the US government before closing.",
+   "x": "Hart-Scott-Rodino created premerger notification so agencies can review big deals before they are done. Robinson-Patman is the earlier amendment, and it deals with price discrimination between merchants, not merger filings.",
+   "concepts": [
+    "kt:antitrust-law",
+    "kt:clayton-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/antitrust-law.html"
+  },
+  {
+   "id": "bz-000051",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Antitrust Law",
+   "t": "Lina Khan's 2017 Yale Law Journal note argued that antitrust's focus on short-term prices cannot see the structural power of platforms such as Amazon.",
+   "f": "Carl Shapiro's 2017 Yale Law Journal note argued that antitrust's focus on short-term prices cannot see the structural power of platforms such as Amazon.",
+   "x": "Khan argued a platform can rationally price below cost to win lock-in and data, so a price test misses the harm. Shapiro was the cautious counterpoint: he backed tougher merger review but warned against stretching antitrust to target political power or inequality.",
+   "concepts": [
+    "kt:antitrust-law",
+    "kt:network-effect"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/antitrust-law.html"
+  },
+  {
+   "id": "bz-000052",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "IBM Turnaround",
+   "t": "In 1993 Gerstner reversed IBM's move toward autonomous, spin-off-ready business units and kept the company whole as an integrated IT provider.",
+   "f": "In 1993 Gerstner accelerated IBM's move toward autonomous, spin-off-ready business units and broke the company into independent firms.",
+   "x": "He reasoned that customers needed someone to assemble systems from many vendors, and IBM's breadth suited that role. He later called keeping IBM together his most important decision.",
+   "concepts": [
+    "kt:ibm-turnaround",
+    "kt:louis-v-gerstner"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ibm-turnaround.html"
+  },
+  {
+   "id": "bz-000053",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "IBM Turnaround",
+   "t": "By 2001, services and software together made up 58% of IBM's revenue, reflecting its shift from selling boxes to selling solutions.",
+   "f": "By 2001, services and software together made up 18% of IBM's revenue, reflecting its shift from selling boxes to selling solutions.",
+   "x": "Services brought in about $35 billion and software about $13 billion in 2001. That mix shows how far IBM had moved from a mainframe-dependent model where over 90% of profit once came from mainframes.",
+   "concepts": [
+    "kt:ibm-turnaround"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ibm-turnaround.html",
+   "asOf": "2001"
+  },
+  {
+   "id": "bz-000054",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "IBM Turnaround",
+   "t": "Critics argue IBM's turnaround looks less impressive than Gerstner's memoir suggests, since a pension-plan change and large buybacks flattered results.",
+   "f": "Critics argue IBM's turnaround looks more impressive than Gerstner's memoir suggests, since a pension-plan change and large buybacks depressed results.",
+   "x": "The case leans heavily on insider accounts such as Who Says Elephants Can't Dance?. Skeptics add that shareholder-return figures look large partly because 1993 was such a low starting point.",
+   "concepts": [
+    "kt:ibm-turnaround",
+    "kt:corporate-turnaround"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ibm-turnaround.html"
+  },
+  {
+   "id": "bz-000055",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Freemium",
+   "t": "The word freemium was coined in 2006 by venture capitalist Fred Wilson together with Jarid Lukin, whom Wilson credited with proposing it.",
+   "f": "The word freemium was coined in 1996 by venture capitalist Fred Wilson together with Jarid Lukin, whom Wilson credited with proposing it.",
+   "x": "The term blends free and premium and dates from the mid-2000s web era of low-cost software distribution. Wilson popularized it but gave Lukin the credit for first suggesting the name.",
+   "concepts": [
+    "kt:freemium",
+    "kt:fred-wilson"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/freemium.html"
+  },
+  {
+   "id": "bz-000056",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Freemium",
+   "t": "In freemium, a very high free-to-premium conversion rate can signal that the free offer is not attracting enough users.",
+   "f": "In freemium, a very high free-to-premium conversion rate can signal that the free tier gives away too much.",
+   "x": "The conversion rate works as a diagnostic in both directions. A low rate suggests the premium tier adds too little or the free tier is too generous, while a very high rate suggests the free funnel is too narrow to build a large base.",
+   "concepts": [
+    "kt:freemium",
+    "kt:pricing-strategy"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/freemium.html"
+  },
+  {
+   "id": "bz-000057",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Freemium",
+   "t": "In a National Academies Press experiment, adding a premium e-book raised paperback revenue more than adding a premium hardback did.",
+   "f": "In a National Academies Press experiment, adding a premium hardback raised paperback revenue more than adding a premium e-book did.",
+   "x": "Gu, Kannan and Ma found gains of 21.5% with the e-book versus 8.9% with the hardback, which they put down to compromise and attraction effects. They also warned that a cheaper premium option can cannibalize the existing paid product.",
+   "concepts": [
+    "kt:freemium"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/freemium.html"
+  },
+  {
+   "id": "bz-000058",
+   "area": "consulting-and-problem-solving",
+   "kind": "definition",
+   "topic": "MECE Principle",
+   "t": "A breakdown that is not mutually exclusive double-counts, while one that is not collectively exhaustive leaves gaps.",
+   "f": "A breakdown that is not mutually exclusive leaves gaps, while one that is not collectively exhaustive double-counts.",
+   "x": "Mutually exclusive means no item overlaps another, so overlap is what causes double-counting. Collectively exhaustive means the items cover the whole, so missing coverage is what leaves gaps.",
+   "concepts": [
+    "kt:mece-principle",
+    "kt:mutually-exclusive-events"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mece-principle.html"
+  },
+  {
+   "id": "bz-000059",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "MECE Principle",
+   "t": "Barbara Minto coined the MECE acronym but attributes the underlying idea to Aristotle, claiming only its label and application to business writing.",
+   "f": "Barbara Minto coined the MECE acronym and claims the underlying idea as her own, rather than tracing it to an earlier thinker.",
+   "x": "Minto developed the rule while editing McKinsey reports and set it out in The Pyramid Principle (1985). She is explicit that the logic of exclusive, exhaustive groupings is ancient; her contribution was the shorthand and how she applied it.",
+   "concepts": [
+    "kt:mece-principle",
+    "kt:barbara-minto",
+    "kt:aristotle"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mece-principle.html"
+  },
+  {
+   "id": "bz-000060",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "MECE Principle",
+   "t": "Charles Conn recommends making two or three different MECE cuts of the same problem, because a MECE breakdown is not unique and each cut surfaces different insights.",
+   "f": "Charles Conn recommends settling on a single MECE cut of a problem, because a correct MECE breakdown is unique and other cuts only repeat it.",
+   "x": "Many valid partitions exist for the same whole, and each highlights different levers. That is one limit of MECE: being exclusive and exhaustive guarantees clean addition, not the most useful framing.",
+   "concepts": [
+    "kt:mece-principle",
+    "kt:issue-tree"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mece-principle.html"
+  },
+  {
+   "id": "bz-000061",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Leveraged Buyout",
+   "t": "In buyouts, governance engineering means installing smaller, more active boards and replacing underperforming executives quickly.",
+   "f": "In buyouts, operational engineering means installing smaller, more active boards and replacing underperforming executives quickly.",
+   "x": "Sponsors are said to add value through financial, governance and operational engineering. Board and executive changes are governance engineering; operational engineering, more prominent since the 2000s, means bringing industry and operating expertise to the business.",
+   "concepts": [
+    "kt:leveraged-buyout",
+    "kt:private-equity",
+    "kt:corporate-governance"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leveraged-buyout.html"
+  },
+  {
+   "id": "bz-000062",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Leveraged Buyout",
+   "t": "Kaplan's study of large 1980s management buyouts found capital spending fell and net cash flow rose in the three years after the deal.",
+   "f": "Kaplan's study of large 1980s management buyouts found capital spending rose and net cash flow fell in the three years after the deal.",
+   "x": "Across 76 buyouts from 1980 to 1986, operating income also rose and median market-adjusted value climbed 77%. Kaplan credited sharper incentives rather than layoffs or insiders exploiting shareholders.",
+   "concepts": [
+    "kt:leveraged-buyout"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leveraged-buyout.html"
+  },
+  {
+   "id": "bz-000063",
+   "area": "corporate-finance",
+   "kind": "application",
+   "topic": "Leveraged Buyout",
+   "t": "In the RJR Nabisco buyout, the roughly $10 billion premium paid to public shareholders shows that sellers can capture much of an LBO's gains when sponsors bid aggressively.",
+   "f": "In the RJR Nabisco buyout, the roughly $10 billion premium paid to public shareholders shows that sponsors keep most of an LBO's gains even when they bid aggressively.",
+   "x": "Value created by the buyout has to be split between the sellers and the sponsor. In KKR's 1988 deal, the bidding war pushed much of that value to RJR's public shareholders through the premium.",
+   "concepts": [
+    "kt:leveraged-buyout",
+    "kt:rjr-nabisco-buyout"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leveraged-buyout.html"
+  },
+  {
+   "id": "bz-000064",
+   "area": "government-contracting-and-public-sector",
+   "kind": "definition",
+   "topic": "Best-Value Tradeoff",
+   "t": "On the FAR's best value continuum, the tradeoff process lets an agency pay more for a better proposal, while LPTA forbids tradeoffs altogether.",
+   "f": "On the FAR's best value continuum, LPTA lets an agency pay more for a better proposal, while the tradeoff process forbids paying above the lowest price.",
+   "x": "Tradeoff sits at the judgment-heavy end: an agency can award to a pricier offeror if the benefits merit the extra cost. LPTA sits at the price-driven end: among proposals that meet the technical bar, the lowest price wins.",
+   "concepts": [
+    "kt:best-value-tradeoff",
+    "kt:lowest-price-technically-acceptable",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/best-value-tradeoff.html"
+  },
+  {
+   "id": "bz-000065",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Best-Value Tradeoff",
+   "t": "A tradeoff award decision must document the business judgments behind it, including benefits tied to extra cost, but the tradeoffs need not be quantified.",
+   "f": "A tradeoff award decision must quantify the dollar value of every tradeoff, but the business judgments behind it need not be documented.",
+   "x": "Because the method rests on subjective judgment, the written rationale is what protects the award. Protests of tradeoff awards usually turn on whether the record explains why a rival's advantages were or were not worth the price.",
+   "concepts": [
+    "kt:best-value-tradeoff",
+    "kt:bid-protest"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/best-value-tradeoff.html"
+  },
+  {
+   "id": "bz-000066",
+   "area": "government-contracting-and-public-sector",
+   "kind": "application",
+   "topic": "Best-Value Tradeoff",
+   "t": "In DRS Technical Services (2015), GAO denied the protest because the agency's record explained why DRS's technical strengths did not justify a premium of nearly $20 million.",
+   "f": "In DRS Technical Services (2015), GAO sustained the protest because the agency's record failed to explain why DRS's technical strengths did not justify a premium of nearly $20 million.",
+   "x": "DISA chose General Dynamics at about $132 million over the higher-rated DRS at about $152 million. GAO stressed that a selection official has broad discretion as long as the record explains the judgment.",
+   "concepts": [
+    "kt:best-value-tradeoff",
+    "kt:bid-protest"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/best-value-tradeoff.html"
+  },
+  {
+   "id": "bz-000067",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Organizational Ambidexterity",
+   "t": "James March's 1991 paper argued that adaptive processes tend to refine exploitation faster than exploration, which pays off short term but becomes self-destructive long term.",
+   "f": "James March's 1991 paper argued that adaptive processes tend to refine exploration faster than exploitation, which pays off short term but becomes self-destructive long term.",
+   "x": "Exploitation pays back sooner and more surely, so organizations drift toward it. March's point is that this bias starves the search for new possibilities, the trade-off that ambidexterity later tried to solve.",
+   "concepts": [
+    "kt:organizational-ambidexterity",
+    "kt:exploration-and-exploitation-in-organizational-learning-1991",
+    "kt:organizational-learning"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-ambidexterity.html"
+  },
+  {
+   "id": "bz-000068",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Organizational Ambidexterity",
+   "t": "In contextual ambidexterity, leaders build a context of discipline, stretch, support and trust, and individuals decide how to split time between alignment and adaptation.",
+   "f": "In contextual ambidexterity, leaders assign exploration and exploitation to separate units, each with its own metrics, and integrate them at the senior-team level.",
+   "x": "Gibson and Birkinshaw proposed the contextual route as a complement to structural separation, which can isolate new-business groups from the core. Separate units linked at the top describe O'Reilly and Tushman's structural ambidexterity instead.",
+   "concepts": [
+    "kt:organizational-ambidexterity"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-ambidexterity.html"
+  },
+  {
+   "id": "bz-000069",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "Organizational Ambidexterity",
+   "t": "Fujifilm began repositioning around 2000, when global film sales peaked, using film-related capabilities to enter cosmetics and pharmaceuticals, while Kodak stayed focused on film.",
+   "f": "Kodak began repositioning around 2000, when global film sales peaked, using film-related capabilities to enter cosmetics and pharmaceuticals, while Fujifilm stayed focused on film.",
+   "x": "The two firms had comparable technologies, yet Fujifilm grew into new businesses and Kodak went bankrupt in 2012. The contrast supports the view that incumbents fail through leadership and design, not missing technology.",
+   "concepts": [
+    "kt:organizational-ambidexterity",
+    "kt:kodak-decline"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-ambidexterity.html"
+  },
+  {
+   "id": "bz-000070",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Objectives and Key Results (OKRs)",
+   "t": "Andy Grove adapted OKRs at Intel from Peter Drucker's management by objectives, shifting the cycle from an annual rhythm to a quarterly one.",
+   "f": "Andy Grove adapted OKRs at Intel from Peter Drucker's management by objectives, shifting the cycle from a quarterly rhythm to an annual one.",
+   "x": "Drucker's 1950s MBO ran annually and was often tied to pay. Grove's version linked each objective to verifiable key results and ran faster, quarterly, so goals could track a fast-moving chip business.",
+   "concepts": [
+    "kt:okrs",
+    "kt:andy-grove",
+    "kt:management-by-objectives"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/okrs.html"
+  },
+  {
+   "id": "bz-000071",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Objectives and Key Results (OKRs)",
+   "t": "In Google's OKR playbook, committed OKRs are expected to score 1.0, while aspirational OKRs are expected to average about 0.7.",
+   "f": "In Google's OKR playbook, aspirational OKRs are expected to score 1.0, while committed OKRs are expected to average about 0.7.",
+   "x": "Committed OKRs are promises, so a miss calls for an explanation and a blameless postmortem. Aspirational OKRs describe a future without a clear path yet, so partial scores are normal and they roll forward until done.",
+   "concepts": [
+    "kt:okrs",
+    "kt:google",
+    "kt:stretch-goals"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/okrs.html"
+  },
+  {
+   "id": "bz-000072",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Objectives and Key Results (OKRs)",
+   "t": "Ordóñez, Schweitzer, Galinsky and Bazerman argued in 2009 that specific, challenging goals can narrow focus and increase unethical behaviour, so they need careful dosing.",
+   "f": "Ordóñez, Schweitzer, Galinsky and Bazerman argued in 2009 that specific, challenging goals broaden focus and reduce unethical behaviour, so they need little oversight.",
+   "x": "They likened goals to prescription-strength medication whose side effects were overlooked, citing cases like the Ford Pinto. OKRs blunt part of this by decoupling goals from pay, but the narrow-focus risk remains.",
+   "concepts": [
+    "kt:okrs",
+    "kt:goal-setting-theory",
+    "kt:stretch-goals"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/okrs.html"
+  },
+  {
+   "id": "bz-000073",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Customer Lifetime Value",
+   "t": "With constant margins and an infinite horizon, CLV equals margin times r/(1 + i − r), a multiple of about 4 at 90% retention and a 12% discount rate.",
+   "f": "With constant margins and an infinite horizon, CLV equals margin times r/(1 + i − r), a multiple of about 9 at 90% retention and a 12% discount rate.",
+   "x": "Plugging in gives 0.9 / (1.12 − 0.9) = 0.9 / 0.22, or roughly 4.1. The 9 confuses the retention rate with the multiple; discounting and the chance of defection both shrink the value of future margins.",
+   "concepts": [
+    "kt:customer-lifetime-value",
+    "kt:discounted-cash-flow"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-lifetime-value.html"
+  },
+  {
+   "id": "bz-000074",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Customer Lifetime Value",
+   "t": "Reinartz and Kumar found long-standing customers were often not the most profitable, since they frequently paid less and were not cheaper to serve.",
+   "f": "Reinartz and Kumar found long-standing customers were usually the most profitable, since they frequently paid more and were cheaper to serve.",
+   "x": "Across four firms and over 16,000 customers, tenure and profit correlated only weakly. That challenges the retention-equals-profit story and is why they sort customers by both loyalty and profitability.",
+   "concepts": [
+    "kt:customer-lifetime-value",
+    "kt:customer-relationship-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-lifetime-value.html"
+  },
+  {
+   "id": "bz-000075",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Customer Lifetime Value",
+   "t": "In a newspaper study, subscribers acquired with a steep discount renewed at half the rate of regular-price subscribers and were worth about half as much.",
+   "f": "In a newspaper study, subscribers acquired with a steep discount renewed at twice the rate of regular-price subscribers and were worth about twice as much.",
+   "x": "Deep discounts attract customers who value the product less, so they lapse sooner. CLV makes this visible, which is why it is used to discipline promotions rather than judging them by sign-up volume alone.",
+   "concepts": [
+    "kt:customer-lifetime-value"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-lifetime-value.html"
+  },
+  {
+   "id": "bz-000076",
+   "area": "operations-and-supply-chain",
+   "kind": "definition",
+   "topic": "Bill of Materials",
+   "t": "The engineering BOM reflects how parts relate to a product's functional design, while the manufacturing BOM reflects how they are actually assembled.",
+   "f": "The manufacturing BOM reflects how parts relate to a product's functional design, while the engineering BOM reflects how they are actually assembled.",
+   "x": "The MBOM is derived from the EBOM and defines what to make, while a separate bill of process defines how. Keeping the two in step when designs change is a recurring product-data task.",
+   "concepts": [
+    "kt:bill-of-materials",
+    "kt:product-lifecycle-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bill-of-materials.html"
+  },
+  {
+   "id": "bz-000077",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Bill of Materials",
+   "t": "A summarized BOM collapses the product tree so each item appears once with its total quantity, which suits purchasing and costing.",
+   "f": "An indented BOM collapses the product tree so each item appears once with its total quantity, which suits purchasing and costing.",
+   "x": "An indented, multilevel BOM keeps the family-tree shape, listing a shared part under every assembly that uses it. Collapsing that tree into totals per item is what makes the summarized view handy for buying and costing a plan.",
+   "concepts": [
+    "kt:bill-of-materials",
+    "kt:material-requirements-planning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bill-of-materials.html"
+  },
+  {
+   "id": "bz-000078",
+   "area": "operations-and-supply-chain",
+   "kind": "application",
+   "topic": "Bill of Materials",
+   "t": "A 2009 MIT thesis found that inconsistent BOM structures across more than 50 Cisco business units led to product launch delays and higher support costs.",
+   "f": "A 2009 MIT thesis found that a single standard BOM structure across more than 50 Cisco business units led to product launch delays and higher support costs.",
+   "x": "Each unit had developed product-level BOMs its own way, and the inconsistency carried real costs. The author proposed a standardized, criteria-based workflow, showing that BOM structure is an organizational problem as much as a technical one.",
+   "concepts": [
+    "kt:bill-of-materials",
+    "kt:cisco-systems"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bill-of-materials.html"
+  },
+  {
+   "id": "bz-000079",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Amy Edmondson",
+   "t": "In Edmondson's 1996 hospital study, better-led nursing units recorded more medication errors, because their staff were more willing to report mistakes.",
+   "f": "In Edmondson's 1996 hospital study, better-led nursing units recorded fewer medication errors, because their staff made fewer mistakes.",
+   "x": "A detected error rate mixes how many errors happen with how willing people are to report them. This anomaly led to her work on psychological safety, and it warns managers not to read low reported numbers as good performance.",
+   "concepts": [
+    "kt:amy-edmondson",
+    "kt:psychological-safety"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/amy-edmondson.html"
+  },
+  {
+   "id": "bz-000080",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Amy Edmondson",
+   "t": "In Edmondson's 1999 study of 51 work teams, team learning behavior mediated the link between psychological safety and team performance.",
+   "f": "In Edmondson's 1999 study of 51 work teams, team efficacy mediated the link between psychological safety and team performance.",
+   "x": "Safety made teams more willing to ask, admit errors and experiment, and that learning behavior is what improved performance. Team efficacy, by contrast, had no association with learning once safety was controlled for.",
+   "concepts": [
+    "kt:amy-edmondson",
+    "kt:psychological-safety",
+    "kt:organizational-learning"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/amy-edmondson.html"
+  },
+  {
+   "id": "bz-000081",
+   "area": "organizational-behavior",
+   "kind": "definition",
+   "topic": "Amy Edmondson",
+   "t": "In Edmondson's failure framework, intelligent failures are well-intentioned experiments in new territory, while basic failures are preventable slips.",
+   "f": "In Edmondson's failure framework, complex failures are well-intentioned experiments in new territory, while basic failures are preventable slips.",
+   "x": "Right Kind of Wrong (2023) separates basic, complex and intelligent failures. Complex failures have multiple causes and are reduced by catching small problems early; only intelligent failures generate useful knowledge worth encouraging.",
+   "concepts": [
+    "kt:amy-edmondson",
+    "kt:intelligent-failure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/amy-edmondson.html"
+  },
+  {
+   "id": "bz-000082",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "Dynamic Capabilities",
+   "t": "Teece's 2007 restatement split dynamic capabilities into sensing, seizing, and managing threats and reconfiguration.",
+   "f": "Teece's 2007 restatement split dynamic capabilities into sensing, scaling, and managing costs and consolidation.",
+   "x": "Sensing spots opportunities and threats, seizing commits investment to new products and business models, and reconfiguration keeps recombining assets so the base stays relevant. The skills and processes underneath are what he calls microfoundations.",
+   "concepts": [
+    "kt:dynamic-capabilities",
+    "kt:david-j-teece"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dynamic-capabilities.html"
+  },
+  {
+   "id": "bz-000083",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Dynamic Capabilities",
+   "t": "Eisenhardt and Martin (2000) argued dynamic capabilities share common features across firms, making them more substitutable and closer to best practice than Teece implied.",
+   "f": "Eisenhardt and Martin (2000) argued dynamic capabilities are unique to each firm, making them less substitutable and further from best practice than Teece implied.",
+   "x": "They treated dynamic capabilities as identifiable processes like product development and alliancing. Teece holds that widely known best practices are not dynamic capabilities because rivals can copy them, so this firm-specific versus best-practice dispute remains a core tension.",
+   "concepts": [
+    "kt:dynamic-capabilities",
+    "kt:resource-based-view"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dynamic-capabilities.html"
+  },
+  {
+   "id": "bz-000084",
+   "area": "strategy",
+   "kind": "application",
+   "topic": "Dynamic Capabilities",
+   "t": "Apple's iPod is used to illustrate dynamic capabilities: Apple sensed demand because existing MP3 players were bulky and unattractive, then seized it with a better-designed device.",
+   "f": "Apple's iPod is used to illustrate dynamic capabilities: Apple sensed demand because existing MP3 players were too expensive, then seized it with a cheaper device.",
+   "x": "The case maps onto all three clusters: sensing latent demand, seizing it with a smaller, better-designed product and a move into consumer electronics, and transforming the line through the Nano, Touch and iTunes.",
+   "concepts": [
+    "kt:dynamic-capabilities"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dynamic-capabilities.html"
+  },
+  {
+   "id": "bz-000085",
+   "area": "business-ethics-and-governance",
+   "kind": "definition",
+   "topic": "Stakeholder Theory",
+   "t": "Freeman defined a stakeholder as any group or individual that can affect, or is affected by, the achievement of an organization's objectives.",
+   "f": "Freeman defined a stakeholder as any group or individual that holds a legal or financial claim on an organization's assets.",
+   "x": "The definition is deliberately broad, covering customers, employees, suppliers and communities as well as financiers. Its aim was to widen strategic management beyond a purely economic, owner-centred view.",
+   "concepts": [
+    "kt:stakeholder-theory",
+    "kt:r-edward-freeman",
+    "kt:strategic-management-a-stakeholder-approach"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/stakeholder-theory.html"
+  },
+  {
+   "id": "bz-000086",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Stakeholder Theory",
+   "t": "Donaldson and Preston's instrumental claim is that firms managing stakeholder relationships well perform better; their normative claim is that stakeholder interests have intrinsic value.",
+   "f": "Donaldson and Preston's normative claim is that firms managing stakeholder relationships well perform better; their instrumental claim is that stakeholder interests have intrinsic value.",
+   "x": "Their 1995 article split the theory into descriptive, instrumental and normative claims that must not be conflated. They saw the normative base as the most fundamental, which is why evidence that stakeholder management pays cannot settle whether it is right.",
+   "concepts": [
+    "kt:stakeholder-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/stakeholder-theory.html"
+  },
+  {
+   "id": "bz-000087",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Stakeholder Theory",
+   "t": "The Business Roundtable's August 2019 purpose statement, signed by 181 CEOs, replaced statements issued since 1997 that had endorsed shareholder primacy.",
+   "f": "The Business Roundtable's August 2019 purpose statement, signed by 181 CEOs, reaffirmed statements issued since 1997 that had endorsed shareholder primacy.",
+   "x": "The statement committed signers to customers, employees, suppliers, communities and shareholders. Supporters called it a long-term commitment, while the Council of Institutional Investors warned it would give CEOs cover to evade shareholder oversight.",
+   "concepts": [
+    "kt:stakeholder-theory",
+    "kt:business-roundtable-statement-on-corporate-purpose",
+    "kt:shareholder-primacy"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/stakeholder-theory.html"
+  },
+  {
+   "id": "bz-000088",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "US GAAP",
+   "t": "The SEC recognized FASB pronouncements as authoritative US GAAP in Accounting Series Release No. 150 in December 1973.",
+   "f": "The SEC recognized FASB pronouncements as authoritative US GAAP in Accounting Series Release No. 150 in December 1959.",
+   "x": "The SEC had let the profession set standards since 1938, first through the Committee on Accounting Procedure and from 1959 the Accounting Principles Board. The FASB replaced the APB after the Wheat Commission urged a full-time independent body.",
+   "concepts": [
+    "kt:gaap",
+    "kt:financial-accounting-standards-board"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaap.html"
+  },
+  {
+   "id": "bz-000089",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "US GAAP",
+   "t": "A 2003 SEC staff study argued that bright-line GAAP thresholds let preparers engineer transactions to land on the preferred side of a line.",
+   "f": "A 2003 SEC staff study argued that bright-line GAAP thresholds stop preparers from engineering transactions to land on the preferred side of a line.",
+   "x": "Lease tests at 75% and 90% were a classic example: deals could be structured just under a threshold. The study recommended objectives-oriented standards grounded in a conceptual framework, not a swing to pure principles.",
+   "concepts": [
+    "kt:gaap",
+    "kt:sarbanes-oxley-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaap.html"
+  },
+  {
+   "id": "bz-000090",
+   "area": "accounting-and-reporting",
+   "kind": "application",
+   "topic": "US GAAP",
+   "t": "Regulation G requires any public non-GAAP measure to be accompanied by the most directly comparable GAAP figure and a quantitative reconciliation.",
+   "f": "Regulation G requires any public non-GAAP measure to replace the most directly comparable GAAP figure, with no reconciliation needed.",
+   "x": "Adjusted metrics such as EBITDA are allowed, but readers must be able to see how they differ from GAAP. For analysts, that reconciliation is usually where judgment about true performance begins.",
+   "concepts": [
+    "kt:gaap",
+    "kt:non-gaap-financial-measures"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaap.html"
+  },
+  {
+   "id": "bz-000091",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Industrial Organization",
+   "t": "Edward Mason introduced the structure-conduct-performance paradigm through case studies of single industries, and Joe Bain first applied it empirically across many industries.",
+   "f": "Joe Bain introduced the structure-conduct-performance paradigm through case studies of single industries, and Edward Mason first applied it empirically across many industries.",
+   "x": "Mason developed SCP at Harvard in 1939 and 1949 by studying industries one at a time. Bain's 1951 and 1956 work compared outcomes across many industries, turning the framework into cross-industry evidence.",
+   "concepts": [
+    "kt:industrial-organization",
+    "kt:structure-conduct-performance-paradigm",
+    "kt:edward-s-mason",
+    "kt:joe-s-bain"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/industrial-organization.html"
+  },
+  {
+   "id": "bz-000092",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Industrial Organization",
+   "t": "The SCP paradigm was criticized as descriptive rather than analytic, because its links between structure, conduct and performance were seldom derived from explicit models.",
+   "f": "The SCP paradigm was criticized as too abstract, because its links between structure, conduct and performance came from game-theoretic models rather than industry data.",
+   "x": "Without a model of how firms behave, cross-industry correlations could not show cause and effect. Critics like Stigler pushed for models built on maximizing behavior, and the field later rebuilt itself on game theory and structural econometrics.",
+   "concepts": [
+    "kt:industrial-organization",
+    "kt:structure-conduct-performance-paradigm",
+    "kt:new-empirical-industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/industrial-organization.html"
+  },
+  {
+   "id": "bz-000093",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Industrial Organization",
+   "t": "Tirole showed that capping a dominant firm's price can push it to cut costs yet also leave it excessive profits, so blanket rules help in some settings and backfire in others.",
+   "f": "Tirole showed that capping a dominant firm's price reliably removes its excess profits without changing its costs, so blanket rules work across all settings.",
+   "x": "His work, recognized with the 2014 economics prize, argued that good regulation must fit the industry. A cap lets the firm keep any savings it makes, which sharpens cost incentives but can leave large profits in place.",
+   "concepts": [
+    "kt:industrial-organization",
+    "kt:jean-tirole"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/industrial-organization.html"
+  },
+  {
+   "id": "bz-000094",
+   "area": "government-contracting-and-public-sector",
+   "kind": "definition",
+   "topic": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
+   "t": "Under an IDIQ contract, the government must order a stated minimum that is more than nominal but no more than it is fairly certain to need.",
+   "f": "Under an IDIQ contract, the government must order the stated maximum, which is set at the most it could conceivably need.",
+   "x": "The minimum is the only quantity the government owes; anything beyond it is ordered through task or delivery orders as needs arise. The maximum is a reasonable ceiling based on market research, not a commitment.",
+   "concepts": [
+    "kt:indefinite-delivery-indefinite-quantity",
+    "kt:government-contract-types"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/indefinite-delivery-indefinite-quantity.html"
+  },
+  {
+   "id": "bz-000095",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
+   "t": "The Federal Acquisition Streamlining Act of 1994 created a preference for multiple-award IDIQs and gave each holder a fair opportunity to be considered for orders.",
+   "f": "The Federal Acquisition Streamlining Act of 1994 created a preference for single-award IDIQs and gave the incumbent holder first claim on all orders.",
+   "x": "FASA pushed agencies to award several contracts so orders would still be competed among holders. Its exceptions, such as unusual urgency or logical follow-on orders, remain the core of today's fair-opportunity rules.",
+   "concepts": [
+    "kt:indefinite-delivery-indefinite-quantity",
+    "kt:federal-acquisition-streamlining-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/indefinite-delivery-indefinite-quantity.html"
+  },
+  {
+   "id": "bz-000096",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
+   "t": "GAO found that about 60% of IDIQ dollars in FY2011–FY2015 went through single-award contracts, despite the FAR's preference for multiple awards.",
+   "f": "GAO found that about 60% of IDIQ dollars in FY2011–FY2015 went through multiple-award contracts, in line with the FAR's preference for multiple awards.",
+   "x": "This gap is the main critique of IDIQs: weak competition. Single awards raise the risk of vendor lock-in, and GAO also found that 10 of 18 sampled DoD single-award contracts were not competed.",
+   "concepts": [
+    "kt:indefinite-delivery-indefinite-quantity",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/indefinite-delivery-indefinite-quantity.html"
+  },
+  {
+   "id": "bz-000097",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Intel",
+   "t": "Burgelman found that Intel's resource-allocation rules shifted fab capacity toward microprocessors before top management formally changed strategy.",
+   "f": "Burgelman found that Intel's top management formally changed strategy toward microprocessors before its resource-allocation rules shifted any fab capacity.",
+   "x": "Allocating scarce capacity by profitability moved the firm out of DRAMs from the middle up, while the stated strategy lagged. That made Intel a standard example of strategy emerging bottom-up through an internal selection environment.",
+   "concepts": [
+    "kt:intel",
+    "kt:strategic-renewal",
+    "kt:dynamic-capabilities"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/intel.html"
+  },
+  {
+   "id": "bz-000098",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Intel",
+   "t": "Intel regained manufacturing parity with Japanese chipmakers by the early 1990s by adopting Japanese production methods and standardizing its factories.",
+   "f": "Intel regained manufacturing parity with Japanese chipmakers by the early 1990s by outsourcing wafer fabrication to Japanese partners.",
+   "x": "Lécuyer shows that after 1985 management treated manufacturing weakness as a survival threat. Engineers adopted Japanese routines, put fabrication on a more scientific footing and improved transfer from development to production, a reform that took most of a decade.",
+   "concepts": [
+    "kt:intel",
+    "kt:semiconductor-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/intel.html"
+  },
+  {
+   "id": "bz-000099",
+   "area": "business-history-and-cases",
+   "kind": "application",
+   "topic": "Intel",
+   "t": "The Intel Inside program, launched in 1991, subsidized PC makers that put the Intel logo on their machines and in their advertising.",
+   "f": "The Intel Inside program, launched in 1991, charged PC makers a fee to put the Intel logo on their machines and in their advertising.",
+   "x": "Intel was known to manufacturers but invisible to consumers, so it paid co-op subsidies to get its brand in front of buyers. By the end of 1992 over 500 OEMs had joined, making it the textbook case of ingredient branding.",
+   "concepts": [
+    "kt:intel",
+    "kt:ingredient-branding"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/intel.html"
+  },
+  {
+   "id": "bz-000100",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Razor and Blades",
+   "t": "During its patent years, Gillette sold its razor at a high price, launching a low-priced razor only after the patents expired in 1921.",
+   "f": "During its patent years, Gillette gave its razor away cheaply, launching a high-priced razor only after the patents expired in 1921.",
+   "x": "Randal Picker showed Gillette charged $5 for a razor with 12 blades from 1904, while rivals sold handles for about $1. The $1 Brownie razor came in 1921, so the founding legend of cheap razors and dear blades does not fit the record.",
+   "concepts": [
+    "kt:razor-and-blades-model",
+    "kt:gillette"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/razor-and-blades-model.html"
+  },
+  {
+   "id": "bz-000101",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Razor and Blades",
+   "t": "The razor-and-blades model works as price discrimination: a low base price draws in light users, while consumable margins extract more from heavy users.",
+   "f": "The razor-and-blades model works as price discrimination: a low consumable price draws in heavy users, while base-product margins extract more from light users.",
+   "x": "Economists treat it as a two-part tariff, with the base product as an entry fee and the consumable as a per-use charge. Since heavy users buy more consumables, they pay more in total for the same base product.",
+   "concepts": [
+    "kt:razor-and-blades-model",
+    "kt:price-discrimination"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/razor-and-blades-model.html"
+  },
+  {
+   "id": "bz-000102",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Razor and Blades",
+   "t": "Schmalensee's 2015 analysis found pricing the razor below cost is never optimal in a standard continuum model and optimal only in a narrow two-type case.",
+   "f": "Schmalensee's 2015 analysis found pricing the razor below cost is always optimal in a standard continuum model and suboptimal only in a narrow two-type case.",
+   "x": "Building on Oi's 1971 result that the consumable should be priced above cost, he concluded below-cost razors are unlikely to be optimal in practice. He also argued such pricing, when used to discriminate, should not automatically be treated as predatory.",
+   "concepts": [
+    "kt:razor-and-blades-model",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/razor-and-blades-model.html"
+  },
+  {
+   "id": "bz-000103",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Hypothesis-Driven Problem Solving",
+   "t": "In Liedtka's hypothesis cycle, generation is the creative what-if step, while testing is the analytical if-then step that names data that would support or undermine the idea.",
+   "f": "In Liedtka's hypothesis cycle, testing is the creative what-if step, while generation is the analytical if-then step that names data that would support or undermine the idea.",
+   "x": "Running the two steps repeatedly lets a team sharpen its hypotheses while still exploring new ones. The hypothesis tells the team which analyses matter, so effort goes where the answer is likely to be.",
+   "concepts": [
+    "kt:hypothesis-driven-problem-solving",
+    "kt:scientific-method"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hypothesis-driven-problem-solving.html"
+  },
+  {
+   "id": "bz-000104",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Hypothesis-Driven Problem Solving",
+   "t": "In a randomized trial of 116 Italian startups, founders taught to test hypotheses performed better early on and were more likely to pivot to a different idea.",
+   "f": "In a randomized trial of 116 Italian startups, founders taught to test hypotheses performed better early on and were less likely to pivot to a different idea.",
+   "x": "Camuffo, Cordova and Gambardella found the scientific approach helped founders read market signals with less bias, so they abandoned weak ideas sooner. Treated firms did not, however, drop out less often than the control group.",
+   "concepts": [
+    "kt:hypothesis-driven-problem-solving",
+    "kt:lean-startup",
+    "kt:trial-and-error-search"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hypothesis-driven-problem-solving.html"
+  },
+  {
+   "id": "bz-000105",
+   "area": "consulting-and-problem-solving",
+   "kind": "application",
+   "topic": "Hypothesis-Driven Problem Solving",
+   "t": "Confirmation bias threatens hypothesis-driven teams because people testing a favored hypothesis tend to pick tests that can only return yes, as in Wason's 2-4-6 task.",
+   "f": "Confirmation bias threatens hypothesis-driven teams because people testing a favored hypothesis tend to pick tests that can only return no, as in Wason's 2-4-6 task.",
+   "x": "Committing early to an answer invites seeking only supporting evidence and explaining away contrary data. The standard remedy is to generate alternative hypotheses and design tests capable of refuting them.",
+   "concepts": [
+    "kt:hypothesis-driven-problem-solving",
+    "kt:confirmation-bias"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hypothesis-driven-problem-solving.html"
+  },
+  {
+   "id": "bz-000106",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Arbitrage",
+   "t": "Black-Scholes combines a stock and its options into a riskless portfolio that must earn the risk-free rate, so no estimate of a risk premium is needed.",
+   "f": "Black-Scholes combines a stock and its options into a riskless portfolio that must earn the market's expected return, so an estimate of the risk premium is needed.",
+   "x": "If the hedged portfolio earned more than the risk-free rate, arbitrage would erase the excess. Continuous rebalancing turns that argument into a differential equation whose solution is the formula, with no view on investors' risk attitudes required.",
+   "concepts": [
+    "kt:arbitrage",
+    "kt:black-scholes-model",
+    "kt:asset-pricing"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/arbitrage.html"
+  },
+  {
+   "id": "bz-000107",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Arbitrage",
+   "t": "Shleifer and Vishny argued arbitrage can fail in extremes because investors pull money from arbitrageurs showing losses just as a mispricing widens.",
+   "f": "Shleifer and Vishny argued arbitrage is strongest in extremes because investors pour money into arbitrageurs just as a mispricing widens.",
+   "x": "Arbitrage is done mostly by specialists managing other people's money, and outside investors judge them on recent returns. The resulting withdrawals can force selling at the worst moment and even amplify price shocks.",
+   "concepts": [
+    "kt:arbitrage",
+    "kt:limits-to-arbitrage",
+    "kt:agency-costs"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/arbitrage.html"
+  },
+  {
+   "id": "bz-000108",
+   "area": "corporate-finance",
+   "kind": "application",
+   "topic": "Arbitrage",
+   "t": "Froot and Dabora found that each of the Royal Dutch and Shell twin shares moved with the market where it traded most, despite pooled cash flows.",
+   "f": "Froot and Dabora found that each of the Royal Dutch and Shell twin shares moved with its own company's earnings, despite pooled cash flows.",
+   "x": "Because the twins shared cash flows at a fixed ratio, their prices should have moved in lockstep. The persistent, location-driven gaps are a classic anomaly for efficient markets and a showcase for the limits of arbitrage.",
+   "concepts": [
+    "kt:arbitrage",
+    "kt:royal-dutch-shell-twin-shares",
+    "kt:efficient-market-hypothesis"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/arbitrage.html"
+  },
+  {
+   "id": "bz-000109",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Clayton Christensen",
+   "t": "In Competing Against Luck (2016), Christensen argued that understanding the job customers hire a product to do, rather than their demographics, makes innovation more predictable.",
+   "f": "In Competing Against Luck (2016), Christensen argued that understanding customers' demographics, rather than the job they hire a product to do, makes innovation more predictable.",
+   "x": "Jobs to be done shifts the focus from who the customer is to the progress they are trying to make. Christensen illustrated it with firms like Intuit, Airbnb and Chobani, and it was his second big idea after disruption.",
+   "concepts": [
+    "kt:clayton-christensen",
+    "kt:jobs-to-be-done"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/clayton-christensen.html"
+  },
+  {
+   "id": "bz-000110",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Clayton Christensen",
+   "t": "Historian Tom Nicholas argues that Christensen's disruption research drew on Alfred Chandler's account of the large, vertically integrated enterprise.",
+   "f": "Historian Tom Nicholas argues that Christensen's disruption research drew on Joseph Schumpeter's account of creative destruction.",
+   "x": "Christensen built theory from business history, starting with a 1993 Business History Review study of integrated disk-drive makers. Nicholas places that method in Chandler's tradition; creative destruction is a related idea, not the source he identifies.",
+   "concepts": [
+    "kt:clayton-christensen",
+    "kt:innovators-dilemma"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/clayton-christensen.html"
+  },
+  {
+   "id": "bz-000111",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "Clayton Christensen",
+   "t": "Christensen founded Innosight in 2000 to advise companies on innovation and Rose Park Advisors in 2007 to invest along the lines of his theories.",
+   "f": "Christensen founded Rose Park Advisors in 2000 to advise companies on innovation and Innosight in 2007 to invest along the lines of his theories.",
+   "x": "He turned his research into practice through a consultancy, an investment firm and a think tank now called the Christensen Institute. Innosight is the consulting arm; Rose Park is the investor.",
+   "concepts": [
+    "kt:clayton-christensen",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/clayton-christensen.html"
+  },
+  {
+   "id": "bz-000112",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Hoshin Kanri",
+   "t": "In hoshin kanri, catchball passes draft goals down, across and back up the organization so each level negotiates what it can achieve and what resources it needs.",
+   "f": "In hoshin kanri, catchball passes final goals down the organization once, so each level accepts its targets without negotiating what it can achieve or needs.",
+   "x": "Catchball is the method's distinctive mechanism: goals can change as levels push back. It is often run with an X-matrix and one-page A3 plans, which is also why it can be slow, as at Land Rover where it took 12 months.",
+   "concepts": [
+    "kt:hoshin-kanri",
+    "kt:strategy-execution"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hoshin-kanri.html"
+  },
+  {
+   "id": "bz-000113",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Hoshin Kanri",
+   "t": "Hoshin kanri separates breakthrough objectives that need cross-functional change from daily management of routine indicators like quality, cost and delivery.",
+   "f": "Hoshin kanri merges breakthrough objectives that need cross-functional change into daily management of routine indicators like quality, cost and delivery.",
+   "x": "The few breakthrough objectives get deployed and reviewed through the strategy cycle, while routine KPIs are run as daily management. Keeping them apart stops a handful of strategic priorities from drowning among many operational metrics.",
+   "concepts": [
+    "kt:hoshin-kanri",
+    "kt:total-quality-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hoshin-kanri.html"
+  },
+  {
+   "id": "bz-000114",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Hoshin Kanri",
+   "t": "Witcher notes that hoshin kanri is nearly absent from mainstream strategy texts, partly because outsiders see it as mechanistic and tool-heavy.",
+   "f": "Witcher notes that hoshin kanri dominates mainstream strategy texts, partly because insiders see it as flexible and light on tools.",
+   "x": "Its literature sits mainly in quality and operations management. Its inside-out, process-driven logic also fits awkwardly with market-positioning views of strategy, which dominate strategy textbooks.",
+   "concepts": [
+    "kt:hoshin-kanri"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/hoshin-kanri.html"
+  },
+  {
+   "id": "bz-000115",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Cannibalization",
+   "t": "Cannibalization slows incumbents' adoption of new technology, while preemption, the motive to launch before rivals can, speeds it up.",
+   "f": "Preemption slows incumbents' adoption of new technology, while cannibalization, the motive to launch before rivals can, speeds it up.",
+   "x": "An incumbent launching a new technology mostly replaces its own profit stream, so its net gain is smaller than a start-up's. Preemption pushes the other way, since waiting lets rivals take the new market.",
+   "concepts": [
+    "kt:cannibalization",
+    "kt:innovators-dilemma"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/cannibalization.html"
+  },
+  {
+   "id": "bz-000116",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Cannibalization",
+   "t": "Igami's 2017 study of hard disk drive makers found cannibalization explained at least 57% of the gap between incumbent and entrant innovation.",
+   "f": "Igami's 2017 study of hard disk drive makers found cannibalization explained at most 17% of the gap between incumbent and entrant innovation.",
+   "x": "Even with strong preemptive motives and a cost advantage, incumbents held back because new products would eat their existing profits. Igami read this as rational incumbent behavior rather than the managerial blindness Christensen stressed.",
+   "concepts": [
+    "kt:cannibalization",
+    "kt:hard-disk-drive-industry",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/cannibalization.html"
+  },
+  {
+   "id": "bz-000117",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Cannibalization",
+   "t": "Newspapers whose websites closely copied the print edition were far more likely to lose circulation, suggesting differentiation, not abstention, limits channel cannibalization.",
+   "f": "Newspapers whose websites differed most from the print edition were far more likely to lose circulation, suggesting abstention, not differentiation, limits channel cannibalization.",
+   "x": "Deleersnyder and colleagues found most papers suffered no significant slowdown from adding a website. Those that did had much higher content overlap with print, about 78% versus 45%.",
+   "concepts": [
+    "kt:cannibalization",
+    "kt:multichannel-retailing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/cannibalization.html"
+  },
+  {
+   "id": "bz-000118",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Enterprise Resource Planning",
+   "t": "The term enterprise resource planning was coined by research firm Gartner in the early 1990s for integrated software reaching beyond the factory.",
+   "f": "The term enterprise resource planning was coined by software maker SAP in the early 1970s for integrated software reaching beyond the factory.",
+   "x": "ERP grew out of MRP in the 1970s and MRP II after it, but the name came later, from an analyst firm describing cross-functional packages. SAP was founded in 1972, and its R/3 system arrived in 1992.",
+   "concepts": [
+    "kt:enterprise-resource-planning",
+    "kt:manufacturing-resource-planning",
+    "kt:sap"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enterprise-resource-planning.html"
+  },
+  {
+   "id": "bz-000119",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Enterprise Resource Planning",
+   "t": "Of the three ERP implementation activities, tailoring with custom code is the costliest and riskiest, so firms tend to favor process adaptation and configuration.",
+   "f": "Of the three ERP implementation activities, configuring parameters is the costliest and riskiest, so firms tend to favor tailoring with custom code.",
+   "x": "Lorenzo, Kawalek and Wood-Harper distinguish redesigning processes, configuring the package and tailoring it. Custom code is expensive to build and maintain, which is why adopters usually bend their processes to the standard software instead.",
+   "concepts": [
+    "kt:enterprise-resource-planning",
+    "kt:business-process-reengineering"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enterprise-resource-planning.html"
+  },
+  {
+   "id": "bz-000120",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Enterprise Resource Planning",
+   "t": "Hitt, Wu and Zhou found that ERP adopters' productivity rose during implementation and dipped afterwards.",
+   "f": "Hitt, Wu and Zhou found that ERP adopters' productivity dipped during implementation and rose afterwards.",
+   "x": "Their 2002 study of SAP R/3 adopters also found higher productivity and a Tobin's q about 13% above non-adopters. The authors cautioned that long-run effects needed more post-implementation data and that the sample covered only one vendor.",
+   "concepts": [
+    "kt:enterprise-resource-planning",
+    "kt:sap"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enterprise-resource-planning.html"
+  },
+  {
+   "id": "bz-000121",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Google Project Aristotle",
+   "t": "Google's Project Oxygen, which preceded Aristotle, set out to prove managers did not matter and found instead that better managers were linked to lower turnover.",
+   "f": "Google's Project Oxygen, which preceded Aristotle, set out to prove managers mattered and found instead that manager quality had no link to turnover.",
+   "x": "Oxygen began in 2009 as a skeptical test and ended by distilling eight behaviors of good managers that Google built into feedback and training. Aristotle then applied the same evidence-driven approach to teams.",
+   "concepts": [
+    "kt:google-project-aristotle",
+    "kt:google-project-oxygen",
+    "kt:people-analytics"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/google-project-aristotle.html"
+  },
+  {
+   "id": "bz-000122",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Google Project Aristotle",
+   "t": "In Project Aristotle, team size, colocation and seniority did not significantly predict team effectiveness at Google.",
+   "f": "In Project Aristotle, team size, colocation and seniority were the strongest predictors of team effectiveness at Google.",
+   "x": "The study's headline was that how a team works together matters more than who is on it. Google cautioned that these composition factors might still matter in other organizations.",
+   "concepts": [
+    "kt:google-project-aristotle",
+    "kt:team-effectiveness"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/google-project-aristotle.html"
+  },
+  {
+   "id": "bz-000123",
+   "area": "organizational-behavior",
+   "kind": "application",
+   "topic": "Google Project Aristotle",
+   "t": "Woolley and colleagues found in 2010 that a group's collective intelligence tracked members' social sensitivity and evenly shared turns, not their individual intelligence.",
+   "f": "Woolley and colleagues found in 2010 that a group's collective intelligence tracked members' maximum individual intelligence, not their social sensitivity or turn-taking.",
+   "x": "This independent lab result points the same way as Aristotle: process beats composition. A team of the smartest individuals does not automatically think best together.",
+   "concepts": [
+    "kt:google-project-aristotle",
+    "kt:high-performance-teams"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/google-project-aristotle.html"
+  },
+  {
+   "id": "bz-000124",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "First-Mover Advantage",
+   "t": "Lieberman and Montgomery's 1988 Strategic Management Journal article reviewed both the advantages and disadvantages of pioneering, critiquing the belief that being first pays.",
+   "f": "Golder and Tellis's 1988 Strategic Management Journal article reviewed both the advantages and disadvantages of pioneering, critiquing the belief that being first pays.",
+   "x": "The Stanford pair popularized the term while questioning an idea business schools had taken for granted. Golder and Tellis came later, in 1993, with a historical study of about 500 brands.",
+   "concepts": [
+    "kt:first-mover-advantage",
+    "kt:competitive-advantage"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/first-mover-advantage.html"
+  },
+  {
+   "id": "bz-000125",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "First-Mover Advantage",
+   "t": "Golder and Tellis argued earlier pioneer studies were inflated by survivor bias, since failed pioneers were missing from the data; in their sample 47% of pioneers failed.",
+   "f": "Golder and Tellis argued earlier pioneer studies were deflated by survivor bias, since failed followers were missing from the data; in their sample 47% of followers failed.",
+   "x": "Databases like PIMS only saw firms still around, so they overstated pioneers' lasting share leads. Golder and Tellis found pioneers averaged about 10% share, versus roughly 30% in earlier work.",
+   "concepts": [
+    "kt:first-mover-advantage"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/first-mover-advantage.html"
+  },
+  {
+   "id": "bz-000126",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "First-Mover Advantage",
+   "t": "A first mover can preempt scarce assets such as shelf space, distribution channels and attractive product positions before rivals arrive.",
+   "f": "A fast follower can preempt scarce assets such as shelf space, distribution channels and attractive product positions before the pioneer arrives.",
+   "x": "Preemption is one producer-side source of pioneer advantage, alongside moving down the experience curve first. Followers instead gain by learning from the pioneer's mistakes and entering once demand and technology are clearer.",
+   "concepts": [
+    "kt:first-mover-advantage",
+    "kt:fast-follower-strategy",
+    "kt:barriers-to-entry"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/first-mover-advantage.html"
+  },
+  {
+   "id": "bz-000127",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "ESG",
+   "t": "The ESG label grew out of the UN Global Compact's Who Cares Wins report, endorsed in 2004 by 18 financial institutions from nine countries.",
+   "f": "The ESG label grew out of the UN Global Compact's Who Cares Wins report, endorsed in 1994 by 18 financial institutions from nine countries.",
+   "x": "The report's signatories, including Goldman Sachs, HSBC and UBS, managed over $6 trillion. Its aim was to bring environmental, social and governance issues into mainstream analysis rather than leave them to ethical-investing niches.",
+   "concepts": [
+    "kt:esg",
+    "kt:who-cares-wins-report"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/esg.html"
+  },
+  {
+   "id": "bz-000128",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "ESG",
+   "t": "Berg, Kölbel and Rigobon found that measurement differences, not weighting, explained most of the divergence among six major ESG ratings.",
+   "f": "Berg, Kölbel and Rigobon found that weighting differences, not measurement, explained most of the divergence among six major ESG ratings.",
+   "x": "Measurement accounted for 56% of the disagreement, scope for 38% and weighting for only 6%. Raters disagree mainly on how they assess the same attribute, which is why ESG labels can give investors noisy signals.",
+   "concepts": [
+    "kt:esg",
+    "kt:esg-ratings"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/esg.html"
+  },
+  {
+   "id": "bz-000129",
+   "area": "business-ethics-and-governance",
+   "kind": "definition",
+   "topic": "ESG",
+   "t": "Of the ISSB's June 2023 standards, IFRS S1 sets general sustainability disclosure requirements, while IFRS S2 adds climate-specific disclosures.",
+   "f": "Of the ISSB's June 2023 standards, IFRS S2 sets general sustainability disclosure requirements, while IFRS S1 adds climate-specific disclosures.",
+   "x": "S1 covers sustainability-related risks and opportunities over the short, medium and long term, and S2 fully incorporates the TCFD recommendations. Both are built around investor decision-usefulness, like financial-reporting standards.",
+   "concepts": [
+    "kt:esg",
+    "kt:ifrs-sustainability-disclosure-standards",
+    "kt:ifrs"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/esg.html"
+  },
+  {
+   "id": "bz-000130",
+   "area": "managerial-economics",
+   "kind": "definition",
+   "topic": "Network Effect",
+   "t": "Indirect network effects work through complements: as more of a hardware product sells, more software or content is made for it, raising the hardware's value.",
+   "f": "Direct network effects work through complements: as more of a hardware product sells, more software or content is made for it, raising the hardware's value.",
+   "x": "Katz and Shapiro separated direct effects, from physical connection as with telephones or fax machines, from indirect ones that flow through complementary goods. They also named a third channel, denser post-purchase service for larger installed bases.",
+   "concepts": [
+    "kt:network-effect",
+    "kt:michael-l-katz",
+    "kt:carl-shapiro"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/network-effect.html"
+  },
+  {
+   "id": "bz-000131",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Network Effect",
+   "t": "In Katz and Shapiro's model, firms with large networks tend to resist compatibility even when it would raise welfare, while firms with small networks favor it.",
+   "f": "In Katz and Shapiro's model, firms with small networks tend to resist compatibility even when it would raise welfare, while firms with large networks favor it.",
+   "x": "Compatibility shares the benefit of a big installed base with rivals, so the leader loses an advantage and the laggard gains one. That is why standards fights pit large incumbents against smaller challengers.",
+   "concepts": [
+    "kt:network-effect",
+    "kt:network-externalities-competition-and-compatibility-1985"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/network-effect.html"
+  },
+  {
+   "id": "bz-000132",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Network Effect",
+   "t": "Liebowitz and Margolis disputed that QWERTY was demonstrably inferior to Dvorak or that Betamax was clearly better than VHS, challenging famous lock-in stories.",
+   "f": "Liebowitz and Margolis confirmed that QWERTY was demonstrably inferior to Dvorak and that Betamax was clearly better than VHS, supporting famous lock-in stories.",
+   "x": "They argued network externalities that cause real market failure are theoretically fragile and empirically undocumented. Many networks need only a critical mass, and participants can often internalize the benefits.",
+   "concepts": [
+    "kt:network-effect",
+    "kt:path-dependence"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/network-effect.html"
+  },
+  {
+   "id": "bz-000133",
+   "area": "accounting-and-reporting",
+   "kind": "figure",
+   "topic": "Free Cash Flow",
+   "t": "Amazon's free cash flow fell to $11.2 billion in FY2025 from $38.2 billion in 2024, because capital spending surged even as operating cash flow rose.",
+   "f": "Amazon's free cash flow fell to $11.2 billion in FY2025 from $38.2 billion in 2024, because operating cash flow fell even as capital spending held steady.",
+   "x": "Operating cash flow grew from about $116 billion to $140 billion, but net property and equipment purchases jumped from about $78 billion to $128 billion. Reading the drop as operating weakness would misread a deliberate investment surge.",
+   "concepts": [
+    "kt:free-cash-flow",
+    "kt:statement-of-cash-flows"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/free-cash-flow.html",
+   "asOf": "FY 2025"
+  },
+  {
+   "id": "bz-000134",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Free Cash Flow",
+   "t": "Lehn and Poulsen linked undistributed cash flow to going-private deals in 1980–1987, with the effect strongest where managers owned little equity.",
+   "f": "Lehn and Poulsen linked undistributed cash flow to going-private deals in 1980–1987, with the effect strongest where managers owned large equity stakes.",
+   "x": "Surplus cash also predicted the premium paid to shareholders. The result fits Jensen's agency view: managers with little stake are most tempted to waste free cash, so buyouts that force it out create the most value there.",
+   "concepts": [
+    "kt:free-cash-flow",
+    "kt:leveraged-buyout",
+    "kt:agency-costs"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/free-cash-flow.html"
+  },
+  {
+   "id": "bz-000135",
+   "area": "accounting-and-reporting",
+   "kind": "definition",
+   "topic": "Free Cash Flow",
+   "t": "Unlike free cash flow, EBITDA makes no deduction for capital expenditures or changes in working capital.",
+   "f": "Unlike EBITDA, free cash flow makes no deduction for capital expenditures or changes in working capital.",
+   "x": "Free cash flow starts from operating cash flow, which already reflects working-capital changes, and then subtracts capital spending. That makes it a closer gauge of cash a business can actually return or redeploy than EBITDA.",
+   "concepts": [
+    "kt:free-cash-flow",
+    "kt:ebitda"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/free-cash-flow.html"
+  },
+  {
+   "id": "bz-000136",
+   "area": "business-history-and-cases",
+   "kind": "origin",
+   "topic": "Kodak Decline",
+   "t": "Kodak engineer Steven Sasson built a digital camera prototype in 1975, which Kodak patented in 1978 but never produced.",
+   "f": "Fujifilm engineer Steven Sasson built a digital camera prototype in 1975, which Fujifilm patented in 1978 but never produced.",
+   "x": "The device stored 100 × 100 pixel black-and-white images on cassette tape and took about 23 seconds per shot. That Kodak invented the technology that undermined it is why the case is a strategy-teaching staple.",
+   "concepts": [
+    "kt:kodak-decline",
+    "kt:technological-disruption"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kodak-decline.html"
+  },
+  {
+   "id": "bz-000137",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Kodak Decline",
+   "t": "Vinokurova and Kapoor argue Kodak saw digital coming and invested in it, but film's exceptional profitability set aspirations few new ventures could meet.",
+   "f": "Vinokurova and Kapoor argue Kodak ignored digital and never invested in it, because film's exceptional profitability made new ventures seem unnecessary.",
+   "x": "Kodak tried Photo CD, APS, digital cameras and inkjet. Uncertain timing of consumer adoption and an illusion of resilience from strong film sales made unprofitable digital bets hard to sustain, a richer story than simple myopia.",
+   "concepts": [
+    "kt:kodak-decline",
+    "kt:innovators-dilemma",
+    "kt:strategic-renewal"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kodak-decline.html"
+  },
+  {
+   "id": "bz-000138",
+   "area": "business-history-and-cases",
+   "kind": "application",
+   "topic": "Kodak Decline",
+   "t": "Kodak's 2007 move into consumer inkjet printers bet that people would keep printing photos even from digital cameras.",
+   "f": "Kodak's 2007 move into consumer inkjet printers bet that people would stop printing photos and view them on screens instead.",
+   "x": "The bet extended Kodak's prints-and-consumables model into the digital era. Funding inkjet while closing film plants strained cash before the 2012 bankruptcy, and the assumption failed as photos moved to screens.",
+   "concepts": [
+    "kt:kodak-decline",
+    "kt:razor-and-blades-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kodak-decline.html"
+  },
+  {
+   "id": "bz-000139",
+   "area": "business-models",
+   "kind": "definition",
+   "topic": "Software as a Service",
+   "t": "In NIST's cloud models, PaaS customers deploy their own applications on the provider's platform, while IaaS customers rent raw computing, storage and networking.",
+   "f": "In NIST's cloud models, IaaS customers deploy their own applications on the provider's platform, while PaaS customers rent raw computing, storage and networking.",
+   "x": "The three models differ by how much the customer controls. In SaaS it controls almost nothing beyond user settings, in PaaS it brings its own applications, and in IaaS it runs whatever software it likes on rented infrastructure.",
+   "concepts": [
+    "kt:saas-business-model",
+    "kt:cloud-computing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/saas-business-model.html"
+  },
+  {
+   "id": "bz-000140",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Software as a Service",
+   "t": "Because SaaS subscription revenue is recognized ratably over the contract term, a slump in new bookings shows up in reported revenue only gradually.",
+   "f": "Because SaaS subscription revenue is recognized upfront at contract signing, a slump in new bookings shows up in reported revenue immediately.",
+   "x": "Each contract's revenue is spread across its 12 to 36 month term, so reported revenue lags bookings. Cash billed annually in advance meanwhile builds a large deferred revenue balance on the balance sheet.",
+   "concepts": [
+    "kt:saas-business-model",
+    "kt:subscription-business-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/saas-business-model.html"
+  },
+  {
+   "id": "bz-000141",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Software as a Service",
+   "t": "In fiscal 2026, subscription and support made up about 95% of Salesforce's $41.5 billion in total revenue.",
+   "f": "In fiscal 2026, subscription and support made up about 65% of Salesforce's $41.5 billion in total revenue.",
+   "x": "Subscription and support brought in about $39.4 billion of the total. That near-total reliance on recurring fees is what defines a mature SaaS model, in contrast with old licence-and-maintenance software revenue.",
+   "concepts": [
+    "kt:saas-business-model",
+    "kt:salesforce"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/saas-business-model.html",
+   "asOf": "FY 2026"
+  },
+  {
+   "id": "bz-000142",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Issue Tree",
+   "t": "Chevallier advises building the diagnostic why tree before the solution how tree, because understanding causes sharpens the question the solution tree answers.",
+   "f": "Chevallier advises building the solution how tree before the diagnostic why tree, because listing options sharpens the question the diagnostic tree answers.",
+   "x": "A why tree maps root causes of an outcome, and a how tree maps options for reaching a goal. Neither is superior, but solving before diagnosing risks answering the wrong question, and each tree should hold only one type of question.",
+   "concepts": [
+    "kt:issue-tree",
+    "kt:root-cause-analysis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/issue-tree.html"
   }
  ]
 }

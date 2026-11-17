@@ -1,0 +1,20 @@
+id: bz-000107
+area: corporate-finance
+kind: evidence
+topic: Arbitrage
+topic_type: Concept
+true_statement: Shleifer and Vishny argued arbitrage can fail in extremes because investors pull money from arbitrageurs showing losses just as a mispricing widens.
+false_statement: Shleifer and Vishny argued arbitrage is strongest in extremes because investors pour money into arbitrageurs just as a mispricing widens.
+explanation: Arbitrage is done mostly by specialists managing other people's money, and outside investors judge them on recent returns. The resulting withdrawals can force selling at the worst moment and even amplify price shocks.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/arbitrage.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ade36c11f8ce96d5ddf6bea7de5819ed21441c04
+concepts:
+- kt:arbitrage
+- kt:limits-to-arbitrage
+- kt:agency-costs
+difficulty: 3
+created: '2026-11-17'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000116
+area: marketing
+kind: evidence
+topic: Cannibalization
+topic_type: Concept
+true_statement: Igami's 2017 study of hard disk drive makers found cannibalization explained at least 57% of the gap between incumbent and entrant innovation.
+false_statement: Igami's 2017 study of hard disk drive makers found cannibalization explained at most 17% of the gap between incumbent and entrant innovation.
+explanation: Even with strong preemptive motives and a cost advantage, incumbents held back because new products would eat their existing profits. Igami read this as rational incumbent behavior rather than the managerial blindness Christensen stressed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/cannibalization.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 22835d477200883120ead7c3d37981a830f27d1b
+concepts:
+- kt:cannibalization
+- kt:hard-disk-drive-industry
+- kt:disruptive-innovation
+difficulty: 3
+created: '2026-11-17'
+status: active

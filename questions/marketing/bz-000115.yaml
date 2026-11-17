@@ -1,0 +1,19 @@
+id: bz-000115
+area: marketing
+kind: mechanism
+topic: Cannibalization
+topic_type: Concept
+true_statement: Cannibalization slows incumbents' adoption of new technology, while preemption, the motive to launch before rivals can, speeds it up.
+false_statement: Preemption slows incumbents' adoption of new technology, while cannibalization, the motive to launch before rivals can, speeds it up.
+explanation: An incumbent launching a new technology mostly replaces its own profit stream, so its net gain is smaller than a start-up's. Preemption pushes the other way, since waiting lets rivals take the new market.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/cannibalization.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 22835d477200883120ead7c3d37981a830f27d1b
+concepts:
+- kt:cannibalization
+- kt:innovators-dilemma
+difficulty: 2
+created: '2026-11-17'
+status: active

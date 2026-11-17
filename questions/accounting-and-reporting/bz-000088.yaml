@@ -1,0 +1,19 @@
+id: bz-000088
+area: accounting-and-reporting
+kind: origin
+topic: US GAAP
+topic_type: Framework
+true_statement: The SEC recognized FASB pronouncements as authoritative US GAAP in Accounting Series Release No. 150 in December 1973.
+false_statement: The SEC recognized FASB pronouncements as authoritative US GAAP in Accounting Series Release No. 150 in December 1959.
+explanation: The SEC had let the profession set standards since 1938, first through the Committee on Accounting Procedure and from 1959 the Accounting Principles Board. The FASB replaced the APB after the Wheat Commission urged a full-time independent body.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/gaap.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 52322eff5ed4b85c8eb3174c9fc2b2de06d272fc
+concepts:
+- kt:gaap
+- kt:financial-accounting-standards-board
+difficulty: 3
+created: '2026-11-17'
+status: active

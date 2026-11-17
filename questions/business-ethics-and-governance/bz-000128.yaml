@@ -1,0 +1,19 @@
+id: bz-000128
+area: business-ethics-and-governance
+kind: evidence
+topic: ESG
+topic_type: Framework
+true_statement: Berg, Kölbel and Rigobon found that measurement differences, not weighting, explained most of the divergence among six major ESG ratings.
+false_statement: Berg, Kölbel and Rigobon found that weighting differences, not measurement, explained most of the divergence among six major ESG ratings.
+explanation: Measurement accounted for 56% of the disagreement, scope for 38% and weighting for only 6%. Raters disagree mainly on how they assess the same attribute, which is why ESG labels can give investors noisy signals.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/esg.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 3dd60ffdc36cdeb2788ab2f580c01fadc4804f27
+concepts:
+- kt:esg
+- kt:esg-ratings
+difficulty: 3
+created: '2026-11-17'
+status: active

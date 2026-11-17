@@ -1,0 +1,19 @@
+id: bz-000142
+area: consulting-and-problem-solving
+kind: mechanism
+topic: Issue Tree
+topic_type: Framework
+true_statement: Chevallier advises building the diagnostic why tree before the solution how tree, because understanding causes sharpens the question the solution tree answers.
+false_statement: Chevallier advises building the solution how tree before the diagnostic why tree, because listing options sharpens the question the diagnostic tree answers.
+explanation: A why tree maps root causes of an outcome, and a how tree maps options for reaching a goal. Neither is superior, but solving before diagnosing risks answering the wrong question, and each tree should hold only one type of question.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/issue-tree.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: bcf841e1363ee355816dc3962d9b26f8b9094515
+concepts:
+- kt:issue-tree
+- kt:root-cause-analysis
+difficulty: 2
+created: '2026-11-17'
+status: active

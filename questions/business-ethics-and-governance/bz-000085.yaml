@@ -1,0 +1,20 @@
+id: bz-000085
+area: business-ethics-and-governance
+kind: definition
+topic: Stakeholder Theory
+topic_type: Theory
+true_statement: Freeman defined a stakeholder as any group or individual that can affect, or is affected by, the achievement of an organization's objectives.
+false_statement: Freeman defined a stakeholder as any group or individual that holds a legal or financial claim on an organization's assets.
+explanation: The definition is deliberately broad, covering customers, employees, suppliers and communities as well as financiers. Its aim was to widen strategic management beyond a purely economic, owner-centred view.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/stakeholder-theory.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 617c92878b2388e1e17e10c83b52d39ed3d1147d
+concepts:
+- kt:stakeholder-theory
+- kt:r-edward-freeman
+- kt:strategic-management-a-stakeholder-approach
+difficulty: 1
+created: '2026-11-17'
+status: active

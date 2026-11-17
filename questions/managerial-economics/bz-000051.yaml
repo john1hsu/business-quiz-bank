@@ -1,0 +1,19 @@
+id: bz-000051
+area: managerial-economics
+kind: evidence
+topic: Antitrust Law
+topic_type: Regulation
+true_statement: Lina Khan's 2017 Yale Law Journal note argued that antitrust's focus on short-term prices cannot see the structural power of platforms such as Amazon.
+false_statement: Carl Shapiro's 2017 Yale Law Journal note argued that antitrust's focus on short-term prices cannot see the structural power of platforms such as Amazon.
+explanation: 'Khan argued a platform can rationally price below cost to win lock-in and data, so a price test misses the harm. Shapiro was the cautious counterpoint: he backed tougher merger review but warned against stretching antitrust to target political power or inequality.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/antitrust-law.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4a6a0bd320dd7172033dacde353b6f5e0430cdfb
+concepts:
+- kt:antitrust-law
+- kt:network-effect
+difficulty: 3
+created: '2026-11-17'
+status: active

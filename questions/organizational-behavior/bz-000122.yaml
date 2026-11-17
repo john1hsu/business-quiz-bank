@@ -1,0 +1,19 @@
+id: bz-000122
+area: organizational-behavior
+kind: evidence
+topic: Google Project Aristotle
+topic_type: Case
+true_statement: In Project Aristotle, team size, colocation and seniority did not significantly predict team effectiveness at Google.
+false_statement: In Project Aristotle, team size, colocation and seniority were the strongest predictors of team effectiveness at Google.
+explanation: The study's headline was that how a team works together matters more than who is on it. Google cautioned that these composition factors might still matter in other organizations.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/google-project-aristotle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 7a0b084f3e4079d44d16e9c7c2dd22b78e2aa4ef
+concepts:
+- kt:google-project-aristotle
+- kt:team-effectiveness
+difficulty: 2
+created: '2026-11-17'
+status: active

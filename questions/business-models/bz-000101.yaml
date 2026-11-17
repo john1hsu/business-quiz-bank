@@ -1,0 +1,19 @@
+id: bz-000101
+area: business-models
+kind: mechanism
+topic: Razor and Blades
+topic_type: BusinessModel
+true_statement: 'The razor-and-blades model works as price discrimination: a low base price draws in light users, while consumable margins extract more from heavy users.'
+false_statement: 'The razor-and-blades model works as price discrimination: a low consumable price draws in heavy users, while base-product margins extract more from light users.'
+explanation: Economists treat it as a two-part tariff, with the base product as an entry fee and the consumable as a per-use charge. Since heavy users buy more consumables, they pay more in total for the same base product.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/razor-and-blades-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9defd05cffb9ade82bf834f2b5290294e98e8fbe
+concepts:
+- kt:razor-and-blades-model
+- kt:price-discrimination
+difficulty: 2
+created: '2026-11-17'
+status: active

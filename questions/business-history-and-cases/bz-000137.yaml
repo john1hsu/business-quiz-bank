@@ -1,0 +1,20 @@
+id: bz-000137
+area: business-history-and-cases
+kind: evidence
+topic: Kodak Decline
+topic_type: Case
+true_statement: Vinokurova and Kapoor argue Kodak saw digital coming and invested in it, but film's exceptional profitability set aspirations few new ventures could meet.
+false_statement: Vinokurova and Kapoor argue Kodak ignored digital and never invested in it, because film's exceptional profitability made new ventures seem unnecessary.
+explanation: Kodak tried Photo CD, APS, digital cameras and inkjet. Uncertain timing of consumer adoption and an illusion of resilience from strong film sales made unprofitable digital bets hard to sustain, a richer story than simple myopia.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/kodak-decline.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 2d5c5ca45d98b117fffecbaf4bcd3f0110a6372f
+concepts:
+- kt:kodak-decline
+- kt:innovators-dilemma
+- kt:strategic-renewal
+difficulty: 3
+created: '2026-11-17'
+status: active

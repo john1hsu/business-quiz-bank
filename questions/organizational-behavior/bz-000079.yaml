@@ -1,0 +1,19 @@
+id: bz-000079
+area: organizational-behavior
+kind: origin
+topic: Amy Edmondson
+topic_type: Person
+true_statement: In Edmondson's 1996 hospital study, better-led nursing units recorded more medication errors, because their staff were more willing to report mistakes.
+false_statement: In Edmondson's 1996 hospital study, better-led nursing units recorded fewer medication errors, because their staff made fewer mistakes.
+explanation: A detected error rate mixes how many errors happen with how willing people are to report them. This anomaly led to her work on psychological safety, and it warns managers not to read low reported numbers as good performance.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/amy-edmondson.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 6e53f018c1cc800ed82c5d62916010c9f18f8408
+concepts:
+- kt:amy-edmondson
+- kt:psychological-safety
+difficulty: 2
+created: '2026-11-17'
+status: active

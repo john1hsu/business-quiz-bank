@@ -1,0 +1,19 @@
+id: bz-000136
+area: business-history-and-cases
+kind: origin
+topic: Kodak Decline
+topic_type: Case
+true_statement: Kodak engineer Steven Sasson built a digital camera prototype in 1975, which Kodak patented in 1978 but never produced.
+false_statement: Fujifilm engineer Steven Sasson built a digital camera prototype in 1975, which Fujifilm patented in 1978 but never produced.
+explanation: The device stored 100 × 100 pixel black-and-white images on cassette tape and took about 23 seconds per shot. That Kodak invented the technology that undermined it is why the case is a strategy-teaching staple.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/kodak-decline.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 2d5c5ca45d98b117fffecbaf4bcd3f0110a6372f
+concepts:
+- kt:kodak-decline
+- kt:technological-disruption
+difficulty: 1
+created: '2026-11-17'
+status: active

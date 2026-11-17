@@ -1,0 +1,19 @@
+id: bz-000135
+area: accounting-and-reporting
+kind: definition
+topic: Free Cash Flow
+topic_type: Metric
+true_statement: Unlike free cash flow, EBITDA makes no deduction for capital expenditures or changes in working capital.
+false_statement: Unlike EBITDA, free cash flow makes no deduction for capital expenditures or changes in working capital.
+explanation: Free cash flow starts from operating cash flow, which already reflects working-capital changes, and then subtracts capital spending. That makes it a closer gauge of cash a business can actually return or redeploy than EBITDA.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/free-cash-flow.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 127d8d2644bdd04836b8ce2beeb7b5426aac62d2
+concepts:
+- kt:free-cash-flow
+- kt:ebitda
+difficulty: 1
+created: '2026-11-17'
+status: active

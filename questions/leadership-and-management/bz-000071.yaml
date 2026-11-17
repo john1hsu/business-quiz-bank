@@ -1,0 +1,20 @@
+id: bz-000071
+area: leadership-and-management
+kind: mechanism
+topic: Objectives and Key Results (OKRs)
+topic_type: Framework
+true_statement: In Google's OKR playbook, committed OKRs are expected to score 1.0, while aspirational OKRs are expected to average about 0.7.
+false_statement: In Google's OKR playbook, aspirational OKRs are expected to score 1.0, while committed OKRs are expected to average about 0.7.
+explanation: Committed OKRs are promises, so a miss calls for an explanation and a blameless postmortem. Aspirational OKRs describe a future without a clear path yet, so partial scores are normal and they roll forward until done.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/okrs.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: b5e6897bf06fe4588567bf1b05e81ee695a7f333
+concepts:
+- kt:okrs
+- kt:google
+- kt:stretch-goals
+difficulty: 2
+created: '2026-11-17'
+status: active

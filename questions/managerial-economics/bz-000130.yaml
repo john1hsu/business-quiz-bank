@@ -1,0 +1,20 @@
+id: bz-000130
+area: managerial-economics
+kind: definition
+topic: Network Effect
+topic_type: Concept
+true_statement: 'Indirect network effects work through complements: as more of a hardware product sells, more software or content is made for it, raising the hardware''s value.'
+false_statement: 'Direct network effects work through complements: as more of a hardware product sells, more software or content is made for it, raising the hardware''s value.'
+explanation: Katz and Shapiro separated direct effects, from physical connection as with telephones or fax machines, from indirect ones that flow through complementary goods. They also named a third channel, denser post-purchase service for larger installed bases.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/network-effect.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d86b2a88380027bcd5a7a213300247401d58b77a
+concepts:
+- kt:network-effect
+- kt:michael-l-katz
+- kt:carl-shapiro
+difficulty: 1
+created: '2026-11-17'
+status: active

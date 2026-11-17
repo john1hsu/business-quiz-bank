@@ -1,0 +1,19 @@
+id: bz-000094
+area: government-contracting-and-public-sector
+kind: definition
+topic: Indefinite Delivery, Indefinite Quantity (IDIQ) Contract
+topic_type: Concept
+true_statement: Under an IDIQ contract, the government must order a stated minimum that is more than nominal but no more than it is fairly certain to need.
+false_statement: Under an IDIQ contract, the government must order the stated maximum, which is set at the most it could conceivably need.
+explanation: The minimum is the only quantity the government owes; anything beyond it is ordered through task or delivery orders as needs arise. The maximum is a reasonable ceiling based on market research, not a commitment.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 1e9a6f6dc9e80f3860cb1122acfc25e967376868
+concepts:
+- kt:indefinite-delivery-indefinite-quantity
+- kt:government-contract-types
+difficulty: 2
+created: '2026-11-17'
+status: active

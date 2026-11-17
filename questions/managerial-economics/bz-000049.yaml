@@ -1,0 +1,19 @@
+id: bz-000049
+area: managerial-economics
+kind: mechanism
+topic: Antitrust Law
+topic_type: Regulation
+true_statement: Under the Sherman Act, naked price fixing among competitors is illegal per se, while most other restraints are judged under the rule of reason.
+false_statement: Under the Sherman Act, naked price fixing among competitors is judged under the rule of reason, while most other restraints are illegal per se.
+explanation: Since Standard Oil (1911), courts ban only unreasonable restraints. Price fixing, market division and bid rigging are treated as so harmful that no justification is heard, while other conduct is weighed for its procompetitive and anticompetitive effects.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/antitrust-law.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4a6a0bd320dd7172033dacde353b6f5e0430cdfb
+concepts:
+- kt:antitrust-law
+- kt:sherman-act
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000081
+area: organizational-behavior
+kind: definition
+topic: Amy Edmondson
+topic_type: Person
+true_statement: In Edmondson's failure framework, intelligent failures are well-intentioned experiments in new territory, while basic failures are preventable slips.
+false_statement: In Edmondson's failure framework, complex failures are well-intentioned experiments in new territory, while basic failures are preventable slips.
+explanation: Right Kind of Wrong (2023) separates basic, complex and intelligent failures. Complex failures have multiple causes and are reduced by catching small problems early; only intelligent failures generate useful knowledge worth encouraging.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/amy-edmondson.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 6e53f018c1cc800ed82c5d62916010c9f18f8408
+concepts:
+- kt:amy-edmondson
+- kt:intelligent-failure
+difficulty: 2
+created: '2026-11-17'
+status: active

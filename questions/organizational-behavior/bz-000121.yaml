@@ -1,0 +1,20 @@
+id: bz-000121
+area: organizational-behavior
+kind: origin
+topic: Google Project Aristotle
+topic_type: Case
+true_statement: Google's Project Oxygen, which preceded Aristotle, set out to prove managers did not matter and found instead that better managers were linked to lower turnover.
+false_statement: Google's Project Oxygen, which preceded Aristotle, set out to prove managers mattered and found instead that manager quality had no link to turnover.
+explanation: Oxygen began in 2009 as a skeptical test and ended by distilling eight behaviors of good managers that Google built into feedback and training. Aristotle then applied the same evidence-driven approach to teams.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/google-project-aristotle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 7a0b084f3e4079d44d16e9c7c2dd22b78e2aa4ef
+concepts:
+- kt:google-project-aristotle
+- kt:google-project-oxygen
+- kt:people-analytics
+difficulty: 2
+created: '2026-11-17'
+status: active

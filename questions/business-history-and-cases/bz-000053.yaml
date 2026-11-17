@@ -1,0 +1,19 @@
+id: bz-000053
+area: business-history-and-cases
+kind: figure
+topic: IBM Turnaround
+topic_type: Case
+true_statement: By 2001, services and software together made up 58% of IBM's revenue, reflecting its shift from selling boxes to selling solutions.
+false_statement: By 2001, services and software together made up 18% of IBM's revenue, reflecting its shift from selling boxes to selling solutions.
+explanation: Services brought in about $35 billion and software about $13 billion in 2001. That mix shows how far IBM had moved from a mainframe-dependent model where over 90% of profit once came from mainframes.
+as_of: '2001'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/ibm-turnaround.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: be8ede219baf0338fbf042db2e17627cac7cbb9b
+concepts:
+- kt:ibm-turnaround
+difficulty: 2
+created: '2026-11-17'
+status: active

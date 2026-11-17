@@ -1,0 +1,19 @@
+id: bz-000111
+area: innovation-and-entrepreneurship
+kind: application
+topic: Clayton Christensen
+topic_type: Person
+true_statement: Christensen founded Innosight in 2000 to advise companies on innovation and Rose Park Advisors in 2007 to invest along the lines of his theories.
+false_statement: Christensen founded Rose Park Advisors in 2000 to advise companies on innovation and Innosight in 2007 to invest along the lines of his theories.
+explanation: He turned his research into practice through a consultancy, an investment firm and a think tank now called the Christensen Institute. Innosight is the consulting arm; Rose Park is the investor.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/clayton-christensen.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 8f6c698026b6dbee534bdb2b78411a45de7e2ee3
+concepts:
+- kt:clayton-christensen
+- kt:disruptive-innovation
+difficulty: 2
+created: '2026-11-17'
+status: active

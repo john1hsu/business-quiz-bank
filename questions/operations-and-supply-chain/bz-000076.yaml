@@ -1,0 +1,19 @@
+id: bz-000076
+area: operations-and-supply-chain
+kind: definition
+topic: Bill of Materials
+topic_type: Concept
+true_statement: The engineering BOM reflects how parts relate to a product's functional design, while the manufacturing BOM reflects how they are actually assembled.
+false_statement: The manufacturing BOM reflects how parts relate to a product's functional design, while the engineering BOM reflects how they are actually assembled.
+explanation: The MBOM is derived from the EBOM and defines what to make, while a separate bill of process defines how. Keeping the two in step when designs change is a recurring product-data task.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/bill-of-materials.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: b1d32001290705c9368274bffc8aa18d51f2df74
+concepts:
+- kt:bill-of-materials
+- kt:product-lifecycle-management
+difficulty: 2
+created: '2026-11-17'
+status: active

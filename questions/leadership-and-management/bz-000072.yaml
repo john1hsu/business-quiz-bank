@@ -1,0 +1,20 @@
+id: bz-000072
+area: leadership-and-management
+kind: evidence
+topic: Objectives and Key Results (OKRs)
+topic_type: Framework
+true_statement: Ordóñez, Schweitzer, Galinsky and Bazerman argued in 2009 that specific, challenging goals can narrow focus and increase unethical behaviour, so they need careful dosing.
+false_statement: Ordóñez, Schweitzer, Galinsky and Bazerman argued in 2009 that specific, challenging goals broaden focus and reduce unethical behaviour, so they need little oversight.
+explanation: They likened goals to prescription-strength medication whose side effects were overlooked, citing cases like the Ford Pinto. OKRs blunt part of this by decoupling goals from pay, but the narrow-focus risk remains.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/okrs.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: b5e6897bf06fe4588567bf1b05e81ee695a7f333
+concepts:
+- kt:okrs
+- kt:goal-setting-theory
+- kt:stretch-goals
+difficulty: 3
+created: '2026-11-17'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000044
+area: accounting-and-reporting
+kind: origin
+topic: FASB Conceptual Framework
+topic_type: Framework
+true_statement: The FASB completed its rebuilt conceptual framework in July 2024 by issuing Chapter 6 of Concepts Statement No. 8, on measurement.
+false_statement: The FASB completed its rebuilt conceptual framework in July 2024 by issuing Chapter 6 of Concepts Statement No. 8, on presentation.
+explanation: Measurement was the last piece of the project the Board reopened in 2014. Presentation was Chapter 7, issued earlier in December 2021 alongside Chapter 4 on the elements of financial statements.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/fasb-conceptual-framework.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c9342590d03bae100126de96cffcbd9d9a4cdee5
+concepts:
+- kt:fasb-conceptual-framework
+- kt:financial-accounting-standards-board
+difficulty: 3
+created: '2026-11-17'
+status: active

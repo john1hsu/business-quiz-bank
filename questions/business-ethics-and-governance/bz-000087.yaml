@@ -1,0 +1,20 @@
+id: bz-000087
+area: business-ethics-and-governance
+kind: application
+topic: Stakeholder Theory
+topic_type: Theory
+true_statement: The Business Roundtable's August 2019 purpose statement, signed by 181 CEOs, replaced statements issued since 1997 that had endorsed shareholder primacy.
+false_statement: The Business Roundtable's August 2019 purpose statement, signed by 181 CEOs, reaffirmed statements issued since 1997 that had endorsed shareholder primacy.
+explanation: The statement committed signers to customers, employees, suppliers, communities and shareholders. Supporters called it a long-term commitment, while the Council of Institutional Investors warned it would give CEOs cover to evade shareholder oversight.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/stakeholder-theory.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 617c92878b2388e1e17e10c83b52d39ed3d1147d
+concepts:
+- kt:stakeholder-theory
+- kt:business-roundtable-statement-on-corporate-purpose
+- kt:shareholder-primacy
+difficulty: 2
+created: '2026-11-17'
+status: active

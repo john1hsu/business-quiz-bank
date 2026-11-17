@@ -1,0 +1,19 @@
+id: bz-000102
+area: business-models
+kind: evidence
+topic: Razor and Blades
+topic_type: BusinessModel
+true_statement: Schmalensee's 2015 analysis found pricing the razor below cost is never optimal in a standard continuum model and optimal only in a narrow two-type case.
+false_statement: Schmalensee's 2015 analysis found pricing the razor below cost is always optimal in a standard continuum model and suboptimal only in a narrow two-type case.
+explanation: Building on Oi's 1971 result that the consumable should be priced above cost, he concluded below-cost razors are unlikely to be optimal in practice. He also argued such pricing, when used to discriminate, should not automatically be treated as predatory.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/razor-and-blades-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9defd05cffb9ade82bf834f2b5290294e98e8fbe
+concepts:
+- kt:razor-and-blades-model
+- kt:industrial-organization
+difficulty: 3
+created: '2026-11-17'
+status: active

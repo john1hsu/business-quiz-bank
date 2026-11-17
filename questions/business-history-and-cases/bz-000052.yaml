@@ -1,0 +1,19 @@
+id: bz-000052
+area: business-history-and-cases
+kind: mechanism
+topic: IBM Turnaround
+topic_type: Case
+true_statement: In 1993 Gerstner reversed IBM's move toward autonomous, spin-off-ready business units and kept the company whole as an integrated IT provider.
+false_statement: In 1993 Gerstner accelerated IBM's move toward autonomous, spin-off-ready business units and broke the company into independent firms.
+explanation: He reasoned that customers needed someone to assemble systems from many vendors, and IBM's breadth suited that role. He later called keeping IBM together his most important decision.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/ibm-turnaround.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: be8ede219baf0338fbf042db2e17627cac7cbb9b
+concepts:
+- kt:ibm-turnaround
+- kt:louis-v-gerstner
+difficulty: 2
+created: '2026-11-17'
+status: active

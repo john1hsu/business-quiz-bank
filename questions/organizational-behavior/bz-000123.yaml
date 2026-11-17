@@ -1,0 +1,19 @@
+id: bz-000123
+area: organizational-behavior
+kind: application
+topic: Google Project Aristotle
+topic_type: Case
+true_statement: Woolley and colleagues found in 2010 that a group's collective intelligence tracked members' social sensitivity and evenly shared turns, not their individual intelligence.
+false_statement: Woolley and colleagues found in 2010 that a group's collective intelligence tracked members' maximum individual intelligence, not their social sensitivity or turn-taking.
+explanation: 'This independent lab result points the same way as Aristotle: process beats composition. A team of the smartest individuals does not automatically think best together.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/google-project-aristotle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 7a0b084f3e4079d44d16e9c7c2dd22b78e2aa4ef
+concepts:
+- kt:google-project-aristotle
+- kt:high-performance-teams
+difficulty: 3
+created: '2026-11-17'
+status: active

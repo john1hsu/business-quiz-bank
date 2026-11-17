@@ -1,0 +1,19 @@
+id: bz-000058
+area: consulting-and-problem-solving
+kind: definition
+topic: MECE Principle
+topic_type: Framework
+true_statement: A breakdown that is not mutually exclusive double-counts, while one that is not collectively exhaustive leaves gaps.
+false_statement: A breakdown that is not mutually exclusive leaves gaps, while one that is not collectively exhaustive double-counts.
+explanation: Mutually exclusive means no item overlaps another, so overlap is what causes double-counting. Collectively exhaustive means the items cover the whole, so missing coverage is what leaves gaps.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/mece-principle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c414c8894fbab2a5a8cb3d0a9fa6863c9a2b936d
+concepts:
+- kt:mece-principle
+- kt:mutually-exclusive-events
+difficulty: 1
+created: '2026-11-17'
+status: active

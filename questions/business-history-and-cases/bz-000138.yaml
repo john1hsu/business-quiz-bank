@@ -1,0 +1,19 @@
+id: bz-000138
+area: business-history-and-cases
+kind: application
+topic: Kodak Decline
+topic_type: Case
+true_statement: Kodak's 2007 move into consumer inkjet printers bet that people would keep printing photos even from digital cameras.
+false_statement: Kodak's 2007 move into consumer inkjet printers bet that people would stop printing photos and view them on screens instead.
+explanation: The bet extended Kodak's prints-and-consumables model into the digital era. Funding inkjet while closing film plants strained cash before the 2012 bankruptcy, and the assumption failed as photos moved to screens.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/kodak-decline.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 2d5c5ca45d98b117fffecbaf4bcd3f0110a6372f
+concepts:
+- kt:kodak-decline
+- kt:razor-and-blades-model
+difficulty: 2
+created: '2026-11-17'
+status: active

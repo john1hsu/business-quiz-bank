@@ -1,0 +1,19 @@
+id: bz-000090
+area: accounting-and-reporting
+kind: application
+topic: US GAAP
+topic_type: Framework
+true_statement: Regulation G requires any public non-GAAP measure to be accompanied by the most directly comparable GAAP figure and a quantitative reconciliation.
+false_statement: Regulation G requires any public non-GAAP measure to replace the most directly comparable GAAP figure, with no reconciliation needed.
+explanation: Adjusted metrics such as EBITDA are allowed, but readers must be able to see how they differ from GAAP. For analysts, that reconciliation is usually where judgment about true performance begins.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/gaap.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 52322eff5ed4b85c8eb3174c9fc2b2de06d272fc
+concepts:
+- kt:gaap
+- kt:non-gaap-financial-measures
+difficulty: 2
+created: '2026-11-17'
+status: active

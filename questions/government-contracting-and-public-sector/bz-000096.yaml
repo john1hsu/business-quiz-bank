@@ -1,0 +1,19 @@
+id: bz-000096
+area: government-contracting-and-public-sector
+kind: evidence
+topic: Indefinite Delivery, Indefinite Quantity (IDIQ) Contract
+topic_type: Concept
+true_statement: GAO found that about 60% of IDIQ dollars in FY2011–FY2015 went through single-award contracts, despite the FAR's preference for multiple awards.
+false_statement: GAO found that about 60% of IDIQ dollars in FY2011–FY2015 went through multiple-award contracts, in line with the FAR's preference for multiple awards.
+explanation: 'This gap is the main critique of IDIQs: weak competition. Single awards raise the risk of vendor lock-in, and GAO also found that 10 of 18 sampled DoD single-award contracts were not competed.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 1e9a6f6dc9e80f3860cb1122acfc25e967376868
+concepts:
+- kt:indefinite-delivery-indefinite-quantity
+- kt:federal-acquisition-regulation
+difficulty: 3
+created: '2026-11-17'
+status: active

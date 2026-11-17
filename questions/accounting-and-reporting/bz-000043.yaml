@@ -1,0 +1,19 @@
+id: bz-000043
+area: accounting-and-reporting
+kind: definition
+topic: FASB Conceptual Framework
+topic_type: Framework
+true_statement: 'FASB Concepts Statements are nonauthoritative: they guide the Board when it writes standards but do not themselves establish GAAP.'
+false_statement: 'FASB Concepts Statements are authoritative: they sit in the Codification and establish GAAP that preparers must apply directly.'
+explanation: The framework explains why standards look the way they do, but companies apply the standards, not the concepts. ASU 2024-02 even stripped remaining references to the Concepts Statements out of the Codification to keep that line clear.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/fasb-conceptual-framework.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c9342590d03bae100126de96cffcbd9d9a4cdee5
+concepts:
+- kt:fasb-conceptual-framework
+- kt:gaap
+difficulty: 2
+created: '2026-11-17'
+status: active

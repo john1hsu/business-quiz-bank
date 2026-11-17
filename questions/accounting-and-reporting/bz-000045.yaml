@@ -1,0 +1,19 @@
+id: bz-000045
+area: accounting-and-reporting
+kind: mechanism
+topic: FASB Conceptual Framework
+topic_type: Framework
+true_statement: The FASB framework treats investors, lenders and other creditors as primary users because they usually cannot demand information directly from the company.
+false_statement: The FASB framework treats regulators and tax authorities as primary users because they usually cannot demand information directly from the company.
+explanation: Chapter 1 sets the objective of general purpose reporting as helping capital providers decide whether to supply resources. Regulators can compel information, so they do not depend on general purpose reports the way outside capital providers do.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/fasb-conceptual-framework.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c9342590d03bae100126de96cffcbd9d9a4cdee5
+concepts:
+- kt:fasb-conceptual-framework
+- kt:financial-accounting
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000110
+area: innovation-and-entrepreneurship
+kind: origin
+topic: Clayton Christensen
+topic_type: Person
+true_statement: Historian Tom Nicholas argues that Christensen's disruption research drew on Alfred Chandler's account of the large, vertically integrated enterprise.
+false_statement: Historian Tom Nicholas argues that Christensen's disruption research drew on Joseph Schumpeter's account of creative destruction.
+explanation: Christensen built theory from business history, starting with a 1993 Business History Review study of integrated disk-drive makers. Nicholas places that method in Chandler's tradition; creative destruction is a related idea, not the source he identifies.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/clayton-christensen.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 8f6c698026b6dbee534bdb2b78411a45de7e2ee3
+concepts:
+- kt:clayton-christensen
+- kt:innovators-dilemma
+difficulty: 3
+created: '2026-11-17'
+status: active

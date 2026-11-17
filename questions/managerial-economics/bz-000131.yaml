@@ -1,0 +1,19 @@
+id: bz-000131
+area: managerial-economics
+kind: mechanism
+topic: Network Effect
+topic_type: Concept
+true_statement: In Katz and Shapiro's model, firms with large networks tend to resist compatibility even when it would raise welfare, while firms with small networks favor it.
+false_statement: In Katz and Shapiro's model, firms with small networks tend to resist compatibility even when it would raise welfare, while firms with large networks favor it.
+explanation: Compatibility shares the benefit of a big installed base with rivals, so the leader loses an advantage and the laggard gains one. That is why standards fights pit large incumbents against smaller challengers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/network-effect.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d86b2a88380027bcd5a7a213300247401d58b77a
+concepts:
+- kt:network-effect
+- kt:network-externalities-competition-and-compatibility-1985
+difficulty: 2
+created: '2026-11-17'
+status: active

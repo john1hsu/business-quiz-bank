@@ -1,0 +1,19 @@
+id: bz-000095
+area: government-contracting-and-public-sector
+kind: origin
+topic: Indefinite Delivery, Indefinite Quantity (IDIQ) Contract
+topic_type: Concept
+true_statement: The Federal Acquisition Streamlining Act of 1994 created a preference for multiple-award IDIQs and gave each holder a fair opportunity to be considered for orders.
+false_statement: The Federal Acquisition Streamlining Act of 1994 created a preference for single-award IDIQs and gave the incumbent holder first claim on all orders.
+explanation: FASA pushed agencies to award several contracts so orders would still be competed among holders. Its exceptions, such as unusual urgency or logical follow-on orders, remain the core of today's fair-opportunity rules.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 1e9a6f6dc9e80f3860cb1122acfc25e967376868
+concepts:
+- kt:indefinite-delivery-indefinite-quantity
+- kt:federal-acquisition-streamlining-act
+difficulty: 2
+created: '2026-11-17'
+status: active

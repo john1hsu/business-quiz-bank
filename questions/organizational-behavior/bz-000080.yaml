@@ -1,0 +1,20 @@
+id: bz-000080
+area: organizational-behavior
+kind: evidence
+topic: Amy Edmondson
+topic_type: Person
+true_statement: In Edmondson's 1999 study of 51 work teams, team learning behavior mediated the link between psychological safety and team performance.
+false_statement: In Edmondson's 1999 study of 51 work teams, team efficacy mediated the link between psychological safety and team performance.
+explanation: Safety made teams more willing to ask, admit errors and experiment, and that learning behavior is what improved performance. Team efficacy, by contrast, had no association with learning once safety was controlled for.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/amy-edmondson.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 6e53f018c1cc800ed82c5d62916010c9f18f8408
+concepts:
+- kt:amy-edmondson
+- kt:psychological-safety
+- kt:organizational-learning
+difficulty: 3
+created: '2026-11-17'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000078
+area: operations-and-supply-chain
+kind: application
+topic: Bill of Materials
+topic_type: Concept
+true_statement: A 2009 MIT thesis found that inconsistent BOM structures across more than 50 Cisco business units led to product launch delays and higher support costs.
+false_statement: A 2009 MIT thesis found that a single standard BOM structure across more than 50 Cisco business units led to product launch delays and higher support costs.
+explanation: Each unit had developed product-level BOMs its own way, and the inconsistency carried real costs. The author proposed a standardized, criteria-based workflow, showing that BOM structure is an organizational problem as much as a technical one.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/bill-of-materials.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: b1d32001290705c9368274bffc8aa18d51f2df74
+concepts:
+- kt:bill-of-materials
+- kt:cisco-systems
+difficulty: 2
+created: '2026-11-17'
+status: active

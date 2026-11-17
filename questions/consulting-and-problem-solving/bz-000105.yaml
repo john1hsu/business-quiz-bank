@@ -1,0 +1,19 @@
+id: bz-000105
+area: consulting-and-problem-solving
+kind: application
+topic: Hypothesis-Driven Problem Solving
+topic_type: Practice
+true_statement: Confirmation bias threatens hypothesis-driven teams because people testing a favored hypothesis tend to pick tests that can only return yes, as in Wason's 2-4-6 task.
+false_statement: Confirmation bias threatens hypothesis-driven teams because people testing a favored hypothesis tend to pick tests that can only return no, as in Wason's 2-4-6 task.
+explanation: Committing early to an answer invites seeking only supporting evidence and explaining away contrary data. The standard remedy is to generate alternative hypotheses and design tests capable of refuting them.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 52ef00a7c49af13260fd478c9fe698d2644ee5c6
+concepts:
+- kt:hypothesis-driven-problem-solving
+- kt:confirmation-bias
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000061
+area: corporate-finance
+kind: mechanism
+topic: Leveraged Buyout
+topic_type: Practice
+true_statement: In buyouts, governance engineering means installing smaller, more active boards and replacing underperforming executives quickly.
+false_statement: In buyouts, operational engineering means installing smaller, more active boards and replacing underperforming executives quickly.
+explanation: Sponsors are said to add value through financial, governance and operational engineering. Board and executive changes are governance engineering; operational engineering, more prominent since the 2000s, means bringing industry and operating expertise to the business.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/leveraged-buyout.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9db779e3ba0de94eb27921801c04c19cc046c1d0
+concepts:
+- kt:leveraged-buyout
+- kt:private-equity
+- kt:corporate-governance
+difficulty: 2
+created: '2026-11-17'
+status: active

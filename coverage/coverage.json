@@ -1,79 +1,115 @@
 {
  "totals": {
-  "active": 42
+  "active": 142
  },
  "areas": {
   "accounting-and-reporting": {
-   "active": 3
+   "active": 12
   },
   "business-ethics-and-governance": {
-   "active": 3
+   "active": 12
   },
   "business-history-and-cases": {
-   "active": 3
+   "active": 12
   },
   "business-models": {
-   "active": 3
+   "active": 12
   },
   "consulting-and-problem-solving": {
-   "active": 3
+   "active": 10
   },
   "corporate-finance": {
-   "active": 3
+   "active": 9
   },
   "government-contracting-and-public-sector": {
-   "active": 3
+   "active": 9
   },
   "innovation-and-entrepreneurship": {
-   "active": 3
+   "active": 9
   },
   "leadership-and-management": {
-   "active": 3
+   "active": 9
   },
   "managerial-economics": {
-   "active": 3
+   "active": 12
   },
   "marketing": {
-   "active": 3
+   "active": 9
   },
   "operations-and-supply-chain": {
-   "active": 3
+   "active": 9
   },
   "organizational-behavior": {
-   "active": 3
+   "active": 9
   },
   "strategy": {
-   "active": 3
+   "active": 9
   }
  },
  "kinds": {
   "application": {
-   "active": 5
+   "active": 20
   },
   "definition": {
-   "active": 6
+   "active": 18
   },
   "evidence": {
-   "active": 9
+   "active": 35
   },
   "figure": {
-   "active": 2
+   "active": 5
   },
   "mechanism": {
-   "active": 11
+   "active": 37
   },
   "origin": {
-   "active": 9
+   "active": 27
   }
  },
  "articles": {
   "articles/accounting-and-reporting/accrual-accounting.md": {
    "active": 3
   },
+  "articles/accounting-and-reporting/fasb-conceptual-framework.md": {
+   "active": 3
+  },
+  "articles/accounting-and-reporting/free-cash-flow.md": {
+   "active": 3
+  },
+  "articles/accounting-and-reporting/gaap.md": {
+   "active": 3
+  },
   "articles/business-ethics-and-governance/agency-costs.md": {
    "active": 3
   },
+  "articles/business-ethics-and-governance/corporate-governance.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/esg.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/stakeholder-theory.md": {
+   "active": 3
+  },
   "articles/business-history-and-cases/ford-model-t.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/ibm-turnaround.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/intel.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/kodak-decline.md": {
+   "active": 3
+  },
+  "articles/business-models/freemium.md": {
+   "active": 3
+  },
+  "articles/business-models/razor-and-blades-model.md": {
+   "active": 3
+  },
+  "articles/business-models/saas-business-model.md": {
    "active": 3
   },
   "articles/business-models/two-sided-market.md": {
@@ -82,31 +118,97 @@
   "articles/consulting-and-problem-solving/benchmarking.md": {
    "active": 3
   },
+  "articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md": {
+   "active": 3
+  },
+  "articles/consulting-and-problem-solving/issue-tree.md": {
+   "active": 1
+  },
+  "articles/consulting-and-problem-solving/mece-principle.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/arbitrage.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/leveraged-buyout.md": {
+   "active": 3
+  },
   "articles/corporate-finance/modigliani-miller-theorem.md": {
+   "active": 3
+  },
+  "articles/government-contracting-and-public-sector/best-value-tradeoff.md": {
    "active": 3
   },
   "articles/government-contracting-and-public-sector/federal-acquisition-regulation.md": {
    "active": 3
   },
+  "articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/clayton-christensen.md": {
+   "active": 3
+  },
   "articles/innovation-and-entrepreneurship/disruptive-innovation.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/organizational-ambidexterity.md": {
    "active": 3
   },
   "articles/leadership-and-management/balanced-scorecard.md": {
    "active": 3
   },
+  "articles/leadership-and-management/hoshin-kanri.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/okrs.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/antitrust-law.md": {
+   "active": 3
+  },
   "articles/managerial-economics/economies-of-scale.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/industrial-organization.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/network-effect.md": {
+   "active": 3
+  },
+  "articles/marketing/cannibalization.md": {
+   "active": 3
+  },
+  "articles/marketing/customer-lifetime-value.md": {
    "active": 3
   },
   "articles/marketing/segmentation-targeting-positioning.md": {
    "active": 3
   },
+  "articles/operations-and-supply-chain/bill-of-materials.md": {
+   "active": 3
+  },
+  "articles/operations-and-supply-chain/enterprise-resource-planning.md": {
+   "active": 3
+  },
   "articles/operations-and-supply-chain/kanban.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/amy-edmondson.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/google-project-aristotle.md": {
    "active": 3
   },
   "articles/organizational-behavior/psychological-safety.md": {
    "active": 3
   },
   "articles/strategy/barriers-to-entry.md": {
+   "active": 3
+  },
+  "articles/strategy/dynamic-capabilities.md": {
+   "active": 3
+  },
+  "articles/strategy/first-mover-advantage.md": {
    "active": 3
   }
  }

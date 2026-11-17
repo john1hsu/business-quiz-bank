@@ -1,0 +1,18 @@
+id: bz-000062
+area: corporate-finance
+kind: evidence
+topic: Leveraged Buyout
+topic_type: Practice
+true_statement: Kaplan's study of large 1980s management buyouts found capital spending fell and net cash flow rose in the three years after the deal.
+false_statement: Kaplan's study of large 1980s management buyouts found capital spending rose and net cash flow fell in the three years after the deal.
+explanation: Across 76 buyouts from 1980 to 1986, operating income also rose and median market-adjusted value climbed 77%. Kaplan credited sharper incentives rather than layoffs or insiders exploiting shareholders.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/leveraged-buyout.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9db779e3ba0de94eb27921801c04c19cc046c1d0
+concepts:
+- kt:leveraged-buyout
+difficulty: 3
+created: '2026-11-17'
+status: active

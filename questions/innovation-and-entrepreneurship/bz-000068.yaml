@@ -1,0 +1,18 @@
+id: bz-000068
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: Organizational Ambidexterity
+topic_type: Concept
+true_statement: In contextual ambidexterity, leaders build a context of discipline, stretch, support and trust, and individuals decide how to split time between alignment and adaptation.
+false_statement: In contextual ambidexterity, leaders assign exploration and exploitation to separate units, each with its own metrics, and integrate them at the senior-team level.
+explanation: Gibson and Birkinshaw proposed the contextual route as a complement to structural separation, which can isolate new-business groups from the core. Separate units linked at the top describe O'Reilly and Tushman's structural ambidexterity instead.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/organizational-ambidexterity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d030fba2a877493fc21a2e8a85ec683adb9bef2b
+concepts:
+- kt:organizational-ambidexterity
+difficulty: 2
+created: '2026-11-17'
+status: active

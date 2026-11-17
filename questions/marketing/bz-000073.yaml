@@ -1,0 +1,19 @@
+id: bz-000073
+area: marketing
+kind: mechanism
+topic: Customer Lifetime Value
+topic_type: Metric
+true_statement: With constant margins and an infinite horizon, CLV equals margin times r/(1 + i − r), a multiple of about 4 at 90% retention and a 12% discount rate.
+false_statement: With constant margins and an infinite horizon, CLV equals margin times r/(1 + i − r), a multiple of about 9 at 90% retention and a 12% discount rate.
+explanation: Plugging in gives 0.9 / (1.12 − 0.9) = 0.9 / 0.22, or roughly 4.1. The 9 confuses the retention rate with the multiple; discounting and the chance of defection both shrink the value of future margins.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/customer-lifetime-value.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 44539617923f64e4f3078b9a6eec045fad13a7ff
+concepts:
+- kt:customer-lifetime-value
+- kt:discounted-cash-flow
+difficulty: 3
+created: '2026-11-17'
+status: active

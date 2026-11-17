@@ -1,0 +1,19 @@
+id: bz-000046
+area: business-ethics-and-governance
+kind: evidence
+topic: Corporate Governance
+topic_type: Concept
+true_statement: Bebchuk, Cohen and Ferrell found that six entrenchment provisions drive the negative link between weak shareholder rights and firm value; the other 18 showed no such link.
+false_statement: Bebchuk, Cohen and Ferrell found that 18 routine provisions drive the negative link between weak shareholder rights and firm value; the six entrenchment ones showed no such link.
+explanation: They decomposed the 24-provision Governance Index and found that staggered boards, poison pills, golden parachutes and similar shields against removal do the damage. The practical lesson is that a long governance checklist can mislead when a few provisions matter most.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/corporate-governance.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 69fa8c118319d0fa1a727159cbe7b460d75b9a84
+concepts:
+- kt:corporate-governance
+- kt:entrenchment-index
+difficulty: 3
+created: '2026-11-17'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000067
+area: innovation-and-entrepreneurship
+kind: origin
+topic: Organizational Ambidexterity
+topic_type: Concept
+true_statement: James March's 1991 paper argued that adaptive processes tend to refine exploitation faster than exploration, which pays off short term but becomes self-destructive long term.
+false_statement: James March's 1991 paper argued that adaptive processes tend to refine exploration faster than exploitation, which pays off short term but becomes self-destructive long term.
+explanation: Exploitation pays back sooner and more surely, so organizations drift toward it. March's point is that this bias starves the search for new possibilities, the trade-off that ambidexterity later tried to solve.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/organizational-ambidexterity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d030fba2a877493fc21a2e8a85ec683adb9bef2b
+concepts:
+- kt:organizational-ambidexterity
+- kt:exploration-and-exploitation-in-organizational-learning-1991
+- kt:organizational-learning
+difficulty: 3
+created: '2026-11-17'
+status: active

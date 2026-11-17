@@ -1,0 +1,18 @@
+id: bz-000084
+area: strategy
+kind: application
+topic: Dynamic Capabilities
+topic_type: Theory
+true_statement: 'Apple''s iPod is used to illustrate dynamic capabilities: Apple sensed demand because existing MP3 players were bulky and unattractive, then seized it with a better-designed device.'
+false_statement: 'Apple''s iPod is used to illustrate dynamic capabilities: Apple sensed demand because existing MP3 players were too expensive, then seized it with a cheaper device.'
+explanation: 'The case maps onto all three clusters: sensing latent demand, seizing it with a smaller, better-designed product and a move into consumer electronics, and transforming the line through the Nano, Touch and iTunes.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/dynamic-capabilities.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 90daaf97c5c3c8c6ac7a62dc9493600c14768929
+concepts:
+- kt:dynamic-capabilities
+difficulty: 2
+created: '2026-11-17'
+status: active

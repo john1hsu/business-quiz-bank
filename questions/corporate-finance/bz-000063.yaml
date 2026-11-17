@@ -1,0 +1,19 @@
+id: bz-000063
+area: corporate-finance
+kind: application
+topic: Leveraged Buyout
+topic_type: Practice
+true_statement: In the RJR Nabisco buyout, the roughly $10 billion premium paid to public shareholders shows that sellers can capture much of an LBO's gains when sponsors bid aggressively.
+false_statement: In the RJR Nabisco buyout, the roughly $10 billion premium paid to public shareholders shows that sponsors keep most of an LBO's gains even when they bid aggressively.
+explanation: Value created by the buyout has to be split between the sellers and the sponsor. In KKR's 1988 deal, the bidding war pushed much of that value to RJR's public shareholders through the premium.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/leveraged-buyout.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9db779e3ba0de94eb27921801c04c19cc046c1d0
+concepts:
+- kt:leveraged-buyout
+- kt:rjr-nabisco-buyout
+difficulty: 2
+created: '2026-11-17'
+status: active

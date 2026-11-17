@@ -1,0 +1,18 @@
+id: bz-000086
+area: business-ethics-and-governance
+kind: mechanism
+topic: Stakeholder Theory
+topic_type: Theory
+true_statement: Donaldson and Preston's instrumental claim is that firms managing stakeholder relationships well perform better; their normative claim is that stakeholder interests have intrinsic value.
+false_statement: Donaldson and Preston's normative claim is that firms managing stakeholder relationships well perform better; their instrumental claim is that stakeholder interests have intrinsic value.
+explanation: Their 1995 article split the theory into descriptive, instrumental and normative claims that must not be conflated. They saw the normative base as the most fundamental, which is why evidence that stakeholder management pays cannot settle whether it is right.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/stakeholder-theory.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 617c92878b2388e1e17e10c83b52d39ed3d1147d
+concepts:
+- kt:stakeholder-theory
+difficulty: 2
+created: '2026-11-17'
+status: active

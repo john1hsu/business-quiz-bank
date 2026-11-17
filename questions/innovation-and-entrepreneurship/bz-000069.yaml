@@ -1,0 +1,19 @@
+id: bz-000069
+area: innovation-and-entrepreneurship
+kind: application
+topic: Organizational Ambidexterity
+topic_type: Concept
+true_statement: Fujifilm began repositioning around 2000, when global film sales peaked, using film-related capabilities to enter cosmetics and pharmaceuticals, while Kodak stayed focused on film.
+false_statement: Kodak began repositioning around 2000, when global film sales peaked, using film-related capabilities to enter cosmetics and pharmaceuticals, while Fujifilm stayed focused on film.
+explanation: The two firms had comparable technologies, yet Fujifilm grew into new businesses and Kodak went bankrupt in 2012. The contrast supports the view that incumbents fail through leadership and design, not missing technology.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/organizational-ambidexterity.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d030fba2a877493fc21a2e8a85ec683adb9bef2b
+concepts:
+- kt:organizational-ambidexterity
+- kt:kodak-decline
+difficulty: 1
+created: '2026-11-17'
+status: active

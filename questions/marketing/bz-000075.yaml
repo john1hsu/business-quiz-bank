@@ -1,0 +1,18 @@
+id: bz-000075
+area: marketing
+kind: application
+topic: Customer Lifetime Value
+topic_type: Metric
+true_statement: In a newspaper study, subscribers acquired with a steep discount renewed at half the rate of regular-price subscribers and were worth about half as much.
+false_statement: In a newspaper study, subscribers acquired with a steep discount renewed at twice the rate of regular-price subscribers and were worth about twice as much.
+explanation: Deep discounts attract customers who value the product less, so they lapse sooner. CLV makes this visible, which is why it is used to discipline promotions rather than judging them by sign-up volume alone.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/customer-lifetime-value.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 44539617923f64e4f3078b9a6eec045fad13a7ff
+concepts:
+- kt:customer-lifetime-value
+difficulty: 2
+created: '2026-11-17'
+status: active

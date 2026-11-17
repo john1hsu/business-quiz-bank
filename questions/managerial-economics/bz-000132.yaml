@@ -1,0 +1,19 @@
+id: bz-000132
+area: managerial-economics
+kind: evidence
+topic: Network Effect
+topic_type: Concept
+true_statement: Liebowitz and Margolis disputed that QWERTY was demonstrably inferior to Dvorak or that Betamax was clearly better than VHS, challenging famous lock-in stories.
+false_statement: Liebowitz and Margolis confirmed that QWERTY was demonstrably inferior to Dvorak and that Betamax was clearly better than VHS, supporting famous lock-in stories.
+explanation: They argued network externalities that cause real market failure are theoretically fragile and empirically undocumented. Many networks need only a critical mass, and participants can often internalize the benefits.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/network-effect.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: d86b2a88380027bcd5a7a213300247401d58b77a
+concepts:
+- kt:network-effect
+- kt:path-dependence
+difficulty: 3
+created: '2026-11-17'
+status: active

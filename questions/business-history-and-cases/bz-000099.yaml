@@ -1,0 +1,19 @@
+id: bz-000099
+area: business-history-and-cases
+kind: application
+topic: Intel
+topic_type: Company
+true_statement: The Intel Inside program, launched in 1991, subsidized PC makers that put the Intel logo on their machines and in their advertising.
+false_statement: The Intel Inside program, launched in 1991, charged PC makers a fee to put the Intel logo on their machines and in their advertising.
+explanation: Intel was known to manufacturers but invisible to consumers, so it paid co-op subsidies to get its brand in front of buyers. By the end of 1992 over 500 OEMs had joined, making it the textbook case of ingredient branding.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/intel.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 35ca143b94585f815b98b2ef9401317200cb8505
+concepts:
+- kt:intel
+- kt:ingredient-branding
+difficulty: 1
+created: '2026-11-17'
+status: active

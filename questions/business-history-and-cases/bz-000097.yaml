@@ -1,0 +1,20 @@
+id: bz-000097
+area: business-history-and-cases
+kind: evidence
+topic: Intel
+topic_type: Company
+true_statement: Burgelman found that Intel's resource-allocation rules shifted fab capacity toward microprocessors before top management formally changed strategy.
+false_statement: Burgelman found that Intel's top management formally changed strategy toward microprocessors before its resource-allocation rules shifted any fab capacity.
+explanation: Allocating scarce capacity by profitability moved the firm out of DRAMs from the middle up, while the stated strategy lagged. That made Intel a standard example of strategy emerging bottom-up through an internal selection environment.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/intel.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 35ca143b94585f815b98b2ef9401317200cb8505
+concepts:
+- kt:intel
+- kt:strategic-renewal
+- kt:dynamic-capabilities
+difficulty: 3
+created: '2026-11-17'
+status: active

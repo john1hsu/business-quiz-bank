@@ -1,0 +1,19 @@
+id: bz-000054
+area: business-history-and-cases
+kind: evidence
+topic: IBM Turnaround
+topic_type: Case
+true_statement: Critics argue IBM's turnaround looks less impressive than Gerstner's memoir suggests, since a pension-plan change and large buybacks flattered results.
+false_statement: Critics argue IBM's turnaround looks more impressive than Gerstner's memoir suggests, since a pension-plan change and large buybacks depressed results.
+explanation: The case leans heavily on insider accounts such as Who Says Elephants Can't Dance?. Skeptics add that shareholder-return figures look large partly because 1993 was such a low starting point.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/ibm-turnaround.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: be8ede219baf0338fbf042db2e17627cac7cbb9b
+concepts:
+- kt:ibm-turnaround
+- kt:corporate-turnaround
+difficulty: 3
+created: '2026-11-17'
+status: active

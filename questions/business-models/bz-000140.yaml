@@ -1,0 +1,19 @@
+id: bz-000140
+area: business-models
+kind: mechanism
+topic: Software as a Service
+topic_type: BusinessModel
+true_statement: Because SaaS subscription revenue is recognized ratably over the contract term, a slump in new bookings shows up in reported revenue only gradually.
+false_statement: Because SaaS subscription revenue is recognized upfront at contract signing, a slump in new bookings shows up in reported revenue immediately.
+explanation: Each contract's revenue is spread across its 12 to 36 month term, so reported revenue lags bookings. Cash billed annually in advance meanwhile builds a large deferred revenue balance on the balance sheet.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/saas-business-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4cdf8a61409fc60d6b6d257c860c891373664c81
+concepts:
+- kt:saas-business-model
+- kt:subscription-business-model
+difficulty: 2
+created: '2026-11-17'
+status: active

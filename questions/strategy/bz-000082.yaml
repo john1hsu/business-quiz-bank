@@ -1,0 +1,19 @@
+id: bz-000082
+area: strategy
+kind: mechanism
+topic: Dynamic Capabilities
+topic_type: Theory
+true_statement: Teece's 2007 restatement split dynamic capabilities into sensing, seizing, and managing threats and reconfiguration.
+false_statement: Teece's 2007 restatement split dynamic capabilities into sensing, scaling, and managing costs and consolidation.
+explanation: Sensing spots opportunities and threats, seizing commits investment to new products and business models, and reconfiguration keeps recombining assets so the base stays relevant. The skills and processes underneath are what he calls microfoundations.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/dynamic-capabilities.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 90daaf97c5c3c8c6ac7a62dc9493600c14768929
+concepts:
+- kt:dynamic-capabilities
+- kt:david-j-teece
+difficulty: 2
+created: '2026-11-17'
+status: active

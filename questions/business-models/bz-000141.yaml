@@ -1,0 +1,20 @@
+id: bz-000141
+area: business-models
+kind: figure
+topic: Software as a Service
+topic_type: BusinessModel
+true_statement: In fiscal 2026, subscription and support made up about 95% of Salesforce's $41.5 billion in total revenue.
+false_statement: In fiscal 2026, subscription and support made up about 65% of Salesforce's $41.5 billion in total revenue.
+explanation: Subscription and support brought in about $39.4 billion of the total. That near-total reliance on recurring fees is what defines a mature SaaS model, in contrast with old licence-and-maintenance software revenue.
+as_of: FY 2026
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/saas-business-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4cdf8a61409fc60d6b6d257c860c891373664c81
+concepts:
+- kt:saas-business-model
+- kt:salesforce
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000108
+area: corporate-finance
+kind: application
+topic: Arbitrage
+topic_type: Concept
+true_statement: Froot and Dabora found that each of the Royal Dutch and Shell twin shares moved with the market where it traded most, despite pooled cash flows.
+false_statement: Froot and Dabora found that each of the Royal Dutch and Shell twin shares moved with its own company's earnings, despite pooled cash flows.
+explanation: Because the twins shared cash flows at a fixed ratio, their prices should have moved in lockstep. The persistent, location-driven gaps are a classic anomaly for efficient markets and a showcase for the limits of arbitrage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/arbitrage.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ade36c11f8ce96d5ddf6bea7de5819ed21441c04
+concepts:
+- kt:arbitrage
+- kt:royal-dutch-shell-twin-shares
+- kt:efficient-market-hypothesis
+difficulty: 3
+created: '2026-11-17'
+status: active

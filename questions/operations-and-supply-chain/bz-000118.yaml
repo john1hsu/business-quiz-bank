@@ -1,0 +1,20 @@
+id: bz-000118
+area: operations-and-supply-chain
+kind: origin
+topic: Enterprise Resource Planning
+topic_type: Practice
+true_statement: The term enterprise resource planning was coined by research firm Gartner in the early 1990s for integrated software reaching beyond the factory.
+false_statement: The term enterprise resource planning was coined by software maker SAP in the early 1970s for integrated software reaching beyond the factory.
+explanation: ERP grew out of MRP in the 1970s and MRP II after it, but the name came later, from an analyst firm describing cross-functional packages. SAP was founded in 1972, and its R/3 system arrived in 1992.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/enterprise-resource-planning.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: a1968382c98f5264e913283ca8893c653b818b22
+concepts:
+- kt:enterprise-resource-planning
+- kt:manufacturing-resource-planning
+- kt:sap
+difficulty: 2
+created: '2026-11-17'
+status: active

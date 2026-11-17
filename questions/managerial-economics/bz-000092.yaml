@@ -1,0 +1,20 @@
+id: bz-000092
+area: managerial-economics
+kind: evidence
+topic: Industrial Organization
+topic_type: Field
+true_statement: The SCP paradigm was criticized as descriptive rather than analytic, because its links between structure, conduct and performance were seldom derived from explicit models.
+false_statement: The SCP paradigm was criticized as too abstract, because its links between structure, conduct and performance came from game-theoretic models rather than industry data.
+explanation: Without a model of how firms behave, cross-industry correlations could not show cause and effect. Critics like Stigler pushed for models built on maximizing behavior, and the field later rebuilt itself on game theory and structural econometrics.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/industrial-organization.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 26dbcde165271f34b1c05c344318383e8953dda3
+concepts:
+- kt:industrial-organization
+- kt:structure-conduct-performance-paradigm
+- kt:new-empirical-industrial-organization
+difficulty: 3
+created: '2026-11-17'
+status: active

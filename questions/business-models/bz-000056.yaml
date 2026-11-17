@@ -1,0 +1,19 @@
+id: bz-000056
+area: business-models
+kind: mechanism
+topic: Freemium
+topic_type: BusinessModel
+true_statement: In freemium, a very high free-to-premium conversion rate can signal that the free offer is not attracting enough users.
+false_statement: In freemium, a very high free-to-premium conversion rate can signal that the free tier gives away too much.
+explanation: The conversion rate works as a diagnostic in both directions. A low rate suggests the premium tier adds too little or the free tier is too generous, while a very high rate suggests the free funnel is too narrow to build a large base.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/freemium.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9871d4293b506edb09fff190f08f2013e12ab8ec
+concepts:
+- kt:freemium
+- kt:pricing-strategy
+difficulty: 3
+created: '2026-11-17'
+status: active

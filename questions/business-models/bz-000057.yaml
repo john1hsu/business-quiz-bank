@@ -1,0 +1,18 @@
+id: bz-000057
+area: business-models
+kind: evidence
+topic: Freemium
+topic_type: BusinessModel
+true_statement: In a National Academies Press experiment, adding a premium e-book raised paperback revenue more than adding a premium hardback did.
+false_statement: In a National Academies Press experiment, adding a premium hardback raised paperback revenue more than adding a premium e-book did.
+explanation: Gu, Kannan and Ma found gains of 21.5% with the e-book versus 8.9% with the hardback, which they put down to compromise and attraction effects. They also warned that a cheaper premium option can cannibalize the existing paid product.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/freemium.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9871d4293b506edb09fff190f08f2013e12ab8ec
+concepts:
+- kt:freemium
+difficulty: 3
+created: '2026-11-17'
+status: active

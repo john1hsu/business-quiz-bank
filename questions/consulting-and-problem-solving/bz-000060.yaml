@@ -1,0 +1,19 @@
+id: bz-000060
+area: consulting-and-problem-solving
+kind: evidence
+topic: MECE Principle
+topic_type: Framework
+true_statement: Charles Conn recommends making two or three different MECE cuts of the same problem, because a MECE breakdown is not unique and each cut surfaces different insights.
+false_statement: Charles Conn recommends settling on a single MECE cut of a problem, because a correct MECE breakdown is unique and other cuts only repeat it.
+explanation: 'Many valid partitions exist for the same whole, and each highlights different levers. That is one limit of MECE: being exclusive and exhaustive guarantees clean addition, not the most useful framing.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/mece-principle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c414c8894fbab2a5a8cb3d0a9fa6863c9a2b936d
+concepts:
+- kt:mece-principle
+- kt:issue-tree
+difficulty: 2
+created: '2026-11-17'
+status: active

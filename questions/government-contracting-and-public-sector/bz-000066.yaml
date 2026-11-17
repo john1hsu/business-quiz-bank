@@ -1,0 +1,19 @@
+id: bz-000066
+area: government-contracting-and-public-sector
+kind: application
+topic: Best-Value Tradeoff
+topic_type: Practice
+true_statement: In DRS Technical Services (2015), GAO denied the protest because the agency's record explained why DRS's technical strengths did not justify a premium of nearly $20 million.
+false_statement: In DRS Technical Services (2015), GAO sustained the protest because the agency's record failed to explain why DRS's technical strengths did not justify a premium of nearly $20 million.
+explanation: DISA chose General Dynamics at about $132 million over the higher-rated DRS at about $152 million. GAO stressed that a selection official has broad discretion as long as the record explains the judgment.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/best-value-tradeoff.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 1a905e8f9b1f37ffff8fadb909c7c8ff4a85124c
+concepts:
+- kt:best-value-tradeoff
+- kt:bid-protest
+difficulty: 2
+created: '2026-11-17'
+status: active

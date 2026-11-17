@@ -1,0 +1,20 @@
+id: bz-000059
+area: consulting-and-problem-solving
+kind: origin
+topic: MECE Principle
+topic_type: Framework
+true_statement: Barbara Minto coined the MECE acronym but attributes the underlying idea to Aristotle, claiming only its label and application to business writing.
+false_statement: Barbara Minto coined the MECE acronym and claims the underlying idea as her own, rather than tracing it to an earlier thinker.
+explanation: Minto developed the rule while editing McKinsey reports and set it out in The Pyramid Principle (1985). She is explicit that the logic of exclusive, exhaustive groupings is ancient; her contribution was the shorthand and how she applied it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/mece-principle.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: c414c8894fbab2a5a8cb3d0a9fa6863c9a2b936d
+concepts:
+- kt:mece-principle
+- kt:barbara-minto
+- kt:aristotle
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000109
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: Clayton Christensen
+topic_type: Person
+true_statement: In Competing Against Luck (2016), Christensen argued that understanding the job customers hire a product to do, rather than their demographics, makes innovation more predictable.
+false_statement: In Competing Against Luck (2016), Christensen argued that understanding customers' demographics, rather than the job they hire a product to do, makes innovation more predictable.
+explanation: Jobs to be done shifts the focus from who the customer is to the progress they are trying to make. Christensen illustrated it with firms like Intuit, Airbnb and Chobani, and it was his second big idea after disruption.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/clayton-christensen.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 8f6c698026b6dbee534bdb2b78411a45de7e2ee3
+concepts:
+- kt:clayton-christensen
+- kt:jobs-to-be-done
+difficulty: 2
+created: '2026-11-17'
+status: active

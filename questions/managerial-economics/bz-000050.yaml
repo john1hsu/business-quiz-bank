@@ -1,0 +1,19 @@
+id: bz-000050
+area: managerial-economics
+kind: origin
+topic: Antitrust Law
+topic_type: Regulation
+true_statement: The 1976 Hart-Scott-Rodino amendment to the Clayton Act requires parties to large mergers to notify the US government before closing.
+false_statement: The 1936 Robinson-Patman amendment to the Clayton Act requires parties to large mergers to notify the US government before closing.
+explanation: Hart-Scott-Rodino created premerger notification so agencies can review big deals before they are done. Robinson-Patman is the earlier amendment, and it deals with price discrimination between merchants, not merger filings.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/antitrust-law.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 4a6a0bd320dd7172033dacde353b6f5e0430cdfb
+concepts:
+- kt:antitrust-law
+- kt:clayton-act
+difficulty: 2
+created: '2026-11-17'
+status: active

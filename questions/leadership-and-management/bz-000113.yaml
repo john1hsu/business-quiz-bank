@@ -1,0 +1,19 @@
+id: bz-000113
+area: leadership-and-management
+kind: definition
+topic: Hoshin Kanri
+topic_type: Practice
+true_statement: Hoshin kanri separates breakthrough objectives that need cross-functional change from daily management of routine indicators like quality, cost and delivery.
+false_statement: Hoshin kanri merges breakthrough objectives that need cross-functional change into daily management of routine indicators like quality, cost and delivery.
+explanation: The few breakthrough objectives get deployed and reviewed through the strategy cycle, while routine KPIs are run as daily management. Keeping them apart stops a handful of strategic priorities from drowning among many operational metrics.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/hoshin-kanri.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ef676d1f8a0d7df5276d5103b8e59c5151e3dbd7
+concepts:
+- kt:hoshin-kanri
+- kt:total-quality-management
+difficulty: 2
+created: '2026-11-17'
+status: active

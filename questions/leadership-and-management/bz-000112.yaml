@@ -1,0 +1,19 @@
+id: bz-000112
+area: leadership-and-management
+kind: mechanism
+topic: Hoshin Kanri
+topic_type: Practice
+true_statement: In hoshin kanri, catchball passes draft goals down, across and back up the organization so each level negotiates what it can achieve and what resources it needs.
+false_statement: In hoshin kanri, catchball passes final goals down the organization once, so each level accepts its targets without negotiating what it can achieve or needs.
+explanation: 'Catchball is the method''s distinctive mechanism: goals can change as levels push back. It is often run with an X-matrix and one-page A3 plans, which is also why it can be slow, as at Land Rover where it took 12 months.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/hoshin-kanri.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ef676d1f8a0d7df5276d5103b8e59c5151e3dbd7
+concepts:
+- kt:hoshin-kanri
+- kt:strategy-execution
+difficulty: 2
+created: '2026-11-17'
+status: active

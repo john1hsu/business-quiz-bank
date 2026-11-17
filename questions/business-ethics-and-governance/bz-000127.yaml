@@ -1,0 +1,19 @@
+id: bz-000127
+area: business-ethics-and-governance
+kind: origin
+topic: ESG
+topic_type: Framework
+true_statement: The ESG label grew out of the UN Global Compact's Who Cares Wins report, endorsed in 2004 by 18 financial institutions from nine countries.
+false_statement: The ESG label grew out of the UN Global Compact's Who Cares Wins report, endorsed in 1994 by 18 financial institutions from nine countries.
+explanation: The report's signatories, including Goldman Sachs, HSBC and UBS, managed over $6 trillion. Its aim was to bring environmental, social and governance issues into mainstream analysis rather than leave them to ethical-investing niches.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/esg.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 3dd60ffdc36cdeb2788ab2f580c01fadc4804f27
+concepts:
+- kt:esg
+- kt:who-cares-wins-report
+difficulty: 1
+created: '2026-11-17'
+status: active

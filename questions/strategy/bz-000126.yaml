@@ -1,0 +1,20 @@
+id: bz-000126
+area: strategy
+kind: mechanism
+topic: First-Mover Advantage
+topic_type: Concept
+true_statement: A first mover can preempt scarce assets such as shelf space, distribution channels and attractive product positions before rivals arrive.
+false_statement: A fast follower can preempt scarce assets such as shelf space, distribution channels and attractive product positions before the pioneer arrives.
+explanation: Preemption is one producer-side source of pioneer advantage, alongside moving down the experience curve first. Followers instead gain by learning from the pioneer's mistakes and entering once demand and technology are clearer.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/first-mover-advantage.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: a4c4015ec5749749a0421dcc9c30e31a3b137b31
+concepts:
+- kt:first-mover-advantage
+- kt:fast-follower-strategy
+- kt:barriers-to-entry
+difficulty: 1
+created: '2026-11-17'
+status: active

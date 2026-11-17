@@ -1,0 +1,21 @@
+id: bz-000091
+area: managerial-economics
+kind: origin
+topic: Industrial Organization
+topic_type: Field
+true_statement: Edward Mason introduced the structure-conduct-performance paradigm through case studies of single industries, and Joe Bain first applied it empirically across many industries.
+false_statement: Joe Bain introduced the structure-conduct-performance paradigm through case studies of single industries, and Edward Mason first applied it empirically across many industries.
+explanation: Mason developed SCP at Harvard in 1939 and 1949 by studying industries one at a time. Bain's 1951 and 1956 work compared outcomes across many industries, turning the framework into cross-industry evidence.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/industrial-organization.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 26dbcde165271f34b1c05c344318383e8953dda3
+concepts:
+- kt:industrial-organization
+- kt:structure-conduct-performance-paradigm
+- kt:edward-s-mason
+- kt:joe-s-bain
+difficulty: 2
+created: '2026-11-17'
+status: active

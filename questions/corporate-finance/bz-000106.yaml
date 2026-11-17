@@ -1,0 +1,20 @@
+id: bz-000106
+area: corporate-finance
+kind: mechanism
+topic: Arbitrage
+topic_type: Concept
+true_statement: Black-Scholes combines a stock and its options into a riskless portfolio that must earn the risk-free rate, so no estimate of a risk premium is needed.
+false_statement: Black-Scholes combines a stock and its options into a riskless portfolio that must earn the market's expected return, so an estimate of the risk premium is needed.
+explanation: If the hedged portfolio earned more than the risk-free rate, arbitrage would erase the excess. Continuous rebalancing turns that argument into a differential equation whose solution is the formula, with no view on investors' risk attitudes required.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/arbitrage.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: ade36c11f8ce96d5ddf6bea7de5819ed21441c04
+concepts:
+- kt:arbitrage
+- kt:black-scholes-model
+- kt:asset-pricing
+difficulty: 3
+created: '2026-11-17'
+status: active

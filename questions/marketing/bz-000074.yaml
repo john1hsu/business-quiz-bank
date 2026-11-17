@@ -1,0 +1,19 @@
+id: bz-000074
+area: marketing
+kind: evidence
+topic: Customer Lifetime Value
+topic_type: Metric
+true_statement: Reinartz and Kumar found long-standing customers were often not the most profitable, since they frequently paid less and were not cheaper to serve.
+false_statement: Reinartz and Kumar found long-standing customers were usually the most profitable, since they frequently paid more and were cheaper to serve.
+explanation: Across four firms and over 16,000 customers, tenure and profit correlated only weakly. That challenges the retention-equals-profit story and is why they sort customers by both loyalty and profitability.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/customer-lifetime-value.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 44539617923f64e4f3078b9a6eec045fad13a7ff
+concepts:
+- kt:customer-lifetime-value
+- kt:customer-relationship-management
+difficulty: 3
+created: '2026-11-17'
+status: active

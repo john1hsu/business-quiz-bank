@@ -1,0 +1,20 @@
+id: bz-000104
+area: consulting-and-problem-solving
+kind: evidence
+topic: Hypothesis-Driven Problem Solving
+topic_type: Practice
+true_statement: In a randomized trial of 116 Italian startups, founders taught to test hypotheses performed better early on and were more likely to pivot to a different idea.
+false_statement: In a randomized trial of 116 Italian startups, founders taught to test hypotheses performed better early on and were less likely to pivot to a different idea.
+explanation: Camuffo, Cordova and Gambardella found the scientific approach helped founders read market signals with less bias, so they abandoned weak ideas sooner. Treated firms did not, however, drop out less often than the control group.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 52ef00a7c49af13260fd478c9fe698d2644ee5c6
+concepts:
+- kt:hypothesis-driven-problem-solving
+- kt:lean-startup
+- kt:trial-and-error-search
+difficulty: 3
+created: '2026-11-17'
+status: active

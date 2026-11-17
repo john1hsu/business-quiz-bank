@@ -1,0 +1,19 @@
+id: bz-000089
+area: accounting-and-reporting
+kind: evidence
+topic: US GAAP
+topic_type: Framework
+true_statement: A 2003 SEC staff study argued that bright-line GAAP thresholds let preparers engineer transactions to land on the preferred side of a line.
+false_statement: A 2003 SEC staff study argued that bright-line GAAP thresholds stop preparers from engineering transactions to land on the preferred side of a line.
+explanation: 'Lease tests at 75% and 90% were a classic example: deals could be structured just under a threshold. The study recommended objectives-oriented standards grounded in a conceptual framework, not a swing to pure principles.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/gaap.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 52322eff5ed4b85c8eb3174c9fc2b2de06d272fc
+concepts:
+- kt:gaap
+- kt:sarbanes-oxley-act
+difficulty: 2
+created: '2026-11-17'
+status: active

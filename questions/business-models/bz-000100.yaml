@@ -1,0 +1,19 @@
+id: bz-000100
+area: business-models
+kind: origin
+topic: Razor and Blades
+topic_type: BusinessModel
+true_statement: During its patent years, Gillette sold its razor at a high price, launching a low-priced razor only after the patents expired in 1921.
+false_statement: During its patent years, Gillette gave its razor away cheaply, launching a high-priced razor only after the patents expired in 1921.
+explanation: Randal Picker showed Gillette charged $5 for a razor with 12 blades from 1904, while rivals sold handles for about $1. The $1 Brownie razor came in 1921, so the founding legend of cheap razors and dear blades does not fit the record.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/razor-and-blades-model.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: 9defd05cffb9ade82bf834f2b5290294e98e8fbe
+concepts:
+- kt:razor-and-blades-model
+- kt:gillette
+difficulty: 2
+created: '2026-11-17'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000070
+area: leadership-and-management
+kind: origin
+topic: Objectives and Key Results (OKRs)
+topic_type: Framework
+true_statement: Andy Grove adapted OKRs at Intel from Peter Drucker's management by objectives, shifting the cycle from an annual rhythm to a quarterly one.
+false_statement: Andy Grove adapted OKRs at Intel from Peter Drucker's management by objectives, shifting the cycle from a quarterly rhythm to an annual one.
+explanation: Drucker's 1950s MBO ran annually and was often tied to pay. Grove's version linked each objective to verifiable key results and ran faster, quarterly, so goals could track a fast-moving chip business.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/okrs.md
+  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
+  blob: b5e6897bf06fe4588567bf1b05e81ee695a7f333
+concepts:
+- kt:okrs
+- kt:andy-grove
+- kt:management-by-objectives
+difficulty: 1
+created: '2026-11-17'
+status: active
