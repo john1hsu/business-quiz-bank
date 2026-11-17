@@ -24,7 +24,7 @@ SITE_URL = "https://john1hsu.github.io/business-knowledge-graph"
 ID_RE = re.compile(r"^bz-\d{6}$")
 KT_RE = re.compile(r"^kt:[a-z0-9]+(?:-[a-z0-9]+)*$")
 SHA_RE = re.compile(r"^[0-9a-f]{40}$")
-YEAR_RE = re.compile(r"\b(1[89]|20)\d{2}\b")
+YEAR_RE = re.compile(r"(?<!\d)(1[89]|20)\d{2}(?!\d)")  # no \b: "FY2024" has no word boundary before the digits
 
 STATUSES = ("active", "stale", "retired")
 # What a pair teaches, so practice can cover each side of a topic and you can drill one kind.

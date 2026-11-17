@@ -6,7 +6,7 @@ topic_type: Metric
 true_statement: Amazon's free cash flow fell to $11.2 billion in FY2025 from $38.2 billion in 2024, because capital spending surged even as operating cash flow rose.
 false_statement: Amazon's free cash flow fell to $11.2 billion in FY2025 from $38.2 billion in 2024, because operating cash flow fell even as capital spending held steady.
 explanation: Operating cash flow grew from about $116 billion to $140 billion, but net property and equipment purchases jumped from about $78 billion to $128 billion. Reading the drop as operating weakness would misread a deliberate investment surge.
-as_of: FY 2025
+as_of: FY2025
 source:
   repo: john1hsu/business-knowledge-graph
   path: articles/accounting-and-reporting/free-cash-flow.md
