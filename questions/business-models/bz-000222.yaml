@@ -1,0 +1,20 @@
+id: bz-000222
+area: business-models
+kind: application
+topic: Direct Selling
+topic_type: BusinessModel
+true_statement: In a 2017 letter, FTC Chairwoman Edith Ramirez said lawful multi-level plans tie pay to profitable retail sales to customers outside the network, not to recruiting.
+false_statement: In a 2017 letter, FTC Chairwoman Edith Ramirez said lawful multi-level plans tie pay to recruiting and participants' own purchases, not to outside retail sales.
+explanation: Rewards for recruiting or for sellers' own consumption let a plan run on its own participants, the mark of a pyramid scheme. FTC staff turned these principles into formal business guidance in January 2018.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/direct-selling.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 0f50526a2347bf5098a28f235d51c1347e3c12b8
+concepts:
+- kt:direct-selling
+- kt:pyramid-scheme
+- kt:federal-trade-commission-act
+difficulty: 2
+created: '2026-11-18'
+status: active

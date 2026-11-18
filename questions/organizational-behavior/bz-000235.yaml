@@ -1,0 +1,19 @@
+id: bz-000235
+area: organizational-behavior
+kind: application
+topic: J. Richard Hackman
+topic_type: Person
+true_statement: Hackman's study of symphony orchestras found many musicians unhappy at work and pointed to governance that left players out of decisions.
+false_statement: Hackman's study of symphony orchestras found many musicians unhappy at work and pointed to pay that lagged behind other skilled professions.
+explanation: The study covered orchestras in the United States, Britain and Germany; Hackman's team model was also applied in aviation, surgery and intelligence analysis. The orchestra work traced dissatisfaction to how the organizations were governed, and the findings were presented to U.S. orchestra and musicians' associations in 1995.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/j-richard-hackman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 1b59c5991205f333e1d9950f5e2b6d90c00ea87c
+concepts:
+- kt:j-richard-hackman
+- kt:team-effectiveness
+difficulty: 2
+created: '2026-11-18'
+status: active

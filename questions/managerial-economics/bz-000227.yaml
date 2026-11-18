@@ -1,0 +1,20 @@
+id: bz-000227
+area: managerial-economics
+kind: definition
+topic: Principal-Agent Problem
+topic_type: Theory
+true_statement: In a principal-agent problem, moral hazard arises when the agent's action is hidden, while adverse selection arises from information the agent holds before contracting.
+false_statement: In a principal-agent problem, adverse selection arises when the agent's action is hidden, while moral hazard arises from information the agent holds before contracting.
+explanation: The two forms differ in what the principal cannot see and when. Moral hazard concerns unobserved actions such as effort once the contract is in place; adverse selection concerns private information the agent already has when signing.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/principal-agent-problem.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 51869de6a278abdb664a4da0e4c86d8142601d69
+concepts:
+- kt:principal-agent-problem
+- kt:moral-hazard
+- kt:adverse-selection
+difficulty: 1
+created: '2026-11-18'
+status: active

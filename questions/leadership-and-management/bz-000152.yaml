@@ -1,0 +1,19 @@
+id: bz-000152
+area: leadership-and-management
+kind: origin
+topic: Peter Drucker
+topic_type: Person
+true_statement: Peter Drucker coined the term knowledge worker in the late 1950s, for an economy where more people work with their minds than their hands.
+false_statement: Peter Drucker coined the term knowledge worker in the late 1970s, for an economy where more people work with their minds than their hands.
+explanation: Drucker named the knowledge worker in the late 1950s and spent decades analysing what that shift meant for management. The Drucker Institute also credits him with foreseeing the need for lifelong learning.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/peter-drucker.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: df5c4e14cb963910cfe9d6814f0aa426fcfffcf2
+concepts:
+- kt:peter-drucker
+- kt:knowledge-worker
+difficulty: 1
+created: '2026-11-18'
+status: active

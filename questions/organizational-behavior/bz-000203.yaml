@@ -1,0 +1,20 @@
+id: bz-000203
+area: organizational-behavior
+kind: definition
+topic: High-Performance Teams
+topic_type: Concept
+true_statement: Katzenbach and Smith separated a team, with shared leadership and mutual accountability, from a working group, where a strong leader assigns work and members answer only for their own results.
+false_statement: Katzenbach and Smith separated a working group, with shared leadership and mutual accountability, from a team, where a strong leader assigns work and members answer only for their own results.
+explanation: In their 1993 HBR article a real team is judged directly by the collective work products members create together. A working group's performance is the sum of individual outputs and is judged only indirectly, by its influence on the wider business.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/high-performance-teams.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ab28f9cf23c6f79f47d3ca36aa28b672f5a01fe6
+concepts:
+- kt:high-performance-teams
+- kt:jon-katzenbach
+- kt:the-discipline-of-teams
+difficulty: 1
+created: '2026-11-18'
+status: active

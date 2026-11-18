@@ -1,0 +1,19 @@
+id: bz-000214
+area: accounting-and-reporting
+kind: evidence
+topic: Sarbanes-Oxley Act of 2002
+topic_type: Regulation
+true_statement: Iliev found that filing the SOX Section 404 management report made small firms' reported earnings more conservative but, on net, lowered their market value.
+false_statement: Iliev found that filing the SOX Section 404 management report made small firms' reported earnings more conservative and, on net, raised their market value.
+explanation: Comparing firms just above and below the $75 million public-float cutoff in 2004, Iliev found the report roughly doubled audit fees, a cost that outweighed the gain in earnings quality for small firms. Defenders counter that benefits such as lower fraud risk accrue over the long run.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/sarbanes-oxley-act.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 628d859a66a5f931439c2027c88c6b701a51ff74
+concepts:
+- kt:sarbanes-oxley-act
+- kt:internal-control-over-financial-reporting
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000200
+area: operations-and-supply-chain
+kind: origin
+topic: Malcolm Baldrige National Quality Award
+topic_type: Award
+true_statement: The US national quality award created by a 1987 law is named after Commerce Secretary Malcolm Baldrige, who died weeks before President Reagan signed the bill.
+false_statement: The US national quality award created by a 1987 law is named after Treasury Secretary Malcolm Baldrige, who died weeks before President Reagan signed the bill.
+explanation: Baldrige was Commerce Secretary and died in a rodeo accident in July 1987, so Congress renamed the proposed award for him. It answered a quality gap with Japanese manufacturers, and Motorola was among the first winners for 1988.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 4e456824cb63fa93f7be2b3ddea845ad82cf1220
+concepts:
+- kt:malcolm-baldrige-national-quality-award
+- kt:malcolm-baldrige-national-quality-improvement-act
+- kt:motorola
+difficulty: 1
+created: '2026-11-18'
+status: active

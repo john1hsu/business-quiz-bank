@@ -1,0 +1,20 @@
+id: bz-000229
+area: managerial-economics
+kind: application
+topic: Principal-Agent Problem
+topic_type: Theory
+true_statement: 'Wells Fargo''s 2016 case fits the multitask warning: sales targets rewarded a countable output, new accounts, without measuring whether customers wanted them.'
+false_statement: 'Wells Fargo''s 2016 case fits the adverse selection warning: sales targets rewarded a countable output, new accounts, without measuring whether customers wanted them.'
+explanation: 'Holmström and Milgrom''s multitask model predicts that strong pay for a measurable task pulls effort from hard-to-measure ones. The CFPB found employees, spurred by sales targets and pay incentives, opened accounts that may not have been authorized: a hidden-action problem, not one of information held before contracting.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/principal-agent-problem.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 51869de6a278abdb664a4da0e4c86d8142601d69
+concepts:
+- kt:principal-agent-problem
+- kt:wells-fargo-cross-selling-scandal
+- kt:bengt-holmstrom
+difficulty: 2
+created: '2026-11-18'
+status: active

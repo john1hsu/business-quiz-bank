@@ -1,0 +1,19 @@
+id: bz-000220
+area: business-history-and-cases
+kind: evidence
+topic: Southwest Airlines
+topic_type: Company
+true_statement: Gittell's nine-site study of flight departures linked stronger relational coordination across functions to fewer complaints, late arrivals and lost bags.
+false_statement: Gittell's nine-site study of flight departures linked stronger centralized supervision of each function to fewer complaints, late arrivals and lost bags.
+explanation: Relational coordination means shared goals, shared knowledge and mutual respect across functions, and it also went with less staff time per passenger. Gittell offers it as a people-based complement to Porter's activity-system account of Southwest's advantage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/southwest-airlines.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: c9091a5c16720d907f1007743c4711f3ebb9314a
+concepts:
+- kt:southwest-airlines
+- kt:relational-coordination
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000239
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: Andrew Van de Ven
+topic_type: Person
+true_statement: In Van de Ven and Poole's typology of organizational change, the dialectic motor explains change as conflict between opposing entities that produces a synthesis.
+false_statement: In Van de Ven and Poole's typology of organizational change, the teleological motor explains change as conflict between opposing entities that produces a synthesis.
+explanation: 'Their 1995 typology has four motors: life cycle (prescribed stages), teleology (purposeful goal-setting and adaptation), dialectics (clash and synthesis) and evolution (variation, selection, retention). Teleology is about pursuing goals, not conflict between factions.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/andrew-van-de-ven.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3cd4548446da75313d6e4f6e42b3b158433653a8
+concepts:
+- kt:andrew-van-de-ven
+- kt:process-theories-of-organizational-change
+- kt:change-management
+difficulty: 2
+created: '2026-11-18'
+status: active

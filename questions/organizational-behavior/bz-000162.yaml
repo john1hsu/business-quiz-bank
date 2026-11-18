@@ -1,0 +1,19 @@
+id: bz-000162
+area: organizational-behavior
+kind: mechanism
+topic: Groupthink
+topic_type: Theory
+true_statement: Among Janis's symptoms of groupthink, mindguards are self-appointed members who screen the group from unwelcome information.
+false_statement: Among Janis's symptoms of groupthink, mindguards are self-appointed members who argue against the group's preferred option to test it.
+explanation: Mindguards protect the emerging consensus, alongside other symptoms such as self-censorship and an illusion of unanimity. Arguing against the favoured option is structured dissent, the devil's advocacy remedy for groupthink, not a symptom of it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/groupthink.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 808b530defc912c8b66003a689e0185f6315869d
+concepts:
+- kt:groupthink
+- kt:irving-janis
+difficulty: 2
+created: '2026-11-18'
+status: active

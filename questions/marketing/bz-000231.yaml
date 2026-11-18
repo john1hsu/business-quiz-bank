@@ -1,0 +1,19 @@
+id: bz-000231
+area: marketing
+kind: mechanism
+topic: SERVQUAL
+topic_type: Metric
+true_statement: SERVQUAL scores each item as perception minus expectation, so a negative score means the firm fell short of what customers expected.
+false_statement: SERVQUAL scores each item as perception minus expectation, so a positive score means the firm fell short of what customers expected.
+explanation: 'Each of the 22 statements is asked twice on a seven-point scale: once for what customers expect of firms in the category and once for how they see this firm. Subtracting expectation from perception makes shortfalls negative, and dimension and overall scores average those gaps.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/servqual.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: a9657ea7adbbdaf86b3e5240b11f0f4ccb921764
+concepts:
+- kt:servqual
+- kt:gaps-model-of-service-quality
+difficulty: 2
+created: '2026-11-18'
+status: active

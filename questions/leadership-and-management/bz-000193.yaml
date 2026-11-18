@@ -1,0 +1,19 @@
+id: bz-000193
+area: leadership-and-management
+kind: evidence
+topic: Contingency Theory of Leadership
+topic_type: Theory
+true_statement: A main critique of Fiedler's model is that test-retest reliabilities of the LPC scale ranged from .01 to .92 across 23 studies.
+false_statement: A main critique of Fiedler's model is that test-retest reliabilities of the LPC scale stayed above .90 across 23 studies.
+explanation: The model rests on LPC being a stable measure of style, so wildly varying reliability undercuts it. The scale also drew at least five different interpretations, from social distance to cognitive complexity.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/contingency-theory-of-leadership.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: cdad458853c18aa5d27592d9a9e15f9299b1a5bf
+concepts:
+- kt:contingency-theory-of-leadership
+- kt:least-preferred-coworker-scale
+difficulty: 3
+created: '2026-11-18'
+status: active

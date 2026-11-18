@@ -1,0 +1,20 @@
+id: bz-000184
+area: corporate-finance
+kind: figure
+topic: Dividend Policy
+topic_type: Practice
+true_statement: In 2024, S&P 500 companies spent a record $942.5 billion on buybacks, well above the $629.6 billion they paid out in dividends.
+false_statement: In 2024, S&P 500 companies paid out a record $942.5 billion in dividends, well above the $629.6 billion they spent on buybacks.
+explanation: Large U.S. firms now return more cash through repurchases than through dividends, a combined $1.572 trillion in 2024. This fits survey evidence that firms keep a stable dividend they are reluctant to cut and flex buybacks with cash flow and valuation.
+as_of: '2024'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/dividend-policy.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 7dc858eb8bc951f4720ac8ecc5410f45598f3002
+concepts:
+- kt:dividend-policy
+- kt:share-repurchase
+difficulty: 2
+created: '2026-11-18'
+status: active

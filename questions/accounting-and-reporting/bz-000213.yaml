@@ -1,0 +1,20 @@
+id: bz-000213
+area: accounting-and-reporting
+kind: mechanism
+topic: Sarbanes-Oxley Act of 2002
+topic_type: Regulation
+true_statement: SOX Section 404(a) requires management to assess internal control over financial reporting, while 404(b) requires the external auditor to attest to that assessment.
+false_statement: SOX Section 404(b) requires management to assess internal control over financial reporting, while 404(a) requires the external auditor to attest to that assessment.
+explanation: Management's annual report states its responsibility for internal control and assesses its effectiveness at fiscal year-end; the auditor then attests under PCAOB standards. Smaller companies won repeated delays and eventually a permanent exemption from the 404(b) attestation alone.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/sarbanes-oxley-act.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 628d859a66a5f931439c2027c88c6b701a51ff74
+concepts:
+- kt:sarbanes-oxley-act
+- kt:internal-control-over-financial-reporting
+- kt:public-company-accounting-oversight-board
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000149
+area: innovation-and-entrepreneurship
+kind: definition
+topic: The Innovator's Dilemma
+topic_type: Work
+true_statement: The innovator's dilemma is that habits keeping a leader healthy, like listening to major customers and investing where margins are high, make it neglect new segments.
+false_statement: The innovator's dilemma is that habits keeping a leader healthy, like listening to fringe customers and investing where margins are low, make it neglect its core segments.
+explanation: 'Christensen''s trap is that good management itself is the problem: serving the best customers and chasing high margins steers a leader away from segments where an initially inferior product keeps improving. The false version reverses those behaviours and what gets neglected.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovators-dilemma.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3781e3c9e82f3c57bc70ddaddb36fcd9f7cd7643
+concepts:
+- kt:innovators-dilemma
+- kt:disruptive-innovation
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000208
+area: strategy
+kind: evidence
+topic: Experience Curve
+topic_type: Framework
+true_statement: Testing six laws of technological progress on 62 technologies, Nagy and colleagues found Wright's law forecast costs best, with Moore's law a close second.
+false_statement: Testing six laws of technological progress on 62 technologies, Nagy and colleagues found Moore's law forecast costs best, with Wright's law a close second.
+explanation: Wright's law ties cost to cumulative production, the core of the experience curve. The two laws are hard to tell apart because production usually grows exponentially over time.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/experience-curve.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 09a37c62adafb5b8273a2df0fd3597e4c42789f7
+concepts:
+- kt:experience-curve
+- kt:learning-curve
+difficulty: 3
+created: '2026-11-18'
+status: active

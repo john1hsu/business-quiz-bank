@@ -1,0 +1,19 @@
+id: bz-000153
+area: leadership-and-management
+kind: definition
+topic: Peter Drucker
+topic_type: Person
+true_statement: Drucker's theory of the business holds that a firm falters when its assumptions about customers, competitors, technology and core strengths stop matching reality.
+false_statement: Drucker's theory of the business holds that a firm falters when its managers stop steering their work through explicitly set, measurable objectives.
+explanation: Set out in a 1994 HBR article and sketched as early as a 1958 memo for General Electric, the idea is that every organization runs on such assumptions, and trouble starts when they go out of date. Steering work through explicit objectives describes his separate idea, management by objectives.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/peter-drucker.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: df5c4e14cb963910cfe9d6814f0aa426fcfffcf2
+concepts:
+- kt:peter-drucker
+- kt:theory-of-the-business
+difficulty: 2
+created: '2026-11-18'
+status: active

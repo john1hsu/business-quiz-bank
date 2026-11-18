@@ -1,0 +1,20 @@
+id: bz-000199
+area: marketing
+kind: figure
+topic: A. Parasuraman
+topic_type: Person
+true_statement: In Parasuraman and Colby's 2014 TRI 2.0 study of U.S. adults, 38% of consumers were classed as Skeptics and 16% as Pioneers.
+false_statement: In Parasuraman and Colby's 2014 TRI 2.0 study of U.S. adults, 16% of consumers were classed as Skeptics and 38% as Pioneers.
+explanation: TRI 2.0 trimmed the original 36-item index to 16 items, was tested on 878 U.S. adults, and used the scores to sort consumers into five readiness segments. The cautious Skeptics outnumbered the eager Pioneers by more than two to one in that sample.
+as_of: '2014'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/a-parasuraman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ea7f107d361c013533fc5c25731fe3905ae9acb9
+concepts:
+- kt:a-parasuraman
+- kt:technology-readiness-index
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000209
+area: consulting-and-problem-solving
+kind: origin
+topic: Ishikawa Diagram
+topic_type: Framework
+true_statement: Kaoru Ishikawa developed the cause-and-effect diagram in 1943 at the University of Tokyo; its fishbone nickname comes from its shape.
+false_statement: Kaoru Ishikawa developed the cause-and-effect diagram in 1963 at the University of Tokyo; its fishbone nickname comes from its shape.
+explanation: The problem sits at the head and cause categories branch off the spine like ribs. The tool dates from the 1940s and later joined Japanese quality control's seven basic tools.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/ishikawa-diagram.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 002ae9760980a3413e331e71ced936e873f5fc6d
+concepts:
+- kt:ishikawa-diagram
+- kt:kaoru-ishikawa
+- kt:seven-basic-quality-tools
+difficulty: 1
+created: '2026-11-18'
+status: active

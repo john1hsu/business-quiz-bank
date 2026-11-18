@@ -1,0 +1,19 @@
+id: bz-000160
+area: operations-and-supply-chain
+kind: evidence
+topic: Material Requirements Planning
+topic_type: Practice
+true_statement: A 2004 simulation found that with advance demand information, MRP-type push strategies achieved better inventory and service levels than kanban.
+false_statement: A 2004 simulation found that with advance demand information, kanban achieved better inventory and service levels than MRP-type push strategies.
+explanation: When future demand is visible, planning ahead pays off, and kanban showed significant inefficiencies in that study. The push-versus-pull verdict depends on demand visibility rather than favouring pull in all cases.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/material-requirements-planning.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: a5774726462e2c2b3f093b5b248316d618df55e6
+concepts:
+- kt:material-requirements-planning
+- kt:kanban
+difficulty: 3
+created: '2026-11-18'
+status: active

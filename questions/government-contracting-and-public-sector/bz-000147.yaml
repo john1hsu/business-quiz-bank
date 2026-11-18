@@ -1,0 +1,19 @@
+id: bz-000147
+area: government-contracting-and-public-sector
+kind: evidence
+topic: Public Procurement
+topic_type: Practice
+true_statement: Bandiera, Prat and Valletti found that passive waste, which benefits no one, made up about 83% of waste in Italian public purchasing, far more than active waste.
+false_statement: Bandiera, Prat and Valletti found that active waste, which benefits the official, made up about 83% of waste in Italian public purchasing, far more than passive waste.
+explanation: Studying Italian public bodies buying standardised goods, they found persistent price gaps that tracked governance structure. Most of the loss was passive, which is why research suggests procurement waste stems more from incompetence than from graft.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-procurement.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8e3b921a316da8b733282ef93cd25a3139d33d87
+concepts:
+- kt:public-procurement
+- kt:principal-agent-problem
+difficulty: 3
+created: '2026-11-18'
+status: active

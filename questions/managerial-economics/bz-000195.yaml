@@ -1,0 +1,18 @@
+id: bz-000195
+area: managerial-economics
+kind: mechanism
+topic: Airline Industry
+topic_type: Industry
+true_statement: Because airline labor and fuel costs are largely fixed in the short run, moderate swings in demand produce large swings in profit.
+false_statement: Because airline labor and fuel costs are largely fixed in the short run, moderate swings in demand produce only small swings in profit.
+explanation: When most costs are committed in advance, losing passengers cuts revenue without cutting costs much, so profit amplifies demand changes. This helps explain the industry's chronic financial instability and its recurring merger waves.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/airline-industry.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: bcf158b35cebf16c07af8dd21088679e9249c878
+concepts:
+- kt:airline-industry
+difficulty: 2
+created: '2026-11-18'
+status: active

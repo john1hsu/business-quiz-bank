@@ -1,0 +1,18 @@
+id: bz-000178
+area: business-history-and-cases
+kind: evidence
+topic: Apple iPhone Launch
+topic_type: Case
+true_statement: West and Mace argue the iPhone succeeded by extending the existing wired internet to phones, making real web browsing central to its strategy.
+false_statement: West and Mace argue the iPhone succeeded by adopting the operators' walled-garden model of mobile data, making carrier-curated services central to its strategy.
+explanation: In their peer-reviewed study, iPhone owners used mobile web browsing far more than other phone owners in the U.S. and Europe. Treating the phone as a window onto the real internet challenged the operator-led walled garden the industry had pursued for two decades.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/apple-iphone-launch.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 5e6500c9a672d31680afcab0eaeb958c8728fb03
+concepts:
+- kt:apple-iphone-launch
+difficulty: 3
+created: '2026-11-18'
+status: active

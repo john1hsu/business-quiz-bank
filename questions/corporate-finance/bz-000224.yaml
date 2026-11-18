@@ -1,0 +1,20 @@
+id: bz-000224
+area: corporate-finance
+kind: definition
+topic: Efficient Market Hypothesis
+topic_type: Theory
+true_statement: The semi-strong form of market efficiency concerns all public information, and event studies showed prices adjusting quickly to news such as earnings announcements.
+false_statement: The weak form of market efficiency concerns all public information, and event studies showed prices adjusting quickly to news such as earnings announcements.
+explanation: 'Fama sorted efficiency tests by information set: the weak form covers only past prices and returns, the semi-strong form all public information, and the strong form any information, including private. Event studies of splits, earnings and offerings were the semi-strong tests.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/efficient-market-hypothesis.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8f7efa787bbfdf6531d8fc4b073438e10d0c009e
+concepts:
+- kt:efficient-market-hypothesis
+- kt:eugene-fama
+- kt:efficient-capital-markets-review-1970
+difficulty: 1
+created: '2026-11-18'
+status: active

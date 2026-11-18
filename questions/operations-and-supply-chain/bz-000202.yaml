@@ -1,0 +1,19 @@
+id: bz-000202
+area: operations-and-supply-chain
+kind: figure
+topic: Malcolm Baldrige National Quality Award
+topic_type: Award
+true_statement: In the 2025 Baldrige award cycle, 18 organizations applied and two hospitals were named recipients.
+false_statement: In the 2025 Baldrige award cycle, 81 organizations applied and two hospitals were named recipients.
+explanation: The 2025 winners were Nor-Lea Hospital District in New Mexico and Northwell Glen Cove Hospital in New York, fitting the trend that health care now supplies the most applicants.
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 4e456824cb63fa93f7be2b3ddea845ad82cf1220
+concepts:
+- kt:malcolm-baldrige-national-quality-award
+difficulty: 2
+created: '2026-11-18'
+status: active

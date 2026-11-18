@@ -1,0 +1,21 @@
+id: bz-000161
+area: organizational-behavior
+kind: origin
+topic: Groupthink
+topic_type: Theory
+true_statement: Irving Janis set out the theory of groupthink in his 1972 book Victims of Groupthink, drawing on cases such as Pearl Harbor and the Bay of Pigs invasion.
+false_statement: Irving Janis set out the theory of groupthink in his 1977 book Victims of Groupthink, drawing on cases such as Pearl Harbor and the Bay of Pigs invasion.
+explanation: Janis asked why groups of highly capable people made poor foreign-policy decisions, and the Bay of Pigs became his signature case. The 1977 date belongs to the later elaboration of the model by Janis and Mann, not the original book.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/groupthink.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 808b530defc912c8b66003a689e0185f6315869d
+concepts:
+- kt:groupthink
+- kt:irving-janis
+- kt:victims-of-groupthink
+- kt:bay-of-pigs-invasion
+difficulty: 1
+created: '2026-11-18'
+status: active

@@ -1,69 +1,69 @@
 {
  "totals": {
-  "active": 142
+  "active": 242
  },
  "areas": {
   "accounting-and-reporting": {
-   "active": 12
+   "active": 18
   },
   "business-ethics-and-governance": {
-   "active": 12
+   "active": 18
   },
   "business-history-and-cases": {
-   "active": 12
+   "active": 18
   },
   "business-models": {
-   "active": 12
+   "active": 18
   },
   "consulting-and-problem-solving": {
-   "active": 10
+   "active": 16
   },
   "corporate-finance": {
-   "active": 9
+   "active": 18
   },
   "government-contracting-and-public-sector": {
-   "active": 9
+   "active": 18
   },
   "innovation-and-entrepreneurship": {
-   "active": 9
+   "active": 18
   },
   "leadership-and-management": {
-   "active": 9
+   "active": 16
   },
   "managerial-economics": {
-   "active": 12
+   "active": 18
   },
   "marketing": {
-   "active": 9
+   "active": 18
   },
   "operations-and-supply-chain": {
-   "active": 9
+   "active": 15
   },
   "organizational-behavior": {
-   "active": 9
+   "active": 18
   },
   "strategy": {
-   "active": 9
+   "active": 15
   }
  },
  "kinds": {
   "application": {
-   "active": 20
+   "active": 30
   },
   "definition": {
-   "active": 18
+   "active": 32
   },
   "evidence": {
-   "active": 35
+   "active": 63
   },
   "figure": {
-   "active": 5
+   "active": 15
   },
   "mechanism": {
-   "active": 37
+   "active": 60
   },
   "origin": {
-   "active": 27
+   "active": 42
   }
  },
  "articles": {
@@ -79,7 +79,16 @@
   "articles/accounting-and-reporting/gaap.md": {
    "active": 3
   },
+  "articles/accounting-and-reporting/goodwill.md": {
+   "active": 3
+  },
+  "articles/accounting-and-reporting/sarbanes-oxley-act.md": {
+   "active": 3
+  },
   "articles/business-ethics-and-governance/agency-costs.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md": {
    "active": 3
   },
   "articles/business-ethics-and-governance/corporate-governance.md": {
@@ -88,7 +97,13 @@
   "articles/business-ethics-and-governance/esg.md": {
    "active": 3
   },
+  "articles/business-ethics-and-governance/fiduciary-duty.md": {
+   "active": 3
+  },
   "articles/business-ethics-and-governance/stakeholder-theory.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/apple-iphone-launch.md": {
    "active": 3
   },
   "articles/business-history-and-cases/ford-model-t.md": {
@@ -101,6 +116,15 @@
    "active": 3
   },
   "articles/business-history-and-cases/kodak-decline.md": {
+   "active": 3
+  },
+  "articles/business-history-and-cases/southwest-airlines.md": {
+   "active": 3
+  },
+  "articles/business-models/business-format-franchising.md": {
+   "active": 3
+  },
+  "articles/business-models/direct-selling.md": {
    "active": 3
   },
   "articles/business-models/freemium.md": {
@@ -118,7 +142,13 @@
   "articles/consulting-and-problem-solving/benchmarking.md": {
    "active": 3
   },
+  "articles/consulting-and-problem-solving/eighty-twenty-rule.md": {
+   "active": 3
+  },
   "articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md": {
+   "active": 3
+  },
+  "articles/consulting-and-problem-solving/ishikawa-diagram.md": {
    "active": 3
   },
   "articles/consulting-and-problem-solving/issue-tree.md": {
@@ -130,10 +160,19 @@
   "articles/corporate-finance/arbitrage.md": {
    "active": 3
   },
+  "articles/corporate-finance/dividend-policy.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/efficient-market-hypothesis.md": {
+   "active": 3
+  },
   "articles/corporate-finance/leveraged-buyout.md": {
    "active": 3
   },
   "articles/corporate-finance/modigliani-miller-theorem.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/weighted-average-cost-of-capital.md": {
    "active": 3
   },
   "articles/government-contracting-and-public-sector/best-value-tradeoff.md": {
@@ -145,10 +184,28 @@
   "articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md": {
    "active": 3
   },
+  "articles/government-contracting-and-public-sector/lowest-price-technically-acceptable.md": {
+   "active": 3
+  },
+  "articles/government-contracting-and-public-sector/public-procurement.md": {
+   "active": 3
+  },
+  "articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/andrew-van-de-ven.md": {
+   "active": 3
+  },
   "articles/innovation-and-entrepreneurship/clayton-christensen.md": {
    "active": 3
   },
   "articles/innovation-and-entrepreneurship/disruptive-innovation.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/innovators-dilemma.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/jobs-to-be-done.md": {
    "active": 3
   },
   "articles/innovation-and-entrepreneurship/organizational-ambidexterity.md": {
@@ -157,10 +214,22 @@
   "articles/leadership-and-management/balanced-scorecard.md": {
    "active": 3
   },
+  "articles/leadership-and-management/contingency-theory-of-leadership.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/henri-fayol.md": {
+   "active": 1
+  },
   "articles/leadership-and-management/hoshin-kanri.md": {
    "active": 3
   },
   "articles/leadership-and-management/okrs.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/peter-drucker.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/airline-industry.md": {
    "active": 3
   },
   "articles/managerial-economics/antitrust-law.md": {
@@ -175,13 +244,25 @@
   "articles/managerial-economics/network-effect.md": {
    "active": 3
   },
+  "articles/managerial-economics/principal-agent-problem.md": {
+   "active": 3
+  },
+  "articles/marketing/a-parasuraman.md": {
+   "active": 3
+  },
   "articles/marketing/cannibalization.md": {
    "active": 3
   },
   "articles/marketing/customer-lifetime-value.md": {
    "active": 3
   },
+  "articles/marketing/price-elasticity.md": {
+   "active": 3
+  },
   "articles/marketing/segmentation-targeting-positioning.md": {
+   "active": 3
+  },
+  "articles/marketing/servqual.md": {
    "active": 3
   },
   "articles/operations-and-supply-chain/bill-of-materials.md": {
@@ -193,10 +274,25 @@
   "articles/operations-and-supply-chain/kanban.md": {
    "active": 3
   },
+  "articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md": {
+   "active": 3
+  },
+  "articles/operations-and-supply-chain/material-requirements-planning.md": {
+   "active": 3
+  },
   "articles/organizational-behavior/amy-edmondson.md": {
    "active": 3
   },
   "articles/organizational-behavior/google-project-aristotle.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/groupthink.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/high-performance-teams.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/j-richard-hackman.md": {
    "active": 3
   },
   "articles/organizational-behavior/psychological-safety.md": {
@@ -205,7 +301,13 @@
   "articles/strategy/barriers-to-entry.md": {
    "active": 3
   },
+  "articles/strategy/david-j-teece.md": {
+   "active": 3
+  },
   "articles/strategy/dynamic-capabilities.md": {
+   "active": 3
+  },
+  "articles/strategy/experience-curve.md": {
    "active": 3
   },
   "articles/strategy/first-mover-advantage.md": {

@@ -1,0 +1,20 @@
+id: bz-000188
+area: innovation-and-entrepreneurship
+kind: origin
+topic: Jobs to Be Done
+topic_type: Theory
+true_statement: Jobs to be done draws on Theodore Levitt's remark that people buying a quarter-inch drill really want a quarter-inch hole.
+false_statement: Jobs to be done draws on Anthony Ulwick's remark that people buying a quarter-inch drill really want a quarter-inch hole.
+explanation: Levitt's outcome-over-product insight is the root that Christensen and Intuit's Scott Cook built on. Ulwick is behind Outcome-Driven Innovation, a parallel, more quantitative school built on the same job concept.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/jobs-to-be-done.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 2eae9afbaa8218592f5e2b9fd4f8d606b7b52a2b
+concepts:
+- kt:jobs-to-be-done
+- kt:theodore-levitt
+- kt:outcome-driven-innovation
+difficulty: 1
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000198
+area: marketing
+kind: definition
+topic: A. Parasuraman
+topic_type: Person
+true_statement: E-S-QUAL rates how well a website enables efficient shopping, purchasing and delivery, while E-RecS-QUAL covers customers who had a problem or needed help.
+false_statement: E-RecS-QUAL rates how well a website enables efficient shopping, purchasing and delivery, while E-S-QUAL covers customers who had a problem or needed help.
+explanation: Parasuraman, Zeithaml and Malhotra's 2005 E-S-QUAL has 22 items on efficiency, fulfillment, system availability and privacy. The smaller companion E-RecS-QUAL handles service recovery, covering responsiveness, compensation and contact, and its authors called it preliminary because small samples limited its validation.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/a-parasuraman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ea7f107d361c013533fc5c25731fe3905ae9acb9
+concepts:
+- kt:a-parasuraman
+- kt:e-s-qual
+difficulty: 2
+created: '2026-11-18'
+status: active

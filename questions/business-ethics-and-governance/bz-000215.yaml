@@ -1,0 +1,20 @@
+id: bz-000215
+area: business-ethics-and-governance
+kind: mechanism
+topic: Fiduciary Duty
+topic_type: Concept
+true_statement: Delaware's Section 102(b)(7) lets a charter eliminate directors' personal monetary liability for breaches of the duty of care, but not of the duty of loyalty.
+false_statement: Delaware's Section 102(b)(7) lets a charter eliminate directors' personal monetary liability for breaches of the duty of loyalty, but not of the duty of care.
+explanation: The provision aims to encourage good-faith risk-taking by directors. Combined with the deferential business judgment rule, it means director liability in practice turns largely on loyalty and bad faith rather than careless decisions.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/fiduciary-duty.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: f723d32d95df84f3b705f839efc9f050f6c4f3dc
+concepts:
+- kt:fiduciary-duty
+- kt:corporate-law
+- kt:business-judgment-rule
+difficulty: 3
+created: '2026-11-18'
+status: active

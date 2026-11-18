@@ -1,0 +1,20 @@
+id: bz-000228
+area: managerial-economics
+kind: mechanism
+topic: Principal-Agent Problem
+topic_type: Theory
+true_statement: Holmström's informativeness principle says to tie an agent's pay to any measure carrying information about effort, such as share price relative to peers.
+false_statement: Holmström's informativeness principle says to tie an agent's pay only to final output, ignoring other measures such as share price relative to peers.
+explanation: Holmström's 1979 paper showed when an imperfect extra signal of behaviour improves on a contract based only on output. Measures like relative share price help because they filter out noise the agent cannot influence, so pay tracks effort more closely.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/principal-agent-problem.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 51869de6a278abdb664a4da0e4c86d8142601d69
+concepts:
+- kt:principal-agent-problem
+- kt:bengt-holmstrom
+- kt:moral-hazard
+difficulty: 2
+created: '2026-11-18'
+status: active

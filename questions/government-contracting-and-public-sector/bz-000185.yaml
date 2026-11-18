@@ -1,0 +1,20 @@
+id: bz-000185
+area: government-contracting-and-public-sector
+kind: origin
+topic: Revolutionary FAR Overhaul
+topic_type: Regulation
+true_statement: The Revolutionary FAR Overhaul was launched by Executive Order 14275 in April 2025, which said the FAR should keep only provisions required by statute or essential to sound procurement.
+false_statement: The Revolutionary FAR Overhaul was launched by Executive Order 14192 in April 2025, which said the FAR should keep only provisions required by statute or essential to sound procurement.
+explanation: EO 14275, Restoring Common Sense to Federal Procurement, noted the FAR had grown past 2,000 pages and set this keep-only-the-essentials policy. EO 14192 is the separate ten-for-one deregulation order that EO 14275 applied to agency supplements.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 44927017ef0be21658afa4b2ea919d411cc2889f
+concepts:
+- kt:revolutionary-far-overhaul
+- kt:executive-order-14275
+- kt:federal-acquisition-regulation
+difficulty: 2
+created: '2026-11-18'
+status: active

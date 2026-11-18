@@ -1,0 +1,19 @@
+id: bz-000180
+area: business-models
+kind: definition
+topic: Business Format Franchising
+topic_type: BusinessModel
+true_statement: Under the FTC Franchise Rule, a deal is a franchise if it involves a trademark, significant control or assistance, and a payment of at least $500 within six months, whatever it is called.
+false_statement: Under the FTC Franchise Rule, a deal is a franchise if it involves a trademark, significant control or assistance, and a payment of at least $5,000 within six months, whatever it is called.
+explanation: Only these three elements decide whether the Rule applies, so it covers business-format and product franchises alike regardless of the label. Covered franchisors must give prospects a 23-item Franchise Disclosure Document at least 14 days before signing or payment.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-format-franchising.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: d288d61f0bf77ed74b07c4377d2ac10a456b2af0
+concepts:
+- kt:business-format-franchising
+- kt:ftc-franchise-rule
+difficulty: 2
+created: '2026-11-18'
+status: active

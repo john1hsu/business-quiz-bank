@@ -1,0 +1,20 @@
+id: bz-000170
+area: accounting-and-reporting
+kind: definition
+topic: Goodwill
+topic_type: Concept
+true_statement: Goodwill is recognized only when a company acquires a business; goodwill a company builds internally is never put on its balance sheet.
+false_statement: Goodwill is recognized only when a company builds it internally; goodwill acquired in a business purchase is never put on its balance sheet.
+explanation: 'Goodwill is measured as a residual: the price paid above the fair value of the identifiable net assets acquired, covering things like an assembled workforce and expected synergies. Recording only purchased goodwill is one reason the asset is so contested.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/goodwill.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8fee53c05852c1d42df5af879b1df42477c73794
+concepts:
+- kt:goodwill
+- kt:mergers-and-acquisitions
+- kt:intangible-assets
+difficulty: 1
+created: '2026-11-18'
+status: active

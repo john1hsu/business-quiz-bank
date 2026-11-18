@@ -1,0 +1,20 @@
+id: bz-000175
+area: business-ethics-and-governance
+kind: application
+topic: Business Roundtable Statement on the Purpose of a Corporation
+topic_type: Case
+true_statement: Of 48 signatory companies that answered Bebchuk and Tallarita, 47 said the CEO alone decided to sign the BRT statement; only one reported board approval.
+false_statement: Of 48 signatory companies that answered Bebchuk and Tallarita, 47 said the board approved signing the BRT statement; only one reported a CEO-only decision.
+explanation: Board involvement matters because a stakeholder commitment binds only if written into charters, board guidelines, executive pay and shareholder voting. With boards largely absent, the authors concluded the pledge was mostly a matter of public relations.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ac2c27c5d498e4d04647d4ac1376805c8f014dcd
+concepts:
+- kt:business-roundtable-statement-on-corporate-purpose
+- kt:board-of-directors
+- kt:corporate-governance
+difficulty: 2
+created: '2026-11-18'
+status: active

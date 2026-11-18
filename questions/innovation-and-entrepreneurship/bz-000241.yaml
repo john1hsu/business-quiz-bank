@@ -1,0 +1,19 @@
+id: bz-000241
+area: innovation-and-entrepreneurship
+kind: origin
+topic: Andrew Van de Ven
+topic_type: Person
+true_statement: In 2006, Van de Ven and Paul Johnson recast the theory–practice gap as a knowledge-production problem rather than a knowledge-transfer problem.
+false_statement: In 2006, Van de Ven and Paul Johnson recast the theory–practice gap as a knowledge-transfer problem rather than a knowledge-production problem.
+explanation: 'Rather than asking how to push research findings out to managers, they proposed engaged scholarship: researchers and practitioners jointly study hard problems over time and use their different perspectives as a resource.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/andrew-van-de-ven.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3cd4548446da75313d6e4f6e42b3b158433653a8
+concepts:
+- kt:andrew-van-de-ven
+- kt:engaged-scholarship
+difficulty: 2
+created: '2026-11-18'
+status: active

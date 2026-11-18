@@ -1,0 +1,20 @@
+id: bz-000173
+area: business-ethics-and-governance
+kind: definition
+topic: Business Roundtable Statement on the Purpose of a Corporation
+topic_type: Case
+true_statement: The 2019 Business Roundtable purpose statement changed no legal duty, so corporate law still keeps many boards from treating stakeholder interests as ends in themselves.
+false_statement: The 2019 Business Roundtable purpose statement changed directors' legal duties, so corporate law now lets boards treat stakeholder interests as ends in themselves.
+explanation: The pledge is a declaration by CEOs, not a change to charters or statutes. Bebchuk and Tallarita note it is also silent on whether stakeholders should get anything beyond what also serves shareholder value.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ac2c27c5d498e4d04647d4ac1376805c8f014dcd
+concepts:
+- kt:business-roundtable-statement-on-corporate-purpose
+- kt:fiduciary-duty
+- kt:board-of-directors
+difficulty: 2
+created: '2026-11-18'
+status: active

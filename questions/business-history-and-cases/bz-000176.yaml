@@ -1,0 +1,19 @@
+id: bz-000176
+area: business-history-and-cases
+kind: mechanism
+topic: Apple iPhone Launch
+topic_type: Case
+true_statement: Because it planned free future software features, Apple recognized iPhone revenue straight-line over an estimated 24-month life rather than at the point of sale.
+false_statement: Because it planned free future software features, Apple recognized iPhone revenue at the point of sale rather than straight-line over an estimated 24-month life.
+explanation: Apple used subscription accounting because buyers would receive future features at no charge, so part of the sale was not yet delivered. Spreading handset revenue and cost of sales over 24 months matched them to that ongoing obligation.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/apple-iphone-launch.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 5e6500c9a672d31680afcab0eaeb958c8728fb03
+concepts:
+- kt:apple-iphone-launch
+- kt:apple-inc
+difficulty: 3
+created: '2026-11-18'
+status: active

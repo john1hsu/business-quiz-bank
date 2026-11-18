@@ -1,0 +1,19 @@
+id: bz-000156
+area: marketing
+kind: mechanism
+topic: Price Elasticity
+topic_type: Metric
+true_statement: When demand is price elastic, a price cut raises total revenue because the volume gain outweighs the lower price per unit.
+false_statement: When demand is price inelastic, a price cut raises total revenue because the volume gain outweighs the lower price per unit.
+explanation: 'Total revenue is price times quantity, and elastic demand means quantity moves proportionally more than price. With inelastic demand the opposite holds: a price rise, not a cut, raises revenue.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/price-elasticity.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 9d33d8aa3a5c93d50726907f0cf6c507e6bc3d7d
+concepts:
+- kt:price-elasticity
+- kt:pricing-strategy
+difficulty: 2
+created: '2026-11-18'
+status: active

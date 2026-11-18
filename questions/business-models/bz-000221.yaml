@@ -1,0 +1,19 @@
+id: bz-000221
+area: business-models
+kind: definition
+topic: Direct Selling
+topic_type: BusinessModel
+true_statement: Direct selling means face-to-face selling away from a fixed retail location, unlike direct marketing such as catalogs and telemarketing, which uses no personal salesperson.
+false_statement: Direct marketing means face-to-face selling away from a fixed retail location, unlike direct selling such as catalogs and telemarketing, which uses no personal salesperson.
+explanation: Peterson and Wotruba made the personal salesperson the defining feature of direct selling, which is exactly what direct marketing lacks. They also treated pyramid schemes as a degenerate form of direct selling rather than its definition.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/direct-selling.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 0f50526a2347bf5098a28f235d51c1347e3c12b8
+concepts:
+- kt:direct-selling
+- kt:direct-marketing
+difficulty: 1
+created: '2026-11-18'
+status: active

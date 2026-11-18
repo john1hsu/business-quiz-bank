@@ -1,0 +1,19 @@
+id: bz-000196
+area: managerial-economics
+kind: evidence
+topic: Airline Industry
+topic_type: Industry
+true_statement: Critics of U.S. airline deregulation note that business travelers buying unrestricted tickets have often paid more since, though defenders say those fares buy flexibility.
+false_statement: Critics of U.S. airline deregulation note that leisure travelers buying restricted discount tickets have often paid more since, though defenders say those fares buy flexibility.
+explanation: 'Average real U.S. fares fell after deregulation, but not for everyone: travelers needing unrestricted business tickets often paid more. Defenders see that premium as the price of flexibility rather than a sign of market failure.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/airline-industry.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: bcf158b35cebf16c07af8dd21088679e9249c878
+concepts:
+- kt:airline-industry
+- kt:airline-deregulation-act
+difficulty: 3
+created: '2026-11-18'
+status: active

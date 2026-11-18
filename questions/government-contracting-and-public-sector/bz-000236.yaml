@@ -1,0 +1,19 @@
+id: bz-000236
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: Lowest Price Technically Acceptable
+topic_type: Practice
+true_statement: Under LPTA, a small business found unacceptable on past performance is referred to the Small Business Administration for a Certificate of Competency decision.
+false_statement: Under LPTA, a small business found unacceptable on past performance is referred to the Government Accountability Office for a Certificate of Competency decision.
+explanation: FAR 15.101-2 sends that question to the SBA instead of letting the past-performance rating end the offer outright, which ties LPTA to small-business policy. GAO has reviewed how agencies use LPTA, but the competency decision belongs to the SBA.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/lowest-price-technically-acceptable.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 9ccdeb006d30258cbe304f15b28b99a06a316497
+concepts:
+- kt:lowest-price-technically-acceptable
+- kt:small-business-set-asides
+difficulty: 2
+created: '2026-11-18'
+status: active

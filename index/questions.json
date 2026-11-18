@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 142,
- "active": 142,
+ "count": 242,
+ "active": 242,
  "questions": [
   {
    "id": "bz-000001",
@@ -2291,6 +2291,1643 @@
    "difficulty": 2,
    "status": "active",
    "source": "https://john1hsu.github.io/business-knowledge-graph/articles/issue-tree.html"
+  },
+  {
+   "id": "bz-000143",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Weighted Average Cost of Capital",
+   "t": "In the WACC formula, the cost of debt is multiplied by (1 − T) because interest is tax-deductible, making borrowing cheaper than its stated rate.",
+   "f": "In the WACC formula, the cost of equity is multiplied by (1 − T) because dividends are tax-deductible, making equity cheaper than its stated rate.",
+   "x": "The tax adjustment applies only to the debt term, since interest payments reduce taxable income. Common equity enters at its full required return, with the debt, preferred and equity weights summing to 100%.",
+   "concepts": [
+    "kt:weighted-average-cost-of-capital",
+    "kt:capital-structure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/weighted-average-cost-of-capital.html"
+  },
+  {
+   "id": "bz-000144",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Weighted Average Cost of Capital",
+   "t": "Krüger, Landier and Thesmar (2015) found that divisions riskier than their diversified parent invest relatively more, consistent with one firm-wide discount rate.",
+   "f": "Krüger, Landier and Thesmar (2015) found that divisions riskier than their diversified parent invest relatively less, consistent with one firm-wide discount rate.",
+   "x": "A single company-wide WACC is too low for high-beta divisions and too high for safe ones, so risky projects look better than they are and safe ones worse. This 'WACC fallacy' arises because a firm-wide rate suits only projects as risky as the firm's average assets.",
+   "concepts": [
+    "kt:weighted-average-cost-of-capital",
+    "kt:capital-budgeting"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/weighted-average-cost-of-capital.html"
+  },
+  {
+   "id": "bz-000145",
+   "area": "corporate-finance",
+   "kind": "figure",
+   "topic": "Weighted Average Cost of Capital",
+   "t": "In Graham and Harvey's February 1999 survey of 392 CFOs, 73.5% always or almost always used CAPM to estimate the cost of equity.",
+   "f": "In Graham and Harvey's February 1999 survey of 392 CFOs, 73.5% always or almost always used a constant-growth dividend model to estimate the cost of equity.",
+   "x": "CAPM gave firms a common way to estimate the equity term, which helped make WACC standard practice. The constant-growth dividend model is an alternative input, and in OpenStax's example switching to it moved WACC by more than half a point.",
+   "concepts": [
+    "kt:weighted-average-cost-of-capital",
+    "kt:capital-asset-pricing-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/weighted-average-cost-of-capital.html",
+   "asOf": "1999"
+  },
+  {
+   "id": "bz-000146",
+   "area": "government-contracting-and-public-sector",
+   "kind": "figure",
+   "topic": "Public Procurement",
+   "t": "Across OECD countries, public procurement averaged 12.7% of GDP in 2023, down slightly from 13.0% in 2021.",
+   "f": "Across OECD countries, public procurement averaged 29.9% of GDP in 2023, down slightly from 30.2% in 2021.",
+   "x": "OECD data put procurement at 12.7% of GDP in 2023, a dip caused mainly by GDP growing faster than procurement spending. The 29.9% figure is procurement's share of total government expenditure, not of GDP, an easy pair to mix up.",
+   "concepts": [
+    "kt:public-procurement"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-procurement.html",
+   "asOf": "2023"
+  },
+  {
+   "id": "bz-000147",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Public Procurement",
+   "t": "Bandiera, Prat and Valletti found that passive waste, which benefits no one, made up about 83% of waste in Italian public purchasing, far more than active waste.",
+   "f": "Bandiera, Prat and Valletti found that active waste, which benefits the official, made up about 83% of waste in Italian public purchasing, far more than passive waste.",
+   "x": "Studying Italian public bodies buying standardised goods, they found persistent price gaps that tracked governance structure. Most of the loss was passive, which is why research suggests procurement waste stems more from incompetence than from graft.",
+   "concepts": [
+    "kt:public-procurement",
+    "kt:principal-agent-problem"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-procurement.html"
+  },
+  {
+   "id": "bz-000148",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Public Procurement",
+   "t": "The OECD Recommendation on Public Procurement, adopted in 2015, replaced an earlier recommendation focused on integrity and set out twelve principles.",
+   "f": "The OECD Recommendation on Public Procurement, adopted in 2008, replaced an earlier recommendation focused on integrity and set out twelve principles.",
+   "x": "The 2015 Recommendation is the main international benchmark, with principles running from transparency and integrity to balance and integration. The 2008 date belongs to the integrity-focused recommendation it replaced.",
+   "concepts": [
+    "kt:public-procurement",
+    "kt:oecd-recommendation-on-public-procurement"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-procurement.html"
+  },
+  {
+   "id": "bz-000149",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "definition",
+   "topic": "The Innovator's Dilemma",
+   "t": "The innovator's dilemma is that habits keeping a leader healthy, like listening to major customers and investing where margins are high, make it neglect new segments.",
+   "f": "The innovator's dilemma is that habits keeping a leader healthy, like listening to fringe customers and investing where margins are low, make it neglect its core segments.",
+   "x": "Christensen's trap is that good management itself is the problem: serving the best customers and chasing high margins steers a leader away from segments where an initially inferior product keeps improving. The false version reverses those behaviours and what gets neglected.",
+   "concepts": [
+    "kt:innovators-dilemma",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovators-dilemma.html"
+  },
+  {
+   "id": "bz-000150",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "The Innovator's Dilemma",
+   "t": "Andy Grove recommended the book at Intel's 1998 sales conference, the year Intel launched its cheaper, less sophisticated Celeron chip to avoid being disrupted from below.",
+   "f": "Andy Grove recommended the book at Intel's 1998 sales conference, the year Intel launched its costlier, more sophisticated Celeron chip to avoid being disrupted from below.",
+   "x": "Celeron is the classic early corporate response to the book: Intel attacked the low end itself with a cheaper, simpler processor rather than leave that space to an entrant. A premium chip would not answer a threat that starts with inferior, low-priced products.",
+   "concepts": [
+    "kt:innovators-dilemma",
+    "kt:intel"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovators-dilemma.html"
+  },
+  {
+   "id": "bz-000151",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "The Innovator's Dilemma",
+   "t": "Critics of The Innovator's Dilemma note that disruption can also come from above, as when the iPhone displaced the iPod.",
+   "f": "Critics of The Innovator's Dilemma note that disruption can also come from below, as when the iPhone displaced the iPod.",
+   "x": "Christensen's cases centre on cheaper, initially inferior products climbing from below. The iPhone shows a more capable product displacing an incumbent from above, one of several findings that the book generalised further than the record supports.",
+   "concepts": [
+    "kt:innovators-dilemma",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovators-dilemma.html"
+  },
+  {
+   "id": "bz-000152",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Peter Drucker",
+   "t": "Peter Drucker coined the term knowledge worker in the late 1950s, for an economy where more people work with their minds than their hands.",
+   "f": "Peter Drucker coined the term knowledge worker in the late 1970s, for an economy where more people work with their minds than their hands.",
+   "x": "Drucker named the knowledge worker in the late 1950s and spent decades analysing what that shift meant for management. The Drucker Institute also credits him with foreseeing the need for lifelong learning.",
+   "concepts": [
+    "kt:peter-drucker",
+    "kt:knowledge-worker"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/peter-drucker.html"
+  },
+  {
+   "id": "bz-000153",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Peter Drucker",
+   "t": "Drucker's theory of the business holds that a firm falters when its assumptions about customers, competitors, technology and core strengths stop matching reality.",
+   "f": "Drucker's theory of the business holds that a firm falters when its managers stop steering their work through explicitly set, measurable objectives.",
+   "x": "Set out in a 1994 HBR article and sketched as early as a 1958 memo for General Electric, the idea is that every organization runs on such assumptions, and trouble starts when they go out of date. Steering work through explicit objectives describes his separate idea, management by objectives.",
+   "concepts": [
+    "kt:peter-drucker",
+    "kt:theory-of-the-business"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/peter-drucker.html"
+  },
+  {
+   "id": "bz-000154",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Peter Drucker",
+   "t": "W. Edwards Deming's point 11b called on managers to eliminate management by objective and numerical goals and substitute leadership.",
+   "f": "W. Edwards Deming's point 11b called on managers to eliminate leadership by example and substitute management by objective and numerical goals.",
+   "x": "Deming rejected goal-driven control in favour of improving the system, which made point 11b a direct challenge to Drucker's best-known technique. Drucker is credited with the MBO concept, with GE executive Harold Smiddy helping put it into practice.",
+   "concepts": [
+    "kt:peter-drucker",
+    "kt:w-edwards-deming",
+    "kt:management-by-objectives"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/peter-drucker.html"
+  },
+  {
+   "id": "bz-000155",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Price Elasticity",
+   "t": "Alfred Marshall formalized price elasticity of demand in Principles of Economics, first published in 1890, in a chapter titled \"The Elasticity of Wants.\"",
+   "f": "Alfred Marshall formalized price elasticity of demand in Principles of Economics, first published in 1920, in a chapter titled \"The Elasticity of Wants.\"",
+   "x": "Marshall's chapter already set out most determinants still taught, such as necessities being inelastic and close substitutes raising elasticity. The 1920 date is the book's 8th edition, not its first.",
+   "concepts": [
+    "kt:price-elasticity",
+    "kt:alfred-marshall",
+    "kt:principles-of-economics-marshall"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/price-elasticity.html"
+  },
+  {
+   "id": "bz-000156",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Price Elasticity",
+   "t": "When demand is price elastic, a price cut raises total revenue because the volume gain outweighs the lower price per unit.",
+   "f": "When demand is price inelastic, a price cut raises total revenue because the volume gain outweighs the lower price per unit.",
+   "x": "Total revenue is price times quantity, and elastic demand means quantity moves proportionally more than price. With inelastic demand the opposite holds: a price rise, not a cut, raises revenue.",
+   "concepts": [
+    "kt:price-elasticity",
+    "kt:pricing-strategy"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/price-elasticity.html"
+  },
+  {
+   "id": "bz-000157",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Price Elasticity",
+   "t": "Tellis's 1988 meta-analysis found an average brand price elasticity of about −1.76, making price roughly ten times as powerful as advertising.",
+   "f": "Tellis's 1988 meta-analysis found an average brand price elasticity of about −1.76, making advertising roughly ten times as powerful as price.",
+   "x": "After bias corrections, average advertising elasticity was only 0.22. Tellis also showed that estimates depend on the model used, so a published average should not be plugged into a firm's own pricing.",
+   "concepts": [
+    "kt:price-elasticity",
+    "kt:advertising-elasticity"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/price-elasticity.html"
+  },
+  {
+   "id": "bz-000158",
+   "area": "operations-and-supply-chain",
+   "kind": "definition",
+   "topic": "Material Requirements Planning",
+   "t": "MRP was designed for dependent demand: once finished-goods quantities are fixed, the quantity of every component follows by calculation.",
+   "f": "MRP was designed for independent demand: once finished-goods quantities are fixed, the quantity of every component follows by calculation.",
+   "x": "Independent demand is customer orders and forecasts, captured in the master production schedule. Component needs depend on that schedule through the bill of materials, which is why they can be calculated rather than forecast.",
+   "concepts": [
+    "kt:material-requirements-planning",
+    "kt:master-production-schedule",
+    "kt:bill-of-materials"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/material-requirements-planning.html"
+  },
+  {
+   "id": "bz-000159",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Material Requirements Planning",
+   "t": "In MRP's offsetting step, each order is released one planned lead time before it is needed, and those releases become the next level's gross requirements.",
+   "f": "In MRP's netting step, each order is released one planned lead time before it is needed, and those releases become the next level's gross requirements.",
+   "x": "MRP runs explosion, netting, lot sizing and offsetting level by level. Netting subtracts on-hand and scheduled inventory to get net requirements; offsetting is the step that shifts orders back in time by lead time.",
+   "concepts": [
+    "kt:material-requirements-planning",
+    "kt:bill-of-materials"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/material-requirements-planning.html"
+  },
+  {
+   "id": "bz-000160",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Material Requirements Planning",
+   "t": "A 2004 simulation found that with advance demand information, MRP-type push strategies achieved better inventory and service levels than kanban.",
+   "f": "A 2004 simulation found that with advance demand information, kanban achieved better inventory and service levels than MRP-type push strategies.",
+   "x": "When future demand is visible, planning ahead pays off, and kanban showed significant inefficiencies in that study. The push-versus-pull verdict depends on demand visibility rather than favouring pull in all cases.",
+   "concepts": [
+    "kt:material-requirements-planning",
+    "kt:kanban"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/material-requirements-planning.html"
+  },
+  {
+   "id": "bz-000161",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Groupthink",
+   "t": "Irving Janis set out the theory of groupthink in his 1972 book Victims of Groupthink, drawing on cases such as Pearl Harbor and the Bay of Pigs invasion.",
+   "f": "Irving Janis set out the theory of groupthink in his 1977 book Victims of Groupthink, drawing on cases such as Pearl Harbor and the Bay of Pigs invasion.",
+   "x": "Janis asked why groups of highly capable people made poor foreign-policy decisions, and the Bay of Pigs became his signature case. The 1977 date belongs to the later elaboration of the model by Janis and Mann, not the original book.",
+   "concepts": [
+    "kt:groupthink",
+    "kt:irving-janis",
+    "kt:victims-of-groupthink",
+    "kt:bay-of-pigs-invasion"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/groupthink.html"
+  },
+  {
+   "id": "bz-000162",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "Groupthink",
+   "t": "Among Janis's symptoms of groupthink, mindguards are self-appointed members who screen the group from unwelcome information.",
+   "f": "Among Janis's symptoms of groupthink, mindguards are self-appointed members who argue against the group's preferred option to test it.",
+   "x": "Mindguards protect the emerging consensus, alongside other symptoms such as self-censorship and an illusion of unanimity. Arguing against the favoured option is structured dissent, the devil's advocacy remedy for groupthink, not a symptom of it.",
+   "concepts": [
+    "kt:groupthink",
+    "kt:irving-janis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/groupthink.html"
+  },
+  {
+   "id": "bz-000163",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Groupthink",
+   "t": "In Callaway and Esser's laboratory test, groups of intermediate cohesiveness made the best decisions, while highly cohesive groups lacking sound procedures did worst.",
+   "f": "In Callaway and Esser's laboratory test, highly cohesive groups made the best decisions, while groups of intermediate cohesiveness lacking sound procedures did worst.",
+   "x": "The 1984 study gave groupthink only mixed support: the worst groups showed little disagreement and high confidence, as the theory predicts. It suggests that sound decision procedures, not just less cohesion, are the practical safeguard.",
+   "concepts": [
+    "kt:groupthink"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/groupthink.html"
+  },
+  {
+   "id": "bz-000164",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "David J. Teece",
+   "t": "Teece published \"Dynamic capabilities and strategic management\" with Gary Pisano and Amy Shuen in the Strategic Management Journal in 1997.",
+   "f": "Teece published \"Dynamic capabilities and strategic management\" with Kathleen Eisenhardt and Jeffrey Martin in the Strategic Management Journal in 1997.",
+   "x": "The 1997 paper with Pisano and Shuen argued that advantage in fast-moving markets rests on hard-to-imitate organizational processes. ScienceWatch later ranked it the most cited article in economics and business for 1995 to 2005.",
+   "concepts": [
+    "kt:david-j-teece",
+    "kt:dynamic-capabilities"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/david-j-teece.html"
+  },
+  {
+   "id": "bz-000165",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "David J. Teece",
+   "t": "Teece's 1986 profiting-from-innovation paper argued that imitators, customers and owners of complementary assets such as distribution often capture an innovation's returns.",
+   "f": "Teece's 1986 profiting-from-innovation paper argued that innovators usually capture an innovation's returns, because imitators and customers lack complementary assets.",
+   "x": "Inventing is not enough: who gains depends on how easily the know-how is copied, whether a dominant design has emerged, and who controls scarce manufacturing, distribution and service capacity. Where protection is weak, the innovator may need those assets early.",
+   "concepts": [
+    "kt:david-j-teece",
+    "kt:profiting-from-innovation",
+    "kt:complementary-assets"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/david-j-teece.html"
+  },
+  {
+   "id": "bz-000166",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "David J. Teece",
+   "t": "A review of 92 quantitative studies found the link between dynamic capabilities and firm performance still unclear, partly because studies define and measure the capabilities differently.",
+   "f": "A review of 92 quantitative studies found a clear, direct link between dynamic capabilities and firm performance, consistent however studies defined and measured the capabilities.",
+   "x": "Despite the idea's fame, the evidence is contested. Inconsistent definitions make results hard to compare, and the most promising findings are indirect, working through change and intermediate outcomes rather than straight to performance.",
+   "concepts": [
+    "kt:david-j-teece",
+    "kt:dynamic-capabilities"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/david-j-teece.html"
+  },
+  {
+   "id": "bz-000167",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "80/20 Rule",
+   "t": "Joseph Juran named the Pareto principle and later called the name a mistake, since Vilfredo Pareto had studied only the distribution of wealth.",
+   "f": "Joseph Juran named the Pareto principle and later called the name a mistake, since Vilfredo Pareto had studied only the distribution of quality losses.",
+   "x": "Pareto's law concerned income and wealth. Juran generalised the pattern to quality losses in his 1951 Quality Control Handbook, and in 1974 admitted Pareto never proposed a universal and that his cumulative curves should have been credited to M. O. Lorenz.",
+   "concepts": [
+    "kt:eighty-twenty-rule",
+    "kt:joseph-juran",
+    "kt:vilfredo-pareto"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/eighty-twenty-rule.html"
+  },
+  {
+   "id": "bz-000168",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "80/20 Rule",
+   "t": "For Pareto-distributed data, the share held by the top 20% depends on the distribution's exponent, so an exact 80/20 split is not guaranteed.",
+   "f": "For Pareto-distributed data, the share held by the top 20% is fixed at 80% whatever the exponent, so an exact 80/20 split is guaranteed.",
+   "x": "Mark Newman's power-law math gives about 80% for the exponents reported for wealth but about 86% when the exponent is 2.1. For data that are not heavy-tailed, the rule can fail entirely.",
+   "concepts": [
+    "kt:eighty-twenty-rule",
+    "kt:power-law"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/eighty-twenty-rule.html"
+  },
+  {
+   "id": "bz-000169",
+   "area": "consulting-and-problem-solving",
+   "kind": "application",
+   "topic": "80/20 Rule",
+   "t": "Testing the long-tail thesis with music and home-video sales data, Anita Elberse found blockbusters were capturing a larger share of the market than before.",
+   "f": "Testing the long-tail thesis with music and home-video sales data, Anita Elberse found niche titles were capturing a larger share of the market than before.",
+   "x": "The long tail predicted that unlimited online shelf space would shift demand toward niches. Elberse found concentration on hits growing and little strong preference for niche titles, so the vital-few logic still holds in hit-driven businesses.",
+   "concepts": [
+    "kt:eighty-twenty-rule",
+    "kt:long-tail"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/eighty-twenty-rule.html"
+  },
+  {
+   "id": "bz-000170",
+   "area": "accounting-and-reporting",
+   "kind": "definition",
+   "topic": "Goodwill",
+   "t": "Goodwill is recognized only when a company acquires a business; goodwill a company builds internally is never put on its balance sheet.",
+   "f": "Goodwill is recognized only when a company builds it internally; goodwill acquired in a business purchase is never put on its balance sheet.",
+   "x": "Goodwill is measured as a residual: the price paid above the fair value of the identifiable net assets acquired, covering things like an assembled workforce and expected synergies. Recording only purchased goodwill is one reason the asset is so contested.",
+   "concepts": [
+    "kt:goodwill",
+    "kt:mergers-and-acquisitions",
+    "kt:intangible-assets"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goodwill.html"
+  },
+  {
+   "id": "bz-000171",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Goodwill",
+   "t": "Under IAS 36, a cash-generating unit's recoverable amount is the higher of its fair value less costs of disposal and its value in use.",
+   "f": "Under IAS 36, a cash-generating unit's recoverable amount is the lower of its fair value less costs of disposal and its value in use.",
+   "x": "Goodwill has no cash flows of its own, so it is tested within cash-generating units, which are impaired only when their carrying amount exceeds this recoverable amount. Value in use is the present value of expected cash flows, and any loss reduces goodwill first.",
+   "concepts": [
+    "kt:goodwill",
+    "kt:ifrs",
+    "kt:fair-value-measurement",
+    "kt:discounted-cash-flow"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goodwill.html"
+  },
+  {
+   "id": "bz-000172",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Goodwill",
+   "t": "Li and Sloan (2017) found that after SFAS 142, managers appear to have delayed goodwill write-downs, temporarily propping up earnings and share prices.",
+   "f": "Li and Sloan (2017) found that after SFAS 142, managers appear to have accelerated goodwill write-downs, temporarily depressing earnings and share prices.",
+   "x": "SFAS 142 replaced amortization with a fair-value impairment test whose discretion let goodwill balances become inflated and write-downs untimely. Investors did not fully anticipate the delay, which is the 'too little, too late' critique of impairment-only accounting.",
+   "concepts": [
+    "kt:goodwill",
+    "kt:gaap",
+    "kt:accrual-accounting"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goodwill.html"
+  },
+  {
+   "id": "bz-000173",
+   "area": "business-ethics-and-governance",
+   "kind": "definition",
+   "topic": "Business Roundtable Statement on the Purpose of a Corporation",
+   "t": "The 2019 Business Roundtable purpose statement changed no legal duty, so corporate law still keeps many boards from treating stakeholder interests as ends in themselves.",
+   "f": "The 2019 Business Roundtable purpose statement changed directors' legal duties, so corporate law now lets boards treat stakeholder interests as ends in themselves.",
+   "x": "The pledge is a declaration by CEOs, not a change to charters or statutes. Bebchuk and Tallarita note it is also silent on whether stakeholders should get anything beyond what also serves shareholder value.",
+   "concepts": [
+    "kt:business-roundtable-statement-on-corporate-purpose",
+    "kt:fiduciary-duty",
+    "kt:board-of-directors"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-roundtable-statement-on-corporate-purpose.html"
+  },
+  {
+   "id": "bz-000174",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Business Roundtable Statement on the Purpose of a Corporation",
+   "t": "Raghunandan and Rajgopal (2024) found that BRT signatories had more environmental and labor-law violations than industry peers, with no improvement after signing.",
+   "f": "Raghunandan and Rajgopal (2024) found that BRT signatories had fewer environmental and labor-law violations than industry peers, with further improvement after signing.",
+   "x": "They also found higher carbon emissions and greater reliance on government subsidies among signatories, and concluded the statement was not a credible commitment. The study shows why stated ESG commitments are tested against measurable conduct.",
+   "concepts": [
+    "kt:business-roundtable-statement-on-corporate-purpose",
+    "kt:esg",
+    "kt:corporate-social-responsibility"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-roundtable-statement-on-corporate-purpose.html"
+  },
+  {
+   "id": "bz-000175",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Business Roundtable Statement on the Purpose of a Corporation",
+   "t": "Of 48 signatory companies that answered Bebchuk and Tallarita, 47 said the CEO alone decided to sign the BRT statement; only one reported board approval.",
+   "f": "Of 48 signatory companies that answered Bebchuk and Tallarita, 47 said the board approved signing the BRT statement; only one reported a CEO-only decision.",
+   "x": "Board involvement matters because a stakeholder commitment binds only if written into charters, board guidelines, executive pay and shareholder voting. With boards largely absent, the authors concluded the pledge was mostly a matter of public relations.",
+   "concepts": [
+    "kt:business-roundtable-statement-on-corporate-purpose",
+    "kt:board-of-directors",
+    "kt:corporate-governance"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-roundtable-statement-on-corporate-purpose.html"
+  },
+  {
+   "id": "bz-000176",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Apple iPhone Launch",
+   "t": "Because it planned free future software features, Apple recognized iPhone revenue straight-line over an estimated 24-month life rather than at the point of sale.",
+   "f": "Because it planned free future software features, Apple recognized iPhone revenue at the point of sale rather than straight-line over an estimated 24-month life.",
+   "x": "Apple used subscription accounting because buyers would receive future features at no charge, so part of the sale was not yet delivered. Spreading handset revenue and cost of sales over 24 months matched them to that ongoing obligation.",
+   "concepts": [
+    "kt:apple-iphone-launch",
+    "kt:apple-inc"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/apple-iphone-launch.html"
+  },
+  {
+   "id": "bz-000177",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Apple iPhone Launch",
+   "t": "On September 5, 2007, about ten weeks after the U.S. launch, Apple cut the 8GB iPhone's price from $599 to $399.",
+   "f": "On September 5, 2007, about ten weeks after the U.S. launch, Apple cut the 8GB iPhone's price from $599 to $499.",
+   "x": "Apple dropped the 8GB model by $200 and let the $499 4GB model sell out, expecting its one-millionth sale within the month. Critics count cutting price so soon after a premium launch among the launch's missteps.",
+   "concepts": [
+    "kt:apple-iphone-launch",
+    "kt:product-launch"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/apple-iphone-launch.html",
+   "asOf": "2007"
+  },
+  {
+   "id": "bz-000178",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Apple iPhone Launch",
+   "t": "West and Mace argue the iPhone succeeded by extending the existing wired internet to phones, making real web browsing central to its strategy.",
+   "f": "West and Mace argue the iPhone succeeded by adopting the operators' walled-garden model of mobile data, making carrier-curated services central to its strategy.",
+   "x": "In their peer-reviewed study, iPhone owners used mobile web browsing far more than other phone owners in the U.S. and Europe. Treating the phone as a window onto the real internet challenged the operator-led walled garden the industry had pursued for two decades.",
+   "concepts": [
+    "kt:apple-iphone-launch"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/apple-iphone-launch.html"
+  },
+  {
+   "id": "bz-000179",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Business Format Franchising",
+   "t": "Lafontaine's 1992 study of 548 U.S. franchisors found the data best fit a two-sided moral hazard model, where both franchisee and franchisor effort shape outlet results.",
+   "f": "Lafontaine's 1992 study of 548 U.S. franchisors found the data best fit a one-sided moral hazard model, where only franchisee effort shapes outlet results.",
+   "x": "In the two-sided model neither party can be left without an incentive, which fits franchisees keeping residual profit while franchisors earn sales-based royalties. The models explained how much firms franchise better than their exact royalty and fee levels.",
+   "concepts": [
+    "kt:business-format-franchising",
+    "kt:moral-hazard",
+    "kt:principal-agent-problem"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-format-franchising.html"
+  },
+  {
+   "id": "bz-000180",
+   "area": "business-models",
+   "kind": "definition",
+   "topic": "Business Format Franchising",
+   "t": "Under the FTC Franchise Rule, a deal is a franchise if it involves a trademark, significant control or assistance, and a payment of at least $500 within six months, whatever it is called.",
+   "f": "Under the FTC Franchise Rule, a deal is a franchise if it involves a trademark, significant control or assistance, and a payment of at least $5,000 within six months, whatever it is called.",
+   "x": "Only these three elements decide whether the Rule applies, so it covers business-format and product franchises alike regardless of the label. Covered franchisors must give prospects a 23-item Franchise Disclosure Document at least 14 days before signing or payment.",
+   "concepts": [
+    "kt:business-format-franchising",
+    "kt:ftc-franchise-rule"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-format-franchising.html"
+  },
+  {
+   "id": "bz-000181",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Business Format Franchising",
+   "t": "At the end of 2025, about 95% of McDonald's 45,356 restaurants were franchised.",
+   "f": "At the end of 2025, about 65% of McDonald's 45,356 restaurants were franchised.",
+   "x": "McDonald's is the textbook business-format franchisor: franchised restaurants produced roughly $16.5 billion of its $26.9 billion revenue. It usually controls the real estate and collects rent plus sales-based royalties.",
+   "concepts": [
+    "kt:business-format-franchising",
+    "kt:mcdonalds"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-format-franchising.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000182",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Dividend Policy",
+   "t": "Miller and Modigliani's 1961 paper argued that, with investment policy held fixed, a firm's dividend payout does not change what the firm is worth.",
+   "f": "Miller and Modigliani's 1958 paper argued that, with investment policy held fixed, a firm's dividend payout does not change what the firm is worth.",
+   "x": "The 1961 paper, 'Dividend Policy, Growth, and the Valuation of Shares', extended their 1958 capital-structure result to payouts. A bigger dividend must be funded by issuing more shares, so shareholders just swap cash for a smaller claim on the firm.",
+   "concepts": [
+    "kt:dividend-policy",
+    "kt:merton-miller",
+    "kt:franco-modigliani",
+    "kt:modigliani-miller-theorem"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dividend-policy.html"
+  },
+  {
+   "id": "bz-000183",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Dividend Policy",
+   "t": "Lintner's 1956 interviews found that managers set a long-run target payout ratio and move dividends toward it gradually, avoiding raises they might later reverse.",
+   "f": "Lintner's 1956 interviews found that managers set dividends as a fixed share of each year's earnings, raising and cutting them freely as profits change.",
+   "x": "Lintner described a partial-adjustment process: about two-thirds of his 28 firms had a target ratio, mostly between 40% and 60%, and moved toward it slowly. That reluctance to make increases they might have to cut is why dividends are smoothed relative to earnings.",
+   "concepts": [
+    "kt:dividend-policy"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dividend-policy.html"
+  },
+  {
+   "id": "bz-000184",
+   "area": "corporate-finance",
+   "kind": "figure",
+   "topic": "Dividend Policy",
+   "t": "In 2024, S&P 500 companies spent a record $942.5 billion on buybacks, well above the $629.6 billion they paid out in dividends.",
+   "f": "In 2024, S&P 500 companies paid out a record $942.5 billion in dividends, well above the $629.6 billion they spent on buybacks.",
+   "x": "Large U.S. firms now return more cash through repurchases than through dividends, a combined $1.572 trillion in 2024. This fits survey evidence that firms keep a stable dividend they are reluctant to cut and flex buybacks with cash flow and valuation.",
+   "concepts": [
+    "kt:dividend-policy",
+    "kt:share-repurchase"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dividend-policy.html",
+   "asOf": "2024"
+  },
+  {
+   "id": "bz-000185",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Revolutionary FAR Overhaul",
+   "t": "The Revolutionary FAR Overhaul was launched by Executive Order 14275 in April 2025, which said the FAR should keep only provisions required by statute or essential to sound procurement.",
+   "f": "The Revolutionary FAR Overhaul was launched by Executive Order 14192 in April 2025, which said the FAR should keep only provisions required by statute or essential to sound procurement.",
+   "x": "EO 14275, Restoring Common Sense to Federal Procurement, noted the FAR had grown past 2,000 pages and set this keep-only-the-essentials policy. EO 14192 is the separate ten-for-one deregulation order that EO 14275 applied to agency supplements.",
+   "concepts": [
+    "kt:revolutionary-far-overhaul",
+    "kt:executive-order-14275",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revolutionary-far-overhaul.html"
+  },
+  {
+   "id": "bz-000186",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Revolutionary FAR Overhaul",
+   "t": "The FAR overhaul runs in two phases: first the FAR Council issues model class deviation text agencies can adopt, then formal notice-and-comment rulemaking follows.",
+   "f": "The FAR overhaul runs in two phases: first formal notice-and-comment rulemaking changes the FAR, then the FAR Council issues model class deviation text agencies can adopt.",
+   "x": "Deviations let agencies use streamlined text in fiscal year 2025 before any binding rule changed. Formal rulemaking comes second: the Council describes twelve proposed rules that together streamline the entire FAR.",
+   "concepts": [
+    "kt:revolutionary-far-overhaul",
+    "kt:far-council"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revolutionary-far-overhaul.html"
+  },
+  {
+   "id": "bz-000187",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Revolutionary FAR Overhaul",
+   "t": "In the Army's MAPS protests, GAO denied all four challenges to a solicitation mixing overhaul deviation clauses with legacy FAR clauses, yet acknowledged the version confusion.",
+   "f": "In the Army's MAPS protests, GAO sustained all four challenges to a solicitation mixing overhaul deviation clauses with legacy FAR clauses, citing the version confusion.",
+   "x": "GAO found the challenged clauses unchanged or substantively identical, so the protests failed, but it noted the deviation process can leave offerors unsure which version applies. That transitional confusion is the main practical critique of the overhaul so far.",
+   "concepts": [
+    "kt:revolutionary-far-overhaul",
+    "kt:marketplace-for-the-acquisition-of-professional-services"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revolutionary-far-overhaul.html"
+  },
+  {
+   "id": "bz-000188",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Jobs to Be Done",
+   "t": "Jobs to be done draws on Theodore Levitt's remark that people buying a quarter-inch drill really want a quarter-inch hole.",
+   "f": "Jobs to be done draws on Anthony Ulwick's remark that people buying a quarter-inch drill really want a quarter-inch hole.",
+   "x": "Levitt's outcome-over-product insight is the root that Christensen and Intuit's Scott Cook built on. Ulwick is behind Outcome-Driven Innovation, a parallel, more quantitative school built on the same job concept.",
+   "concepts": [
+    "kt:jobs-to-be-done",
+    "kt:theodore-levitt",
+    "kt:outcome-driven-innovation"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/jobs-to-be-done.html"
+  },
+  {
+   "id": "bz-000189",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "Jobs to Be Done",
+   "t": "In the milkshake case, morning commuters hired a shake to make a long, dull drive more interesting, so it competed with bagels and bananas rather than other shakes.",
+   "f": "In the milkshake case, morning commuters hired a shake to make a long, dull drive more interesting, so it competed with other chains' shakes rather than bagels and bananas.",
+   "x": "Surveying target customers about an ideal shake had changed nothing; watching who bought shakes, and when, revealed the job. Because competition is defined by the job, the rivals were other commute foods, not other milkshakes.",
+   "concepts": [
+    "kt:jobs-to-be-done"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/jobs-to-be-done.html"
+  },
+  {
+   "id": "bz-000190",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Jobs to Be Done",
+   "t": "A study of 109 business customers of one chemical firm found that how well their important jobs were solved explained only 22.8% of the variance in their performance.",
+   "f": "A study of 109 business customers of one chemical firm found that how well their important jobs were solved explained about 82.8% of the variance in their performance.",
+   "x": "The link was positive but modest, and it came from a single company and industry. Most support for jobs to be done is case-based work by its own proponents, so peer-reviewed tests remain thin.",
+   "concepts": [
+    "kt:jobs-to-be-done"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/jobs-to-be-done.html"
+  },
+  {
+   "id": "bz-000191",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Contingency Theory of Leadership",
+   "t": "Fiedler predicted that task-oriented, low-LPC leaders do best in very favorable or very unfavorable situations, and relationship-oriented leaders in moderately favorable ones.",
+   "f": "Fiedler predicted that relationship-oriented, high-LPC leaders do best in very favorable or very unfavorable situations, and task-oriented leaders in moderately favorable ones.",
+   "x": "The prediction is curvilinear: situational favorableness depends on leader-member relations, task structure and position power, and task focus pays off at both extremes. Relationship-oriented leaders do best in the mixed middle band.",
+   "concepts": [
+    "kt:contingency-theory-of-leadership",
+    "kt:fred-fiedler",
+    "kt:least-preferred-coworker-scale"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contingency-theory-of-leadership.html"
+  },
+  {
+   "id": "bz-000192",
+   "area": "leadership-and-management",
+   "kind": "application",
+   "topic": "Contingency Theory of Leadership",
+   "t": "Because Fiedler saw a leader's style as relatively fixed, he advised changing the situation to fit the leader rather than retraining the leader.",
+   "f": "Because Fiedler saw a leader's style as relatively fixed, he advised retraining the leader to fit the situation rather than changing the situation.",
+   "x": "If style is stable, the practical lever is the job: restructure the task or adjust formal authority so it suits the incumbent. Fiedler and colleagues packaged this leader match logic into training.",
+   "concepts": [
+    "kt:contingency-theory-of-leadership",
+    "kt:fred-fiedler"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contingency-theory-of-leadership.html"
+  },
+  {
+   "id": "bz-000193",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Contingency Theory of Leadership",
+   "t": "A main critique of Fiedler's model is that test-retest reliabilities of the LPC scale ranged from .01 to .92 across 23 studies.",
+   "f": "A main critique of Fiedler's model is that test-retest reliabilities of the LPC scale stayed above .90 across 23 studies.",
+   "x": "The model rests on LPC being a stable measure of style, so wildly varying reliability undercuts it. The scale also drew at least five different interpretations, from social distance to cognitive complexity.",
+   "concepts": [
+    "kt:contingency-theory-of-leadership",
+    "kt:least-preferred-coworker-scale"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contingency-theory-of-leadership.html"
+  },
+  {
+   "id": "bz-000194",
+   "area": "managerial-economics",
+   "kind": "figure",
+   "topic": "Airline Industry",
+   "t": "In 2025, the net profit margin of U.S. scheduled passenger airlines was 2.4%, down from 2.7% in 2024.",
+   "f": "In 2025, the net profit margin of U.S. scheduled passenger airlines was 12.4%, down from 12.7% in 2024.",
+   "x": "Bureau of Transportation Statistics data show how thin airline margins are relative to revenue and capital. Globally, IATA estimated a 3.9% net margin for 2025, with returns on invested capital still below the cost of capital.",
+   "concepts": [
+    "kt:airline-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/airline-industry.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000195",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Airline Industry",
+   "t": "Because airline labor and fuel costs are largely fixed in the short run, moderate swings in demand produce large swings in profit.",
+   "f": "Because airline labor and fuel costs are largely fixed in the short run, moderate swings in demand produce only small swings in profit.",
+   "x": "When most costs are committed in advance, losing passengers cuts revenue without cutting costs much, so profit amplifies demand changes. This helps explain the industry's chronic financial instability and its recurring merger waves.",
+   "concepts": [
+    "kt:airline-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/airline-industry.html"
+  },
+  {
+   "id": "bz-000196",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Airline Industry",
+   "t": "Critics of U.S. airline deregulation note that business travelers buying unrestricted tickets have often paid more since, though defenders say those fares buy flexibility.",
+   "f": "Critics of U.S. airline deregulation note that leisure travelers buying restricted discount tickets have often paid more since, though defenders say those fares buy flexibility.",
+   "x": "Average real U.S. fares fell after deregulation, but not for everyone: travelers needing unrestricted business tickets often paid more. Defenders see that premium as the price of flexibility rather than a sign of market failure.",
+   "concepts": [
+    "kt:airline-industry",
+    "kt:airline-deregulation-act"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/airline-industry.html"
+  },
+  {
+   "id": "bz-000197",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "A. Parasuraman",
+   "t": "Parasuraman's Technology Readiness Index pairs two motivators, optimism and innovativeness, with two inhibitors, discomfort and insecurity.",
+   "f": "Parasuraman's Technology Readiness Index pairs two motivators, optimism and insecurity, with two inhibitors, discomfort and innovativeness.",
+   "x": "The index measures a person's propensity to embrace new technology at home and at work, so it nets the forces pulling people toward it (optimism, innovativeness) against those holding them back (discomfort, insecurity). Insecurity is a brake on adoption, not a motivator.",
+   "concepts": [
+    "kt:a-parasuraman",
+    "kt:technology-readiness-index"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/a-parasuraman.html"
+  },
+  {
+   "id": "bz-000198",
+   "area": "marketing",
+   "kind": "definition",
+   "topic": "A. Parasuraman",
+   "t": "E-S-QUAL rates how well a website enables efficient shopping, purchasing and delivery, while E-RecS-QUAL covers customers who had a problem or needed help.",
+   "f": "E-RecS-QUAL rates how well a website enables efficient shopping, purchasing and delivery, while E-S-QUAL covers customers who had a problem or needed help.",
+   "x": "Parasuraman, Zeithaml and Malhotra's 2005 E-S-QUAL has 22 items on efficiency, fulfillment, system availability and privacy. The smaller companion E-RecS-QUAL handles service recovery, covering responsiveness, compensation and contact, and its authors called it preliminary because small samples limited its validation.",
+   "concepts": [
+    "kt:a-parasuraman",
+    "kt:e-s-qual"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/a-parasuraman.html"
+  },
+  {
+   "id": "bz-000199",
+   "area": "marketing",
+   "kind": "figure",
+   "topic": "A. Parasuraman",
+   "t": "In Parasuraman and Colby's 2014 TRI 2.0 study of U.S. adults, 38% of consumers were classed as Skeptics and 16% as Pioneers.",
+   "f": "In Parasuraman and Colby's 2014 TRI 2.0 study of U.S. adults, 16% of consumers were classed as Skeptics and 38% as Pioneers.",
+   "x": "TRI 2.0 trimmed the original 36-item index to 16 items, was tested on 878 U.S. adults, and used the scores to sort consumers into five readiness segments. The cautious Skeptics outnumbered the eager Pioneers by more than two to one in that sample.",
+   "concepts": [
+    "kt:a-parasuraman",
+    "kt:technology-readiness-index"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/a-parasuraman.html",
+   "asOf": "2014"
+  },
+  {
+   "id": "bz-000200",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Malcolm Baldrige National Quality Award",
+   "t": "The US national quality award created by a 1987 law is named after Commerce Secretary Malcolm Baldrige, who died weeks before President Reagan signed the bill.",
+   "f": "The US national quality award created by a 1987 law is named after Treasury Secretary Malcolm Baldrige, who died weeks before President Reagan signed the bill.",
+   "x": "Baldrige was Commerce Secretary and died in a rodeo accident in July 1987, so Congress renamed the proposed award for him. It answered a quality gap with Japanese manufacturers, and Motorola was among the first winners for 1988.",
+   "concepts": [
+    "kt:malcolm-baldrige-national-quality-award",
+    "kt:malcolm-baldrige-national-quality-improvement-act",
+    "kt:motorola"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/malcolm-baldrige-national-quality-award.html"
+  },
+  {
+   "id": "bz-000201",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Malcolm Baldrige National Quality Award",
+   "t": "A 1999 event study found only a marginally significant stock reaction on the day Baldrige winners were announced, driven by just four companies.",
+   "f": "A 1999 event study found a strong, highly significant stock reaction on the day Baldrige winners were announced, shared by almost every winner.",
+   "x": "Only about half the winners showed positive abnormal returns. The authors suggested quality management may still create value, but a one-day window misses gains that arrive well before or after the ceremony.",
+   "concepts": [
+    "kt:malcolm-baldrige-national-quality-award",
+    "kt:total-quality-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/malcolm-baldrige-national-quality-award.html"
+  },
+  {
+   "id": "bz-000202",
+   "area": "operations-and-supply-chain",
+   "kind": "figure",
+   "topic": "Malcolm Baldrige National Quality Award",
+   "t": "In the 2025 Baldrige award cycle, 18 organizations applied and two hospitals were named recipients.",
+   "f": "In the 2025 Baldrige award cycle, 81 organizations applied and two hospitals were named recipients.",
+   "x": "The 2025 winners were Nor-Lea Hospital District in New Mexico and Northwell Glen Cove Hospital in New York, fitting the trend that health care now supplies the most applicants.",
+   "concepts": [
+    "kt:malcolm-baldrige-national-quality-award"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/malcolm-baldrige-national-quality-award.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000203",
+   "area": "organizational-behavior",
+   "kind": "definition",
+   "topic": "High-Performance Teams",
+   "t": "Katzenbach and Smith separated a team, with shared leadership and mutual accountability, from a working group, where a strong leader assigns work and members answer only for their own results.",
+   "f": "Katzenbach and Smith separated a working group, with shared leadership and mutual accountability, from a team, where a strong leader assigns work and members answer only for their own results.",
+   "x": "In their 1993 HBR article a real team is judged directly by the collective work products members create together. A working group's performance is the sum of individual outputs and is judged only indirectly, by its influence on the wider business.",
+   "concepts": [
+    "kt:high-performance-teams",
+    "kt:jon-katzenbach",
+    "kt:the-discipline-of-teams"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/high-performance-teams.html"
+  },
+  {
+   "id": "bz-000204",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "High-Performance Teams",
+   "t": "In Hackman's design conditions for team effectiveness, a real team is one with clear boundaries and stable membership.",
+   "f": "In Hackman's design conditions for team effectiveness, a real team is one with flexible boundaries and rotating membership.",
+   "x": "Hackman, Wageman and Fisher treated performance as a design problem: a real team, a compelling direction, an enabling structure, a supportive context and expert coaching. Hackman also observed that members often disagree even about who belongs to the team.",
+   "concepts": [
+    "kt:high-performance-teams",
+    "kt:j-richard-hackman"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/high-performance-teams.html"
+  },
+  {
+   "id": "bz-000205",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "High-Performance Teams",
+   "t": "Hackman's studies found that real-time process coaching did not rescue poorly designed self-managing teams, while well-designed teams benefited from modest help.",
+   "f": "Hackman's studies found that real-time process coaching rescued poorly designed self-managing teams, while well-designed teams gained little from modest help.",
+   "x": "Coaching helps only once the other design conditions are in place, so it amplifies good design rather than substituting for it. That is why managers using the model fix team design and launch first and save coaching for breakpoints such as the project midpoint.",
+   "concepts": [
+    "kt:high-performance-teams",
+    "kt:j-richard-hackman"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/high-performance-teams.html"
+  },
+  {
+   "id": "bz-000206",
+   "area": "strategy",
+   "kind": "definition",
+   "topic": "Experience Curve",
+   "t": "The experience curve lowers unit cost through a firm's cumulative output, whereas economies of scale lower it through the size of current output.",
+   "f": "The experience curve lowers unit cost through the size of a firm's current output, whereas economies of scale lower it through cumulative output.",
+   "x": "Experience effects come from repetition and improvement as total units produced pile up, so a faster-growing firm moves down the curve faster. Lieberman's data on chemical products separated the two effects and found scale effects small by comparison.",
+   "concepts": [
+    "kt:experience-curve",
+    "kt:economies-of-scale"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/experience-curve.html"
+  },
+  {
+   "id": "bz-000207",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Experience Curve",
+   "t": "BCG traces the experience curve to a 1966 cost study for a large semiconductor maker, with Bruce Henderson later setting out its strategic implications.",
+   "f": "BCG traces the experience curve to a 1966 cost study for a large aircraft maker, with Bruce Henderson later setting out its strategic implications.",
+   "x": "Aircraft were the setting of the older learning curve, from T. P. Wright's 1936 paper. BCG's step was to extend the idea from direct labour to a product's total cost and turn it into a strategy tool.",
+   "concepts": [
+    "kt:experience-curve",
+    "kt:bruce-henderson",
+    "kt:learning-curve"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/experience-curve.html"
+  },
+  {
+   "id": "bz-000208",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Experience Curve",
+   "t": "Testing six laws of technological progress on 62 technologies, Nagy and colleagues found Wright's law forecast costs best, with Moore's law a close second.",
+   "f": "Testing six laws of technological progress on 62 technologies, Nagy and colleagues found Moore's law forecast costs best, with Wright's law a close second.",
+   "x": "Wright's law ties cost to cumulative production, the core of the experience curve. The two laws are hard to tell apart because production usually grows exponentially over time.",
+   "concepts": [
+    "kt:experience-curve",
+    "kt:learning-curve"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/experience-curve.html"
+  },
+  {
+   "id": "bz-000209",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "Ishikawa Diagram",
+   "t": "Kaoru Ishikawa developed the cause-and-effect diagram in 1943 at the University of Tokyo; its fishbone nickname comes from its shape.",
+   "f": "Kaoru Ishikawa developed the cause-and-effect diagram in 1963 at the University of Tokyo; its fishbone nickname comes from its shape.",
+   "x": "The problem sits at the head and cause categories branch off the spine like ribs. The tool dates from the 1940s and later joined Japanese quality control's seven basic tools.",
+   "concepts": [
+    "kt:ishikawa-diagram",
+    "kt:kaoru-ishikawa",
+    "kt:seven-basic-quality-tools"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ishikawa-diagram.html"
+  },
+  {
+   "id": "bz-000210",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Ishikawa Diagram",
+   "t": "Manufacturing teams often seed a fishbone with the 6 Ms: materials, machinery, methods, measurement, manpower and Mother Nature, meaning the environment.",
+   "f": "Manufacturing teams often seed a fishbone with the 6 Ms: materials, machinery, methods, money, manpower and Mother Nature, meaning the environment.",
+   "x": "Measurement is one of the six standard headings; money is sometimes added as a seventh. Ishikawa encouraged renaming categories to fit the setting, and service teams often use headings like policies and procedures, and people.",
+   "concepts": [
+    "kt:ishikawa-diagram"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ishikawa-diagram.html"
+  },
+  {
+   "id": "bz-000211",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Ishikawa Diagram",
+   "t": "A fishbone diagram organizes a team's hypotheses about causes rather than testing them, so teams turn to data tools such as Pareto and control charts to judge which causes matter.",
+   "f": "A fishbone diagram tests a team's hypotheses about causes rather than just organizing them, so teams seldom need data tools such as Pareto and control charts to judge which causes matter.",
+   "x": "The chart records what participants believe, so teams can drift into listing symptoms or assume they understand a problem. Guidance pairs it with the five whys to deepen branches and with data-based tools to rank candidate causes.",
+   "concepts": [
+    "kt:ishikawa-diagram",
+    "kt:five-whys",
+    "kt:eighty-twenty-rule"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ishikawa-diagram.html"
+  },
+  {
+   "id": "bz-000212",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "Sarbanes-Oxley Act of 2002",
+   "t": "President George W. Bush signed the Sarbanes-Oxley Act on July 30, 2002, after the collapses of Enron and WorldCom shook confidence in financial reporting.",
+   "f": "President George W. Bush signed the Sarbanes-Oxley Act on July 30, 2010, after the collapses of Enron and WorldCom shook confidence in financial reporting.",
+   "x": "SOX was the 2002 response to Enron and WorldCom, ending the audit profession's self-regulation by creating the PCAOB. 2010 is the year of the Dodd-Frank Act, which later amended SOX with a small-company exemption.",
+   "concepts": [
+    "kt:sarbanes-oxley-act",
+    "kt:enron-scandal",
+    "kt:public-company-accounting-oversight-board"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/sarbanes-oxley-act.html"
+  },
+  {
+   "id": "bz-000213",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Sarbanes-Oxley Act of 2002",
+   "t": "SOX Section 404(a) requires management to assess internal control over financial reporting, while 404(b) requires the external auditor to attest to that assessment.",
+   "f": "SOX Section 404(b) requires management to assess internal control over financial reporting, while 404(a) requires the external auditor to attest to that assessment.",
+   "x": "Management's annual report states its responsibility for internal control and assesses its effectiveness at fiscal year-end; the auditor then attests under PCAOB standards. Smaller companies won repeated delays and eventually a permanent exemption from the 404(b) attestation alone.",
+   "concepts": [
+    "kt:sarbanes-oxley-act",
+    "kt:internal-control-over-financial-reporting",
+    "kt:public-company-accounting-oversight-board"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/sarbanes-oxley-act.html"
+  },
+  {
+   "id": "bz-000214",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Sarbanes-Oxley Act of 2002",
+   "t": "Iliev found that filing the SOX Section 404 management report made small firms' reported earnings more conservative but, on net, lowered their market value.",
+   "f": "Iliev found that filing the SOX Section 404 management report made small firms' reported earnings more conservative and, on net, raised their market value.",
+   "x": "Comparing firms just above and below the $75 million public-float cutoff in 2004, Iliev found the report roughly doubled audit fees, a cost that outweighed the gain in earnings quality for small firms. Defenders counter that benefits such as lower fraud risk accrue over the long run.",
+   "concepts": [
+    "kt:sarbanes-oxley-act",
+    "kt:internal-control-over-financial-reporting"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/sarbanes-oxley-act.html"
+  },
+  {
+   "id": "bz-000215",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Fiduciary Duty",
+   "t": "Delaware's Section 102(b)(7) lets a charter eliminate directors' personal monetary liability for breaches of the duty of care, but not of the duty of loyalty.",
+   "f": "Delaware's Section 102(b)(7) lets a charter eliminate directors' personal monetary liability for breaches of the duty of loyalty, but not of the duty of care.",
+   "x": "The provision aims to encourage good-faith risk-taking by directors. Combined with the deferential business judgment rule, it means director liability in practice turns largely on loyalty and bad faith rather than careless decisions.",
+   "concepts": [
+    "kt:fiduciary-duty",
+    "kt:corporate-law",
+    "kt:business-judgment-rule"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fiduciary-duty.html"
+  },
+  {
+   "id": "bz-000216",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Fiduciary Duty",
+   "t": "Easterbrook and Fischel's contractarian view treats fiduciary duties as default contract terms that explicit agreements should generally override.",
+   "f": "Easterbrook and Fischel's contractarian view treats fiduciary duties as mandatory rules that explicit agreements should never override.",
+   "x": "On their 1993 view, courts fill gaps by asking what informed, rational parties would have agreed to. Critics answer that dependence and entrusted power justify duties parties cannot contract away, which is why the SEC bars investment advisers from blanket waivers.",
+   "concepts": [
+    "kt:fiduciary-duty",
+    "kt:corporate-law"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fiduciary-duty.html"
+  },
+  {
+   "id": "bz-000217",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Fiduciary Duty",
+   "t": "In Marchand v. Barnhill (2019), Delaware's Supreme Court let an oversight claim proceed against Blue Bell's board, which allegedly had no board-level food safety monitoring.",
+   "f": "In Marchand v. Barnhill (2019), Delaware's Supreme Court dismissed an oversight claim against Blue Bell's board, which allegedly had no board-level food safety monitoring.",
+   "x": "After a listeria outbreak, the court reversed dismissal, holding that failing to make a good-faith effort to monitor a mission-critical compliance risk breaches the duty of loyalty. Since Caremark claims are notoriously hard to win, the case is read as sharpening the oversight standard.",
+   "concepts": [
+    "kt:fiduciary-duty",
+    "kt:marchand-v-barnhill",
+    "kt:caremark-oversight-duty",
+    "kt:board-of-directors"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/fiduciary-duty.html"
+  },
+  {
+   "id": "bz-000218",
+   "area": "business-history-and-cases",
+   "kind": "origin",
+   "topic": "Southwest Airlines",
+   "t": "Southwest Airlines, founded by Rollin King and Herb Kelleher, began scheduled service in 1971 with three Boeing 737s linking Dallas, Houston and San Antonio.",
+   "f": "Southwest Airlines, founded by Rollin King and Herb Kelleher, began scheduled service in 1981 with three Boeing 737s linking Dallas, Houston and San Antonio.",
+   "x": "Founded in 1966, Southwest started as an intrastate Texas carrier from Dallas's Love Field after legal battles with incumbents delayed its 1971 launch. It expanded beyond Texas only after federal deregulation in 1978.",
+   "concepts": [
+    "kt:southwest-airlines",
+    "kt:herb-kelleher",
+    "kt:rollin-king"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/southwest-airlines.html"
+  },
+  {
+   "id": "bz-000219",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Southwest Airlines",
+   "t": "Porter argues Southwest's 15-minute turnarounds depended on skipping meals, seat assignments and bag transfers, so copying only some of its activities gains little.",
+   "f": "Porter argues Southwest's 15-minute turnarounds depended on skipping meals, seat assignments and bag transfers, so copying only some of its activities captures most of the gain.",
+   "x": "Porter's point is fit: each choice makes the others work, so the whole system resists imitation. Continental Lite copied some features while keeping its full-service network and lost hundreds of millions of dollars.",
+   "concepts": [
+    "kt:southwest-airlines",
+    "kt:strategic-positioning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/southwest-airlines.html"
+  },
+  {
+   "id": "bz-000220",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Southwest Airlines",
+   "t": "Gittell's nine-site study of flight departures linked stronger relational coordination across functions to fewer complaints, late arrivals and lost bags.",
+   "f": "Gittell's nine-site study of flight departures linked stronger centralized supervision of each function to fewer complaints, late arrivals and lost bags.",
+   "x": "Relational coordination means shared goals, shared knowledge and mutual respect across functions, and it also went with less staff time per passenger. Gittell offers it as a people-based complement to Porter's activity-system account of Southwest's advantage.",
+   "concepts": [
+    "kt:southwest-airlines",
+    "kt:relational-coordination"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/southwest-airlines.html"
+  },
+  {
+   "id": "bz-000221",
+   "area": "business-models",
+   "kind": "definition",
+   "topic": "Direct Selling",
+   "t": "Direct selling means face-to-face selling away from a fixed retail location, unlike direct marketing such as catalogs and telemarketing, which uses no personal salesperson.",
+   "f": "Direct marketing means face-to-face selling away from a fixed retail location, unlike direct selling such as catalogs and telemarketing, which uses no personal salesperson.",
+   "x": "Peterson and Wotruba made the personal salesperson the defining feature of direct selling, which is exactly what direct marketing lacks. They also treated pyramid schemes as a degenerate form of direct selling rather than its definition.",
+   "concepts": [
+    "kt:direct-selling",
+    "kt:direct-marketing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/direct-selling.html"
+  },
+  {
+   "id": "bz-000222",
+   "area": "business-models",
+   "kind": "application",
+   "topic": "Direct Selling",
+   "t": "In a 2017 letter, FTC Chairwoman Edith Ramirez said lawful multi-level plans tie pay to profitable retail sales to customers outside the network, not to recruiting.",
+   "f": "In a 2017 letter, FTC Chairwoman Edith Ramirez said lawful multi-level plans tie pay to recruiting and participants' own purchases, not to outside retail sales.",
+   "x": "Rewards for recruiting or for sellers' own consumption let a plan run on its own participants, the mark of a pyramid scheme. FTC staff turned these principles into formal business guidance in January 2018.",
+   "concepts": [
+    "kt:direct-selling",
+    "kt:pyramid-scheme",
+    "kt:federal-trade-commission-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/direct-selling.html"
+  },
+  {
+   "id": "bz-000223",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Direct Selling",
+   "t": "The WFDSA estimated global direct-selling retail sales at $163.9 billion in 2024, generated by 104.3 million independent representatives.",
+   "f": "The WFDSA estimated global direct-selling retail sales at $463.9 billion in 2024, generated by 104.3 million independent representatives.",
+   "x": "Sales were roughly flat on 2023, and 72.1% of representatives were women. These are estimates reported by the industry's own federation, so they deserve some caution.",
+   "concepts": [
+    "kt:direct-selling"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/direct-selling.html",
+   "asOf": "2024"
+  },
+  {
+   "id": "bz-000224",
+   "area": "corporate-finance",
+   "kind": "definition",
+   "topic": "Efficient Market Hypothesis",
+   "t": "The semi-strong form of market efficiency concerns all public information, and event studies showed prices adjusting quickly to news such as earnings announcements.",
+   "f": "The weak form of market efficiency concerns all public information, and event studies showed prices adjusting quickly to news such as earnings announcements.",
+   "x": "Fama sorted efficiency tests by information set: the weak form covers only past prices and returns, the semi-strong form all public information, and the strong form any information, including private. Event studies of splits, earnings and offerings were the semi-strong tests.",
+   "concepts": [
+    "kt:efficient-market-hypothesis",
+    "kt:eugene-fama",
+    "kt:efficient-capital-markets-review-1970"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/efficient-market-hypothesis.html"
+  },
+  {
+   "id": "bz-000225",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Efficient Market Hypothesis",
+   "t": "Every test of market efficiency also tests an assumed model of expected returns, so an apparent anomaly may reflect a bad risk model rather than an inefficient market.",
+   "f": "Every test of market efficiency also tests an assumed model of expected returns, so an apparent anomaly proves an inefficient market whatever risk model is used.",
+   "x": "This is Fama's joint-hypothesis problem: returns are only 'abnormal' relative to a model such as CAPM. If that model misprices risk, an anomaly can be a modelling error, so no single test settles efficiency.",
+   "concepts": [
+    "kt:efficient-market-hypothesis",
+    "kt:capital-asset-pricing-model"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/efficient-market-hypothesis.html"
+  },
+  {
+   "id": "bz-000226",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Efficient Market Hypothesis",
+   "t": "The 2013 Nobel committee noted that asset prices are essentially unpredictable over days or weeks but show predictable patterns over several years.",
+   "f": "The 2013 Nobel committee noted that asset prices are essentially unpredictable over several years but show predictable patterns over days or weeks.",
+   "x": "Short-run unpredictability supports Fama, while Shiller showed that high price-to-dividend ratios tend to precede weak returns over long horizons. Researchers still disagree whether that long-run pattern reflects time-varying risk or psychology and limits to arbitrage.",
+   "concepts": [
+    "kt:efficient-market-hypothesis",
+    "kt:behavioral-finance",
+    "kt:eugene-fama"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/efficient-market-hypothesis.html"
+  },
+  {
+   "id": "bz-000227",
+   "area": "managerial-economics",
+   "kind": "definition",
+   "topic": "Principal-Agent Problem",
+   "t": "In a principal-agent problem, moral hazard arises when the agent's action is hidden, while adverse selection arises from information the agent holds before contracting.",
+   "f": "In a principal-agent problem, adverse selection arises when the agent's action is hidden, while moral hazard arises from information the agent holds before contracting.",
+   "x": "The two forms differ in what the principal cannot see and when. Moral hazard concerns unobserved actions such as effort once the contract is in place; adverse selection concerns private information the agent already has when signing.",
+   "concepts": [
+    "kt:principal-agent-problem",
+    "kt:moral-hazard",
+    "kt:adverse-selection"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/principal-agent-problem.html"
+  },
+  {
+   "id": "bz-000228",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Principal-Agent Problem",
+   "t": "Holmström's informativeness principle says to tie an agent's pay to any measure carrying information about effort, such as share price relative to peers.",
+   "f": "Holmström's informativeness principle says to tie an agent's pay only to final output, ignoring other measures such as share price relative to peers.",
+   "x": "Holmström's 1979 paper showed when an imperfect extra signal of behaviour improves on a contract based only on output. Measures like relative share price help because they filter out noise the agent cannot influence, so pay tracks effort more closely.",
+   "concepts": [
+    "kt:principal-agent-problem",
+    "kt:bengt-holmstrom",
+    "kt:moral-hazard"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/principal-agent-problem.html"
+  },
+  {
+   "id": "bz-000229",
+   "area": "managerial-economics",
+   "kind": "application",
+   "topic": "Principal-Agent Problem",
+   "t": "Wells Fargo's 2016 case fits the multitask warning: sales targets rewarded a countable output, new accounts, without measuring whether customers wanted them.",
+   "f": "Wells Fargo's 2016 case fits the adverse selection warning: sales targets rewarded a countable output, new accounts, without measuring whether customers wanted them.",
+   "x": "Holmström and Milgrom's multitask model predicts that strong pay for a measurable task pulls effort from hard-to-measure ones. The CFPB found employees, spurred by sales targets and pay incentives, opened accounts that may not have been authorized: a hidden-action problem, not one of information held before contracting.",
+   "concepts": [
+    "kt:principal-agent-problem",
+    "kt:wells-fargo-cross-selling-scandal",
+    "kt:bengt-holmstrom"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/principal-agent-problem.html"
+  },
+  {
+   "id": "bz-000230",
+   "area": "marketing",
+   "kind": "definition",
+   "topic": "SERVQUAL",
+   "t": "SERVQUAL's five dimensions of service quality are tangibles, reliability, responsiveness, assurance and empathy.",
+   "f": "SERVQUAL's five dimensions of service quality are tangibles, reliability, responsiveness, competence and empathy.",
+   "x": "Focus groups first surfaced ten criteria, but scale purification collapsed them into five dimensions. Competence was one of the original ten but did not survive as a dimension, because assurance and empathy absorbed items from seven of those criteria.",
+   "concepts": [
+    "kt:servqual",
+    "kt:service-quality"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/servqual.html"
+  },
+  {
+   "id": "bz-000231",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "SERVQUAL",
+   "t": "SERVQUAL scores each item as perception minus expectation, so a negative score means the firm fell short of what customers expected.",
+   "f": "SERVQUAL scores each item as perception minus expectation, so a positive score means the firm fell short of what customers expected.",
+   "x": "Each of the 22 statements is asked twice on a seven-point scale: once for what customers expect of firms in the category and once for how they see this firm. Subtracting expectation from perception makes shortfalls negative, and dimension and overall scores average those gaps.",
+   "concepts": [
+    "kt:servqual",
+    "kt:gaps-model-of-service-quality"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/servqual.html"
+  },
+  {
+   "id": "bz-000232",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "SERVQUAL",
+   "t": "Cronin and Taylor found that a performance-only measure, later called SERVPERF, captured service quality better than SERVQUAL's gap scores.",
+   "f": "Cronin and Taylor found that an expectations-only measure, later called SERVPERF, captured service quality better than SERVQUAL's gap scores.",
+   "x": "Cronin and Taylor argued in 1992 that subtracting expectations blends satisfaction with attitude, so they dropped expectations and used perceived performance alone. SERVPERF became SERVQUAL's main alternative.",
+   "concepts": [
+    "kt:servqual",
+    "kt:servperf"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/servqual.html"
+  },
+  {
+   "id": "bz-000233",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "J. Richard Hackman",
+   "t": "In Hackman and Oldham's job characteristics model, autonomy and feedback act as multipliers in a job's motivating potential score.",
+   "f": "In Hackman and Oldham's job characteristics model, skill variety and task identity act as multipliers in a job's motivating potential score.",
+   "x": "The model rates five job features: skill variety, task identity, task significance, autonomy and feedback. Because autonomy and feedback multiply the score, a job that lacks either one has low motivating potential however varied or significant it is.",
+   "concepts": [
+    "kt:j-richard-hackman",
+    "kt:job-characteristics-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/j-richard-hackman.html"
+  },
+  {
+   "id": "bz-000234",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "J. Richard Hackman",
+   "t": "A 1976 bank study by Oldham, Hackman and Pearce found enriched jobs paid off most for employees with high growth needs who were satisfied with pay, security, co-workers and supervision.",
+   "f": "A 1976 bank study by Oldham, Hackman and Pearce found enriched jobs paid off most for employees with low growth needs who were dissatisfied with pay, security, co-workers and supervision.",
+   "x": "The study of 201 clerical employees showed enrichment is not universally good: for dissatisfied people with low growth needs, richer jobs were sometimes linked to worse results. The authors noted the design was correlational, so it could not prove causation.",
+   "concepts": [
+    "kt:j-richard-hackman",
+    "kt:job-enrichment",
+    "kt:job-characteristics-model"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/j-richard-hackman.html"
+  },
+  {
+   "id": "bz-000235",
+   "area": "organizational-behavior",
+   "kind": "application",
+   "topic": "J. Richard Hackman",
+   "t": "Hackman's study of symphony orchestras found many musicians unhappy at work and pointed to governance that left players out of decisions.",
+   "f": "Hackman's study of symphony orchestras found many musicians unhappy at work and pointed to pay that lagged behind other skilled professions.",
+   "x": "The study covered orchestras in the United States, Britain and Germany; Hackman's team model was also applied in aviation, surgery and intelligence analysis. The orchestra work traced dissatisfaction to how the organizations were governed, and the findings were presented to U.S. orchestra and musicians' associations in 1995.",
+   "concepts": [
+    "kt:j-richard-hackman",
+    "kt:team-effectiveness"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/j-richard-hackman.html"
+  },
+  {
+   "id": "bz-000236",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Lowest Price Technically Acceptable",
+   "t": "Under LPTA, a small business found unacceptable on past performance is referred to the Small Business Administration for a Certificate of Competency decision.",
+   "f": "Under LPTA, a small business found unacceptable on past performance is referred to the Government Accountability Office for a Certificate of Competency decision.",
+   "x": "FAR 15.101-2 sends that question to the SBA instead of letting the past-performance rating end the offer outright, which ties LPTA to small-business policy. GAO has reviewed how agencies use LPTA, but the competency decision belongs to the SBA.",
+   "concepts": [
+    "kt:lowest-price-technically-acceptable",
+    "kt:small-business-set-asides"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lowest-price-technically-acceptable.html"
+  },
+  {
+   "id": "bz-000237",
+   "area": "government-contracting-and-public-sector",
+   "kind": "figure",
+   "topic": "Lowest Price Technically Acceptable",
+   "t": "GAO estimated that about 26% of DoD contracts and orders of $5 million or more competitively awarded in FY2017 used LPTA.",
+   "f": "GAO estimated that about 62% of DoD contracts and orders of $5 million or more competitively awarded in FY2017 used LPTA.",
+   "x": "The estimate shows LPTA was substantial but far from dominant in defense buying, covering items from fuel and equipment to IT and construction services. A narrower GAO review found only 9 of 133 large IT and support-services contracts used it.",
+   "concepts": [
+    "kt:lowest-price-technically-acceptable",
+    "kt:government-accountability-office"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lowest-price-technically-acceptable.html",
+   "asOf": "FY2017"
+  },
+  {
+   "id": "bz-000238",
+   "area": "government-contracting-and-public-sector",
+   "kind": "application",
+   "topic": "Lowest Price Technically Acceptable",
+   "t": "Civilian agencies must avoid LPTA as far as practicable for knowledge-based work such as IT, cybersecurity, audit and health-care services.",
+   "f": "Civilian agencies must use LPTA as far as practicable for knowledge-based work such as IT, cybersecurity, audit and health-care services.",
+   "x": "LPTA gives no credit for exceeding the minimum, which suits simple, repeatable services like telephone maintenance or mail sorting but not knowledge-based work. The FAR therefore steers civilian buyers away from it for those services.",
+   "concepts": [
+    "kt:lowest-price-technically-acceptable",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lowest-price-technically-acceptable.html"
+  },
+  {
+   "id": "bz-000239",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Andrew Van de Ven",
+   "t": "In Van de Ven and Poole's typology of organizational change, the dialectic motor explains change as conflict between opposing entities that produces a synthesis.",
+   "f": "In Van de Ven and Poole's typology of organizational change, the teleological motor explains change as conflict between opposing entities that produces a synthesis.",
+   "x": "Their 1995 typology has four motors: life cycle (prescribed stages), teleology (purposeful goal-setting and adaptation), dialectics (clash and synthesis) and evolution (variation, selection, retention). Teleology is about pursuing goals, not conflict between factions.",
+   "concepts": [
+    "kt:andrew-van-de-ven",
+    "kt:process-theories-of-organizational-change",
+    "kt:change-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/andrew-van-de-ven.html"
+  },
+  {
+   "id": "bz-000240",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Andrew Van de Ven",
+   "t": "The Innovation Journey (1999) concluded that innovation is a nonlinear cycle of divergence and convergence that managers can learn to navigate but not control.",
+   "f": "The Innovation Journey (1999) concluded that innovation is a neat sequence of stages that managers can learn to plan and control.",
+   "x": "The book synthesised the Minnesota Innovation Research Program, which tracked fourteen innovations as they unfolded. That evidence found neither tidy stages nor pure trial and error, which is why it offers no reliable stage-gate formula.",
+   "concepts": [
+    "kt:andrew-van-de-ven",
+    "kt:the-innovation-journey"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/andrew-van-de-ven.html"
+  },
+  {
+   "id": "bz-000241",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Andrew Van de Ven",
+   "t": "In 2006, Van de Ven and Paul Johnson recast the theory–practice gap as a knowledge-production problem rather than a knowledge-transfer problem.",
+   "f": "In 2006, Van de Ven and Paul Johnson recast the theory–practice gap as a knowledge-transfer problem rather than a knowledge-production problem.",
+   "x": "Rather than asking how to push research findings out to managers, they proposed engaged scholarship: researchers and practitioners jointly study hard problems over time and use their different perspectives as a resource.",
+   "concepts": [
+    "kt:andrew-van-de-ven",
+    "kt:engaged-scholarship"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/andrew-van-de-ven.html"
+  },
+  {
+   "id": "bz-000242",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Henri Fayol",
+   "t": "Henri Fayol described management through five elements: forecasting and planning, organising, commanding, coordinating and controlling.",
+   "f": "Henri Fayol described management through five elements: planning, organising, staffing, directing and controlling.",
+   "x": "These are the five elements Fayol set out in his 1916 treatise, alongside his fourteen principles. The staffing-and-directing list is a later textbook adaptation (OpenStax uses one), so it should not be mistaken for Fayol's original wording.",
+   "concepts": [
+    "kt:henri-fayol"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/henri-fayol.html"
   }
  ]
 }

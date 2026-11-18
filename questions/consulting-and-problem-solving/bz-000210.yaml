@@ -1,0 +1,18 @@
+id: bz-000210
+area: consulting-and-problem-solving
+kind: mechanism
+topic: Ishikawa Diagram
+topic_type: Framework
+true_statement: 'Manufacturing teams often seed a fishbone with the 6 Ms: materials, machinery, methods, measurement, manpower and Mother Nature, meaning the environment.'
+false_statement: 'Manufacturing teams often seed a fishbone with the 6 Ms: materials, machinery, methods, money, manpower and Mother Nature, meaning the environment.'
+explanation: Measurement is one of the six standard headings; money is sometimes added as a seventh. Ishikawa encouraged renaming categories to fit the setting, and service teams often use headings like policies and procedures, and people.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/ishikawa-diagram.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 002ae9760980a3413e331e71ced936e873f5fc6d
+concepts:
+- kt:ishikawa-diagram
+difficulty: 2
+created: '2026-11-18'
+status: active

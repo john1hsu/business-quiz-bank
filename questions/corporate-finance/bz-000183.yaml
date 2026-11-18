@@ -1,0 +1,18 @@
+id: bz-000183
+area: corporate-finance
+kind: mechanism
+topic: Dividend Policy
+topic_type: Practice
+true_statement: Lintner's 1956 interviews found that managers set a long-run target payout ratio and move dividends toward it gradually, avoiding raises they might later reverse.
+false_statement: Lintner's 1956 interviews found that managers set dividends as a fixed share of each year's earnings, raising and cutting them freely as profits change.
+explanation: 'Lintner described a partial-adjustment process: about two-thirds of his 28 firms had a target ratio, mostly between 40% and 60%, and moved toward it slowly. That reluctance to make increases they might have to cut is why dividends are smoothed relative to earnings.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/dividend-policy.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 7dc858eb8bc951f4720ac8ecc5410f45598f3002
+concepts:
+- kt:dividend-policy
+difficulty: 2
+created: '2026-11-18'
+status: active

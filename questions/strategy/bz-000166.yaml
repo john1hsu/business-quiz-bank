@@ -1,0 +1,19 @@
+id: bz-000166
+area: strategy
+kind: evidence
+topic: David J. Teece
+topic_type: Person
+true_statement: A review of 92 quantitative studies found the link between dynamic capabilities and firm performance still unclear, partly because studies define and measure the capabilities differently.
+false_statement: A review of 92 quantitative studies found a clear, direct link between dynamic capabilities and firm performance, consistent however studies defined and measured the capabilities.
+explanation: Despite the idea's fame, the evidence is contested. Inconsistent definitions make results hard to compare, and the most promising findings are indirect, working through change and intermediate outcomes rather than straight to performance.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/david-j-teece.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: c4a09460558cc4e84ab124dcb0a4955f50965ac8
+concepts:
+- kt:david-j-teece
+- kt:dynamic-capabilities
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,21 @@
+id: bz-000182
+area: corporate-finance
+kind: origin
+topic: Dividend Policy
+topic_type: Practice
+true_statement: Miller and Modigliani's 1961 paper argued that, with investment policy held fixed, a firm's dividend payout does not change what the firm is worth.
+false_statement: Miller and Modigliani's 1958 paper argued that, with investment policy held fixed, a firm's dividend payout does not change what the firm is worth.
+explanation: The 1961 paper, 'Dividend Policy, Growth, and the Valuation of Shares', extended their 1958 capital-structure result to payouts. A bigger dividend must be funded by issuing more shares, so shareholders just swap cash for a smaller claim on the firm.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/dividend-policy.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 7dc858eb8bc951f4720ac8ecc5410f45598f3002
+concepts:
+- kt:dividend-policy
+- kt:merton-miller
+- kt:franco-modigliani
+- kt:modigliani-miller-theorem
+difficulty: 2
+created: '2026-11-18'
+status: active

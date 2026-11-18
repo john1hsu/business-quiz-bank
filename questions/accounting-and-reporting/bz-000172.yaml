@@ -1,0 +1,20 @@
+id: bz-000172
+area: accounting-and-reporting
+kind: evidence
+topic: Goodwill
+topic_type: Concept
+true_statement: Li and Sloan (2017) found that after SFAS 142, managers appear to have delayed goodwill write-downs, temporarily propping up earnings and share prices.
+false_statement: Li and Sloan (2017) found that after SFAS 142, managers appear to have accelerated goodwill write-downs, temporarily depressing earnings and share prices.
+explanation: SFAS 142 replaced amortization with a fair-value impairment test whose discretion let goodwill balances become inflated and write-downs untimely. Investors did not fully anticipate the delay, which is the 'too little, too late' critique of impairment-only accounting.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/goodwill.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8fee53c05852c1d42df5af879b1df42477c73794
+concepts:
+- kt:goodwill
+- kt:gaap
+- kt:accrual-accounting
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000201
+area: operations-and-supply-chain
+kind: evidence
+topic: Malcolm Baldrige National Quality Award
+topic_type: Award
+true_statement: A 1999 event study found only a marginally significant stock reaction on the day Baldrige winners were announced, driven by just four companies.
+false_statement: A 1999 event study found a strong, highly significant stock reaction on the day Baldrige winners were announced, shared by almost every winner.
+explanation: Only about half the winners showed positive abnormal returns. The authors suggested quality management may still create value, but a one-day window misses gains that arrive well before or after the ceremony.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 4e456824cb63fa93f7be2b3ddea845ad82cf1220
+concepts:
+- kt:malcolm-baldrige-national-quality-award
+- kt:total-quality-management
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000204
+area: organizational-behavior
+kind: mechanism
+topic: High-Performance Teams
+topic_type: Concept
+true_statement: In Hackman's design conditions for team effectiveness, a real team is one with clear boundaries and stable membership.
+false_statement: In Hackman's design conditions for team effectiveness, a real team is one with flexible boundaries and rotating membership.
+explanation: 'Hackman, Wageman and Fisher treated performance as a design problem: a real team, a compelling direction, an enabling structure, a supportive context and expert coaching. Hackman also observed that members often disagree even about who belongs to the team.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/high-performance-teams.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ab28f9cf23c6f79f47d3ca36aa28b672f5a01fe6
+concepts:
+- kt:high-performance-teams
+- kt:j-richard-hackman
+difficulty: 2
+created: '2026-11-18'
+status: active

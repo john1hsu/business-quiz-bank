@@ -1,0 +1,19 @@
+id: bz-000192
+area: leadership-and-management
+kind: application
+topic: Contingency Theory of Leadership
+topic_type: Theory
+true_statement: Because Fiedler saw a leader's style as relatively fixed, he advised changing the situation to fit the leader rather than retraining the leader.
+false_statement: Because Fiedler saw a leader's style as relatively fixed, he advised retraining the leader to fit the situation rather than changing the situation.
+explanation: 'If style is stable, the practical lever is the job: restructure the task or adjust formal authority so it suits the incumbent. Fiedler and colleagues packaged this leader match logic into training.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/contingency-theory-of-leadership.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: cdad458853c18aa5d27592d9a9e15f9299b1a5bf
+concepts:
+- kt:contingency-theory-of-leadership
+- kt:fred-fiedler
+difficulty: 2
+created: '2026-11-18'
+status: active

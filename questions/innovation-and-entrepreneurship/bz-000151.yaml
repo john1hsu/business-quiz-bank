@@ -1,0 +1,19 @@
+id: bz-000151
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: The Innovator's Dilemma
+topic_type: Work
+true_statement: Critics of The Innovator's Dilemma note that disruption can also come from above, as when the iPhone displaced the iPod.
+false_statement: Critics of The Innovator's Dilemma note that disruption can also come from below, as when the iPhone displaced the iPod.
+explanation: Christensen's cases centre on cheaper, initially inferior products climbing from below. The iPhone shows a more capable product displacing an incumbent from above, one of several findings that the book generalised further than the record supports.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovators-dilemma.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3781e3c9e82f3c57bc70ddaddb36fcd9f7cd7643
+concepts:
+- kt:innovators-dilemma
+- kt:disruptive-innovation
+difficulty: 3
+created: '2026-11-18'
+status: active

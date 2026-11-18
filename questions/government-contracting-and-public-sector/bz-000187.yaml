@@ -1,0 +1,19 @@
+id: bz-000187
+area: government-contracting-and-public-sector
+kind: evidence
+topic: Revolutionary FAR Overhaul
+topic_type: Regulation
+true_statement: In the Army's MAPS protests, GAO denied all four challenges to a solicitation mixing overhaul deviation clauses with legacy FAR clauses, yet acknowledged the version confusion.
+false_statement: In the Army's MAPS protests, GAO sustained all four challenges to a solicitation mixing overhaul deviation clauses with legacy FAR clauses, citing the version confusion.
+explanation: GAO found the challenged clauses unchanged or substantively identical, so the protests failed, but it noted the deviation process can leave offerors unsure which version applies. That transitional confusion is the main practical critique of the overhaul so far.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 44927017ef0be21658afa4b2ea919d411cc2889f
+concepts:
+- kt:revolutionary-far-overhaul
+- kt:marketplace-for-the-acquisition-of-professional-services
+difficulty: 3
+created: '2026-11-18'
+status: active

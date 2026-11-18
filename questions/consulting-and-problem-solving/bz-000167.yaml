@@ -1,0 +1,20 @@
+id: bz-000167
+area: consulting-and-problem-solving
+kind: origin
+topic: 80/20 Rule
+topic_type: Concept
+true_statement: Joseph Juran named the Pareto principle and later called the name a mistake, since Vilfredo Pareto had studied only the distribution of wealth.
+false_statement: Joseph Juran named the Pareto principle and later called the name a mistake, since Vilfredo Pareto had studied only the distribution of quality losses.
+explanation: Pareto's law concerned income and wealth. Juran generalised the pattern to quality losses in his 1951 Quality Control Handbook, and in 1974 admitted Pareto never proposed a universal and that his cumulative curves should have been credited to M. O. Lorenz.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/eighty-twenty-rule.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 26e9246c994f4d55a31179d9dcca1a6f8d0b3d46
+concepts:
+- kt:eighty-twenty-rule
+- kt:joseph-juran
+- kt:vilfredo-pareto
+difficulty: 1
+created: '2026-11-18'
+status: active

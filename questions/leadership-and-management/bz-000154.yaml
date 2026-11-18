@@ -1,0 +1,20 @@
+id: bz-000154
+area: leadership-and-management
+kind: evidence
+topic: Peter Drucker
+topic_type: Person
+true_statement: W. Edwards Deming's point 11b called on managers to eliminate management by objective and numerical goals and substitute leadership.
+false_statement: W. Edwards Deming's point 11b called on managers to eliminate leadership by example and substitute management by objective and numerical goals.
+explanation: Deming rejected goal-driven control in favour of improving the system, which made point 11b a direct challenge to Drucker's best-known technique. Drucker is credited with the MBO concept, with GE executive Harold Smiddy helping put it into practice.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/peter-drucker.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: df5c4e14cb963910cfe9d6814f0aa426fcfffcf2
+concepts:
+- kt:peter-drucker
+- kt:w-edwards-deming
+- kt:management-by-objectives
+difficulty: 2
+created: '2026-11-18'
+status: active

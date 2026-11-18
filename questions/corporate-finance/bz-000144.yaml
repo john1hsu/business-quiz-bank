@@ -1,0 +1,19 @@
+id: bz-000144
+area: corporate-finance
+kind: evidence
+topic: Weighted Average Cost of Capital
+topic_type: Metric
+true_statement: Krüger, Landier and Thesmar (2015) found that divisions riskier than their diversified parent invest relatively more, consistent with one firm-wide discount rate.
+false_statement: Krüger, Landier and Thesmar (2015) found that divisions riskier than their diversified parent invest relatively less, consistent with one firm-wide discount rate.
+explanation: A single company-wide WACC is too low for high-beta divisions and too high for safe ones, so risky projects look better than they are and safe ones worse. This 'WACC fallacy' arises because a firm-wide rate suits only projects as risky as the firm's average assets.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/weighted-average-cost-of-capital.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 067a5ac29aee6398694762581db37b5c55e7fef0
+concepts:
+- kt:weighted-average-cost-of-capital
+- kt:capital-budgeting
+difficulty: 3
+created: '2026-11-18'
+status: active

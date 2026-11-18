@@ -1,0 +1,20 @@
+id: bz-000177
+area: business-history-and-cases
+kind: figure
+topic: Apple iPhone Launch
+topic_type: Case
+true_statement: On September 5, 2007, about ten weeks after the U.S. launch, Apple cut the 8GB iPhone's price from $599 to $399.
+false_statement: On September 5, 2007, about ten weeks after the U.S. launch, Apple cut the 8GB iPhone's price from $599 to $499.
+explanation: Apple dropped the 8GB model by $200 and let the $499 4GB model sell out, expecting its one-millionth sale within the month. Critics count cutting price so soon after a premium launch among the launch's missteps.
+as_of: '2007'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/apple-iphone-launch.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 5e6500c9a672d31680afcab0eaeb958c8728fb03
+concepts:
+- kt:apple-iphone-launch
+- kt:product-launch
+difficulty: 2
+created: '2026-11-18'
+status: active

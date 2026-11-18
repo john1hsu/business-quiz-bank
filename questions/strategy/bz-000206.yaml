@@ -1,0 +1,19 @@
+id: bz-000206
+area: strategy
+kind: definition
+topic: Experience Curve
+topic_type: Framework
+true_statement: The experience curve lowers unit cost through a firm's cumulative output, whereas economies of scale lower it through the size of current output.
+false_statement: The experience curve lowers unit cost through the size of a firm's current output, whereas economies of scale lower it through cumulative output.
+explanation: Experience effects come from repetition and improvement as total units produced pile up, so a faster-growing firm moves down the curve faster. Lieberman's data on chemical products separated the two effects and found scale effects small by comparison.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/experience-curve.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 09a37c62adafb5b8273a2df0fd3597e4c42789f7
+concepts:
+- kt:experience-curve
+- kt:economies-of-scale
+difficulty: 2
+created: '2026-11-18'
+status: active

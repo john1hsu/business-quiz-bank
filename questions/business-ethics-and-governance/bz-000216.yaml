@@ -1,0 +1,19 @@
+id: bz-000216
+area: business-ethics-and-governance
+kind: evidence
+topic: Fiduciary Duty
+topic_type: Concept
+true_statement: Easterbrook and Fischel's contractarian view treats fiduciary duties as default contract terms that explicit agreements should generally override.
+false_statement: Easterbrook and Fischel's contractarian view treats fiduciary duties as mandatory rules that explicit agreements should never override.
+explanation: On their 1993 view, courts fill gaps by asking what informed, rational parties would have agreed to. Critics answer that dependence and entrusted power justify duties parties cannot contract away, which is why the SEC bars investment advisers from blanket waivers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/fiduciary-duty.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: f723d32d95df84f3b705f839efc9f050f6c4f3dc
+concepts:
+- kt:fiduciary-duty
+- kt:corporate-law
+difficulty: 3
+created: '2026-11-18'
+status: active

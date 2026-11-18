@@ -1,0 +1,19 @@
+id: bz-000232
+area: marketing
+kind: evidence
+topic: SERVQUAL
+topic_type: Metric
+true_statement: Cronin and Taylor found that a performance-only measure, later called SERVPERF, captured service quality better than SERVQUAL's gap scores.
+false_statement: Cronin and Taylor found that an expectations-only measure, later called SERVPERF, captured service quality better than SERVQUAL's gap scores.
+explanation: Cronin and Taylor argued in 1992 that subtracting expectations blends satisfaction with attitude, so they dropped expectations and used perceived performance alone. SERVPERF became SERVQUAL's main alternative.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/servqual.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: a9657ea7adbbdaf86b3e5240b11f0f4ccb921764
+concepts:
+- kt:servqual
+- kt:servperf
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000148
+area: government-contracting-and-public-sector
+kind: origin
+topic: Public Procurement
+topic_type: Practice
+true_statement: The OECD Recommendation on Public Procurement, adopted in 2015, replaced an earlier recommendation focused on integrity and set out twelve principles.
+false_statement: The OECD Recommendation on Public Procurement, adopted in 2008, replaced an earlier recommendation focused on integrity and set out twelve principles.
+explanation: The 2015 Recommendation is the main international benchmark, with principles running from transparency and integrity to balance and integration. The 2008 date belongs to the integrity-focused recommendation it replaced.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-procurement.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8e3b921a316da8b733282ef93cd25a3139d33d87
+concepts:
+- kt:public-procurement
+- kt:oecd-recommendation-on-public-procurement
+difficulty: 2
+created: '2026-11-18'
+status: active

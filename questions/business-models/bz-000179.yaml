@@ -1,0 +1,20 @@
+id: bz-000179
+area: business-models
+kind: evidence
+topic: Business Format Franchising
+topic_type: BusinessModel
+true_statement: Lafontaine's 1992 study of 548 U.S. franchisors found the data best fit a two-sided moral hazard model, where both franchisee and franchisor effort shape outlet results.
+false_statement: Lafontaine's 1992 study of 548 U.S. franchisors found the data best fit a one-sided moral hazard model, where only franchisee effort shapes outlet results.
+explanation: In the two-sided model neither party can be left without an incentive, which fits franchisees keeping residual profit while franchisors earn sales-based royalties. The models explained how much firms franchise better than their exact royalty and fee levels.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-format-franchising.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: d288d61f0bf77ed74b07c4377d2ac10a456b2af0
+concepts:
+- kt:business-format-franchising
+- kt:moral-hazard
+- kt:principal-agent-problem
+difficulty: 3
+created: '2026-11-18'
+status: active

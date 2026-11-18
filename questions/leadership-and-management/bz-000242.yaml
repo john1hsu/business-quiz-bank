@@ -1,0 +1,18 @@
+id: bz-000242
+area: leadership-and-management
+kind: definition
+topic: Henri Fayol
+topic_type: Person
+true_statement: 'Henri Fayol described management through five elements: forecasting and planning, organising, commanding, coordinating and controlling.'
+false_statement: 'Henri Fayol described management through five elements: planning, organising, staffing, directing and controlling.'
+explanation: These are the five elements Fayol set out in his 1916 treatise, alongside his fourteen principles. The staffing-and-directing list is a later textbook adaptation (OpenStax uses one), so it should not be mistaken for Fayol's original wording.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/henri-fayol.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: b3e097a7039a0639168b1fd626f3e1008c905109
+concepts:
+- kt:henri-fayol
+difficulty: 2
+created: '2026-11-18'
+status: active

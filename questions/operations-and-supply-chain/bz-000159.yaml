@@ -1,0 +1,19 @@
+id: bz-000159
+area: operations-and-supply-chain
+kind: mechanism
+topic: Material Requirements Planning
+topic_type: Practice
+true_statement: In MRP's offsetting step, each order is released one planned lead time before it is needed, and those releases become the next level's gross requirements.
+false_statement: In MRP's netting step, each order is released one planned lead time before it is needed, and those releases become the next level's gross requirements.
+explanation: MRP runs explosion, netting, lot sizing and offsetting level by level. Netting subtracts on-hand and scheduled inventory to get net requirements; offsetting is the step that shifts orders back in time by lead time.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/material-requirements-planning.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: a5774726462e2c2b3f093b5b248316d618df55e6
+concepts:
+- kt:material-requirements-planning
+- kt:bill-of-materials
+difficulty: 2
+created: '2026-11-18'
+status: active

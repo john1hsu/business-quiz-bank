@@ -1,0 +1,19 @@
+id: bz-000240
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: Andrew Van de Ven
+topic_type: Person
+true_statement: The Innovation Journey (1999) concluded that innovation is a nonlinear cycle of divergence and convergence that managers can learn to navigate but not control.
+false_statement: The Innovation Journey (1999) concluded that innovation is a neat sequence of stages that managers can learn to plan and control.
+explanation: The book synthesised the Minnesota Innovation Research Program, which tracked fourteen innovations as they unfolded. That evidence found neither tidy stages nor pure trial and error, which is why it offers no reliable stage-gate formula.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/andrew-van-de-ven.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3cd4548446da75313d6e4f6e42b3b158433653a8
+concepts:
+- kt:andrew-van-de-ven
+- kt:the-innovation-journey
+difficulty: 2
+created: '2026-11-18'
+status: active

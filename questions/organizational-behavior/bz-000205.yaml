@@ -1,0 +1,19 @@
+id: bz-000205
+area: organizational-behavior
+kind: evidence
+topic: High-Performance Teams
+topic_type: Concept
+true_statement: Hackman's studies found that real-time process coaching did not rescue poorly designed self-managing teams, while well-designed teams benefited from modest help.
+false_statement: Hackman's studies found that real-time process coaching rescued poorly designed self-managing teams, while well-designed teams gained little from modest help.
+explanation: Coaching helps only once the other design conditions are in place, so it amplifies good design rather than substituting for it. That is why managers using the model fix team design and launch first and save coaching for breakpoints such as the project midpoint.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/high-performance-teams.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ab28f9cf23c6f79f47d3ca36aa28b672f5a01fe6
+concepts:
+- kt:high-performance-teams
+- kt:j-richard-hackman
+difficulty: 3
+created: '2026-11-18'
+status: active

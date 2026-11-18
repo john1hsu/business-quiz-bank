@@ -1,0 +1,19 @@
+id: bz-000230
+area: marketing
+kind: definition
+topic: SERVQUAL
+topic_type: Metric
+true_statement: SERVQUAL's five dimensions of service quality are tangibles, reliability, responsiveness, assurance and empathy.
+false_statement: SERVQUAL's five dimensions of service quality are tangibles, reliability, responsiveness, competence and empathy.
+explanation: Focus groups first surfaced ten criteria, but scale purification collapsed them into five dimensions. Competence was one of the original ten but did not survive as a dimension, because assurance and empathy absorbed items from seven of those criteria.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/servqual.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: a9657ea7adbbdaf86b3e5240b11f0f4ccb921764
+concepts:
+- kt:servqual
+- kt:service-quality
+difficulty: 1
+created: '2026-11-18'
+status: active

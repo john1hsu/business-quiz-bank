@@ -1,0 +1,18 @@
+id: bz-000189
+area: innovation-and-entrepreneurship
+kind: application
+topic: Jobs to Be Done
+topic_type: Theory
+true_statement: In the milkshake case, morning commuters hired a shake to make a long, dull drive more interesting, so it competed with bagels and bananas rather than other shakes.
+false_statement: In the milkshake case, morning commuters hired a shake to make a long, dull drive more interesting, so it competed with other chains' shakes rather than bagels and bananas.
+explanation: Surveying target customers about an ideal shake had changed nothing; watching who bought shakes, and when, revealed the job. Because competition is defined by the job, the rivals were other commute foods, not other milkshakes.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/jobs-to-be-done.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 2eae9afbaa8218592f5e2b9fd4f8d606b7b52a2b
+concepts:
+- kt:jobs-to-be-done
+difficulty: 1
+created: '2026-11-18'
+status: active

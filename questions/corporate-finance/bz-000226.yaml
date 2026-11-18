@@ -1,0 +1,20 @@
+id: bz-000226
+area: corporate-finance
+kind: evidence
+topic: Efficient Market Hypothesis
+topic_type: Theory
+true_statement: The 2013 Nobel committee noted that asset prices are essentially unpredictable over days or weeks but show predictable patterns over several years.
+false_statement: The 2013 Nobel committee noted that asset prices are essentially unpredictable over several years but show predictable patterns over days or weeks.
+explanation: Short-run unpredictability supports Fama, while Shiller showed that high price-to-dividend ratios tend to precede weak returns over long horizons. Researchers still disagree whether that long-run pattern reflects time-varying risk or psychology and limits to arbitrage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/efficient-market-hypothesis.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8f7efa787bbfdf6531d8fc4b073438e10d0c009e
+concepts:
+- kt:efficient-market-hypothesis
+- kt:behavioral-finance
+- kt:eugene-fama
+difficulty: 3
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000233
+area: organizational-behavior
+kind: mechanism
+topic: J. Richard Hackman
+topic_type: Person
+true_statement: In Hackman and Oldham's job characteristics model, autonomy and feedback act as multipliers in a job's motivating potential score.
+false_statement: In Hackman and Oldham's job characteristics model, skill variety and task identity act as multipliers in a job's motivating potential score.
+explanation: 'The model rates five job features: skill variety, task identity, task significance, autonomy and feedback. Because autonomy and feedback multiply the score, a job that lacks either one has low motivating potential however varied or significant it is.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/j-richard-hackman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 1b59c5991205f333e1d9950f5e2b6d90c00ea87c
+concepts:
+- kt:j-richard-hackman
+- kt:job-characteristics-model
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000163
+area: organizational-behavior
+kind: evidence
+topic: Groupthink
+topic_type: Theory
+true_statement: In Callaway and Esser's laboratory test, groups of intermediate cohesiveness made the best decisions, while highly cohesive groups lacking sound procedures did worst.
+false_statement: In Callaway and Esser's laboratory test, highly cohesive groups made the best decisions, while groups of intermediate cohesiveness lacking sound procedures did worst.
+explanation: 'The 1984 study gave groupthink only mixed support: the worst groups showed little disagreement and high confidence, as the theory predicts. It suggests that sound decision procedures, not just less cohesion, are the practical safeguard.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/groupthink.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 808b530defc912c8b66003a689e0185f6315869d
+concepts:
+- kt:groupthink
+difficulty: 3
+created: '2026-11-18'
+status: active

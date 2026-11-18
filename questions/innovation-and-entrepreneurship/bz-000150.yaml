@@ -1,0 +1,19 @@
+id: bz-000150
+area: innovation-and-entrepreneurship
+kind: application
+topic: The Innovator's Dilemma
+topic_type: Work
+true_statement: Andy Grove recommended the book at Intel's 1998 sales conference, the year Intel launched its cheaper, less sophisticated Celeron chip to avoid being disrupted from below.
+false_statement: Andy Grove recommended the book at Intel's 1998 sales conference, the year Intel launched its costlier, more sophisticated Celeron chip to avoid being disrupted from below.
+explanation: 'Celeron is the classic early corporate response to the book: Intel attacked the low end itself with a cheaper, simpler processor rather than leave that space to an entrant. A premium chip would not answer a threat that starts with inferior, low-priced products.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovators-dilemma.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 3781e3c9e82f3c57bc70ddaddb36fcd9f7cd7643
+concepts:
+- kt:innovators-dilemma
+- kt:intel
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000238
+area: government-contracting-and-public-sector
+kind: application
+topic: Lowest Price Technically Acceptable
+topic_type: Practice
+true_statement: Civilian agencies must avoid LPTA as far as practicable for knowledge-based work such as IT, cybersecurity, audit and health-care services.
+false_statement: Civilian agencies must use LPTA as far as practicable for knowledge-based work such as IT, cybersecurity, audit and health-care services.
+explanation: LPTA gives no credit for exceeding the minimum, which suits simple, repeatable services like telephone maintenance or mail sorting but not knowledge-based work. The FAR therefore steers civilian buyers away from it for those services.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/lowest-price-technically-acceptable.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 9ccdeb006d30258cbe304f15b28b99a06a316497
+concepts:
+- kt:lowest-price-technically-acceptable
+- kt:federal-acquisition-regulation
+difficulty: 2
+created: '2026-11-18'
+status: active

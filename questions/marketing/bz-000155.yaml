@@ -1,0 +1,20 @@
+id: bz-000155
+area: marketing
+kind: origin
+topic: Price Elasticity
+topic_type: Metric
+true_statement: Alfred Marshall formalized price elasticity of demand in Principles of Economics, first published in 1890, in a chapter titled "The Elasticity of Wants."
+false_statement: Alfred Marshall formalized price elasticity of demand in Principles of Economics, first published in 1920, in a chapter titled "The Elasticity of Wants."
+explanation: Marshall's chapter already set out most determinants still taught, such as necessities being inelastic and close substitutes raising elasticity. The 1920 date is the book's 8th edition, not its first.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/price-elasticity.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 9d33d8aa3a5c93d50726907f0cf6c507e6bc3d7d
+concepts:
+- kt:price-elasticity
+- kt:alfred-marshall
+- kt:principles-of-economics-marshall
+difficulty: 1
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000174
+area: business-ethics-and-governance
+kind: evidence
+topic: Business Roundtable Statement on the Purpose of a Corporation
+topic_type: Case
+true_statement: Raghunandan and Rajgopal (2024) found that BRT signatories had more environmental and labor-law violations than industry peers, with no improvement after signing.
+false_statement: Raghunandan and Rajgopal (2024) found that BRT signatories had fewer environmental and labor-law violations than industry peers, with further improvement after signing.
+explanation: They also found higher carbon emissions and greater reliance on government subsidies among signatories, and concluded the statement was not a credible commitment. The study shows why stated ESG commitments are tested against measurable conduct.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ac2c27c5d498e4d04647d4ac1376805c8f014dcd
+concepts:
+- kt:business-roundtable-statement-on-corporate-purpose
+- kt:esg
+- kt:corporate-social-responsibility
+difficulty: 3
+created: '2026-11-18'
+status: active

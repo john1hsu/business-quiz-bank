@@ -1,0 +1,19 @@
+id: bz-000146
+area: government-contracting-and-public-sector
+kind: figure
+topic: Public Procurement
+topic_type: Practice
+true_statement: Across OECD countries, public procurement averaged 12.7% of GDP in 2023, down slightly from 13.0% in 2021.
+false_statement: Across OECD countries, public procurement averaged 29.9% of GDP in 2023, down slightly from 30.2% in 2021.
+explanation: OECD data put procurement at 12.7% of GDP in 2023, a dip caused mainly by GDP growing faster than procurement spending. The 29.9% figure is procurement's share of total government expenditure, not of GDP, an easy pair to mix up.
+as_of: '2023'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-procurement.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8e3b921a316da8b733282ef93cd25a3139d33d87
+concepts:
+- kt:public-procurement
+difficulty: 2
+created: '2026-11-18'
+status: active

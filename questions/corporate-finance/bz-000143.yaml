@@ -1,0 +1,19 @@
+id: bz-000143
+area: corporate-finance
+kind: mechanism
+topic: Weighted Average Cost of Capital
+topic_type: Metric
+true_statement: In the WACC formula, the cost of debt is multiplied by (1 − T) because interest is tax-deductible, making borrowing cheaper than its stated rate.
+false_statement: In the WACC formula, the cost of equity is multiplied by (1 − T) because dividends are tax-deductible, making equity cheaper than its stated rate.
+explanation: The tax adjustment applies only to the debt term, since interest payments reduce taxable income. Common equity enters at its full required return, with the debt, preferred and equity weights summing to 100%.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/weighted-average-cost-of-capital.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 067a5ac29aee6398694762581db37b5c55e7fef0
+concepts:
+- kt:weighted-average-cost-of-capital
+- kt:capital-structure
+difficulty: 2
+created: '2026-11-18'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000219
+area: business-history-and-cases
+kind: mechanism
+topic: Southwest Airlines
+topic_type: Company
+true_statement: Porter argues Southwest's 15-minute turnarounds depended on skipping meals, seat assignments and bag transfers, so copying only some of its activities gains little.
+false_statement: Porter argues Southwest's 15-minute turnarounds depended on skipping meals, seat assignments and bag transfers, so copying only some of its activities captures most of the gain.
+explanation: 'Porter''s point is fit: each choice makes the others work, so the whole system resists imitation. Continental Lite copied some features while keeping its full-service network and lost hundreds of millions of dollars.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/southwest-airlines.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: c9091a5c16720d907f1007743c4711f3ebb9314a
+concepts:
+- kt:southwest-airlines
+- kt:strategic-positioning
+difficulty: 2
+created: '2026-11-18'
+status: active

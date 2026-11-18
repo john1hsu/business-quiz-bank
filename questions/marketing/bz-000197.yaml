@@ -1,0 +1,19 @@
+id: bz-000197
+area: marketing
+kind: mechanism
+topic: A. Parasuraman
+topic_type: Person
+true_statement: Parasuraman's Technology Readiness Index pairs two motivators, optimism and innovativeness, with two inhibitors, discomfort and insecurity.
+false_statement: Parasuraman's Technology Readiness Index pairs two motivators, optimism and insecurity, with two inhibitors, discomfort and innovativeness.
+explanation: The index measures a person's propensity to embrace new technology at home and at work, so it nets the forces pulling people toward it (optimism, innovativeness) against those holding them back (discomfort, insecurity). Insecurity is a brake on adoption, not a motivator.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/a-parasuraman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: ea7f107d361c013533fc5c25731fe3905ae9acb9
+concepts:
+- kt:a-parasuraman
+- kt:technology-readiness-index
+difficulty: 2
+created: '2026-11-18'
+status: active

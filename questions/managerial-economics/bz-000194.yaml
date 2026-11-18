@@ -1,0 +1,19 @@
+id: bz-000194
+area: managerial-economics
+kind: figure
+topic: Airline Industry
+topic_type: Industry
+true_statement: In 2025, the net profit margin of U.S. scheduled passenger airlines was 2.4%, down from 2.7% in 2024.
+false_statement: In 2025, the net profit margin of U.S. scheduled passenger airlines was 12.4%, down from 12.7% in 2024.
+explanation: Bureau of Transportation Statistics data show how thin airline margins are relative to revenue and capital. Globally, IATA estimated a 3.9% net margin for 2025, with returns on invested capital still below the cost of capital.
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/airline-industry.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: bcf158b35cebf16c07af8dd21088679e9249c878
+concepts:
+- kt:airline-industry
+difficulty: 2
+created: '2026-11-18'
+status: active

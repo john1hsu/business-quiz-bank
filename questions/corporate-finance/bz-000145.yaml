@@ -1,0 +1,20 @@
+id: bz-000145
+area: corporate-finance
+kind: figure
+topic: Weighted Average Cost of Capital
+topic_type: Metric
+true_statement: In Graham and Harvey's February 1999 survey of 392 CFOs, 73.5% always or almost always used CAPM to estimate the cost of equity.
+false_statement: In Graham and Harvey's February 1999 survey of 392 CFOs, 73.5% always or almost always used a constant-growth dividend model to estimate the cost of equity.
+explanation: CAPM gave firms a common way to estimate the equity term, which helped make WACC standard practice. The constant-growth dividend model is an alternative input, and in OpenStax's example switching to it moved WACC by more than half a point.
+as_of: '1999'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/weighted-average-cost-of-capital.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 067a5ac29aee6398694762581db37b5c55e7fef0
+concepts:
+- kt:weighted-average-cost-of-capital
+- kt:capital-asset-pricing-model
+difficulty: 2
+created: '2026-11-18'
+status: active

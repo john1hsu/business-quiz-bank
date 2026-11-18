@@ -1,0 +1,20 @@
+id: bz-000181
+area: business-models
+kind: figure
+topic: Business Format Franchising
+topic_type: BusinessModel
+true_statement: At the end of 2025, about 95% of McDonald's 45,356 restaurants were franchised.
+false_statement: At the end of 2025, about 65% of McDonald's 45,356 restaurants were franchised.
+explanation: 'McDonald''s is the textbook business-format franchisor: franchised restaurants produced roughly $16.5 billion of its $26.9 billion revenue. It usually controls the real estate and collects rent plus sales-based royalties.'
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-format-franchising.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: d288d61f0bf77ed74b07c4377d2ac10a456b2af0
+concepts:
+- kt:business-format-franchising
+- kt:mcdonalds
+difficulty: 1
+created: '2026-11-18'
+status: active

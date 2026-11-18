@@ -1,0 +1,20 @@
+id: bz-000234
+area: organizational-behavior
+kind: evidence
+topic: J. Richard Hackman
+topic_type: Person
+true_statement: A 1976 bank study by Oldham, Hackman and Pearce found enriched jobs paid off most for employees with high growth needs who were satisfied with pay, security, co-workers and supervision.
+false_statement: A 1976 bank study by Oldham, Hackman and Pearce found enriched jobs paid off most for employees with low growth needs who were dissatisfied with pay, security, co-workers and supervision.
+explanation: 'The study of 201 clerical employees showed enrichment is not universally good: for dissatisfied people with low growth needs, richer jobs were sometimes linked to worse results. The authors noted the design was correlational, so it could not prove causation.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/j-richard-hackman.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 1b59c5991205f333e1d9950f5e2b6d90c00ea87c
+concepts:
+- kt:j-richard-hackman
+- kt:job-enrichment
+- kt:job-characteristics-model
+difficulty: 3
+created: '2026-11-18'
+status: active

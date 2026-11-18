@@ -1,0 +1,20 @@
+id: bz-000191
+area: leadership-and-management
+kind: mechanism
+topic: Contingency Theory of Leadership
+topic_type: Theory
+true_statement: Fiedler predicted that task-oriented, low-LPC leaders do best in very favorable or very unfavorable situations, and relationship-oriented leaders in moderately favorable ones.
+false_statement: Fiedler predicted that relationship-oriented, high-LPC leaders do best in very favorable or very unfavorable situations, and task-oriented leaders in moderately favorable ones.
+explanation: 'The prediction is curvilinear: situational favorableness depends on leader-member relations, task structure and position power, and task focus pays off at both extremes. Relationship-oriented leaders do best in the mixed middle band.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/contingency-theory-of-leadership.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: cdad458853c18aa5d27592d9a9e15f9299b1a5bf
+concepts:
+- kt:contingency-theory-of-leadership
+- kt:fred-fiedler
+- kt:least-preferred-coworker-scale
+difficulty: 2
+created: '2026-11-18'
+status: active

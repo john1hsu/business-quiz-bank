@@ -1,0 +1,20 @@
+id: bz-000218
+area: business-history-and-cases
+kind: origin
+topic: Southwest Airlines
+topic_type: Company
+true_statement: Southwest Airlines, founded by Rollin King and Herb Kelleher, began scheduled service in 1971 with three Boeing 737s linking Dallas, Houston and San Antonio.
+false_statement: Southwest Airlines, founded by Rollin King and Herb Kelleher, began scheduled service in 1981 with three Boeing 737s linking Dallas, Houston and San Antonio.
+explanation: Founded in 1966, Southwest started as an intrastate Texas carrier from Dallas's Love Field after legal battles with incumbents delayed its 1971 launch. It expanded beyond Texas only after federal deregulation in 1978.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/southwest-airlines.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: c9091a5c16720d907f1007743c4711f3ebb9314a
+concepts:
+- kt:southwest-airlines
+- kt:herb-kelleher
+- kt:rollin-king
+difficulty: 1
+created: '2026-11-18'
+status: active

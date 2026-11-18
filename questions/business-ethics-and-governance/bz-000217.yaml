@@ -1,0 +1,21 @@
+id: bz-000217
+area: business-ethics-and-governance
+kind: application
+topic: Fiduciary Duty
+topic_type: Concept
+true_statement: In Marchand v. Barnhill (2019), Delaware's Supreme Court let an oversight claim proceed against Blue Bell's board, which allegedly had no board-level food safety monitoring.
+false_statement: In Marchand v. Barnhill (2019), Delaware's Supreme Court dismissed an oversight claim against Blue Bell's board, which allegedly had no board-level food safety monitoring.
+explanation: After a listeria outbreak, the court reversed dismissal, holding that failing to make a good-faith effort to monitor a mission-critical compliance risk breaches the duty of loyalty. Since Caremark claims are notoriously hard to win, the case is read as sharpening the oversight standard.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/fiduciary-duty.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: f723d32d95df84f3b705f839efc9f050f6c4f3dc
+concepts:
+- kt:fiduciary-duty
+- kt:marchand-v-barnhill
+- kt:caremark-oversight-duty
+- kt:board-of-directors
+difficulty: 3
+created: '2026-11-18'
+status: active

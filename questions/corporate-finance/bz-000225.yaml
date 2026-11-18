@@ -1,0 +1,19 @@
+id: bz-000225
+area: corporate-finance
+kind: mechanism
+topic: Efficient Market Hypothesis
+topic_type: Theory
+true_statement: Every test of market efficiency also tests an assumed model of expected returns, so an apparent anomaly may reflect a bad risk model rather than an inefficient market.
+false_statement: Every test of market efficiency also tests an assumed model of expected returns, so an apparent anomaly proves an inefficient market whatever risk model is used.
+explanation: 'This is Fama''s joint-hypothesis problem: returns are only ''abnormal'' relative to a model such as CAPM. If that model misprices risk, an anomaly can be a modelling error, so no single test settles efficiency.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/efficient-market-hypothesis.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 8f7efa787bbfdf6531d8fc4b073438e10d0c009e
+concepts:
+- kt:efficient-market-hypothesis
+- kt:capital-asset-pricing-model
+difficulty: 3
+created: '2026-11-18'
+status: active

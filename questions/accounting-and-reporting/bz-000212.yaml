@@ -1,0 +1,20 @@
+id: bz-000212
+area: accounting-and-reporting
+kind: origin
+topic: Sarbanes-Oxley Act of 2002
+topic_type: Regulation
+true_statement: President George W. Bush signed the Sarbanes-Oxley Act on July 30, 2002, after the collapses of Enron and WorldCom shook confidence in financial reporting.
+false_statement: President George W. Bush signed the Sarbanes-Oxley Act on July 30, 2010, after the collapses of Enron and WorldCom shook confidence in financial reporting.
+explanation: SOX was the 2002 response to Enron and WorldCom, ending the audit profession's self-regulation by creating the PCAOB. 2010 is the year of the Dodd-Frank Act, which later amended SOX with a small-company exemption.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/sarbanes-oxley-act.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 628d859a66a5f931439c2027c88c6b701a51ff74
+concepts:
+- kt:sarbanes-oxley-act
+- kt:enron-scandal
+- kt:public-company-accounting-oversight-board
+difficulty: 1
+created: '2026-11-18'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000211
+area: consulting-and-problem-solving
+kind: evidence
+topic: Ishikawa Diagram
+topic_type: Framework
+true_statement: A fishbone diagram organizes a team's hypotheses about causes rather than testing them, so teams turn to data tools such as Pareto and control charts to judge which causes matter.
+false_statement: A fishbone diagram tests a team's hypotheses about causes rather than just organizing them, so teams seldom need data tools such as Pareto and control charts to judge which causes matter.
+explanation: The chart records what participants believe, so teams can drift into listing symptoms or assume they understand a problem. Guidance pairs it with the five whys to deepen branches and with data-based tools to rank candidate causes.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/ishikawa-diagram.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 002ae9760980a3413e331e71ced936e873f5fc6d
+concepts:
+- kt:ishikawa-diagram
+- kt:five-whys
+- kt:eighty-twenty-rule
+difficulty: 2
+created: '2026-11-18'
+status: active

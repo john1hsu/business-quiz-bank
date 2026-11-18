@@ -1,0 +1,19 @@
+id: bz-000186
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: Revolutionary FAR Overhaul
+topic_type: Regulation
+true_statement: 'The FAR overhaul runs in two phases: first the FAR Council issues model class deviation text agencies can adopt, then formal notice-and-comment rulemaking follows.'
+false_statement: 'The FAR overhaul runs in two phases: first formal notice-and-comment rulemaking changes the FAR, then the FAR Council issues model class deviation text agencies can adopt.'
+explanation: 'Deviations let agencies use streamlined text in fiscal year 2025 before any binding rule changed. Formal rulemaking comes second: the Council describes twelve proposed rules that together streamline the entire FAR.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 44927017ef0be21658afa4b2ea919d411cc2889f
+concepts:
+- kt:revolutionary-far-overhaul
+- kt:far-council
+difficulty: 2
+created: '2026-11-18'
+status: active

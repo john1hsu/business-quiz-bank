@@ -1,0 +1,20 @@
+id: bz-000207
+area: strategy
+kind: origin
+topic: Experience Curve
+topic_type: Framework
+true_statement: BCG traces the experience curve to a 1966 cost study for a large semiconductor maker, with Bruce Henderson later setting out its strategic implications.
+false_statement: BCG traces the experience curve to a 1966 cost study for a large aircraft maker, with Bruce Henderson later setting out its strategic implications.
+explanation: Aircraft were the setting of the older learning curve, from T. P. Wright's 1936 paper. BCG's step was to extend the idea from direct labour to a product's total cost and turn it into a strategy tool.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/experience-curve.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 09a37c62adafb5b8273a2df0fd3597e4c42789f7
+concepts:
+- kt:experience-curve
+- kt:bruce-henderson
+- kt:learning-curve
+difficulty: 2
+created: '2026-11-18'
+status: active

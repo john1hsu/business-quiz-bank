@@ -1,0 +1,18 @@
+id: bz-000190
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: Jobs to Be Done
+topic_type: Theory
+true_statement: A study of 109 business customers of one chemical firm found that how well their important jobs were solved explained only 22.8% of the variance in their performance.
+false_statement: A study of 109 business customers of one chemical firm found that how well their important jobs were solved explained about 82.8% of the variance in their performance.
+explanation: The link was positive but modest, and it came from a single company and industry. Most support for jobs to be done is case-based work by its own proponents, so peer-reviewed tests remain thin.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/jobs-to-be-done.md
+  commit: 89655360fc0fbbfb089058fb3a588345f5e1f3d3
+  blob: 2eae9afbaa8218592f5e2b9fd4f8d606b7b52a2b
+concepts:
+- kt:jobs-to-be-done
+difficulty: 3
+created: '2026-11-18'
+status: active
