@@ -1,0 +1,20 @@
+id: bz-000258
+area: business-ethics-and-governance
+kind: origin
+topic: Board Audit Committee
+topic_type: Concept
+true_statement: The modern audit committee traces to the Blue Ribbon Committee formed in 1998 by the NYSE and the NASD, whose 1999 plan called for fully independent, financially literate members.
+false_statement: The modern audit committee traces to the Blue Ribbon Committee formed in 1998 by the SEC and the PCAOB, whose 1999 plan called for fully independent, financially literate members.
+explanation: The exchanges and the NASD set up the Blue Ribbon Committee, co-chaired by Ira Millstein and John Whitehead. Its core ideas, independence and board control of the auditor, became federal law in Sarbanes-Oxley in 2002; the PCAOB did not yet exist in 1998.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/audit-committee.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 404ef48f3fe726f2a93ecbf1f6c5d7dcfecd8e4d
+concepts:
+- kt:audit-committee
+- kt:sarbanes-oxley-act
+- kt:public-company-accounting-oversight-board
+difficulty: 2
+created: '2026-11-19'
+status: active

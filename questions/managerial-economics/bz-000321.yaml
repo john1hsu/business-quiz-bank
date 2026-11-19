@@ -1,0 +1,19 @@
+id: bz-000321
+area: managerial-economics
+kind: evidence
+topic: 'Information Asymmetry: Unequal Knowledge Between Transacting Parties'
+topic_type: Theory
+true_statement: Emons and George found privately sold used cars in Basle were more likely than average to have defects while dealer-sold cars were less likely, yet judged the lemons problem not widespread.
+false_statement: Emons and George found dealer-sold used cars in Basle were more likely than average to have defects while privately sold cars were less likely, yet judged the lemons problem not widespread.
+explanation: Private sales were about 27% more likely to have defects and dealer sales about 10% less, consistent with dealer reputation acting as a quality guarantee. Few cars were resold at all, so institutions seem to absorb much of the problem.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/information-asymmetry.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: fc8bed2a91cb3fe739b115fdd38bc7ad9ac16280
+concepts:
+- kt:information-asymmetry
+- kt:adverse-selection
+difficulty: 3
+created: '2026-11-19'
+status: active

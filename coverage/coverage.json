@@ -1,73 +1,79 @@
 {
  "totals": {
-  "active": 242
+  "active": 342
  },
  "areas": {
   "accounting-and-reporting": {
-   "active": 18
+   "active": 27
   },
   "business-ethics-and-governance": {
-   "active": 18
+   "active": 25
   },
   "business-history-and-cases": {
-   "active": 18
+   "active": 24
   },
   "business-models": {
-   "active": 18
+   "active": 24
   },
   "consulting-and-problem-solving": {
-   "active": 16
+   "active": 25
   },
   "corporate-finance": {
-   "active": 18
+   "active": 24
   },
   "government-contracting-and-public-sector": {
-   "active": 18
+   "active": 24
   },
   "innovation-and-entrepreneurship": {
-   "active": 18
+   "active": 24
   },
   "leadership-and-management": {
-   "active": 16
+   "active": 25
   },
   "managerial-economics": {
-   "active": 18
+   "active": 24
   },
   "marketing": {
-   "active": 18
+   "active": 24
   },
   "operations-and-supply-chain": {
-   "active": 15
+   "active": 24
   },
   "organizational-behavior": {
-   "active": 18
+   "active": 24
   },
   "strategy": {
-   "active": 15
+   "active": 24
   }
  },
  "kinds": {
   "application": {
-   "active": 30
+   "active": 42
   },
   "definition": {
-   "active": 32
+   "active": 40
   },
   "evidence": {
-   "active": 63
+   "active": 93
   },
   "figure": {
-   "active": 15
+   "active": 21
   },
   "mechanism": {
-   "active": 60
+   "active": 82
   },
   "origin": {
-   "active": 42
+   "active": 64
   }
  },
  "articles": {
   "articles/accounting-and-reporting/accrual-accounting.md": {
+   "active": 3
+  },
+  "articles/accounting-and-reporting/activity-based-costing.md": {
+   "active": 3
+  },
+  "articles/accounting-and-reporting/deferred-revenue.md": {
    "active": 3
   },
   "articles/accounting-and-reporting/fasb-conceptual-framework.md": {
@@ -82,11 +88,20 @@
   "articles/accounting-and-reporting/goodwill.md": {
    "active": 3
   },
+  "articles/accounting-and-reporting/revenue-recognition-asc-606.md": {
+   "active": 3
+  },
   "articles/accounting-and-reporting/sarbanes-oxley-act.md": {
    "active": 3
   },
   "articles/business-ethics-and-governance/agency-costs.md": {
    "active": 3
+  },
+  "articles/business-ethics-and-governance/audit-committee.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/board-of-directors.md": {
+   "active": 1
   },
   "articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md": {
    "active": 3
@@ -98,6 +113,9 @@
    "active": 3
   },
   "articles/business-ethics-and-governance/fiduciary-duty.md": {
+   "active": 3
+  },
+  "articles/business-ethics-and-governance/proxy-advisory-firm.md": {
    "active": 3
   },
   "articles/business-ethics-and-governance/stakeholder-theory.md": {
@@ -118,16 +136,28 @@
   "articles/business-history-and-cases/kodak-decline.md": {
    "active": 3
   },
+  "articles/business-history-and-cases/netflix-business-model-shift.md": {
+   "active": 3
+  },
   "articles/business-history-and-cases/southwest-airlines.md": {
    "active": 3
   },
+  "articles/business-history-and-cases/walmart.md": {
+   "active": 3
+  },
   "articles/business-models/business-format-franchising.md": {
+   "active": 3
+  },
+  "articles/business-models/business-model.md": {
    "active": 3
   },
   "articles/business-models/direct-selling.md": {
    "active": 3
   },
   "articles/business-models/freemium.md": {
+   "active": 3
+  },
+  "articles/business-models/membership-warehouse-club.md": {
    "active": 3
   },
   "articles/business-models/razor-and-blades-model.md": {
@@ -157,7 +187,19 @@
   "articles/consulting-and-problem-solving/mece-principle.md": {
    "active": 3
   },
+  "articles/consulting-and-problem-solving/nominal-group-technique.md": {
+   "active": 3
+  },
+  "articles/consulting-and-problem-solving/pyramid-principle.md": {
+   "active": 3
+  },
+  "articles/consulting-and-problem-solving/structured-problem-solving.md": {
+   "active": 3
+  },
   "articles/corporate-finance/arbitrage.md": {
+   "active": 3
+  },
+  "articles/corporate-finance/corporate-finance.md": {
    "active": 3
   },
   "articles/corporate-finance/dividend-policy.md": {
@@ -169,6 +211,9 @@
   "articles/corporate-finance/leveraged-buyout.md": {
    "active": 3
   },
+  "articles/corporate-finance/michael-c-jensen.md": {
+   "active": 3
+  },
   "articles/corporate-finance/modigliani-miller-theorem.md": {
    "active": 3
   },
@@ -176,6 +221,9 @@
    "active": 3
   },
   "articles/government-contracting-and-public-sector/best-value-tradeoff.md": {
+   "active": 3
+  },
+  "articles/government-contracting-and-public-sector/contracting-officer.md": {
    "active": 3
   },
   "articles/government-contracting-and-public-sector/federal-acquisition-regulation.md": {
@@ -193,6 +241,9 @@
   "articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md": {
    "active": 3
   },
+  "articles/government-contracting-and-public-sector/truth-in-negotiations-act.md": {
+   "active": 3
+  },
   "articles/innovation-and-entrepreneurship/andrew-van-de-ven.md": {
    "active": 3
   },
@@ -200,6 +251,12 @@
    "active": 3
   },
   "articles/innovation-and-entrepreneurship/disruptive-innovation.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/exploration-and-exploitation-in-organizational-learning-1991.md": {
+   "active": 3
+  },
+  "articles/innovation-and-entrepreneurship/innovation-management.md": {
    "active": 3
   },
   "articles/innovation-and-entrepreneurship/innovators-dilemma.md": {
@@ -223,10 +280,19 @@
   "articles/leadership-and-management/hoshin-kanri.md": {
    "active": 3
   },
+  "articles/leadership-and-management/management-by-objectives.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/management-theory.md": {
+   "active": 3
+  },
   "articles/leadership-and-management/okrs.md": {
    "active": 3
   },
   "articles/leadership-and-management/peter-drucker.md": {
+   "active": 3
+  },
+  "articles/leadership-and-management/situational-leadership.md": {
    "active": 3
   },
   "articles/managerial-economics/airline-industry.md": {
@@ -235,10 +301,16 @@
   "articles/managerial-economics/antitrust-law.md": {
    "active": 3
   },
+  "articles/managerial-economics/bengt-holmstrom.md": {
+   "active": 3
+  },
   "articles/managerial-economics/economies-of-scale.md": {
    "active": 3
   },
   "articles/managerial-economics/industrial-organization.md": {
+   "active": 3
+  },
+  "articles/managerial-economics/information-asymmetry.md": {
    "active": 3
   },
   "articles/managerial-economics/network-effect.md": {
@@ -250,10 +322,16 @@
   "articles/marketing/a-parasuraman.md": {
    "active": 3
   },
+  "articles/marketing/brand-equity.md": {
+   "active": 3
+  },
   "articles/marketing/cannibalization.md": {
    "active": 3
   },
   "articles/marketing/customer-lifetime-value.md": {
+   "active": 3
+  },
+  "articles/marketing/gaps-model-of-service-quality.md": {
    "active": 3
   },
   "articles/marketing/price-elasticity.md": {
@@ -268,6 +346,9 @@
   "articles/operations-and-supply-chain/bill-of-materials.md": {
    "active": 3
   },
+  "articles/operations-and-supply-chain/bullwhip-effect.md": {
+   "active": 3
+  },
   "articles/operations-and-supply-chain/enterprise-resource-planning.md": {
    "active": 3
   },
@@ -280,7 +361,19 @@
   "articles/operations-and-supply-chain/material-requirements-planning.md": {
    "active": 3
   },
+  "articles/operations-and-supply-chain/taiichi-ohno.md": {
+   "active": 3
+  },
+  "articles/operations-and-supply-chain/total-quality-management.md": {
+   "active": 3
+  },
   "articles/organizational-behavior/amy-edmondson.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/devils-advocacy.md": {
+   "active": 3
+  },
+  "articles/organizational-behavior/goal-setting-theory.md": {
    "active": 3
   },
   "articles/organizational-behavior/google-project-aristotle.md": {
@@ -301,6 +394,9 @@
   "articles/strategy/barriers-to-entry.md": {
    "active": 3
   },
+  "articles/strategy/bcg-growth-share-matrix.md": {
+   "active": 3
+  },
   "articles/strategy/david-j-teece.md": {
    "active": 3
   },
@@ -311,6 +407,12 @@
    "active": 3
   },
   "articles/strategy/first-mover-advantage.md": {
+   "active": 3
+  },
+  "articles/strategy/porters-five-forces.md": {
+   "active": 3
+  },
+  "articles/strategy/switching-costs.md": {
    "active": 3
   }
  }

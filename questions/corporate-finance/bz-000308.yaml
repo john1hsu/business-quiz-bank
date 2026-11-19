@@ -1,0 +1,19 @@
+id: bz-000308
+area: corporate-finance
+kind: evidence
+topic: Michael Jensen
+topic_type: Person
+true_statement: In 1990 Jensen and Kevin Murphy estimated a typical CEO's wealth moved only $3.25 for each $1,000 change in shareholder wealth, and urged more equity pay.
+false_statement: In 1990 Jensen and Kevin Murphy estimated a typical CEO's wealth moved about $325 for each $1,000 change in shareholder wealth, and urged less equity pay.
+explanation: They judged such weak sensitivity too small to motivate value creation. Murphy later recalled that firms layered options on top of salary rather than swapping one for the other, which drove CEO pay sharply higher.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/michael-c-jensen.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 7531faf573ebbe5abf7a2172ea0dff714a283517
+concepts:
+- kt:michael-c-jensen
+- kt:executive-compensation
+difficulty: 3
+created: '2026-11-19'
+status: active

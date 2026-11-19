@@ -1,0 +1,19 @@
+id: bz-000295
+area: leadership-and-management
+kind: origin
+topic: 'Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement'
+topic_type: Practice
+true_statement: Peter Drucker first set out management by objectives in The Practice of Management in 1954.
+false_statement: Peter Drucker first set out management by objectives in The Effective Executive in 1966.
+explanation: In his 1954 book, Drucker argued that effective managers focus on results rather than activity and delegate by agreeing objectives with each subordinate. The idea draws on McGregor's Theory Y view that people can direct their own work.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/management-by-objectives.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 73ed6cb390e1b1a47562fc9527cfe32e6c79e2a1
+concepts:
+- kt:management-by-objectives
+- kt:peter-drucker
+difficulty: 1
+created: '2026-11-19'
+status: active

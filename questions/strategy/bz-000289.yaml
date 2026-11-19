@@ -1,0 +1,19 @@
+id: bz-000289
+area: strategy
+kind: mechanism
+topic: Consumer Switching Costs
+topic_type: Concept
+true_statement: In the bargain-then-ripoff pattern, firms price low, even below cost, to win unattached buyers, then charge more once those buyers are locked in.
+false_statement: In the bargain-then-ripoff pattern, firms price high to win unattached buyers, then cut prices once those buyers are locked in to keep them from leaving.
+explanation: A locked-in customer tolerates a higher price before leaving, so early share becomes later profit. In the simplest model, competition for new customers passes those later rents back through the early discounts.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/switching-costs.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e66e3cf035eeaed1faad99ebdb5eb7c954074407
+concepts:
+- kt:switching-costs
+- kt:customer-lifetime-value
+difficulty: 2
+created: '2026-11-19'
+status: active

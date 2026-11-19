@@ -1,0 +1,19 @@
+id: bz-000292
+area: consulting-and-problem-solving
+kind: origin
+topic: 'Pyramid Principle: Top-Down Structured Communication'
+topic_type: Framework
+true_statement: Barbara Minto developed the Pyramid Principle while editing consultants' reports at McKinsey in London, where she kept rearranging their ideas into the same shape.
+false_statement: Barbara Minto developed the Pyramid Principle while teaching business writing at Harvard, where she kept rearranging students' essays into the same shape.
+explanation: Minto worked at McKinsey from 1963 to 1973 and turned her editing pattern into an internal course and manual. Her first book on it is dated to 1985, and she later taught it to firms such as Accenture and Bain.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/pyramid-principle.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e20ddd7dd6ce0f3c8da96a40540e6bc2b90997a3
+concepts:
+- kt:pyramid-principle
+- kt:barbara-minto
+difficulty: 1
+created: '2026-11-19'
+status: active

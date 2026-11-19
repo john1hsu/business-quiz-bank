@@ -1,0 +1,19 @@
+id: bz-000341
+area: accounting-and-reporting
+kind: mechanism
+topic: 'Activity-Based Costing: Assigning Overhead by Activities'
+topic_type: Practice
+true_statement: Switching to activity-based costing usually raises the unit cost of low-volume products, because batch- and product-level costs like setups are spread over few units.
+false_statement: Switching to activity-based costing usually lowers the unit cost of low-volume products, because batch- and product-level costs like setups are spread over many units.
+explanation: A single labour-hour rate lets high-volume products subsidize low-volume ones. ABC assigns setup and engineering costs to the products that cause them, revealing losses the old system hid.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/activity-based-costing.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: f3ef9e20f68e427ddf5171d9081935828ea203ba
+concepts:
+- kt:activity-based-costing
+- kt:cost-accounting
+difficulty: 2
+created: '2026-11-19'
+status: active

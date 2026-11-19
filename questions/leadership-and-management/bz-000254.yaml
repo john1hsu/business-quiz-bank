@@ -1,0 +1,18 @@
+id: bz-000254
+area: leadership-and-management
+kind: evidence
+topic: Hersey-Blanchard Situational Leadership Model
+topic_type: Theory
+true_statement: A 1998 study of senior executives at a Fortune 100 firm found only 18 leader-follower pairs matched the model's prescribed fit, against 126 that did not.
+false_statement: A 1998 study of senior executives at a Fortune 100 firm found 126 leader-follower pairs matched the model's prescribed fit, against only 18 that did not.
+explanation: Most real pairings did not follow the prescription, and the study called the theory intuitively appealing but empirically contradictory. That fits a broader pattern of weak support despite the model's popularity in training.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/situational-leadership.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: c45f753ba432f9b9caf7ee5ee9a0e8e36e4d71fe
+concepts:
+- kt:situational-leadership
+difficulty: 3
+created: '2026-11-19'
+status: active

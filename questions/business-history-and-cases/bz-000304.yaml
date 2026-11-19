@@ -1,0 +1,20 @@
+id: bz-000304
+area: business-history-and-cases
+kind: mechanism
+topic: Walmart
+topic_type: Company
+true_statement: Thomas Holmes inferred the value of store density from how much sales cannibalization among neighbouring stores Walmart accepted, and found benefits well beyond cheaper trucking.
+false_statement: Thomas Holmes inferred the value of store density from how much sales cannibalization among neighbouring stores Walmart accepted, and found benefits limited mainly to cheaper trucking.
+explanation: Walmart kept opening stores close to existing ones even though they took sales from each other, which only makes sense if clustering saves a lot. Holmes concluded those density savings were large and broad, not just shorter delivery routes.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/walmart.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 6b3ec7cc533857f8d1ab3cdf7a1bc574084cc1a3
+concepts:
+- kt:walmart
+- kt:economies-of-density
+- kt:cannibalization
+difficulty: 3
+created: '2026-11-19'
+status: active

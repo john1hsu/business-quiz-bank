@@ -1,0 +1,20 @@
+id: bz-000305
+area: business-history-and-cases
+kind: evidence
+topic: Walmart
+topic_type: Company
+true_statement: From 1982 to 2002, Walmart accounted for almost half the productivity growth in U.S. general merchandise retailing, by Emek Basker's figures.
+false_statement: From 1982 to 2002, Walmart accounted for almost a tenth of the productivity growth in U.S. general merchandise retailing, by Emek Basker's figures.
+explanation: Sales per worker rose 54.5 log points at Walmart U.S. versus 18.5 for the rest of the sector. Basker credits technology such as bar-code readers and Retail Link, plus scale.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/walmart.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 6b3ec7cc533857f8d1ab3cdf7a1bc574084cc1a3
+concepts:
+- kt:walmart
+- kt:retail-industry
+- kt:economies-of-scale
+difficulty: 3
+created: '2026-11-19'
+status: active

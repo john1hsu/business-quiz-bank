@@ -1,0 +1,20 @@
+id: bz-000298
+area: accounting-and-reporting
+kind: mechanism
+topic: Revenue from Contracts with Customers
+topic_type: Regulation
+true_statement: In the fourth step of the ASC 606 and IFRS 15 model, the transaction price is allocated to performance obligations in proportion to their stand-alone selling prices.
+false_statement: In the fourth step of the ASC 606 and IFRS 15 model, the transaction price is allocated to performance obligations in proportion to their cost to deliver.
+explanation: Allocation by stand-alone selling price splits a bundle as if each good or service had been sold separately. Revenue then arrives only at step five, when each obligation is satisfied.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/revenue-recognition-asc-606.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 880be2270df1078cd1df1a8c02211c201690971b
+concepts:
+- kt:revenue-recognition-asc-606
+- kt:ifrs
+- kt:gaap
+difficulty: 2
+created: '2026-11-19'
+status: active

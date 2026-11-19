@@ -1,0 +1,19 @@
+id: bz-000336
+area: consulting-and-problem-solving
+kind: evidence
+topic: 'Structured Problem Solving: The Consultant''s Stepwise Method'
+topic_type: Practice
+true_statement: Baer, Dirks and Nickerson argue that diverse teams facing complex, ill-structured problems tend to formulate them too narrowly, which narrows the search for solutions.
+false_statement: Baer, Dirks and Nickerson argue that diverse teams facing complex, ill-structured problems tend to formulate them too broadly, which scatters the search for solutions.
+explanation: Their research supports the method's emphasis on the problem-definition step. They propose collaborative structured inquiry to broaden formulation, and the theory implies a fixed sequence will not help if step one is rushed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/structured-problem-solving.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 3abdcb3121100c539a70a8e683ea7edd8871d7f8
+concepts:
+- kt:structured-problem-solving
+- kt:problem-formulation
+difficulty: 3
+created: '2026-11-19'
+status: active

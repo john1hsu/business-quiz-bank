@@ -1,0 +1,19 @@
+id: bz-000326
+area: operations-and-supply-chain
+kind: evidence
+topic: 'Total Quality Management: Companywide Quality as a Management System'
+topic_type: Practice
+true_statement: Powell's 1995 study found TQM's visible tools, like quality training and benchmarking, generally gave no competitive advantage, while open culture, empowerment and executive commitment did.
+false_statement: Powell's 1995 study found TQM's visible tools, like quality training and benchmarking, gave competitive advantage, while open culture, empowerment and executive commitment generally did not.
+explanation: Tools are easy to copy, so they cannot set a firm apart; tacit cultural resources are hard to imitate. Powell concluded firms with those resources could outperform with or without the TQM label.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/total-quality-management.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: b446a740e52cb22c2a90ba89d724539407e58631
+concepts:
+- kt:total-quality-management
+- kt:benchmarking
+difficulty: 3
+created: '2026-11-19'
+status: active

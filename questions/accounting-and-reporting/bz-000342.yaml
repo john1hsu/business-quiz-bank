@@ -1,0 +1,20 @@
+id: bz-000342
+area: accounting-and-reporting
+kind: evidence
+topic: 'Activity-Based Costing: Assigning Overhead by Activities'
+topic_type: Practice
+true_statement: Kaplan and Anderson argued conventional ABC's employee time surveys implicitly assumed staff were fully utilised, hiding idle capacity that time-driven ABC exposes.
+false_statement: Kaplan and Anderson argued conventional ABC's employee time surveys implicitly assumed staff were half idle, overstating unused capacity that time-driven ABC corrects.
+explanation: When people report how they split their time, the shares add up to 100%, so slack disappears. Time-driven ABC uses capacity cost per minute and activity times, so unused capacity shows up explicitly.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/activity-based-costing.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: f3ef9e20f68e427ddf5171d9081935828ea203ba
+concepts:
+- kt:activity-based-costing
+- kt:time-driven-activity-based-costing
+- kt:robert-s-kaplan
+difficulty: 3
+created: '2026-11-19'
+status: active

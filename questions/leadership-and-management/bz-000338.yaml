@@ -1,0 +1,19 @@
+id: bz-000338
+area: leadership-and-management
+kind: mechanism
+topic: 'Management Theory: From Classical Administration to Systems and Contingency Thinking'
+topic_type: Field
+true_statement: 'Contingency theory, associated with Joan Woodward, rejects universal rules: the right structure depends on the situation, such as a firm''s production technology.'
+false_statement: 'Contingency theory, associated with Joan Woodward, seeks universal rules: the right structure is the same whatever a firm''s production technology.'
+explanation: Classical theorists looked for one best way to organize. Woodward's view is that the best design varies with circumstances, which is why managers today ask how technology, environment or strategy change the answer.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/management-theory.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 7ca13ebe7aed2af8f4e7cdda9cee2fd8b6630542
+concepts:
+- kt:management-theory
+- kt:contingency-theory
+difficulty: 2
+created: '2026-11-19'
+status: active

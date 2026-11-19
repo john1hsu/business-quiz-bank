@@ -1,0 +1,18 @@
+id: bz-000311
+area: business-models
+kind: evidence
+topic: 'Business Model: How a Firm Creates, Delivers and Captures Value'
+topic_type: Concept
+true_statement: Zott, Amit and Massa's review found that 37% of the business model publications they examined did not define the concept at all.
+false_statement: Zott, Amit and Massa's review found that only 7% of the business model publications they examined did not define the concept at all.
+explanation: Only 44% defined it explicitly and 19% borrowed someone else's definition. That inconsistency underlies the critique that the construct is fragmented, which hampers cumulative research.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: a469abded5137cf79c04a57d24a5e310d25e6272
+concepts:
+- kt:business-model
+difficulty: 3
+created: '2026-11-19'
+status: active

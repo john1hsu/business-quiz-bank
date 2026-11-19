@@ -1,0 +1,19 @@
+id: bz-000256
+area: accounting-and-reporting
+kind: application
+topic: Deferred Revenue
+topic_type: Concept
+true_statement: ASU 2021-08 ended the deferred revenue haircut in acquisitions by requiring buyers to measure acquired contract liabilities under Topic 606 instead of at fair value.
+false_statement: ASU 2021-08 ended the deferred revenue haircut in acquisitions by requiring buyers to measure acquired contract liabilities at fair value instead of under Topic 606.
+explanation: Fair value was often below the target's book balance, so revenue the target would have reported simply vanished after the deal. Measuring under Topic 606 carries the balance over and preserves that revenue.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/deferred-revenue.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 5b13ff88be300c49f0afa674cd404c00598c7ae7
+concepts:
+- kt:deferred-revenue
+- kt:revenue-recognition-asc-606
+difficulty: 3
+created: '2026-11-19'
+status: active

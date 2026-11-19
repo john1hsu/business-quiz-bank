@@ -1,0 +1,20 @@
+id: bz-000328
+area: organizational-behavior
+kind: origin
+topic: 'Goal-Setting Theory: Specific, Difficult Goals and Performance'
+topic_type: Theory
+true_statement: Goal-setting theory began with Edwin Locke's laboratory research in the late 1960s, and Gary Latham carried it into the field, starting with pulpwood logging crews.
+false_statement: Goal-setting theory began with Gary Latham's laboratory research in the late 1960s, and Edwin Locke carried it into the field, starting with pulpwood logging crews.
+explanation: Locke's lab studies found specific high goals beat instructions to do one's best; Latham tested the idea with real crews, where productivity and attendance rose within a week. The two consolidated the program into a formal theory in 1990.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/goal-setting-theory.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 4e1bb22faa88401187f54fc823ca206451221855
+concepts:
+- kt:goal-setting-theory
+- kt:edwin-locke
+- kt:gary-latham
+difficulty: 1
+created: '2026-11-19'
+status: active

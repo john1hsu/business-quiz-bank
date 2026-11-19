@@ -1,0 +1,20 @@
+id: bz-000266
+area: business-models
+kind: figure
+topic: Membership Warehouse Club
+topic_type: BusinessModel
+true_statement: In FY2026 Costco earned $5.9 billion in membership fees against net income of $9.2 billion, showing how much of its profit rests on fees.
+false_statement: In FY2026 Costco earned $9.2 billion in membership fees against net income of $5.9 billion, showing how much of its profit rests on fees.
+explanation: Fee income is a large share of profit because merchandise is sold at thin markups on $297 billion of sales. That is why Costco calls membership integral to its profitability and why falling renewals would hurt more than a dip in item margins.
+as_of: FY2026
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/membership-warehouse-club.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 94e8b35591820e7f9b224784840fe80590901c63
+concepts:
+- kt:membership-warehouse-club
+- kt:costco
+difficulty: 2
+created: '2026-11-19'
+status: active

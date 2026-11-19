@@ -1,0 +1,19 @@
+id: bz-000314
+area: government-contracting-and-public-sector
+kind: definition
+topic: 'Contracting Officer: Warranted Authority to Bind the Government'
+topic_type: Concept
+true_statement: A contracting officer's representative handles day-to-day technical oversight but has no power to change a contract's price, quantity, quality or delivery terms.
+false_statement: A contracting officer's representative handles day-to-day technical oversight and may change a contract's price, quantity, quality or delivery terms within delegated limits.
+explanation: The COR is delegated monitoring duties in writing, cannot redelegate and can be personally liable for unauthorized acts. Changing contract terms stays with the warranted contracting officer.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/contracting-officer.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 24247bb7713ab139e1f4780628bfddecbe1a9c34
+concepts:
+- kt:contracting-officer
+- kt:contracting-officers-representative
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000313
+area: government-contracting-and-public-sector
+kind: origin
+topic: 'Contracting Officer: Warranted Authority to Bind the Government'
+topic_type: Concept
+true_statement: In Federal Crop Insurance Corp. v. Merrill (1947), the Supreme Court held that anyone dealing with the government bears the risk of confirming an official acts within his authority.
+false_statement: In Federal Crop Insurance Corp. v. Merrill (1947), the Supreme Court held that the government bears the risk when its official wrongly assures a private party he acts within his authority.
+explanation: Idaho farmers relied on an agent's wrong assurance that reseeded wheat was covered and were refused payment. Published regulations count as notice to all, a principle the FAR now codifies in its contracting-authority rules.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/contracting-officer.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 24247bb7713ab139e1f4780628bfddecbe1a9c34
+concepts:
+- kt:contracting-officer
+- kt:federal-crop-insurance-corp-v-merrill
+difficulty: 2
+created: '2026-11-19'
+status: active

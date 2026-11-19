@@ -1,0 +1,20 @@
+id: bz-000323
+area: marketing
+kind: mechanism
+topic: 'Brand Equity: The Marketing Value of a Brand Name'
+topic_type: Concept
+true_statement: In Keller's brand-resonance pyramid, resonance, the loyalty and engagement customers feel, sits at the top above identity, meaning and responses.
+false_statement: In Keller's brand-resonance pyramid, identity, who the brand is and what need it meets, sits at the top above meaning, responses and resonance.
+explanation: 'The pyramid builds from the base: first establish identity, then meaning (performance and imagery), then judgments and feelings, and only then the deep loyalty of resonance.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/brand-equity.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 815181bf9ebe2e0550ce04f7ff9ce294b5938c77
+concepts:
+- kt:brand-equity
+- kt:kevin-lane-keller
+- kt:brand-management
+difficulty: 2
+created: '2026-11-19'
+status: active

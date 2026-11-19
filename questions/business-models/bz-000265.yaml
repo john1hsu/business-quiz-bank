@@ -1,0 +1,20 @@
+id: bz-000265
+area: business-models
+kind: evidence
+topic: Membership Warehouse Club
+topic_type: BusinessModel
+true_statement: Courtemanche and Carden found that a new Costco is associated with higher prices at nearby grocery stores, while Sam's Club entry had no detectable effect.
+false_statement: Courtemanche and Carden found that a new Costco is associated with lower prices at nearby grocery stores, while Sam's Club entry had no detectable effect.
+explanation: Prices rose about 1.4% in the short run and 2.7% in the long run. A plausible reason is that incumbents stop chasing the most price-sensitive shoppers, who defect to the club, and target the rest or compete on amenities.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/membership-warehouse-club.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 94e8b35591820e7f9b224784840fe80590901c63
+concepts:
+- kt:membership-warehouse-club
+- kt:costco
+- kt:sams-club
+difficulty: 3
+created: '2026-11-19'
+status: active

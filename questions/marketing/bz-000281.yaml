@@ -1,0 +1,20 @@
+id: bz-000281
+area: marketing
+kind: evidence
+topic: Gaps Model of Service Quality
+topic_type: Framework
+true_statement: Responding to critics in 1994, the gaps model's authors split expectations into desired and adequate levels, with a zone of tolerance between them.
+false_statement: Responding to critics in 1994, the gaps model's authors dropped expectations altogether and measured perceived performance alone.
+explanation: Critics such as Cronin and Taylor questioned whether expectations were needed at all. Rather than abandon them, the authors refined them, recognizing that customers accept a range of service rather than a single target.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/gaps-model-of-service-quality.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 96b078ab38ad2d1246fcd915f8ebddc9392ab65b
+concepts:
+- kt:gaps-model-of-service-quality
+- kt:servqual
+- kt:a-parasuraman
+difficulty: 3
+created: '2026-11-19'
+status: active

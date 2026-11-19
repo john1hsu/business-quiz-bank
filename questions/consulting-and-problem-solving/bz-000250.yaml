@@ -1,0 +1,18 @@
+id: bz-000250
+area: consulting-and-problem-solving
+kind: mechanism
+topic: Nominal Group Technique
+topic_type: Practice
+true_statement: Practitioner guides label NGT items with letters rather than numbers so the list order is not mistaken for a ranking.
+false_statement: Practitioner guides label NGT items with numbers rather than letters so the list order can be read directly as a ranking.
+explanation: Ideas are recorded in round-robin order, which says nothing about their merit. Letters avoid implying a priority before members have voted privately.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/nominal-group-technique.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d0a4ab862f045783ffaaff83d44ecdf748fbb049
+concepts:
+- kt:nominal-group-technique
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000334
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Structured Problem Solving: The Consultant''s Stepwise Method'
+topic_type: Practice
+true_statement: In Conn and McLean's seven-step cycle, teams prioritize by pruning the issue tree to branches that most affect the outcome and that they can actually influence.
+false_statement: In Conn and McLean's seven-step cycle, teams prioritize by pruning the issue tree to branches that are easiest to measure, whether or not they can influence them.
+explanation: Prioritizing comes right after disaggregation and before planning the work. It keeps scarce analysis effort on drivers that both matter and are actionable, rather than on what is merely convenient to analyze.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/structured-problem-solving.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 3abdcb3121100c539a70a8e683ea7edd8871d7f8
+concepts:
+- kt:structured-problem-solving
+- kt:issue-tree
+difficulty: 2
+created: '2026-11-19'
+status: active

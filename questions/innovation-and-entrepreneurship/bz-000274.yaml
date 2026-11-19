@@ -1,0 +1,19 @@
+id: bz-000274
+area: innovation-and-entrepreneurship
+kind: application
+topic: Exploration and Exploitation in Organizational Learning
+topic_type: Work
+true_statement: March argued that when a firm competes to finish first among many rivals, the variance of its performance matters as much as the mean, so reliable knowledge can cut its chance of winning.
+false_statement: March argued that when a firm competes to finish first among many rivals, the mean of its performance matters far more than the variance, so reliable knowledge raises its chance of winning.
+explanation: With enough competitors, only an unusually high draw wins, so the mean becomes almost irrelevant. Knowledge makes results more reliable, lowering the odds of finishing last but also of finishing first, which argues for several independent projects when the prize goes only to the leader.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/exploration-and-exploitation-in-organizational-learning-1991.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 9c269242d2028cd6c13a95a14fe5b2f98bbd0686
+concepts:
+- kt:exploration-and-exploitation-in-organizational-learning-1991
+- kt:james-g-march
+difficulty: 3
+created: '2026-11-19'
+status: active

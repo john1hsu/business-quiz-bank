@@ -1,0 +1,19 @@
+id: bz-000247
+area: strategy
+kind: evidence
+topic: BCG Growth-Share Matrix
+topic_type: Framework
+true_statement: In Armstrong and Brodie's 1994 experiment, subjects shown the BCG matrix were more likely than those shown net present value to pick a money-losing star over a profitable dog.
+false_statement: In Armstrong and Brodie's 1994 experiment, subjects shown net present value were more likely than those shown the BCG matrix to pick a money-losing star over a profitable dog.
+explanation: About 63.5% of matrix-trained subjects chose the unprofitable star, versus 37.1% of the NPV group and 44.7% of controls. The labels pulled people away from the cash-flow answer, so the authors advised against matrix methods.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/bcg-growth-share-matrix.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d43da9d2ffcadbf9011d8db65ad4ba86de84da9e
+concepts:
+- kt:bcg-growth-share-matrix
+- kt:net-present-value
+difficulty: 3
+created: '2026-11-19'
+status: active

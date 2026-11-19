@@ -1,0 +1,20 @@
+id: bz-000273
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: Exploration and Exploitation in Organizational Learning
+topic_type: Work
+true_statement: In March's mutual-learning model, slow socialization of individuals combined with fast learning by the organizational code yields the highest equilibrium knowledge.
+false_statement: In March's mutual-learning model, fast socialization of individuals combined with slow learning by the organizational code yields the highest equilibrium knowledge.
+explanation: Slow learners keep diverse beliefs alive long enough for the code to learn from those that fit reality better. Rapid socialization erases that diversity, so the organization stops improving.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/exploration-and-exploitation-in-organizational-learning-1991.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 9c269242d2028cd6c13a95a14fe5b2f98bbd0686
+concepts:
+- kt:exploration-and-exploitation-in-organizational-learning-1991
+- kt:organizational-learning
+- kt:james-g-march
+difficulty: 3
+created: '2026-11-19'
+status: active

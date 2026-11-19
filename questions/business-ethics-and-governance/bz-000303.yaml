@@ -1,0 +1,19 @@
+id: bz-000303
+area: business-ethics-and-governance
+kind: application
+topic: Proxy Advisory Firm
+topic_type: Concept
+true_statement: In July 2022 the SEC rescinded the advance-access conditions on proxy advisors' exemptions but kept their conflict-disclosure requirement and anti-fraud liability.
+false_statement: In July 2022 the SEC rescinded the conflict-disclosure requirement on proxy advisors' exemptions but kept the advance-access conditions and anti-fraud liability.
+explanation: The 2020 rules had required advisors to disclose conflicts and give companies early access to their advice. The 2022 rollback dropped only the company-access part, showing how US policy has swung back and forth.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/proxy-advisory-firm.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 4bb8d3e37370e1ff09bdd56d7ecd7bf615f1aa11
+concepts:
+- kt:proxy-advisory-firm
+- kt:securities-exchange-act-of-1934
+difficulty: 3
+created: '2026-11-19'
+status: active

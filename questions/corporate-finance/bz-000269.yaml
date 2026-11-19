@@ -1,0 +1,22 @@
+id: bz-000269
+area: corporate-finance
+kind: figure
+topic: 'Corporate Finance: Investment, Financing and Payout Decisions'
+topic_type: Field
+true_statement: In FY2025 Apple spent about $89.3 billion on share repurchases and $15.4 billion on dividends while carrying about $91.3 billion of term debt.
+false_statement: In FY2025 Apple spent about $15.4 billion on share repurchases and $89.3 billion on dividends while carrying about $91.3 billion of term debt.
+explanation: Apple returned far more through buybacks than dividends, and it did so while also borrowing. Funding partly with debt while paying out large sums is a joint capital-structure and payout decision.
+as_of: FY2025
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/corporate-finance.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d5bec2983705534a6d8382d731802aa605dd4d9a
+concepts:
+- kt:corporate-finance
+- kt:apple-inc
+- kt:dividend-policy
+- kt:capital-structure
+difficulty: 2
+created: '2026-11-19'
+status: active

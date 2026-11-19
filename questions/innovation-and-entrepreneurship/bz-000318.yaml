@@ -1,0 +1,18 @@
+id: bz-000318
+area: innovation-and-entrepreneurship
+kind: application
+topic: 'Innovation Management: Organizing the Innovation Process'
+topic_type: Field
+true_statement: ISO 56001, published in September 2024, is the first requirements standard for an innovation management system and applies to organizations of any size or sector.
+false_statement: ISO 56001, published in September 2024, is the first requirements standard for an innovation management system and applies only to large manufacturers with formal R&D units.
+explanation: The standard treats innovation as an organization-wide system rather than an R&D activity. It uses the same harmonized structure as other ISO management-system standards, so it can sit alongside quality or environmental systems.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovation-management.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 695e1f3c1d3aab528062e2bd515ebbc9225833e9
+concepts:
+- kt:innovation-management
+difficulty: 2
+created: '2026-11-19'
+status: active

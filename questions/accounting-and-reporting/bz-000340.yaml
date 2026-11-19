@@ -1,0 +1,21 @@
+id: bz-000340
+area: accounting-and-reporting
+kind: origin
+topic: 'Activity-Based Costing: Assigning Overhead by Activities'
+topic_type: Practice
+true_statement: 'Robin Cooper and Robert Kaplan crystallised the case for activity-based costing in a 1988 HBR article, Measure Costs Right: Make the Right Decisions.'
+false_statement: 'Robin Cooper and Robert Kaplan crystallised the case for activity-based costing in a 1998 HBR article, Measure Costs Right: Make the Right Decisions.'
+explanation: By the late 1980s automation had shrunk labour and swollen overhead, so labour-hour allocation distorted product costs. Cooper and Kaplan argued ABC could run alongside the official cost system rather than replace it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/activity-based-costing.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: f3ef9e20f68e427ddf5171d9081935828ea203ba
+concepts:
+- kt:activity-based-costing
+- kt:robin-cooper
+- kt:robert-s-kaplan
+- kt:measure-costs-right-make-the-right-decisions-1988
+difficulty: 1
+created: '2026-11-19'
+status: active

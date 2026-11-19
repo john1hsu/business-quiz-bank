@@ -1,0 +1,20 @@
+id: bz-000320
+area: managerial-economics
+kind: mechanism
+topic: 'Information Asymmetry: Unequal Knowledge Between Transacting Parties'
+topic_type: Theory
+true_statement: 'An insurer offering lower premiums in exchange for higher deductibles is screening: the uninformed party designs a menu that makes customers reveal their risk.'
+false_statement: 'An insurer offering lower premiums in exchange for higher deductibles is signaling: the informed party takes a costly action that reveals its own risk.'
+explanation: In screening the uninformed side moves first, and low-risk customers self-select into high deductibles. Signaling runs the other way, as when a worker acquires costly education to show productivity.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/information-asymmetry.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: fc8bed2a91cb3fe739b115fdd38bc7ad9ac16280
+concepts:
+- kt:information-asymmetry
+- kt:screening-theory
+- kt:signaling-theory
+difficulty: 2
+created: '2026-11-19'
+status: active

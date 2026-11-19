@@ -1,0 +1,19 @@
+id: bz-000293
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Pyramid Principle: Top-Down Structured Communication'
+topic_type: Framework
+true_statement: One of Minto's three pyramid rules is that an idea at any level must summarize the ideas grouped below it.
+false_statement: One of Minto's three pyramid rules is that an idea at any level must introduce a new point not covered by the ideas grouped below it.
+explanation: The other two rules are that grouped ideas must be of the same logical kind and follow a logical order. Summarizing upward is what lets a reader stop at the top and still have the main message.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/pyramid-principle.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e20ddd7dd6ce0f3c8da96a40540e6bc2b90997a3
+concepts:
+- kt:pyramid-principle
+- kt:the-pyramid-principle-logic-in-writing-and-thinking
+difficulty: 2
+created: '2026-11-19'
+status: active

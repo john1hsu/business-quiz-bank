@@ -1,0 +1,19 @@
+id: bz-000297
+area: leadership-and-management
+kind: evidence
+topic: 'Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement'
+topic_type: Practice
+true_statement: In a 1970 HBR article, Harry Levinson argued that MBO wrongly assumes employees' personal aims already match corporate goals, and proposed starting from the employee's own objectives.
+false_statement: In a 1970 HBR article, Harry Levinson argued that MBO wrongly assumes corporate goals can be broken into individual targets, and proposed replacing it with team-level quotas.
+explanation: 'Levinson''s critique was psychological: MBO leaves individual needs out of performance measurement and piles pressure on an assumed alignment. He later added that its focus on quantifiable results crowds out qualitative work.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/management-by-objectives.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 73ed6cb390e1b1a47562fc9527cfe32e6c79e2a1
+concepts:
+- kt:management-by-objectives
+- kt:performance-management
+difficulty: 3
+created: '2026-11-19'
+status: active

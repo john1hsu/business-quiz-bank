@@ -1,0 +1,20 @@
+id: bz-000284
+area: operations-and-supply-chain
+kind: origin
+topic: Taiichi Ohno
+topic_type: Person
+true_statement: Ohno never used the word lean; John Krafcik coined it in 1988, and later writers generalized the Toyota Production System under that name.
+false_statement: Ohno coined the word lean in his 1978 book Toyota Production System, and later writers generalized the system under that name.
+explanation: The label came from Krafcik, not from Toyota. Scholars such as Michael Cusumano warn that generalizing TPS into lean can drift from Ohno's intent, for example by pushing zero buffer inventory into volatile settings.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/taiichi-ohno.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 1fb56aade879fafb4036814bbd5b775f58ab4030
+concepts:
+- kt:taiichi-ohno
+- kt:lean-manufacturing
+- kt:toyota-production-system
+difficulty: 2
+created: '2026-11-19'
+status: active

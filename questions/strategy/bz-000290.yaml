@@ -1,0 +1,19 @@
+id: bz-000290
+area: strategy
+kind: definition
+topic: Consumer Switching Costs
+topic_type: Concept
+true_statement: Farrell and Klemperer treat contractual switching costs, such as frequent-flyer programs, as created by firms rather than as real social costs.
+false_statement: Farrell and Klemperer treat learning switching costs, such as mastering new software, as created by firms rather than as real social costs.
+explanation: A loyalty rebate is a transfer a firm engineers to discourage switching; society would lose nothing if it vanished. Learning costs, by contrast, are real resources spent and are paid once.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/switching-costs.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e66e3cf035eeaed1faad99ebdb5eb7c954074407
+concepts:
+- kt:switching-costs
+- kt:industrial-organization
+difficulty: 3
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000329
+area: organizational-behavior
+kind: mechanism
+topic: 'Goal-Setting Theory: Specific, Difficult Goals and Performance'
+topic_type: Theory
+true_statement: Latham's field work found that when goal difficulty was held constant, assigned goals performed as well as participatively set ones, especially when a rationale was given.
+false_statement: Latham's field work found that even when goal difficulty was held constant, participatively set goals clearly outperformed assigned ones, especially when a rationale was given.
+explanation: Participation tended to produce higher goals, and that is where its advantage came from. Once difficulty was equal, the source of the goal mattered little, so explaining the reason behind an assigned goal can work just as well.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/goal-setting-theory.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 4e1bb22faa88401187f54fc823ca206451221855
+concepts:
+- kt:goal-setting-theory
+- kt:gary-latham
+difficulty: 2
+created: '2026-11-19'
+status: active

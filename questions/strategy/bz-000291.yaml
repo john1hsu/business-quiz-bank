@@ -1,0 +1,19 @@
+id: bz-000291
+area: strategy
+kind: application
+topic: Consumer Switching Costs
+topic_type: Concept
+true_statement: The EU Data Act lets cloud providers recover switching and data-egress costs only during a transition ending on 12 January 2027, after which such charges must go.
+false_statement: The EU Data Act lets cloud providers recover switching and data-egress costs indefinitely, provided the charges do not exceed the provider's actual cost.
+explanation: Regulators cut switching costs when lock-in limits competition. The Act, applying since September 2025, phases out egress fees entirely, much as U.S. number portability did for mobile subscribers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/switching-costs.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e66e3cf035eeaed1faad99ebdb5eb7c954074407
+concepts:
+- kt:switching-costs
+- kt:eu-data-act
+difficulty: 2
+created: '2026-11-19'
+status: active

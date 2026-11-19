@@ -1,0 +1,20 @@
+id: bz-000263
+area: business-history-and-cases
+kind: figure
+topic: Netflix's Shift from DVD Rental to Streaming
+topic_type: Case
+true_statement: Netflix's fixed-fee content licensing commitments grew from about $3.9 billion at the end of 2011 to $21.7 billion at the end of 2023.
+false_statement: Netflix's fixed-fee content licensing commitments shrank from about $21.7 billion at the end of 2011 to $3.9 billion at the end of 2023.
+explanation: Streaming replaced owned DVD inventory with multi-year licensing obligations, so the model's payoff became exposed to content costs the disc business never carried. The rising commitments are the economic critique of the shift.
+as_of: '2023'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/netflix-business-model-shift.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: da9731002189b7b241ae07422e8b31133a46fabc
+concepts:
+- kt:netflix-business-model-shift
+- kt:business-model-innovation
+difficulty: 3
+created: '2026-11-19'
+status: active

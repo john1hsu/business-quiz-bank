@@ -1,0 +1,19 @@
+id: bz-000317
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: 'Innovation Management: Organizing the Innovation Process'
+topic_type: Field
+true_statement: In Gary Pisano's typology, disruptive innovation needs a new business model but little new technology, while radical innovation needs new technology within the same model.
+false_statement: In Gary Pisano's typology, radical innovation needs a new business model but little new technology, while disruptive innovation needs new technology within the same model.
+explanation: Pisano sorts projects on two axes, technology and business model. Routine needs neither and architectural needs both; he argues most firms should hold a deliberate portfolio, since routine innovation can be very profitable.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovation-management.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 695e1f3c1d3aab528062e2bd515ebbc9225833e9
+concepts:
+- kt:innovation-management
+- kt:disruptive-innovation
+difficulty: 2
+created: '2026-11-19'
+status: active

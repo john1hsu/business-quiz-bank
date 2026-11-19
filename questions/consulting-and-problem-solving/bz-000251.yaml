@@ -1,0 +1,20 @@
+id: bz-000251
+area: consulting-and-problem-solving
+kind: evidence
+topic: Nominal Group Technique
+topic_type: Practice
+true_statement: A 1978 experiment on estimation tasks found nominal groups less accurate than Delphi groups, even though NGT members rated their process the most satisfying.
+false_statement: A 1978 experiment on estimation tasks found nominal groups more accurate than Delphi groups, even though NGT members rated their process the least satisfying.
+explanation: Confidence and satisfaction rose without a gain in accuracy, which the authors read as a hint of groupthink-like effects. NGT's strength in experiments has been idea generation, not judgement accuracy.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/nominal-group-technique.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d0a4ab862f045783ffaaff83d44ecdf748fbb049
+concepts:
+- kt:nominal-group-technique
+- kt:delphi-method
+- kt:groupthink
+difficulty: 3
+created: '2026-11-19'
+status: active

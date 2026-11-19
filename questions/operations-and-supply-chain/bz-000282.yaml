@@ -1,0 +1,20 @@
+id: bz-000282
+area: operations-and-supply-chain
+kind: mechanism
+topic: Taiichi Ohno
+topic_type: Person
+true_statement: Jidoka, one of the two pillars of the Toyota Production System, means machines stop and signal when they detect a defect.
+false_statement: Just-in-time, one of the two pillars of the Toyota Production System, means machines stop and signal when they detect a defect.
+explanation: Jidoka, automation with a human touch, keeps defects from flowing downstream. Just-in-time, the other pillar, is about producing only what is needed when it is needed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/taiichi-ohno.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 1fb56aade879fafb4036814bbd5b775f58ab4030
+concepts:
+- kt:taiichi-ohno
+- kt:toyota-production-system
+- kt:just-in-time
+difficulty: 1
+created: '2026-11-19'
+status: active

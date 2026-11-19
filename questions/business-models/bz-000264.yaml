@@ -1,0 +1,19 @@
+id: bz-000264
+area: business-models
+kind: origin
+topic: Membership Warehouse Club
+topic_type: BusinessModel
+true_statement: Sol Price opened the first Price Club in San Diego in 1976, initially selling only to small businesses holding business licences or resale permits.
+false_statement: Sol Price opened the first Price Club in San Diego in 1976, initially selling only to government employees before admitting small businesses.
+explanation: Price Club started with business members and widened eligibility over time to groups such as government and credit-union employees, then to ordinary consumers. The government-employees-only format was Price's earlier venture, Fed-Mart.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/membership-warehouse-club.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 94e8b35591820e7f9b224784840fe80590901c63
+concepts:
+- kt:membership-warehouse-club
+- kt:sol-price
+difficulty: 1
+created: '2026-11-19'
+status: active

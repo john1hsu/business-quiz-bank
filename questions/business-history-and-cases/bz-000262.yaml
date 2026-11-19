@@ -1,0 +1,19 @@
+id: bz-000262
+area: business-history-and-cases
+kind: application
+topic: Netflix's Shift from DVD Rental to Streaming
+topic_type: Case
+true_statement: After Netflix split DVD and streaming into separate plans in 2011, it announced a separate DVD brand, Qwikster, then withdrew it after a very negative reaction and significant cancellations.
+false_statement: After Netflix split DVD and streaming into separate plans in 2011, it launched a separate DVD brand, Qwikster, and kept it running until it stopped mailing discs in 2023.
+explanation: The price rise and the brand split landed in the same quarter, and researchers put the subscriber loss above 800,000. Netflix instead let DVD shrink inside a separate segment until it ended mailing discs in September 2023.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/netflix-business-model-shift.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: da9731002189b7b241ae07422e8b31133a46fabc
+concepts:
+- kt:netflix-business-model-shift
+- kt:cannibalization
+difficulty: 2
+created: '2026-11-19'
+status: active

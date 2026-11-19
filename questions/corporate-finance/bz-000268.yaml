@@ -1,0 +1,19 @@
+id: bz-000268
+area: corporate-finance
+kind: evidence
+topic: 'Corporate Finance: Investment, Financing and Payout Decisions'
+topic_type: Field
+true_statement: Graham and Harvey's 2001 CFO survey found that smaller firms lean more on the payback period, while large firms rely heavily on present-value methods.
+false_statement: Graham and Harvey's 2001 CFO survey found that large firms lean more on the payback period, while smaller firms rely heavily on present-value methods.
+explanation: Payback ignores cash flows after the cutoff and the time value of money, yet it is simple, so smaller firms with less finance staff used it more. Large firms were closer to textbook practice, though many still used one company-wide discount rate.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/corporate-finance.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d5bec2983705534a6d8382d731802aa605dd4d9a
+concepts:
+- kt:corporate-finance
+- kt:capital-budgeting
+difficulty: 3
+created: '2026-11-19'
+status: active

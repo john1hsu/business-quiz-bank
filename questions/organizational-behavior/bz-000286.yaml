@@ -1,0 +1,18 @@
+id: bz-000286
+area: organizational-behavior
+kind: origin
+topic: Devil's Advocate Method
+topic_type: Practice
+true_statement: The devil's advocate was the popular name for the Catholic Church's Promoter of the Faith, an office Pope Sixtus V formally established in 1587 to argue against canonization candidates.
+false_statement: The devil's advocate was the popular name for the Catholic Church's Promoter of the Faith, an office Pope John Paul II formally established in 1983 to argue against canonization candidates.
+explanation: Sixtus V created the office in the 16th century; John Paul II's 1983 reform of canonization procedure is when its influence faded. Management researchers later borrowed the idea of an assigned critic for strategic planning.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/devils-advocacy.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 72fb342086cca149ae028b153fe06fc569b64020
+concepts:
+- kt:devils-advocacy
+difficulty: 1
+created: '2026-11-19'
+status: active

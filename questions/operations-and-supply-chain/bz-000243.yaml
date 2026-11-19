@@ -1,0 +1,19 @@
+id: bz-000243
+area: operations-and-supply-chain
+kind: origin
+topic: Bullwhip Effect in Supply Chains
+topic_type: Concept
+true_statement: The name bullwhip effect came from Procter & Gamble logistics executives who saw order swings for Pampers diapers grow at each step up the chain.
+false_statement: The name bullwhip effect came from Hewlett-Packard logistics executives who saw order swings for Pampers diapers grow at each step up the chain.
+explanation: P&G noticed that modest retail swings in Pampers sales became bigger swings in distributor orders and bigger still in P&G's own orders to suppliers. HP saw a similar cascade with printers, but the name came from P&G.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/bullwhip-effect.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 84186ab7ecb8ca0d690f5c837223e8091839c0d1
+concepts:
+- kt:bullwhip-effect
+- kt:procter-and-gamble
+difficulty: 1
+created: '2026-11-19'
+status: active

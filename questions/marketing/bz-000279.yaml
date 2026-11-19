@@ -1,0 +1,19 @@
+id: bz-000279
+area: marketing
+kind: mechanism
+topic: Gaps Model of Service Quality
+topic_type: Framework
+true_statement: In the gaps model, a hotel rule that phones be answered quickly is too vague and creates a standards gap; staff ignoring a clear two-ring rule create a delivery gap.
+false_statement: In the gaps model, a hotel rule that phones be answered quickly is too vague and creates a delivery gap; staff ignoring a clear two-ring rule create a standards gap.
+explanation: The standards gap (Gap 2) lies between what management knows customers want and the specifications it sets. The delivery gap (Gap 3) opens when a clear specification exists but service falls short of it, often from weak training or understaffing.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/gaps-model-of-service-quality.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 96b078ab38ad2d1246fcd915f8ebddc9392ab65b
+concepts:
+- kt:gaps-model-of-service-quality
+- kt:service-quality
+difficulty: 2
+created: '2026-11-19'
+status: active

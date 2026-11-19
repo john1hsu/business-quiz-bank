@@ -1,0 +1,20 @@
+id: bz-000331
+area: strategy
+kind: origin
+topic: 'Porter''s Five Forces: Competitive Forces That Shape Industry Profitability'
+topic_type: Framework
+true_statement: Michael Porter first set out the five forces in a 1979 Harvard Business Review article, How Competitive Forces Shape Strategy, before developing them in Competitive Strategy (1980).
+false_statement: Michael Porter first set out the five forces in his 1980 book Competitive Strategy, before summarizing them in a 1985 Harvard Business Review article, How Competitive Forces Shape Strategy.
+explanation: The HBR article came first, in 1979; the 1980 book paired the forces with the generic strategies of cost leadership, differentiation and focus. Porter revisited the framework in HBR in 2008.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/porters-five-forces.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 8953be8aa8d60467c6360fbd8743b4f395a14ea0
+concepts:
+- kt:porters-five-forces
+- kt:michael-porter
+- kt:how-competitive-forces-shape-strategy-1979
+difficulty: 1
+created: '2026-11-19'
+status: active

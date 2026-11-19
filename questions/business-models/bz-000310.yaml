@@ -1,0 +1,19 @@
+id: bz-000310
+area: business-models
+kind: definition
+topic: 'Business Model: How a Firm Creates, Delivers and Captures Value'
+topic_type: Concept
+true_statement: Casadesus-Masanell and Ricart define strategy as a contingent plan for which business model to use, and the business model as the reflection of the firm's realised strategy.
+false_statement: Casadesus-Masanell and Ricart define the business model as a contingent plan for which strategy to use, and strategy as the reflection of the firm's realised business model.
+explanation: In their view every organization has a business model, but not every one has a strategy. Tactics are the residual choices the business model leaves open.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: a469abded5137cf79c04a57d24a5e310d25e6272
+concepts:
+- kt:business-model
+- kt:competitive-strategy
+difficulty: 2
+created: '2026-11-19'
+status: active

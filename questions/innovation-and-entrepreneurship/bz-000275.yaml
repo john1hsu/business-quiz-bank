@@ -1,0 +1,19 @@
+id: bz-000275
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: Exploration and Exploitation in Organizational Learning
+topic_type: Work
+true_statement: Chanda, Ray and McKelvey's 2018 replication found that below a critical level of a group's collective human capital, heavy exploitation produces more organizational knowledge.
+false_statement: Chanda, Ray and McKelvey's 2018 replication found that below a critical level of a group's collective human capital, heavy exploration produces more organizational knowledge.
+explanation: Their rerun of March's simulation showed the payoff to exploring versus exploiting depends on what the group already knows. They also found undocumented features in March's original code that conflicted with his stated assumptions.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/exploration-and-exploitation-in-organizational-learning-1991.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 9c269242d2028cd6c13a95a14fe5b2f98bbd0686
+concepts:
+- kt:exploration-and-exploitation-in-organizational-learning-1991
+- kt:organizational-learning
+difficulty: 3
+created: '2026-11-19'
+status: active

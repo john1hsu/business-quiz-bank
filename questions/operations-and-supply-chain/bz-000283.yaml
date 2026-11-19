@@ -1,0 +1,19 @@
+id: bz-000283
+area: operations-and-supply-chain
+kind: definition
+topic: Taiichi Ohno
+topic_type: Person
+true_statement: 'Ohno distinguished three forms of loss: muda is waste, muri is overburden and mura is unevenness.'
+false_statement: 'Ohno distinguished three forms of loss: muda is waste, muri is unevenness and mura is overburden.'
+explanation: Muda covers activities that add no value, such as the seven wastes. Muri is straining people or machines beyond capacity, and mura is irregular flow; uneven loads tend to create both overburden and waste.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/taiichi-ohno.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 1fb56aade879fafb4036814bbd5b775f58ab4030
+concepts:
+- kt:taiichi-ohno
+- kt:seven-wastes
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000312
+area: business-models
+kind: application
+topic: 'Business Model: How a Firm Creates, Delivers and Captures Value'
+topic_type: Concept
+true_statement: Hilti moved from selling power tools to leasing managed tool fleets for a monthly fee, which required a new profit formula and much longer sales cycles.
+false_statement: Hilti moved from leasing managed tool fleets to selling power tools outright, which required a new profit formula and much shorter sales cycles.
+explanation: 'The shift illustrates that business model elements are interdependent: changing how value is captured forced changes in resources, processes and how salespeople worked. Sales staff had to be retrained for the new model.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: a469abded5137cf79c04a57d24a5e310d25e6272
+concepts:
+- kt:business-model
+- kt:business-model-innovation
+difficulty: 2
+created: '2026-11-19'
+status: active

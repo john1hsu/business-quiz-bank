@@ -1,0 +1,20 @@
+id: bz-000287
+area: organizational-behavior
+kind: evidence
+topic: Devil's Advocate Method
+topic_type: Practice
+true_statement: A 1986 laboratory study found devil's advocacy and dialectical inquiry groups made better strategic recommendations than consensus groups, but consensus groups were more satisfied.
+false_statement: A 1986 laboratory study found consensus groups made better strategic recommendations than devil's advocacy and dialectical inquiry groups, but were less satisfied.
+explanation: 'Structured conflict raised decision quality and scrutiny of assumptions at a social cost: consensus groups reported more satisfaction and more acceptance of the final decision. Managers using the method have to manage that trade-off.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/devils-advocacy.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 72fb342086cca149ae028b153fe06fc569b64020
+concepts:
+- kt:devils-advocacy
+- kt:dialectical-inquiry
+- kt:strategic-decision-making
+difficulty: 2
+created: '2026-11-19'
+status: active

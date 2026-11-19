@@ -1,0 +1,19 @@
+id: bz-000277
+area: managerial-economics
+kind: mechanism
+topic: Bengt Holmström
+topic_type: Person
+true_statement: Holmström's career-concerns model implies older workers respond less to implicit incentives, because they have fewer future career payoffs from a better reputation.
+false_statement: Holmström's career-concerns model implies younger workers respond less to implicit incentives, because they have fewer future career payoffs from a better reputation.
+explanation: In the model, the market infers ability from performance and sets future wages accordingly, so effort today buys a better reputation tomorrow. The closer someone is to retirement, the less that future is worth, so the implicit motive weakens.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/bengt-holmstrom.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d50567eab4cabb19b5b83ab0ed36ff149303ba66
+concepts:
+- kt:bengt-holmstrom
+- kt:career-concerns
+difficulty: 2
+created: '2026-11-19'
+status: active

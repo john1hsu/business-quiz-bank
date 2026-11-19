@@ -1,0 +1,19 @@
+id: bz-000322
+area: marketing
+kind: definition
+topic: 'Brand Equity: The Marketing Value of a Brand Name'
+topic_type: Concept
+true_statement: Customer-based brand equity is the differential effect brand knowledge has on how consumers respond to a brand's marketing, while the financial view measures incremental cash flow.
+false_statement: Customer-based brand equity is the incremental cash flow branded products earn over unbranded ones, while the financial view measures consumers' differential response to marketing.
+explanation: 'Keller''s customer-based view looks inside buyers'' heads: a brand has positive equity when people react better to its price or advertising than to an unnamed offer. The financial view, used by Simon and Sullivan, isolates the extra cash the brand earns.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/brand-equity.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 815181bf9ebe2e0550ce04f7ff9ce294b5938c77
+concepts:
+- kt:brand-equity
+- kt:kevin-lane-keller
+difficulty: 2
+created: '2026-11-19'
+status: active

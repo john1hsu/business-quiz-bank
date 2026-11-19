@@ -1,0 +1,19 @@
+id: bz-000337
+area: leadership-and-management
+kind: definition
+topic: 'Management Theory: From Classical Administration to Systems and Contingency Thinking'
+topic_type: Field
+true_statement: Max Weber's ideal type of bureaucracy rests on legal authority, with authority vested in the office rather than in the person who holds it.
+false_statement: Max Weber's ideal type of bureaucracy rests on charismatic authority, with authority vested in the person rather than in the office they hold.
+explanation: Weber's bureaucracy combines specialized roles, merit-based hiring, a clear hierarchy and written rules, so authority survives a change of officeholder. Merton later warned that such rules can become ends in themselves.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/management-theory.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 7ca13ebe7aed2af8f4e7cdda9cee2fd8b6630542
+concepts:
+- kt:management-theory
+- kt:organization-theory
+difficulty: 1
+created: '2026-11-19'
+status: active

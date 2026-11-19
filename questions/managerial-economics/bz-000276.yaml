@@ -1,0 +1,20 @@
+id: bz-000276
+area: managerial-economics
+kind: origin
+topic: Bengt Holmström
+topic_type: Person
+true_statement: Bengt Holmström shared the 2016 economics Nobel with Oliver Hart for their contributions to contract theory.
+false_statement: Bengt Holmström shared the 2016 economics Nobel with Jean Tirole for their contributions to contract theory.
+explanation: Holmström and Hart were honored together for work on how contracts can be designed when effort and outcomes are hard to observe. Tirole was Holmström's co-author on liquidity, but he won his own Nobel separately.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/bengt-holmstrom.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d50567eab4cabb19b5b83ab0ed36ff149303ba66
+concepts:
+- kt:bengt-holmstrom
+- kt:oliver-hart
+- kt:contract-theory
+difficulty: 1
+created: '2026-11-19'
+status: active

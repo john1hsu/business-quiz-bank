@@ -1,0 +1,19 @@
+id: bz-000260
+area: business-ethics-and-governance
+kind: application
+topic: Board Audit Committee
+topic_type: Concept
+true_statement: At WorldCom, internal audit's capital-expenditure review uncovered the improper capitalization in June 2002 and took it to the audit committee, which pressed for prompt action.
+false_statement: At WorldCom, the external auditor's capital-expenditure review uncovered the improper capitalization in June 2002 and took it to the audit committee, which pressed for prompt action.
+explanation: 'The case shows both failure and value: the committee met only a few hours a year and missed the fraud, yet it acted once internal audit brought the evidence. Arthur Andersen, the outside auditor, had not caught it.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/audit-committee.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 404ef48f3fe726f2a93ecbf1f6c5d7dcfecd8e4d
+concepts:
+- kt:audit-committee
+- kt:worldcom-accounting-scandal
+difficulty: 2
+created: '2026-11-19'
+status: active

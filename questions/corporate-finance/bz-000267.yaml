@@ -1,0 +1,19 @@
+id: bz-000267
+area: corporate-finance
+kind: origin
+topic: 'Corporate Finance: Investment, Financing and Payout Decisions'
+topic_type: Field
+true_statement: Modigliani and Miller argued that once asset returns are uncertain, profit maximization loses operational meaning, so they proposed market-value maximization as the criterion.
+false_statement: Modigliani and Miller argued that once asset returns are uncertain, market-value maximization loses operational meaning, so they proposed profit maximization as the criterion.
+explanation: Under uncertainty there is no single profit figure to maximize, but a market value prices that uncertainty. Their 1958 article made value maximization the workable objective that modern corporate finance still uses.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/corporate-finance.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d5bec2983705534a6d8382d731802aa605dd4d9a
+concepts:
+- kt:corporate-finance
+- kt:modigliani-miller-theorem
+difficulty: 2
+created: '2026-11-19'
+status: active

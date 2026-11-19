@@ -1,0 +1,19 @@
+id: bz-000249
+area: consulting-and-problem-solving
+kind: definition
+topic: Nominal Group Technique
+topic_type: Practice
+true_statement: 'The nominal group technique is so named because members are a group in name only while generating ideas: they sit together but write silently before any discussion.'
+false_statement: 'The nominal group technique is so named because members are a group in name only while generating ideas: they work remotely and never meet face to face.'
+explanation: NGT keeps people in the same room but has them write ideas independently first, which protects idea volume from early group pressure. Working remotely over several rounds describes the Delphi method instead.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/nominal-group-technique.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d0a4ab862f045783ffaaff83d44ecdf748fbb049
+concepts:
+- kt:nominal-group-technique
+- kt:delphi-method
+difficulty: 1
+created: '2026-11-19'
+status: active

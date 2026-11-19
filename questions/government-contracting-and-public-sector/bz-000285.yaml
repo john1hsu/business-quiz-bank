@@ -1,0 +1,20 @@
+id: bz-000285
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: Truth in Negotiations Act
+topic_type: Regulation
+true_statement: Under TINA's defective-pricing rules, liability for overpricing stays with the contractor even if the contracting officer should have caught the error in its data.
+false_statement: Under TINA's defective-pricing rules, liability for overpricing shifts to the government if the contracting officer should have caught the error in its data.
+explanation: The FAR bars that defense, along with claims of sole-source status, superior bargaining power or an unsigned certificate. The burden of accurate, complete and current data stays with the seller, and the government can recover the overpayment plus interest.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/truth-in-negotiations-act.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: f8bafa52ee9d6579c53648bdc5eeaf66f31b808a
+concepts:
+- kt:truth-in-negotiations-act
+- kt:federal-acquisition-regulation
+- kt:contracting-officer
+difficulty: 2
+created: '2026-11-19'
+status: active

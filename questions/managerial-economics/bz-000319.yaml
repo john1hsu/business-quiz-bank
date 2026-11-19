@@ -1,0 +1,21 @@
+id: bz-000319
+area: managerial-economics
+kind: origin
+topic: 'Information Asymmetry: Unequal Knowledge Between Transacting Parties'
+topic_type: Theory
+true_statement: Akerlof's 1970 lemons paper showed that when only sellers know a used car's quality, buyers pay for average quality, so owners of good cars withdraw and bad cars drive out good.
+false_statement: Akerlof's 1970 lemons paper showed that when only buyers know a used car's quality, sellers price for average quality, so owners of bad cars withdraw and good cars drive out bad.
+explanation: Akerlof called this a modified Gresham's law. With many quality grades the exit of better cars can cascade until no trade happens, even though trade would occur with symmetric information.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/information-asymmetry.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: fc8bed2a91cb3fe739b115fdd38bc7ad9ac16280
+concepts:
+- kt:information-asymmetry
+- kt:george-akerlof
+- kt:the-market-for-lemons-1970
+- kt:adverse-selection
+difficulty: 1
+created: '2026-11-19'
+status: active

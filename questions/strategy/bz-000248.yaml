@@ -1,0 +1,19 @@
+id: bz-000248
+area: strategy
+kind: figure
+topic: BCG Growth-Share Matrix
+topic_type: Framework
+true_statement: BCG's 2014 reassessment found the average time a business spent in one matrix quadrant fell from about four years in 1992 to under two years in 2012.
+false_statement: BCG's 2014 reassessment found the average time a business spent in one matrix quadrant rose from under two years in 1992 to about four years in 2012.
+explanation: Businesses were moving between quadrants much faster, so BCG conceded relative share no longer reliably predicts lasting performance. It urged shorter review cycles and more, cheaper experiments among question marks.
+as_of: '2012'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/bcg-growth-share-matrix.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d43da9d2ffcadbf9011d8db65ad4ba86de84da9e
+concepts:
+- kt:bcg-growth-share-matrix
+difficulty: 2
+created: '2026-11-19'
+status: active

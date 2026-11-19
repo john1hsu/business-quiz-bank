@@ -1,0 +1,19 @@
+id: bz-000307
+area: corporate-finance
+kind: origin
+topic: Michael Jensen
+topic_type: Person
+true_statement: Applying his risk-adjusted alpha to 115 mutual funds over 1945-1964, Michael Jensen found they did not on average beat buy-and-hold, even before management expenses.
+false_statement: Applying his risk-adjusted alpha to 115 mutual funds over 1945-1964, Michael Jensen found they beat buy-and-hold on average, but not after management expenses.
+explanation: 'Jensen''s alpha builds on CAPM to measure return beyond what a portfolio''s risk would predict. Finding no edge even before fees was a strong result: managers'' forecasting skill added nothing on average.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/michael-c-jensen.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 7531faf573ebbe5abf7a2172ea0dff714a283517
+concepts:
+- kt:michael-c-jensen
+- kt:jensens-alpha
+difficulty: 2
+created: '2026-11-19'
+status: active

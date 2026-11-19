@@ -1,0 +1,18 @@
+id: bz-000330
+area: organizational-behavior
+kind: evidence
+topic: 'Goal-Setting Theory: Specific, Difficult Goals and Performance'
+topic_type: Theory
+true_statement: On complex tasks where people lack the needed knowledge, a specific learning goal outperforms both a specific high performance goal and a do-your-best goal.
+false_statement: On complex tasks where people lack the needed knowledge, a specific high performance goal outperforms both a specific learning goal and a do-your-best goal.
+explanation: A performance goal pushes people to execute before they know how, which can backfire. A learning goal, such as finding a set number of strategies, directs effort to building the knowledge first, as a 2004 business-simulation study showed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/goal-setting-theory.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 4e1bb22faa88401187f54fc823ca206451221855
+concepts:
+- kt:goal-setting-theory
+difficulty: 3
+created: '2026-11-19'
+status: active

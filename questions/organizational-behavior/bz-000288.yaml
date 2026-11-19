@@ -1,0 +1,19 @@
+id: bz-000288
+area: organizational-behavior
+kind: evidence
+topic: Devil's Advocate Method
+topic_type: Practice
+true_statement: Nemeth, Rogers and Brown reported in 2001 that no role-played dissent generates as much divergent thinking as authentic dissent.
+false_statement: Nemeth, Rogers and Brown reported in 2001 that role-played devil's advocacy generates more divergent thinking than authentic dissent.
+explanation: Assigned critics are seen as playing a part, so their objections carry less weight than a colleague's real disagreement. That is why assigning a critic should complement, not replace, a climate where people voice their own concerns.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/devils-advocacy.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 72fb342086cca149ae028b153fe06fc569b64020
+concepts:
+- kt:devils-advocacy
+- kt:authentic-dissent
+difficulty: 3
+created: '2026-11-19'
+status: active

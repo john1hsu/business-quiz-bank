@@ -1,0 +1,19 @@
+id: bz-000280
+area: marketing
+kind: application
+topic: Gaps Model of Service Quality
+topic_type: Framework
+true_statement: A pizza chain promising 30-minute delivery without the operations to back it illustrates the gaps model's communication gap.
+false_statement: A pizza chain promising 30-minute delivery without the operations to back it illustrates the gaps model's listening gap.
+explanation: The communication gap (Gap 4) is between the service delivered and what external messages promised. The listening gap is about misreading what customers expect, which IKEA addressed with focus groups for a Chicago store.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/gaps-model-of-service-quality.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 96b078ab38ad2d1246fcd915f8ebddc9392ab65b
+concepts:
+- kt:gaps-model-of-service-quality
+- kt:services-marketing
+difficulty: 2
+created: '2026-11-19'
+status: active

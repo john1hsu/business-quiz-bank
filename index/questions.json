@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 242,
- "active": 242,
+ "count": 342,
+ "active": 342,
  "questions": [
   {
    "id": "bz-000001",
@@ -3928,6 +3928,1639 @@
    "difficulty": 2,
    "status": "active",
    "source": "https://john1hsu.github.io/business-knowledge-graph/articles/henri-fayol.html"
+  },
+  {
+   "id": "bz-000243",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Bullwhip Effect in Supply Chains",
+   "t": "The name bullwhip effect came from Procter & Gamble logistics executives who saw order swings for Pampers diapers grow at each step up the chain.",
+   "f": "The name bullwhip effect came from Hewlett-Packard logistics executives who saw order swings for Pampers diapers grow at each step up the chain.",
+   "x": "P&G noticed that modest retail swings in Pampers sales became bigger swings in distributor orders and bigger still in P&G's own orders to suppliers. HP saw a similar cascade with printers, but the name came from P&G.",
+   "concepts": [
+    "kt:bullwhip-effect",
+    "kt:procter-and-gamble"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bullwhip-effect.html"
+  },
+  {
+   "id": "bz-000244",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Bullwhip Effect in Supply Chains",
+   "t": "In the rationing game, buyers inflate orders when scarce supply is allocated in proportion to orders, so orders overstate true demand.",
+   "f": "In the rationing game, buyers shrink orders when scarce supply is allocated in proportion to orders, so orders understate true demand.",
+   "x": "If a supplier hands out a shortage pro rata to orders, each buyer orders more than it needs to secure its share, sending a false signal upstream. Allocating by past sales instead of current orders removes the incentive.",
+   "concepts": [
+    "kt:bullwhip-effect",
+    "kt:hau-l-lee"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bullwhip-effect.html"
+  },
+  {
+   "id": "bz-000245",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Bullwhip Effect in Supply Chains",
+   "t": "Cachon, Randall and Schmidt (2007) found that U.S. wholesale industries amplify volatility, while most retail and manufacturing industries do not.",
+   "f": "Cachon, Randall and Schmidt (2007) found that U.S. retail and manufacturing industries amplify volatility, while most wholesale industries do not.",
+   "x": "Their industry-level data complicated the textbook story: seasonality matters, since highly seasonal industries tend to smooth production rather than amplify demand. Aggregate data can hide amplification individual firms still feel.",
+   "concepts": [
+    "kt:bullwhip-effect"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bullwhip-effect.html"
+  },
+  {
+   "id": "bz-000246",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "BCG Growth-Share Matrix",
+   "t": "Bruce Henderson set out the logic of the growth-share matrix in a short 1970 essay, The Product Portfolio, and his core argument was about cash, not accounting profit.",
+   "f": "Bruce Henderson set out the logic of the growth-share matrix in a short 1970 essay, The Product Portfolio, and his core argument was about accounting profit, not cash.",
+   "x": "Henderson's point was that fast-growing products absorb cash while slow-growing ones should throw it off, so a firm must move cash between them. Profit on paper can coexist with a product that never generates cash, which he considered worthless.",
+   "concepts": [
+    "kt:bcg-growth-share-matrix",
+    "kt:bruce-henderson",
+    "kt:the-product-portfolio-1970"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bcg-growth-share-matrix.html"
+  },
+  {
+   "id": "bz-000247",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "BCG Growth-Share Matrix",
+   "t": "In Armstrong and Brodie's 1994 experiment, subjects shown the BCG matrix were more likely than those shown net present value to pick a money-losing star over a profitable dog.",
+   "f": "In Armstrong and Brodie's 1994 experiment, subjects shown net present value were more likely than those shown the BCG matrix to pick a money-losing star over a profitable dog.",
+   "x": "About 63.5% of matrix-trained subjects chose the unprofitable star, versus 37.1% of the NPV group and 44.7% of controls. The labels pulled people away from the cash-flow answer, so the authors advised against matrix methods.",
+   "concepts": [
+    "kt:bcg-growth-share-matrix",
+    "kt:net-present-value"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bcg-growth-share-matrix.html"
+  },
+  {
+   "id": "bz-000248",
+   "area": "strategy",
+   "kind": "figure",
+   "topic": "BCG Growth-Share Matrix",
+   "t": "BCG's 2014 reassessment found the average time a business spent in one matrix quadrant fell from about four years in 1992 to under two years in 2012.",
+   "f": "BCG's 2014 reassessment found the average time a business spent in one matrix quadrant rose from under two years in 1992 to about four years in 2012.",
+   "x": "Businesses were moving between quadrants much faster, so BCG conceded relative share no longer reliably predicts lasting performance. It urged shorter review cycles and more, cheaper experiments among question marks.",
+   "concepts": [
+    "kt:bcg-growth-share-matrix"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bcg-growth-share-matrix.html",
+   "asOf": "2012"
+  },
+  {
+   "id": "bz-000249",
+   "area": "consulting-and-problem-solving",
+   "kind": "definition",
+   "topic": "Nominal Group Technique",
+   "t": "The nominal group technique is so named because members are a group in name only while generating ideas: they sit together but write silently before any discussion.",
+   "f": "The nominal group technique is so named because members are a group in name only while generating ideas: they work remotely and never meet face to face.",
+   "x": "NGT keeps people in the same room but has them write ideas independently first, which protects idea volume from early group pressure. Working remotely over several rounds describes the Delphi method instead.",
+   "concepts": [
+    "kt:nominal-group-technique",
+    "kt:delphi-method"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/nominal-group-technique.html"
+  },
+  {
+   "id": "bz-000250",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Nominal Group Technique",
+   "t": "Practitioner guides label NGT items with letters rather than numbers so the list order is not mistaken for a ranking.",
+   "f": "Practitioner guides label NGT items with numbers rather than letters so the list order can be read directly as a ranking.",
+   "x": "Ideas are recorded in round-robin order, which says nothing about their merit. Letters avoid implying a priority before members have voted privately.",
+   "concepts": [
+    "kt:nominal-group-technique"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/nominal-group-technique.html"
+  },
+  {
+   "id": "bz-000251",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Nominal Group Technique",
+   "t": "A 1978 experiment on estimation tasks found nominal groups less accurate than Delphi groups, even though NGT members rated their process the most satisfying.",
+   "f": "A 1978 experiment on estimation tasks found nominal groups more accurate than Delphi groups, even though NGT members rated their process the least satisfying.",
+   "x": "Confidence and satisfaction rose without a gain in accuracy, which the authors read as a hint of groupthink-like effects. NGT's strength in experiments has been idea generation, not judgement accuracy.",
+   "concepts": [
+    "kt:nominal-group-technique",
+    "kt:delphi-method",
+    "kt:groupthink"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/nominal-group-technique.html"
+  },
+  {
+   "id": "bz-000252",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Hersey-Blanchard Situational Leadership Model",
+   "t": "Hersey and Blanchard first published their model in 1969 as the life cycle theory of leadership, building on the Ohio State studies' two dimensions of leader behavior.",
+   "f": "Hersey and Blanchard first published their model in 1969 as the life cycle theory of leadership, building on Blake and Mouton's Managerial Grid of leader attitudes.",
+   "x": "They relabeled Ohio State's initiating structure and consideration as task and relationship behavior. They criticized the Managerial Grid for describing attitudes and for implying one best style.",
+   "concepts": [
+    "kt:situational-leadership",
+    "kt:ohio-state-leadership-studies",
+    "kt:paul-hersey",
+    "kt:ken-blanchard",
+    "kt:managerial-grid"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/situational-leadership.html"
+  },
+  {
+   "id": "bz-000253",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Hersey-Blanchard Situational Leadership Model",
+   "t": "In Situational Leadership, follower readiness is task-specific: the same engineer can be highly ready at debugging and low in readiness at presenting to the board.",
+   "f": "In Situational Leadership, follower readiness is a stable personality trait: an engineer highly ready at debugging is equally ready at presenting to the board.",
+   "x": "Readiness means ability and willingness to direct one's own work on a given task, so a leader may need different styles with the same person. The 1969 article also stressed it reflects experience and education, not age.",
+   "concepts": [
+    "kt:situational-leadership"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/situational-leadership.html"
+  },
+  {
+   "id": "bz-000254",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Hersey-Blanchard Situational Leadership Model",
+   "t": "A 1998 study of senior executives at a Fortune 100 firm found only 18 leader-follower pairs matched the model's prescribed fit, against 126 that did not.",
+   "f": "A 1998 study of senior executives at a Fortune 100 firm found 126 leader-follower pairs matched the model's prescribed fit, against only 18 that did not.",
+   "x": "Most real pairings did not follow the prescription, and the study called the theory intuitively appealing but empirically contradictory. That fits a broader pattern of weak support despite the model's popularity in training.",
+   "concepts": [
+    "kt:situational-leadership"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/situational-leadership.html"
+  },
+  {
+   "id": "bz-000255",
+   "area": "accounting-and-reporting",
+   "kind": "definition",
+   "topic": "Deferred Revenue",
+   "t": "A contract liability is an obligation to perform for consideration already received or due, whereas a receivable is an unconditional right to cash awaiting only the passage of time.",
+   "f": "A receivable is an obligation to perform for consideration already received or due, whereas a contract liability is an unconditional right to cash awaiting only the passage of time.",
+   "x": "Deferred revenue sits on the liability side because the company still owes the customer goods, services or a refund. A receivable is the opposite position: the work is done and the firm is simply waiting to be paid.",
+   "concepts": [
+    "kt:deferred-revenue",
+    "kt:revenue-recognition-asc-606",
+    "kt:ifrs"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/deferred-revenue.html"
+  },
+  {
+   "id": "bz-000256",
+   "area": "accounting-and-reporting",
+   "kind": "application",
+   "topic": "Deferred Revenue",
+   "t": "ASU 2021-08 ended the deferred revenue haircut in acquisitions by requiring buyers to measure acquired contract liabilities under Topic 606 instead of at fair value.",
+   "f": "ASU 2021-08 ended the deferred revenue haircut in acquisitions by requiring buyers to measure acquired contract liabilities at fair value instead of under Topic 606.",
+   "x": "Fair value was often below the target's book balance, so revenue the target would have reported simply vanished after the deal. Measuring under Topic 606 carries the balance over and preserves that revenue.",
+   "concepts": [
+    "kt:deferred-revenue",
+    "kt:revenue-recognition-asc-606"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/deferred-revenue.html"
+  },
+  {
+   "id": "bz-000257",
+   "area": "accounting-and-reporting",
+   "kind": "figure",
+   "topic": "Deferred Revenue",
+   "t": "Salesforce reported unearned revenue of $24.3 billion at the end of FY2026 (31 January 2026), up from $20.7 billion a year earlier.",
+   "f": "Salesforce reported unearned revenue of $20.7 billion at the end of FY2026 (31 January 2026), down from $24.3 billion a year earlier.",
+   "x": "The balance grew because Salesforce bills subscriptions ahead and recognizes them ratably over contracts of typically 12 to 36 months. Heavy fourth-quarter invoicing swells the year-end balance, which is why analysts watch it alongside revenue.",
+   "concepts": [
+    "kt:deferred-revenue",
+    "kt:salesforce"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/deferred-revenue.html",
+   "asOf": "FY2026"
+  },
+  {
+   "id": "bz-000258",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "Board Audit Committee",
+   "t": "The modern audit committee traces to the Blue Ribbon Committee formed in 1998 by the NYSE and the NASD, whose 1999 plan called for fully independent, financially literate members.",
+   "f": "The modern audit committee traces to the Blue Ribbon Committee formed in 1998 by the SEC and the PCAOB, whose 1999 plan called for fully independent, financially literate members.",
+   "x": "The exchanges and the NASD set up the Blue Ribbon Committee, co-chaired by Ira Millstein and John Whitehead. Its core ideas, independence and board control of the auditor, became federal law in Sarbanes-Oxley in 2002; the PCAOB did not yet exist in 1998.",
+   "concepts": [
+    "kt:audit-committee",
+    "kt:sarbanes-oxley-act",
+    "kt:public-company-accounting-oversight-board"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/audit-committee.html"
+  },
+  {
+   "id": "bz-000259",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Board Audit Committee",
+   "t": "April Klein found larger abnormal accruals when fewer than half of audit committee members were independent, but no significant extra benefit from a fully independent committee.",
+   "f": "April Klein found larger abnormal accruals when fewer than all audit committee members were independent, with a significant extra benefit only from a fully independent committee.",
+   "x": "In her study of S&P 500 firms in 1991-1993, the effect appeared at the majority threshold. That cut against the 1999 exchange rules, which demanded committees made up entirely of independent directors.",
+   "concepts": [
+    "kt:audit-committee"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/audit-committee.html"
+  },
+  {
+   "id": "bz-000260",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Board Audit Committee",
+   "t": "At WorldCom, internal audit's capital-expenditure review uncovered the improper capitalization in June 2002 and took it to the audit committee, which pressed for prompt action.",
+   "f": "At WorldCom, the external auditor's capital-expenditure review uncovered the improper capitalization in June 2002 and took it to the audit committee, which pressed for prompt action.",
+   "x": "The case shows both failure and value: the committee met only a few hours a year and missed the fraud, yet it acted once internal audit brought the evidence. Arthur Andersen, the outside auditor, had not caught it.",
+   "concepts": [
+    "kt:audit-committee",
+    "kt:worldcom-accounting-scandal"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/audit-committee.html"
+  },
+  {
+   "id": "bz-000261",
+   "area": "business-history-and-cases",
+   "kind": "origin",
+   "topic": "Netflix's Shift from DVD Rental to Streaming",
+   "t": "Netflix began in 1997 as an online DVD rental service charging per rental, and by 2000 it offered unlimited rentals for a flat fee with no late fees.",
+   "f": "Netflix began in 1997 as an online DVD rental service charging a flat fee, and by 2000 it had switched to charging per rental with no late fees.",
+   "x": "The move from per-rental pricing to a flat subscription with no due dates or late fees is the change usually credited with disrupting Blockbuster's store model. That subscription relationship later carried over to streaming.",
+   "concepts": [
+    "kt:netflix-business-model-shift",
+    "kt:subscription-business-model",
+    "kt:blockbuster-decline",
+    "kt:reed-hastings"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/netflix-business-model-shift.html"
+  },
+  {
+   "id": "bz-000262",
+   "area": "business-history-and-cases",
+   "kind": "application",
+   "topic": "Netflix's Shift from DVD Rental to Streaming",
+   "t": "After Netflix split DVD and streaming into separate plans in 2011, it announced a separate DVD brand, Qwikster, then withdrew it after a very negative reaction and significant cancellations.",
+   "f": "After Netflix split DVD and streaming into separate plans in 2011, it launched a separate DVD brand, Qwikster, and kept it running until it stopped mailing discs in 2023.",
+   "x": "The price rise and the brand split landed in the same quarter, and researchers put the subscriber loss above 800,000. Netflix instead let DVD shrink inside a separate segment until it ended mailing discs in September 2023.",
+   "concepts": [
+    "kt:netflix-business-model-shift",
+    "kt:cannibalization"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/netflix-business-model-shift.html"
+  },
+  {
+   "id": "bz-000263",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Netflix's Shift from DVD Rental to Streaming",
+   "t": "Netflix's fixed-fee content licensing commitments grew from about $3.9 billion at the end of 2011 to $21.7 billion at the end of 2023.",
+   "f": "Netflix's fixed-fee content licensing commitments shrank from about $21.7 billion at the end of 2011 to $3.9 billion at the end of 2023.",
+   "x": "Streaming replaced owned DVD inventory with multi-year licensing obligations, so the model's payoff became exposed to content costs the disc business never carried. The rising commitments are the economic critique of the shift.",
+   "concepts": [
+    "kt:netflix-business-model-shift",
+    "kt:business-model-innovation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/netflix-business-model-shift.html",
+   "asOf": "2023"
+  },
+  {
+   "id": "bz-000264",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Membership Warehouse Club",
+   "t": "Sol Price opened the first Price Club in San Diego in 1976, initially selling only to small businesses holding business licences or resale permits.",
+   "f": "Sol Price opened the first Price Club in San Diego in 1976, initially selling only to government employees before admitting small businesses.",
+   "x": "Price Club started with business members and widened eligibility over time to groups such as government and credit-union employees, then to ordinary consumers. The government-employees-only format was Price's earlier venture, Fed-Mart.",
+   "concepts": [
+    "kt:membership-warehouse-club",
+    "kt:sol-price"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/membership-warehouse-club.html"
+  },
+  {
+   "id": "bz-000265",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Membership Warehouse Club",
+   "t": "Courtemanche and Carden found that a new Costco is associated with higher prices at nearby grocery stores, while Sam's Club entry had no detectable effect.",
+   "f": "Courtemanche and Carden found that a new Costco is associated with lower prices at nearby grocery stores, while Sam's Club entry had no detectable effect.",
+   "x": "Prices rose about 1.4% in the short run and 2.7% in the long run. A plausible reason is that incumbents stop chasing the most price-sensitive shoppers, who defect to the club, and target the rest or compete on amenities.",
+   "concepts": [
+    "kt:membership-warehouse-club",
+    "kt:costco",
+    "kt:sams-club"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/membership-warehouse-club.html"
+  },
+  {
+   "id": "bz-000266",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Membership Warehouse Club",
+   "t": "In FY2026 Costco earned $5.9 billion in membership fees against net income of $9.2 billion, showing how much of its profit rests on fees.",
+   "f": "In FY2026 Costco earned $9.2 billion in membership fees against net income of $5.9 billion, showing how much of its profit rests on fees.",
+   "x": "Fee income is a large share of profit because merchandise is sold at thin markups on $297 billion of sales. That is why Costco calls membership integral to its profitability and why falling renewals would hurt more than a dip in item margins.",
+   "concepts": [
+    "kt:membership-warehouse-club",
+    "kt:costco"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/membership-warehouse-club.html",
+   "asOf": "FY2026"
+  },
+  {
+   "id": "bz-000267",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Corporate Finance: Investment, Financing and Payout Decisions",
+   "t": "Modigliani and Miller argued that once asset returns are uncertain, profit maximization loses operational meaning, so they proposed market-value maximization as the criterion.",
+   "f": "Modigliani and Miller argued that once asset returns are uncertain, market-value maximization loses operational meaning, so they proposed profit maximization as the criterion.",
+   "x": "Under uncertainty there is no single profit figure to maximize, but a market value prices that uncertainty. Their 1958 article made value maximization the workable objective that modern corporate finance still uses.",
+   "concepts": [
+    "kt:corporate-finance",
+    "kt:modigliani-miller-theorem"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-finance.html"
+  },
+  {
+   "id": "bz-000268",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Corporate Finance: Investment, Financing and Payout Decisions",
+   "t": "Graham and Harvey's 2001 CFO survey found that smaller firms lean more on the payback period, while large firms rely heavily on present-value methods.",
+   "f": "Graham and Harvey's 2001 CFO survey found that large firms lean more on the payback period, while smaller firms rely heavily on present-value methods.",
+   "x": "Payback ignores cash flows after the cutoff and the time value of money, yet it is simple, so smaller firms with less finance staff used it more. Large firms were closer to textbook practice, though many still used one company-wide discount rate.",
+   "concepts": [
+    "kt:corporate-finance",
+    "kt:capital-budgeting"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-finance.html"
+  },
+  {
+   "id": "bz-000269",
+   "area": "corporate-finance",
+   "kind": "figure",
+   "topic": "Corporate Finance: Investment, Financing and Payout Decisions",
+   "t": "In FY2025 Apple spent about $89.3 billion on share repurchases and $15.4 billion on dividends while carrying about $91.3 billion of term debt.",
+   "f": "In FY2025 Apple spent about $15.4 billion on share repurchases and $89.3 billion on dividends while carrying about $91.3 billion of term debt.",
+   "x": "Apple returned far more through buybacks than dividends, and it did so while also borrowing. Funding partly with debt while paying out large sums is a joint capital-structure and payout decision.",
+   "concepts": [
+    "kt:corporate-finance",
+    "kt:apple-inc",
+    "kt:dividend-policy",
+    "kt:capital-structure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-finance.html",
+   "asOf": "FY2025"
+  },
+  {
+   "id": "bz-000270",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Truth in Negotiations Act",
+   "t": "The Truth in Negotiations Act was enacted in 1962 to put contracting officers on an equal factual footing with sellers in deals without real price competition.",
+   "f": "The Truth in Negotiations Act was enacted in 1982 to put contracting officers on an equal factual footing with sellers in deals without real price competition.",
+   "x": "TINA, Public Law 87-653, dates from 1962. It targets the information gap that favors a contractor in sole-source deals by requiring certified cost or pricing data above a dollar threshold.",
+   "concepts": [
+    "kt:truth-in-negotiations-act",
+    "kt:sole-source-contracting",
+    "kt:information-asymmetry"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/truth-in-negotiations-act.html"
+  },
+  {
+   "id": "bz-000272",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Truth in Negotiations Act",
+   "t": "A 2016 Naval Postgraduate School analysis argued TINA curbs adverse selection but ignores moral hazard, since beating certified estimates can invite a defective-pricing audit.",
+   "f": "A 2016 Naval Postgraduate School analysis argued TINA curbs moral hazard but ignores adverse selection, since beating certified estimates can invite a defective-pricing audit.",
+   "x": "Forcing cost disclosure limits the information rents a sole-source seller can extract, which is the adverse-selection problem. But under a fixed price, cutting costs far below the certified estimate looks suspicious, which can dull effort or encourage padding.",
+   "concepts": [
+    "kt:truth-in-negotiations-act",
+    "kt:adverse-selection",
+    "kt:principal-agent-problem"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/truth-in-negotiations-act.html"
+  },
+  {
+   "id": "bz-000273",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Exploration and Exploitation in Organizational Learning",
+   "t": "In March's mutual-learning model, slow socialization of individuals combined with fast learning by the organizational code yields the highest equilibrium knowledge.",
+   "f": "In March's mutual-learning model, fast socialization of individuals combined with slow learning by the organizational code yields the highest equilibrium knowledge.",
+   "x": "Slow learners keep diverse beliefs alive long enough for the code to learn from those that fit reality better. Rapid socialization erases that diversity, so the organization stops improving.",
+   "concepts": [
+    "kt:exploration-and-exploitation-in-organizational-learning-1991",
+    "kt:organizational-learning",
+    "kt:james-g-march"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/exploration-and-exploitation-in-organizational-learning-1991.html"
+  },
+  {
+   "id": "bz-000274",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "Exploration and Exploitation in Organizational Learning",
+   "t": "March argued that when a firm competes to finish first among many rivals, the variance of its performance matters as much as the mean, so reliable knowledge can cut its chance of winning.",
+   "f": "March argued that when a firm competes to finish first among many rivals, the mean of its performance matters far more than the variance, so reliable knowledge raises its chance of winning.",
+   "x": "With enough competitors, only an unusually high draw wins, so the mean becomes almost irrelevant. Knowledge makes results more reliable, lowering the odds of finishing last but also of finishing first, which argues for several independent projects when the prize goes only to the leader.",
+   "concepts": [
+    "kt:exploration-and-exploitation-in-organizational-learning-1991",
+    "kt:james-g-march"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/exploration-and-exploitation-in-organizational-learning-1991.html"
+  },
+  {
+   "id": "bz-000275",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Exploration and Exploitation in Organizational Learning",
+   "t": "Chanda, Ray and McKelvey's 2018 replication found that below a critical level of a group's collective human capital, heavy exploitation produces more organizational knowledge.",
+   "f": "Chanda, Ray and McKelvey's 2018 replication found that below a critical level of a group's collective human capital, heavy exploration produces more organizational knowledge.",
+   "x": "Their rerun of March's simulation showed the payoff to exploring versus exploiting depends on what the group already knows. They also found undocumented features in March's original code that conflicted with his stated assumptions.",
+   "concepts": [
+    "kt:exploration-and-exploitation-in-organizational-learning-1991",
+    "kt:organizational-learning"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/exploration-and-exploitation-in-organizational-learning-1991.html"
+  },
+  {
+   "id": "bz-000276",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Bengt Holmström",
+   "t": "Bengt Holmström shared the 2016 economics Nobel with Oliver Hart for their contributions to contract theory.",
+   "f": "Bengt Holmström shared the 2016 economics Nobel with Jean Tirole for their contributions to contract theory.",
+   "x": "Holmström and Hart were honored together for work on how contracts can be designed when effort and outcomes are hard to observe. Tirole was Holmström's co-author on liquidity, but he won his own Nobel separately.",
+   "concepts": [
+    "kt:bengt-holmstrom",
+    "kt:oliver-hart",
+    "kt:contract-theory"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bengt-holmstrom.html"
+  },
+  {
+   "id": "bz-000277",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Bengt Holmström",
+   "t": "Holmström's career-concerns model implies older workers respond less to implicit incentives, because they have fewer future career payoffs from a better reputation.",
+   "f": "Holmström's career-concerns model implies younger workers respond less to implicit incentives, because they have fewer future career payoffs from a better reputation.",
+   "x": "In the model, the market infers ability from performance and sets future wages accordingly, so effort today buys a better reputation tomorrow. The closer someone is to retirement, the less that future is worth, so the implicit motive weakens.",
+   "concepts": [
+    "kt:bengt-holmstrom",
+    "kt:career-concerns"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bengt-holmstrom.html"
+  },
+  {
+   "id": "bz-000278",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Bengt Holmström",
+   "t": "With Gorton and Dang, Holmström argued that opacity in money markets can be the result of optimal contracting rather than a flaw.",
+   "f": "With Gorton and Dang, Holmström argued that opacity in money markets is a flaw of poor contracting that more transparency would cure.",
+   "x": "The claim is contrarian because the usual post-crisis prescription for banking is more transparency. Holmström says the view has gained support, but it runs against that common call.",
+   "concepts": [
+    "kt:bengt-holmstrom",
+    "kt:contract-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bengt-holmstrom.html"
+  },
+  {
+   "id": "bz-000279",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Gaps Model of Service Quality",
+   "t": "In the gaps model, a hotel rule that phones be answered quickly is too vague and creates a standards gap; staff ignoring a clear two-ring rule create a delivery gap.",
+   "f": "In the gaps model, a hotel rule that phones be answered quickly is too vague and creates a delivery gap; staff ignoring a clear two-ring rule create a standards gap.",
+   "x": "The standards gap (Gap 2) lies between what management knows customers want and the specifications it sets. The delivery gap (Gap 3) opens when a clear specification exists but service falls short of it, often from weak training or understaffing.",
+   "concepts": [
+    "kt:gaps-model-of-service-quality",
+    "kt:service-quality"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaps-model-of-service-quality.html"
+  },
+  {
+   "id": "bz-000280",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Gaps Model of Service Quality",
+   "t": "A pizza chain promising 30-minute delivery without the operations to back it illustrates the gaps model's communication gap.",
+   "f": "A pizza chain promising 30-minute delivery without the operations to back it illustrates the gaps model's listening gap.",
+   "x": "The communication gap (Gap 4) is between the service delivered and what external messages promised. The listening gap is about misreading what customers expect, which IKEA addressed with focus groups for a Chicago store.",
+   "concepts": [
+    "kt:gaps-model-of-service-quality",
+    "kt:services-marketing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaps-model-of-service-quality.html"
+  },
+  {
+   "id": "bz-000281",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Gaps Model of Service Quality",
+   "t": "Responding to critics in 1994, the gaps model's authors split expectations into desired and adequate levels, with a zone of tolerance between them.",
+   "f": "Responding to critics in 1994, the gaps model's authors dropped expectations altogether and measured perceived performance alone.",
+   "x": "Critics such as Cronin and Taylor questioned whether expectations were needed at all. Rather than abandon them, the authors refined them, recognizing that customers accept a range of service rather than a single target.",
+   "concepts": [
+    "kt:gaps-model-of-service-quality",
+    "kt:servqual",
+    "kt:a-parasuraman"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/gaps-model-of-service-quality.html"
+  },
+  {
+   "id": "bz-000282",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Taiichi Ohno",
+   "t": "Jidoka, one of the two pillars of the Toyota Production System, means machines stop and signal when they detect a defect.",
+   "f": "Just-in-time, one of the two pillars of the Toyota Production System, means machines stop and signal when they detect a defect.",
+   "x": "Jidoka, automation with a human touch, keeps defects from flowing downstream. Just-in-time, the other pillar, is about producing only what is needed when it is needed.",
+   "concepts": [
+    "kt:taiichi-ohno",
+    "kt:toyota-production-system",
+    "kt:just-in-time"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/taiichi-ohno.html"
+  },
+  {
+   "id": "bz-000283",
+   "area": "operations-and-supply-chain",
+   "kind": "definition",
+   "topic": "Taiichi Ohno",
+   "t": "Ohno distinguished three forms of loss: muda is waste, muri is overburden and mura is unevenness.",
+   "f": "Ohno distinguished three forms of loss: muda is waste, muri is unevenness and mura is overburden.",
+   "x": "Muda covers activities that add no value, such as the seven wastes. Muri is straining people or machines beyond capacity, and mura is irregular flow; uneven loads tend to create both overburden and waste.",
+   "concepts": [
+    "kt:taiichi-ohno",
+    "kt:seven-wastes"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/taiichi-ohno.html"
+  },
+  {
+   "id": "bz-000284",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Taiichi Ohno",
+   "t": "Ohno never used the word lean; John Krafcik coined it in 1988, and later writers generalized the Toyota Production System under that name.",
+   "f": "Ohno coined the word lean in his 1978 book Toyota Production System, and later writers generalized the system under that name.",
+   "x": "The label came from Krafcik, not from Toyota. Scholars such as Michael Cusumano warn that generalizing TPS into lean can drift from Ohno's intent, for example by pushing zero buffer inventory into volatile settings.",
+   "concepts": [
+    "kt:taiichi-ohno",
+    "kt:lean-manufacturing",
+    "kt:toyota-production-system"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/taiichi-ohno.html"
+  },
+  {
+   "id": "bz-000285",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Truth in Negotiations Act",
+   "t": "Under TINA's defective-pricing rules, liability for overpricing stays with the contractor even if the contracting officer should have caught the error in its data.",
+   "f": "Under TINA's defective-pricing rules, liability for overpricing shifts to the government if the contracting officer should have caught the error in its data.",
+   "x": "The FAR bars that defense, along with claims of sole-source status, superior bargaining power or an unsigned certificate. The burden of accurate, complete and current data stays with the seller, and the government can recover the overpayment plus interest.",
+   "concepts": [
+    "kt:truth-in-negotiations-act",
+    "kt:federal-acquisition-regulation",
+    "kt:contracting-officer"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/truth-in-negotiations-act.html"
+  },
+  {
+   "id": "bz-000286",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Devil's Advocate Method",
+   "t": "The devil's advocate was the popular name for the Catholic Church's Promoter of the Faith, an office Pope Sixtus V formally established in 1587 to argue against canonization candidates.",
+   "f": "The devil's advocate was the popular name for the Catholic Church's Promoter of the Faith, an office Pope John Paul II formally established in 1983 to argue against canonization candidates.",
+   "x": "Sixtus V created the office in the 16th century; John Paul II's 1983 reform of canonization procedure is when its influence faded. Management researchers later borrowed the idea of an assigned critic for strategic planning.",
+   "concepts": [
+    "kt:devils-advocacy"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/devils-advocacy.html"
+  },
+  {
+   "id": "bz-000287",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Devil's Advocate Method",
+   "t": "A 1986 laboratory study found devil's advocacy and dialectical inquiry groups made better strategic recommendations than consensus groups, but consensus groups were more satisfied.",
+   "f": "A 1986 laboratory study found consensus groups made better strategic recommendations than devil's advocacy and dialectical inquiry groups, but were less satisfied.",
+   "x": "Structured conflict raised decision quality and scrutiny of assumptions at a social cost: consensus groups reported more satisfaction and more acceptance of the final decision. Managers using the method have to manage that trade-off.",
+   "concepts": [
+    "kt:devils-advocacy",
+    "kt:dialectical-inquiry",
+    "kt:strategic-decision-making"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/devils-advocacy.html"
+  },
+  {
+   "id": "bz-000288",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Devil's Advocate Method",
+   "t": "Nemeth, Rogers and Brown reported in 2001 that no role-played dissent generates as much divergent thinking as authentic dissent.",
+   "f": "Nemeth, Rogers and Brown reported in 2001 that role-played devil's advocacy generates more divergent thinking than authentic dissent.",
+   "x": "Assigned critics are seen as playing a part, so their objections carry less weight than a colleague's real disagreement. That is why assigning a critic should complement, not replace, a climate where people voice their own concerns.",
+   "concepts": [
+    "kt:devils-advocacy",
+    "kt:authentic-dissent"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/devils-advocacy.html"
+  },
+  {
+   "id": "bz-000289",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "Consumer Switching Costs",
+   "t": "In the bargain-then-ripoff pattern, firms price low, even below cost, to win unattached buyers, then charge more once those buyers are locked in.",
+   "f": "In the bargain-then-ripoff pattern, firms price high to win unattached buyers, then cut prices once those buyers are locked in to keep them from leaving.",
+   "x": "A locked-in customer tolerates a higher price before leaving, so early share becomes later profit. In the simplest model, competition for new customers passes those later rents back through the early discounts.",
+   "concepts": [
+    "kt:switching-costs",
+    "kt:customer-lifetime-value"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/switching-costs.html"
+  },
+  {
+   "id": "bz-000290",
+   "area": "strategy",
+   "kind": "definition",
+   "topic": "Consumer Switching Costs",
+   "t": "Farrell and Klemperer treat contractual switching costs, such as frequent-flyer programs, as created by firms rather than as real social costs.",
+   "f": "Farrell and Klemperer treat learning switching costs, such as mastering new software, as created by firms rather than as real social costs.",
+   "x": "A loyalty rebate is a transfer a firm engineers to discourage switching; society would lose nothing if it vanished. Learning costs, by contrast, are real resources spent and are paid once.",
+   "concepts": [
+    "kt:switching-costs",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/switching-costs.html"
+  },
+  {
+   "id": "bz-000291",
+   "area": "strategy",
+   "kind": "application",
+   "topic": "Consumer Switching Costs",
+   "t": "The EU Data Act lets cloud providers recover switching and data-egress costs only during a transition ending on 12 January 2027, after which such charges must go.",
+   "f": "The EU Data Act lets cloud providers recover switching and data-egress costs indefinitely, provided the charges do not exceed the provider's actual cost.",
+   "x": "Regulators cut switching costs when lock-in limits competition. The Act, applying since September 2025, phases out egress fees entirely, much as U.S. number portability did for mobile subscribers.",
+   "concepts": [
+    "kt:switching-costs",
+    "kt:eu-data-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/switching-costs.html"
+  },
+  {
+   "id": "bz-000292",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "Pyramid Principle: Top-Down Structured Communication",
+   "t": "Barbara Minto developed the Pyramid Principle while editing consultants' reports at McKinsey in London, where she kept rearranging their ideas into the same shape.",
+   "f": "Barbara Minto developed the Pyramid Principle while teaching business writing at Harvard, where she kept rearranging students' essays into the same shape.",
+   "x": "Minto worked at McKinsey from 1963 to 1973 and turned her editing pattern into an internal course and manual. Her first book on it is dated to 1985, and she later taught it to firms such as Accenture and Bain.",
+   "concepts": [
+    "kt:pyramid-principle",
+    "kt:barbara-minto"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pyramid-principle.html"
+  },
+  {
+   "id": "bz-000293",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Pyramid Principle: Top-Down Structured Communication",
+   "t": "One of Minto's three pyramid rules is that an idea at any level must summarize the ideas grouped below it.",
+   "f": "One of Minto's three pyramid rules is that an idea at any level must introduce a new point not covered by the ideas grouped below it.",
+   "x": "The other two rules are that grouped ideas must be of the same logical kind and follow a logical order. Summarizing upward is what lets a reader stop at the top and still have the main message.",
+   "concepts": [
+    "kt:pyramid-principle",
+    "kt:the-pyramid-principle-logic-in-writing-and-thinking"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pyramid-principle.html"
+  },
+  {
+   "id": "bz-000294",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Pyramid Principle: Top-Down Structured Communication",
+   "t": "Business communication texts advise an indirect opening, with a buffer before the news, when a message will strongly affect the reader or the writer does not know them well.",
+   "f": "Business communication texts advise an indirect opening, with a buffer before the news, when the audience values brevity or already expects the news.",
+   "x": "Answer-first suits readers who want speed or expect the message. Bad news or an unfamiliar reader can call for explanation first, which is the main limit on applying the pyramid everywhere.",
+   "concepts": [
+    "kt:pyramid-principle",
+    "kt:indirect-approach",
+    "kt:bottom-line-up-front"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pyramid-principle.html"
+  },
+  {
+   "id": "bz-000295",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
+   "t": "Peter Drucker first set out management by objectives in The Practice of Management in 1954.",
+   "f": "Peter Drucker first set out management by objectives in The Effective Executive in 1966.",
+   "x": "In his 1954 book, Drucker argued that effective managers focus on results rather than activity and delegate by agreeing objectives with each subordinate. The idea draws on McGregor's Theory Y view that people can direct their own work.",
+   "concepts": [
+    "kt:management-by-objectives",
+    "kt:peter-drucker"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-by-objectives.html"
+  },
+  {
+   "id": "bz-000296",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
+   "t": "Rodgers and Hunter found MBO's productivity gains were largest where top management was committed to it and used it themselves, and smallest where leaders paid it lip service.",
+   "f": "Rodgers and Hunter found MBO's productivity gains were largest where front-line employees designed the program, and smallest where top management drove it themselves.",
+   "x": "Of 70 cases they reviewed, 68 showed gains, but the size depended on executive commitment. That is why textbooks conclude MBO should be launched from the top down.",
+   "concepts": [
+    "kt:management-by-objectives",
+    "kt:goal-setting-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-by-objectives.html"
+  },
+  {
+   "id": "bz-000297",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
+   "t": "In a 1970 HBR article, Harry Levinson argued that MBO wrongly assumes employees' personal aims already match corporate goals, and proposed starting from the employee's own objectives.",
+   "f": "In a 1970 HBR article, Harry Levinson argued that MBO wrongly assumes corporate goals can be broken into individual targets, and proposed replacing it with team-level quotas.",
+   "x": "Levinson's critique was psychological: MBO leaves individual needs out of performance measurement and piles pressure on an assumed alignment. He later added that its focus on quantifiable results crowds out qualitative work.",
+   "concepts": [
+    "kt:management-by-objectives",
+    "kt:performance-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-by-objectives.html"
+  },
+  {
+   "id": "bz-000298",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Revenue from Contracts with Customers",
+   "t": "In the fourth step of the ASC 606 and IFRS 15 model, the transaction price is allocated to performance obligations in proportion to their stand-alone selling prices.",
+   "f": "In the fourth step of the ASC 606 and IFRS 15 model, the transaction price is allocated to performance obligations in proportion to their cost to deliver.",
+   "x": "Allocation by stand-alone selling price splits a bundle as if each good or service had been sold separately. Revenue then arrives only at step five, when each obligation is satisfied.",
+   "concepts": [
+    "kt:revenue-recognition-asc-606",
+    "kt:ifrs",
+    "kt:gaap"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revenue-recognition-asc-606.html"
+  },
+  {
+   "id": "bz-000299",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Revenue from Contracts with Customers",
+   "t": "A study of 2016-2019 adoption found that US software firms, not electronic-computer makers, gained comparability and a tighter link between revenue accruals and cash under ASC 606.",
+   "f": "A study of 2016-2019 adoption found that US electronic-computer makers, not software firms, gained comparability and a tighter link between revenue accruals and cash under ASC 606.",
+   "x": "Software firms bundle several deliverables across periods, so the new model changed them most; their average adoption adjustment was 4.4% of assets against 1.6% for computer firms. The effects were concentrated rather than universal.",
+   "concepts": [
+    "kt:revenue-recognition-asc-606"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revenue-recognition-asc-606.html"
+  },
+  {
+   "id": "bz-000300",
+   "area": "accounting-and-reporting",
+   "kind": "application",
+   "topic": "Revenue from Contracts with Customers",
+   "t": "When Microsoft adopted the new revenue standard in 2017, Windows 10 revenue once spread over a device's life was instead recognised mainly at billing and delivery.",
+   "f": "When Microsoft adopted the new revenue standard in 2017, Windows 10 revenue once recognised at billing and delivery was instead spread over a device's life.",
+   "x": "Microsoft reported a material effect on its income statements and balance sheets but none on cash flows. The lesson is that the timing of reported revenue can shift sharply while cash and underlying economics stay the same.",
+   "concepts": [
+    "kt:revenue-recognition-asc-606",
+    "kt:microsoft"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/revenue-recognition-asc-606.html"
+  },
+  {
+   "id": "bz-000301",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "Proxy Advisory Firm",
+   "t": "In 1988 the US Department of Labor told Avon's management that the fiduciary duties of ERISA pension plans included proxy voting.",
+   "f": "In 1988 the US Securities and Exchange Commission told Avon's management that the fiduciary duties of ERISA pension plans included proxy voting.",
+   "x": "The Labor Department's Avon letter meant pension funds had to vote every ballot item, which created steady demand for outside analysis. ISS, founded in the mid-1980s, was well placed to supply it.",
+   "concepts": [
+    "kt:proxy-advisory-firm",
+    "kt:fiduciary-duty",
+    "kt:institutional-shareholder-services"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/proxy-advisory-firm.html"
+  },
+  {
+   "id": "bz-000302",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Proxy Advisory Firm",
+   "t": "Using a cutoff in ISS's own guidelines, Malenko and Shen estimated that a negative ISS say-on-pay recommendation in 2010-2011 cut shareholder support by about 25 percentage points.",
+   "f": "Using a cutoff in ISS's own guidelines, Malenko and Shen estimated that a negative ISS say-on-pay recommendation in 2010-2011 cut shareholder support by about 2 percentage points.",
+   "x": "The regression-discontinuity design compares firms just either side of an ISS threshold, isolating the recommendation's causal effect. The large effect is why boards design pay plans with advisor policies in mind.",
+   "concepts": [
+    "kt:proxy-advisory-firm",
+    "kt:say-on-pay",
+    "kt:institutional-shareholder-services"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/proxy-advisory-firm.html"
+  },
+  {
+   "id": "bz-000303",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Proxy Advisory Firm",
+   "t": "In July 2022 the SEC rescinded the advance-access conditions on proxy advisors' exemptions but kept their conflict-disclosure requirement and anti-fraud liability.",
+   "f": "In July 2022 the SEC rescinded the conflict-disclosure requirement on proxy advisors' exemptions but kept the advance-access conditions and anti-fraud liability.",
+   "x": "The 2020 rules had required advisors to disclose conflicts and give companies early access to their advice. The 2022 rollback dropped only the company-access part, showing how US policy has swung back and forth.",
+   "concepts": [
+    "kt:proxy-advisory-firm",
+    "kt:securities-exchange-act-of-1934"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/proxy-advisory-firm.html"
+  },
+  {
+   "id": "bz-000304",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Walmart",
+   "t": "Thomas Holmes inferred the value of store density from how much sales cannibalization among neighbouring stores Walmart accepted, and found benefits well beyond cheaper trucking.",
+   "f": "Thomas Holmes inferred the value of store density from how much sales cannibalization among neighbouring stores Walmart accepted, and found benefits limited mainly to cheaper trucking.",
+   "x": "Walmart kept opening stores close to existing ones even though they took sales from each other, which only makes sense if clustering saves a lot. Holmes concluded those density savings were large and broad, not just shorter delivery routes.",
+   "concepts": [
+    "kt:walmart",
+    "kt:economies-of-density",
+    "kt:cannibalization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/walmart.html"
+  },
+  {
+   "id": "bz-000305",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Walmart",
+   "t": "From 1982 to 2002, Walmart accounted for almost half the productivity growth in U.S. general merchandise retailing, by Emek Basker's figures.",
+   "f": "From 1982 to 2002, Walmart accounted for almost a tenth of the productivity growth in U.S. general merchandise retailing, by Emek Basker's figures.",
+   "x": "Sales per worker rose 54.5 log points at Walmart U.S. versus 18.5 for the rest of the sector. Basker credits technology such as bar-code readers and Retail Link, plus scale.",
+   "concepts": [
+    "kt:walmart",
+    "kt:retail-industry",
+    "kt:economies-of-scale"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/walmart.html"
+  },
+  {
+   "id": "bz-000306",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Walmart",
+   "t": "In FY2026 Walmart reported total revenues of $713.2 billion and e-commerce sales of $150.4 billion, up 46%.",
+   "f": "In FY2026 Walmart reported total revenues of $483.0 billion and e-commerce sales of $150.4 billion, up 46%.",
+   "x": "$483.0 billion was net sales at Walmart U.S. alone; adding Walmart International and Sam's Club U.S. brings total revenue to $713.2 billion. E-commerce has become a large business inside a store-based company.",
+   "concepts": [
+    "kt:walmart",
+    "kt:retail-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/walmart.html",
+   "asOf": "FY2026"
+  },
+  {
+   "id": "bz-000307",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Michael Jensen",
+   "t": "Applying his risk-adjusted alpha to 115 mutual funds over 1945-1964, Michael Jensen found they did not on average beat buy-and-hold, even before management expenses.",
+   "f": "Applying his risk-adjusted alpha to 115 mutual funds over 1945-1964, Michael Jensen found they beat buy-and-hold on average, but not after management expenses.",
+   "x": "Jensen's alpha builds on CAPM to measure return beyond what a portfolio's risk would predict. Finding no edge even before fees was a strong result: managers' forecasting skill added nothing on average.",
+   "concepts": [
+    "kt:michael-c-jensen",
+    "kt:jensens-alpha"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/michael-c-jensen.html"
+  },
+  {
+   "id": "bz-000308",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Michael Jensen",
+   "t": "In 1990 Jensen and Kevin Murphy estimated a typical CEO's wealth moved only $3.25 for each $1,000 change in shareholder wealth, and urged more equity pay.",
+   "f": "In 1990 Jensen and Kevin Murphy estimated a typical CEO's wealth moved about $325 for each $1,000 change in shareholder wealth, and urged less equity pay.",
+   "x": "They judged such weak sensitivity too small to motivate value creation. Murphy later recalled that firms layered options on top of salary rather than swapping one for the other, which drove CEO pay sharply higher.",
+   "concepts": [
+    "kt:michael-c-jensen",
+    "kt:executive-compensation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/michael-c-jensen.html"
+  },
+  {
+   "id": "bz-000309",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Michael Jensen",
+   "t": "Jensen argued in 2005 that overvalued equity creates its own agency costs, as managers unable to justify an inflated share price may make value-destroying acquisitions or manage earnings.",
+   "f": "Jensen argued in 2005 that undervalued equity creates its own agency costs, as managers unable to lift a depressed share price may make value-destroying acquisitions or manage earnings.",
+   "x": "An inflated price sets expectations the business cannot meet, and big equity stakes make managers reluctant to let it correct. This revised his earlier enthusiasm for heavy equity-based pay.",
+   "concepts": [
+    "kt:michael-c-jensen",
+    "kt:agency-costs",
+    "kt:executive-compensation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/michael-c-jensen.html"
+  },
+  {
+   "id": "bz-000310",
+   "area": "business-models",
+   "kind": "definition",
+   "topic": "Business Model: How a Firm Creates, Delivers and Captures Value",
+   "t": "Casadesus-Masanell and Ricart define strategy as a contingent plan for which business model to use, and the business model as the reflection of the firm's realised strategy.",
+   "f": "Casadesus-Masanell and Ricart define the business model as a contingent plan for which strategy to use, and strategy as the reflection of the firm's realised business model.",
+   "x": "In their view every organization has a business model, but not every one has a strategy. Tactics are the residual choices the business model leaves open.",
+   "concepts": [
+    "kt:business-model",
+    "kt:competitive-strategy"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model.html"
+  },
+  {
+   "id": "bz-000311",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Business Model: How a Firm Creates, Delivers and Captures Value",
+   "t": "Zott, Amit and Massa's review found that 37% of the business model publications they examined did not define the concept at all.",
+   "f": "Zott, Amit and Massa's review found that only 7% of the business model publications they examined did not define the concept at all.",
+   "x": "Only 44% defined it explicitly and 19% borrowed someone else's definition. That inconsistency underlies the critique that the construct is fragmented, which hampers cumulative research.",
+   "concepts": [
+    "kt:business-model"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model.html"
+  },
+  {
+   "id": "bz-000312",
+   "area": "business-models",
+   "kind": "application",
+   "topic": "Business Model: How a Firm Creates, Delivers and Captures Value",
+   "t": "Hilti moved from selling power tools to leasing managed tool fleets for a monthly fee, which required a new profit formula and much longer sales cycles.",
+   "f": "Hilti moved from leasing managed tool fleets to selling power tools outright, which required a new profit formula and much shorter sales cycles.",
+   "x": "The shift illustrates that business model elements are interdependent: changing how value is captured forced changes in resources, processes and how salespeople worked. Sales staff had to be retrained for the new model.",
+   "concepts": [
+    "kt:business-model",
+    "kt:business-model-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model.html"
+  },
+  {
+   "id": "bz-000313",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Contracting Officer: Warranted Authority to Bind the Government",
+   "t": "In Federal Crop Insurance Corp. v. Merrill (1947), the Supreme Court held that anyone dealing with the government bears the risk of confirming an official acts within his authority.",
+   "f": "In Federal Crop Insurance Corp. v. Merrill (1947), the Supreme Court held that the government bears the risk when its official wrongly assures a private party he acts within his authority.",
+   "x": "Idaho farmers relied on an agent's wrong assurance that reseeded wheat was covered and were refused payment. Published regulations count as notice to all, a principle the FAR now codifies in its contracting-authority rules.",
+   "concepts": [
+    "kt:contracting-officer",
+    "kt:federal-crop-insurance-corp-v-merrill"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contracting-officer.html"
+  },
+  {
+   "id": "bz-000314",
+   "area": "government-contracting-and-public-sector",
+   "kind": "definition",
+   "topic": "Contracting Officer: Warranted Authority to Bind the Government",
+   "t": "A contracting officer's representative handles day-to-day technical oversight but has no power to change a contract's price, quantity, quality or delivery terms.",
+   "f": "A contracting officer's representative handles day-to-day technical oversight and may change a contract's price, quantity, quality or delivery terms within delegated limits.",
+   "x": "The COR is delegated monitoring duties in writing, cannot redelegate and can be personally liable for unauthorized acts. Changing contract terms stays with the warranted contracting officer.",
+   "concepts": [
+    "kt:contracting-officer",
+    "kt:contracting-officers-representative"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contracting-officer.html"
+  },
+  {
+   "id": "bz-000315",
+   "area": "government-contracting-and-public-sector",
+   "kind": "application",
+   "topic": "Contracting Officer: Warranted Authority to Bind the Government",
+   "t": "An unauthorized commitment can be ratified only if, among other tests, the government received a benefit and a contracting officer finds the price fair and reasonable.",
+   "f": "An unauthorized commitment can be ratified only if, among other tests, the official who made it held a warrant and a contracting officer finds the price fair and reasonable.",
+   "x": "By definition, an unauthorized commitment is made by someone without authority, so a warrant cannot be a condition. Ratification also requires that a proper contract would have been lawful and that funds were available; otherwise the claim goes to claims procedures.",
+   "concepts": [
+    "kt:contracting-officer",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contracting-officer.html"
+  },
+  {
+   "id": "bz-000316",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Innovation Management: Organizing the Innovation Process",
+   "t": "Van de Ven's 1986 Management Science article named managing attention, so that people notice the need for novelty, as the human problem of innovation management.",
+   "f": "Van de Ven's 1986 Management Science article named managing part-whole relationships, so that people notice the need for novelty, as the human problem of innovation management.",
+   "x": "He listed four problems: attention (human), turning ideas into accepted practice (process), part-whole relationships as an innovation spreads (structural) and institutional leadership (strategic). The attention problem explains why efficient routines dull sensitivity to new needs.",
+   "concepts": [
+    "kt:innovation-management",
+    "kt:central-problems-in-the-management-of-innovation-1986"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovation-management.html"
+  },
+  {
+   "id": "bz-000317",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Innovation Management: Organizing the Innovation Process",
+   "t": "In Gary Pisano's typology, disruptive innovation needs a new business model but little new technology, while radical innovation needs new technology within the same model.",
+   "f": "In Gary Pisano's typology, radical innovation needs a new business model but little new technology, while disruptive innovation needs new technology within the same model.",
+   "x": "Pisano sorts projects on two axes, technology and business model. Routine needs neither and architectural needs both; he argues most firms should hold a deliberate portfolio, since routine innovation can be very profitable.",
+   "concepts": [
+    "kt:innovation-management",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovation-management.html"
+  },
+  {
+   "id": "bz-000318",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "application",
+   "topic": "Innovation Management: Organizing the Innovation Process",
+   "t": "ISO 56001, published in September 2024, is the first requirements standard for an innovation management system and applies to organizations of any size or sector.",
+   "f": "ISO 56001, published in September 2024, is the first requirements standard for an innovation management system and applies only to large manufacturers with formal R&D units.",
+   "x": "The standard treats innovation as an organization-wide system rather than an R&D activity. It uses the same harmonized structure as other ISO management-system standards, so it can sit alongside quality or environmental systems.",
+   "concepts": [
+    "kt:innovation-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/innovation-management.html"
+  },
+  {
+   "id": "bz-000319",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Information Asymmetry: Unequal Knowledge Between Transacting Parties",
+   "t": "Akerlof's 1970 lemons paper showed that when only sellers know a used car's quality, buyers pay for average quality, so owners of good cars withdraw and bad cars drive out good.",
+   "f": "Akerlof's 1970 lemons paper showed that when only buyers know a used car's quality, sellers price for average quality, so owners of bad cars withdraw and good cars drive out bad.",
+   "x": "Akerlof called this a modified Gresham's law. With many quality grades the exit of better cars can cascade until no trade happens, even though trade would occur with symmetric information.",
+   "concepts": [
+    "kt:information-asymmetry",
+    "kt:george-akerlof",
+    "kt:the-market-for-lemons-1970",
+    "kt:adverse-selection"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/information-asymmetry.html"
+  },
+  {
+   "id": "bz-000320",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Information Asymmetry: Unequal Knowledge Between Transacting Parties",
+   "t": "An insurer offering lower premiums in exchange for higher deductibles is screening: the uninformed party designs a menu that makes customers reveal their risk.",
+   "f": "An insurer offering lower premiums in exchange for higher deductibles is signaling: the informed party takes a costly action that reveals its own risk.",
+   "x": "In screening the uninformed side moves first, and low-risk customers self-select into high deductibles. Signaling runs the other way, as when a worker acquires costly education to show productivity.",
+   "concepts": [
+    "kt:information-asymmetry",
+    "kt:screening-theory",
+    "kt:signaling-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/information-asymmetry.html"
+  },
+  {
+   "id": "bz-000321",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Information Asymmetry: Unequal Knowledge Between Transacting Parties",
+   "t": "Emons and George found privately sold used cars in Basle were more likely than average to have defects while dealer-sold cars were less likely, yet judged the lemons problem not widespread.",
+   "f": "Emons and George found dealer-sold used cars in Basle were more likely than average to have defects while privately sold cars were less likely, yet judged the lemons problem not widespread.",
+   "x": "Private sales were about 27% more likely to have defects and dealer sales about 10% less, consistent with dealer reputation acting as a quality guarantee. Few cars were resold at all, so institutions seem to absorb much of the problem.",
+   "concepts": [
+    "kt:information-asymmetry",
+    "kt:adverse-selection"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/information-asymmetry.html"
+  },
+  {
+   "id": "bz-000322",
+   "area": "marketing",
+   "kind": "definition",
+   "topic": "Brand Equity: The Marketing Value of a Brand Name",
+   "t": "Customer-based brand equity is the differential effect brand knowledge has on how consumers respond to a brand's marketing, while the financial view measures incremental cash flow.",
+   "f": "Customer-based brand equity is the incremental cash flow branded products earn over unbranded ones, while the financial view measures consumers' differential response to marketing.",
+   "x": "Keller's customer-based view looks inside buyers' heads: a brand has positive equity when people react better to its price or advertising than to an unnamed offer. The financial view, used by Simon and Sullivan, isolates the extra cash the brand earns.",
+   "concepts": [
+    "kt:brand-equity",
+    "kt:kevin-lane-keller"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/brand-equity.html"
+  },
+  {
+   "id": "bz-000323",
+   "area": "marketing",
+   "kind": "mechanism",
+   "topic": "Brand Equity: The Marketing Value of a Brand Name",
+   "t": "In Keller's brand-resonance pyramid, resonance, the loyalty and engagement customers feel, sits at the top above identity, meaning and responses.",
+   "f": "In Keller's brand-resonance pyramid, identity, who the brand is and what need it meets, sits at the top above meaning, responses and resonance.",
+   "x": "The pyramid builds from the base: first establish identity, then meaning (performance and imagery), then judgments and feelings, and only then the deep loyalty of resonance.",
+   "concepts": [
+    "kt:brand-equity",
+    "kt:kevin-lane-keller",
+    "kt:brand-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/brand-equity.html"
+  },
+  {
+   "id": "bz-000324",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Brand Equity: The Marketing Value of a Brand Name",
+   "t": "Ailawadi, Lehmann and Neslin proposed the revenue premium, the extra revenue a brand earns over a comparable private-label product, as a middle-path brand equity measure.",
+   "f": "Ailawadi, Lehmann and Neslin proposed the price premium, the extra price a brand charges over a comparable private-label product, as a middle-path brand equity measure.",
+   "x": "Revenue captures both price and volume, so it avoids the subjectivity of mindset surveys and the assumptions of market-value methods. They found it reliable and responsive to real changes in brand strength.",
+   "concepts": [
+    "kt:brand-equity",
+    "kt:revenue-premium"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/brand-equity.html"
+  },
+  {
+   "id": "bz-000325",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Total Quality Management: Companywide Quality as a Management System",
+   "t": "The label Total Quality Management was first used by the U.S. Naval Air Systems Command to describe its Japanese-style improvement approach.",
+   "f": "The label Total Quality Management was first used by Japan's Union of Scientists and Engineers to describe its companywide improvement approach.",
+   "x": "JUSE invited Deming to lecture in 1950 and created the Deming Prize, but the Japanese term was companywide quality control. The TQM name came later from the U.S. Navy.",
+   "concepts": [
+    "kt:total-quality-management",
+    "kt:w-edwards-deming",
+    "kt:kaoru-ishikawa"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/total-quality-management.html"
+  },
+  {
+   "id": "bz-000326",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Total Quality Management: Companywide Quality as a Management System",
+   "t": "Powell's 1995 study found TQM's visible tools, like quality training and benchmarking, generally gave no competitive advantage, while open culture, empowerment and executive commitment did.",
+   "f": "Powell's 1995 study found TQM's visible tools, like quality training and benchmarking, gave competitive advantage, while open culture, empowerment and executive commitment generally did not.",
+   "x": "Tools are easy to copy, so they cannot set a firm apart; tacit cultural resources are hard to imitate. Powell concluded firms with those resources could outperform with or without the TQM label.",
+   "concepts": [
+    "kt:total-quality-management",
+    "kt:benchmarking"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/total-quality-management.html"
+  },
+  {
+   "id": "bz-000327",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Total Quality Management: Companywide Quality as a Management System",
+   "t": "Hendricks and Singhal found quality-award winners showed no stock-price edge during implementation but significantly outperformed controls over the following five years.",
+   "f": "Hendricks and Singhal found quality-award winners outperformed controls during implementation but showed no stock-price edge over the following five years.",
+   "x": "Mean gains in the later period were roughly 38% to 46% depending on the control group. The lag suggests TQM pays off slowly, which may explain why impatient programs were abandoned.",
+   "concepts": [
+    "kt:total-quality-management",
+    "kt:malcolm-baldrige-national-quality-award"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/total-quality-management.html"
+  },
+  {
+   "id": "bz-000328",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
+   "t": "Goal-setting theory began with Edwin Locke's laboratory research in the late 1960s, and Gary Latham carried it into the field, starting with pulpwood logging crews.",
+   "f": "Goal-setting theory began with Gary Latham's laboratory research in the late 1960s, and Edwin Locke carried it into the field, starting with pulpwood logging crews.",
+   "x": "Locke's lab studies found specific high goals beat instructions to do one's best; Latham tested the idea with real crews, where productivity and attendance rose within a week. The two consolidated the program into a formal theory in 1990.",
+   "concepts": [
+    "kt:goal-setting-theory",
+    "kt:edwin-locke",
+    "kt:gary-latham"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goal-setting-theory.html"
+  },
+  {
+   "id": "bz-000329",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
+   "t": "Latham's field work found that when goal difficulty was held constant, assigned goals performed as well as participatively set ones, especially when a rationale was given.",
+   "f": "Latham's field work found that even when goal difficulty was held constant, participatively set goals clearly outperformed assigned ones, especially when a rationale was given.",
+   "x": "Participation tended to produce higher goals, and that is where its advantage came from. Once difficulty was equal, the source of the goal mattered little, so explaining the reason behind an assigned goal can work just as well.",
+   "concepts": [
+    "kt:goal-setting-theory",
+    "kt:gary-latham"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goal-setting-theory.html"
+  },
+  {
+   "id": "bz-000330",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
+   "t": "On complex tasks where people lack the needed knowledge, a specific learning goal outperforms both a specific high performance goal and a do-your-best goal.",
+   "f": "On complex tasks where people lack the needed knowledge, a specific high performance goal outperforms both a specific learning goal and a do-your-best goal.",
+   "x": "A performance goal pushes people to execute before they know how, which can backfire. A learning goal, such as finding a set number of strategies, directs effort to building the knowledge first, as a 2004 business-simulation study showed.",
+   "concepts": [
+    "kt:goal-setting-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/goal-setting-theory.html"
+  },
+  {
+   "id": "bz-000331",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
+   "t": "Michael Porter first set out the five forces in a 1979 Harvard Business Review article, How Competitive Forces Shape Strategy, before developing them in Competitive Strategy (1980).",
+   "f": "Michael Porter first set out the five forces in his 1980 book Competitive Strategy, before summarizing them in a 1985 Harvard Business Review article, How Competitive Forces Shape Strategy.",
+   "x": "The HBR article came first, in 1979; the 1980 book paired the forces with the generic strategies of cost leadership, differentiation and focus. Porter revisited the framework in HBR in 2008.",
+   "concepts": [
+    "kt:porters-five-forces",
+    "kt:michael-porter",
+    "kt:how-competitive-forces-shape-strategy-1979"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/porters-five-forces.html"
+  },
+  {
+   "id": "bz-000332",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
+   "t": "In his 2008 restatement, Porter held that government policy and complementary products matter through their effect on the five forces rather than as forces of their own.",
+   "f": "In his 2008 restatement, Porter added government policy and complementary products as a sixth force acting alongside the original five.",
+   "x": "Porter resisted adding a sixth force: regulation or complements matter because they raise or lower entry barriers, buyer power and the rest. He also warned that fast growth does not guarantee profitability.",
+   "concepts": [
+    "kt:porters-five-forces",
+    "kt:industry-analysis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/porters-five-forces.html"
+  },
+  {
+   "id": "bz-000333",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
+   "t": "McGahan and Porter's 1997 study attributed about 19% of variance in US firms' profitability to industry and about 32% to business-specific effects.",
+   "f": "McGahan and Porter's 1997 study attributed about 32% of variance in US firms' profitability to industry and about 19% to business-specific effects.",
+   "x": "They were answering Rumelt's 1991 finding that industry effects were small. Their result showed industry matters, more in services than in manufacturing, but firm-level differences matter more, which resource-based critics stress.",
+   "concepts": [
+    "kt:porters-five-forces",
+    "kt:resource-based-view",
+    "kt:michael-porter"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/porters-five-forces.html"
+  },
+  {
+   "id": "bz-000334",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Structured Problem Solving: The Consultant's Stepwise Method",
+   "t": "In Conn and McLean's seven-step cycle, teams prioritize by pruning the issue tree to branches that most affect the outcome and that they can actually influence.",
+   "f": "In Conn and McLean's seven-step cycle, teams prioritize by pruning the issue tree to branches that are easiest to measure, whether or not they can influence them.",
+   "x": "Prioritizing comes right after disaggregation and before planning the work. It keeps scarce analysis effort on drivers that both matter and are actionable, rather than on what is merely convenient to analyze.",
+   "concepts": [
+    "kt:structured-problem-solving",
+    "kt:issue-tree"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/structured-problem-solving.html"
+  },
+  {
+   "id": "bz-000335",
+   "area": "consulting-and-problem-solving",
+   "kind": "application",
+   "topic": "Structured Problem Solving: The Consultant's Stepwise Method",
+   "t": "Conn recommends keeping a one-day answer, the team's best current view of the solution, and warns that a long, fixed workplan signals the team has stopped iterating.",
+   "f": "Conn recommends holding back any answer until the analysis is complete, and warns that a short, flexible workplan signals the team has stopped iterating.",
+   "x": "The cycle is iterative: each pass refines a working answer rather than building toward a reveal. Conn also suggests letting the most junior members speak first to limit bias.",
+   "concepts": [
+    "kt:structured-problem-solving",
+    "kt:hypothesis-driven-problem-solving"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/structured-problem-solving.html"
+  },
+  {
+   "id": "bz-000336",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Structured Problem Solving: The Consultant's Stepwise Method",
+   "t": "Baer, Dirks and Nickerson argue that diverse teams facing complex, ill-structured problems tend to formulate them too narrowly, which narrows the search for solutions.",
+   "f": "Baer, Dirks and Nickerson argue that diverse teams facing complex, ill-structured problems tend to formulate them too broadly, which scatters the search for solutions.",
+   "x": "Their research supports the method's emphasis on the problem-definition step. They propose collaborative structured inquiry to broaden formulation, and the theory implies a fixed sequence will not help if step one is rushed.",
+   "concepts": [
+    "kt:structured-problem-solving",
+    "kt:problem-formulation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/structured-problem-solving.html"
+  },
+  {
+   "id": "bz-000337",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Management Theory: From Classical Administration to Systems and Contingency Thinking",
+   "t": "Max Weber's ideal type of bureaucracy rests on legal authority, with authority vested in the office rather than in the person who holds it.",
+   "f": "Max Weber's ideal type of bureaucracy rests on charismatic authority, with authority vested in the person rather than in the office they hold.",
+   "x": "Weber's bureaucracy combines specialized roles, merit-based hiring, a clear hierarchy and written rules, so authority survives a change of officeholder. Merton later warned that such rules can become ends in themselves.",
+   "concepts": [
+    "kt:management-theory",
+    "kt:organization-theory"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-theory.html"
+  },
+  {
+   "id": "bz-000338",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Management Theory: From Classical Administration to Systems and Contingency Thinking",
+   "t": "Contingency theory, associated with Joan Woodward, rejects universal rules: the right structure depends on the situation, such as a firm's production technology.",
+   "f": "Contingency theory, associated with Joan Woodward, seeks universal rules: the right structure is the same whatever a firm's production technology.",
+   "x": "Classical theorists looked for one best way to organize. Woodward's view is that the best design varies with circumstances, which is why managers today ask how technology, environment or strategy change the answer.",
+   "concepts": [
+    "kt:management-theory",
+    "kt:contingency-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-theory.html"
+  },
+  {
+   "id": "bz-000339",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Management Theory: From Classical Administration to Systems and Contingency Thinking",
+   "t": "In 1961 Harold Koontz described a management theory jungle of six competing schools and blamed loose terminology and theorists' unwillingness to understand one another.",
+   "f": "In 1961 Harold Koontz described a management theory jungle of six competing schools and blamed too little theorizing and an excess of empirical testing.",
+   "x": "Koontz called for clearer definitions and for testing fundamental principles, not less testing. His critique shows the field's own scholars were among its sharpest critics.",
+   "concepts": [
+    "kt:management-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/management-theory.html"
+  },
+  {
+   "id": "bz-000340",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "Activity-Based Costing: Assigning Overhead by Activities",
+   "t": "Robin Cooper and Robert Kaplan crystallised the case for activity-based costing in a 1988 HBR article, Measure Costs Right: Make the Right Decisions.",
+   "f": "Robin Cooper and Robert Kaplan crystallised the case for activity-based costing in a 1998 HBR article, Measure Costs Right: Make the Right Decisions.",
+   "x": "By the late 1980s automation had shrunk labour and swollen overhead, so labour-hour allocation distorted product costs. Cooper and Kaplan argued ABC could run alongside the official cost system rather than replace it.",
+   "concepts": [
+    "kt:activity-based-costing",
+    "kt:robin-cooper",
+    "kt:robert-s-kaplan",
+    "kt:measure-costs-right-make-the-right-decisions-1988"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/activity-based-costing.html"
+  },
+  {
+   "id": "bz-000341",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Activity-Based Costing: Assigning Overhead by Activities",
+   "t": "Switching to activity-based costing usually raises the unit cost of low-volume products, because batch- and product-level costs like setups are spread over few units.",
+   "f": "Switching to activity-based costing usually lowers the unit cost of low-volume products, because batch- and product-level costs like setups are spread over many units.",
+   "x": "A single labour-hour rate lets high-volume products subsidize low-volume ones. ABC assigns setup and engineering costs to the products that cause them, revealing losses the old system hid.",
+   "concepts": [
+    "kt:activity-based-costing",
+    "kt:cost-accounting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/activity-based-costing.html"
+  },
+  {
+   "id": "bz-000342",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Activity-Based Costing: Assigning Overhead by Activities",
+   "t": "Kaplan and Anderson argued conventional ABC's employee time surveys implicitly assumed staff were fully utilised, hiding idle capacity that time-driven ABC exposes.",
+   "f": "Kaplan and Anderson argued conventional ABC's employee time surveys implicitly assumed staff were half idle, overstating unused capacity that time-driven ABC corrects.",
+   "x": "When people report how they split their time, the shares add up to 100%, so slack disappears. Time-driven ABC uses capacity cost per minute and activity times, so unused capacity shows up explicitly.",
+   "concepts": [
+    "kt:activity-based-costing",
+    "kt:time-driven-activity-based-costing",
+    "kt:robert-s-kaplan"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/activity-based-costing.html"
+  },
+  {
+   "id": "bz-000343",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Board of Directors: The Corporation's Elected Monitors",
+   "t": "Under Delaware's default rules, directors on a classified board can be removed by shareholders only for cause, while other directors can be removed with or without cause.",
+   "f": "Under Delaware's default rules, directors on a classified board can be removed by shareholders with or without cause, while other directors can be removed only for cause.",
+   "x": "A staggered board puts only part of its seats up for election each year, and the for-cause default adds further protection. Together they make it harder for shareholders to replace a board quickly.",
+   "concepts": [
+    "kt:board-of-directors",
+    "kt:delaware-general-corporation-law"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/board-of-directors.html"
   }
  ]
 }

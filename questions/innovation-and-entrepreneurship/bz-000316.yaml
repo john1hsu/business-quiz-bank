@@ -1,0 +1,19 @@
+id: bz-000316
+area: innovation-and-entrepreneurship
+kind: origin
+topic: 'Innovation Management: Organizing the Innovation Process'
+topic_type: Field
+true_statement: Van de Ven's 1986 Management Science article named managing attention, so that people notice the need for novelty, as the human problem of innovation management.
+false_statement: Van de Ven's 1986 Management Science article named managing part-whole relationships, so that people notice the need for novelty, as the human problem of innovation management.
+explanation: 'He listed four problems: attention (human), turning ideas into accepted practice (process), part-whole relationships as an innovation spreads (structural) and institutional leadership (strategic). The attention problem explains why efficient routines dull sensitivity to new needs.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/innovation-management.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 695e1f3c1d3aab528062e2bd515ebbc9225833e9
+concepts:
+- kt:innovation-management
+- kt:central-problems-in-the-management-of-innovation-1986
+difficulty: 2
+created: '2026-11-19'
+status: active

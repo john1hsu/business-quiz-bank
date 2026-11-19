@@ -1,0 +1,20 @@
+id: bz-000294
+area: consulting-and-problem-solving
+kind: evidence
+topic: 'Pyramid Principle: Top-Down Structured Communication'
+topic_type: Framework
+true_statement: Business communication texts advise an indirect opening, with a buffer before the news, when a message will strongly affect the reader or the writer does not know them well.
+false_statement: Business communication texts advise an indirect opening, with a buffer before the news, when the audience values brevity or already expects the news.
+explanation: Answer-first suits readers who want speed or expect the message. Bad news or an unfamiliar reader can call for explanation first, which is the main limit on applying the pyramid everywhere.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/pyramid-principle.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: e20ddd7dd6ce0f3c8da96a40540e6bc2b90997a3
+concepts:
+- kt:pyramid-principle
+- kt:indirect-approach
+- kt:bottom-line-up-front
+difficulty: 2
+created: '2026-11-19'
+status: active

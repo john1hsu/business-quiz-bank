@@ -1,0 +1,19 @@
+id: bz-000278
+area: managerial-economics
+kind: evidence
+topic: Bengt Holmström
+topic_type: Person
+true_statement: With Gorton and Dang, Holmström argued that opacity in money markets can be the result of optimal contracting rather than a flaw.
+false_statement: With Gorton and Dang, Holmström argued that opacity in money markets is a flaw of poor contracting that more transparency would cure.
+explanation: The claim is contrarian because the usual post-crisis prescription for banking is more transparency. Holmström says the view has gained support, but it runs against that common call.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/bengt-holmstrom.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d50567eab4cabb19b5b83ab0ed36ff149303ba66
+concepts:
+- kt:bengt-holmstrom
+- kt:contract-theory
+difficulty: 3
+created: '2026-11-19'
+status: active

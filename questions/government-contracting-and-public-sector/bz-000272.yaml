@@ -1,0 +1,20 @@
+id: bz-000272
+area: government-contracting-and-public-sector
+kind: evidence
+topic: Truth in Negotiations Act
+topic_type: Regulation
+true_statement: A 2016 Naval Postgraduate School analysis argued TINA curbs adverse selection but ignores moral hazard, since beating certified estimates can invite a defective-pricing audit.
+false_statement: A 2016 Naval Postgraduate School analysis argued TINA curbs moral hazard but ignores adverse selection, since beating certified estimates can invite a defective-pricing audit.
+explanation: Forcing cost disclosure limits the information rents a sole-source seller can extract, which is the adverse-selection problem. But under a fixed price, cutting costs far below the certified estimate looks suspicious, which can dull effort or encourage padding.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/truth-in-negotiations-act.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: f8bafa52ee9d6579c53648bdc5eeaf66f31b808a
+concepts:
+- kt:truth-in-negotiations-act
+- kt:adverse-selection
+- kt:principal-agent-problem
+difficulty: 3
+created: '2026-11-19'
+status: active

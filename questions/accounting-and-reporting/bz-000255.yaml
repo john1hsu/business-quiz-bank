@@ -1,0 +1,20 @@
+id: bz-000255
+area: accounting-and-reporting
+kind: definition
+topic: Deferred Revenue
+topic_type: Concept
+true_statement: A contract liability is an obligation to perform for consideration already received or due, whereas a receivable is an unconditional right to cash awaiting only the passage of time.
+false_statement: A receivable is an obligation to perform for consideration already received or due, whereas a contract liability is an unconditional right to cash awaiting only the passage of time.
+explanation: 'Deferred revenue sits on the liability side because the company still owes the customer goods, services or a refund. A receivable is the opposite position: the work is done and the firm is simply waiting to be paid.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/deferred-revenue.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 5b13ff88be300c49f0afa674cd404c00598c7ae7
+concepts:
+- kt:deferred-revenue
+- kt:revenue-recognition-asc-606
+- kt:ifrs
+difficulty: 2
+created: '2026-11-19'
+status: active

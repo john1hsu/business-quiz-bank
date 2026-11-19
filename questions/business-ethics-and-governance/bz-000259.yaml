@@ -1,0 +1,18 @@
+id: bz-000259
+area: business-ethics-and-governance
+kind: evidence
+topic: Board Audit Committee
+topic_type: Concept
+true_statement: April Klein found larger abnormal accruals when fewer than half of audit committee members were independent, but no significant extra benefit from a fully independent committee.
+false_statement: April Klein found larger abnormal accruals when fewer than all audit committee members were independent, with a significant extra benefit only from a fully independent committee.
+explanation: In her study of S&P 500 firms in 1991-1993, the effect appeared at the majority threshold. That cut against the 1999 exchange rules, which demanded committees made up entirely of independent directors.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/audit-committee.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 404ef48f3fe726f2a93ecbf1f6c5d7dcfecd8e4d
+concepts:
+- kt:audit-committee
+difficulty: 3
+created: '2026-11-19'
+status: active

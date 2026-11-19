@@ -1,0 +1,21 @@
+id: bz-000261
+area: business-history-and-cases
+kind: origin
+topic: Netflix's Shift from DVD Rental to Streaming
+topic_type: Case
+true_statement: Netflix began in 1997 as an online DVD rental service charging per rental, and by 2000 it offered unlimited rentals for a flat fee with no late fees.
+false_statement: Netflix began in 1997 as an online DVD rental service charging a flat fee, and by 2000 it had switched to charging per rental with no late fees.
+explanation: The move from per-rental pricing to a flat subscription with no due dates or late fees is the change usually credited with disrupting Blockbuster's store model. That subscription relationship later carried over to streaming.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/netflix-business-model-shift.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: da9731002189b7b241ae07422e8b31133a46fabc
+concepts:
+- kt:netflix-business-model-shift
+- kt:subscription-business-model
+- kt:blockbuster-decline
+- kt:reed-hastings
+difficulty: 1
+created: '2026-11-19'
+status: active

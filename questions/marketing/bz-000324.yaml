@@ -1,0 +1,19 @@
+id: bz-000324
+area: marketing
+kind: evidence
+topic: 'Brand Equity: The Marketing Value of a Brand Name'
+topic_type: Concept
+true_statement: Ailawadi, Lehmann and Neslin proposed the revenue premium, the extra revenue a brand earns over a comparable private-label product, as a middle-path brand equity measure.
+false_statement: Ailawadi, Lehmann and Neslin proposed the price premium, the extra price a brand charges over a comparable private-label product, as a middle-path brand equity measure.
+explanation: Revenue captures both price and volume, so it avoids the subjectivity of mindset surveys and the assumptions of market-value methods. They found it reliable and responsive to real changes in brand strength.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/brand-equity.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 815181bf9ebe2e0550ce04f7ff9ce294b5938c77
+concepts:
+- kt:brand-equity
+- kt:revenue-premium
+difficulty: 3
+created: '2026-11-19'
+status: active

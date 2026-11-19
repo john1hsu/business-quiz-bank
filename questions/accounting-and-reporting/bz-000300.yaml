@@ -1,0 +1,19 @@
+id: bz-000300
+area: accounting-and-reporting
+kind: application
+topic: Revenue from Contracts with Customers
+topic_type: Regulation
+true_statement: When Microsoft adopted the new revenue standard in 2017, Windows 10 revenue once spread over a device's life was instead recognised mainly at billing and delivery.
+false_statement: When Microsoft adopted the new revenue standard in 2017, Windows 10 revenue once recognised at billing and delivery was instead spread over a device's life.
+explanation: Microsoft reported a material effect on its income statements and balance sheets but none on cash flows. The lesson is that the timing of reported revenue can shift sharply while cash and underlying economics stay the same.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/revenue-recognition-asc-606.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 880be2270df1078cd1df1a8c02211c201690971b
+concepts:
+- kt:revenue-recognition-asc-606
+- kt:microsoft
+difficulty: 2
+created: '2026-11-19'
+status: active

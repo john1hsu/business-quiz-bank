@@ -1,0 +1,19 @@
+id: bz-000335
+area: consulting-and-problem-solving
+kind: application
+topic: 'Structured Problem Solving: The Consultant''s Stepwise Method'
+topic_type: Practice
+true_statement: Conn recommends keeping a one-day answer, the team's best current view of the solution, and warns that a long, fixed workplan signals the team has stopped iterating.
+false_statement: Conn recommends holding back any answer until the analysis is complete, and warns that a short, flexible workplan signals the team has stopped iterating.
+explanation: 'The cycle is iterative: each pass refines a working answer rather than building toward a reveal. Conn also suggests letting the most junior members speak first to limit bias.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/structured-problem-solving.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 3abdcb3121100c539a70a8e683ea7edd8871d7f8
+concepts:
+- kt:structured-problem-solving
+- kt:hypothesis-driven-problem-solving
+difficulty: 2
+created: '2026-11-19'
+status: active

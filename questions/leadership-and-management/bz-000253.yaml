@@ -1,0 +1,18 @@
+id: bz-000253
+area: leadership-and-management
+kind: mechanism
+topic: Hersey-Blanchard Situational Leadership Model
+topic_type: Theory
+true_statement: 'In Situational Leadership, follower readiness is task-specific: the same engineer can be highly ready at debugging and low in readiness at presenting to the board.'
+false_statement: 'In Situational Leadership, follower readiness is a stable personality trait: an engineer highly ready at debugging is equally ready at presenting to the board.'
+explanation: Readiness means ability and willingness to direct one's own work on a given task, so a leader may need different styles with the same person. The 1969 article also stressed it reflects experience and education, not age.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/situational-leadership.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: c45f753ba432f9b9caf7ee5ee9a0e8e36e4d71fe
+concepts:
+- kt:situational-leadership
+difficulty: 2
+created: '2026-11-19'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000299
+area: accounting-and-reporting
+kind: evidence
+topic: Revenue from Contracts with Customers
+topic_type: Regulation
+true_statement: A study of 2016-2019 adoption found that US software firms, not electronic-computer makers, gained comparability and a tighter link between revenue accruals and cash under ASC 606.
+false_statement: A study of 2016-2019 adoption found that US electronic-computer makers, not software firms, gained comparability and a tighter link between revenue accruals and cash under ASC 606.
+explanation: Software firms bundle several deliverables across periods, so the new model changed them most; their average adoption adjustment was 4.4% of assets against 1.6% for computer firms. The effects were concentrated rather than universal.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/revenue-recognition-asc-606.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 880be2270df1078cd1df1a8c02211c201690971b
+concepts:
+- kt:revenue-recognition-asc-606
+difficulty: 3
+created: '2026-11-19'
+status: active

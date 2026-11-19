@@ -1,0 +1,20 @@
+id: bz-000309
+area: corporate-finance
+kind: mechanism
+topic: Michael Jensen
+topic_type: Person
+true_statement: Jensen argued in 2005 that overvalued equity creates its own agency costs, as managers unable to justify an inflated share price may make value-destroying acquisitions or manage earnings.
+false_statement: Jensen argued in 2005 that undervalued equity creates its own agency costs, as managers unable to lift a depressed share price may make value-destroying acquisitions or manage earnings.
+explanation: An inflated price sets expectations the business cannot meet, and big equity stakes make managers reluctant to let it correct. This revised his earlier enthusiasm for heavy equity-based pay.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/michael-c-jensen.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 7531faf573ebbe5abf7a2172ea0dff714a283517
+concepts:
+- kt:michael-c-jensen
+- kt:agency-costs
+- kt:executive-compensation
+difficulty: 3
+created: '2026-11-19'
+status: active

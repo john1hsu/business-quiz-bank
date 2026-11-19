@@ -1,0 +1,20 @@
+id: bz-000333
+area: strategy
+kind: evidence
+topic: 'Porter''s Five Forces: Competitive Forces That Shape Industry Profitability'
+topic_type: Framework
+true_statement: McGahan and Porter's 1997 study attributed about 19% of variance in US firms' profitability to industry and about 32% to business-specific effects.
+false_statement: McGahan and Porter's 1997 study attributed about 32% of variance in US firms' profitability to industry and about 19% to business-specific effects.
+explanation: They were answering Rumelt's 1991 finding that industry effects were small. Their result showed industry matters, more in services than in manufacturing, but firm-level differences matter more, which resource-based critics stress.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/porters-five-forces.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 8953be8aa8d60467c6360fbd8743b4f395a14ea0
+concepts:
+- kt:porters-five-forces
+- kt:resource-based-view
+- kt:michael-porter
+difficulty: 3
+created: '2026-11-19'
+status: active

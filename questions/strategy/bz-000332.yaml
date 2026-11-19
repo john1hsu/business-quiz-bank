@@ -1,0 +1,19 @@
+id: bz-000332
+area: strategy
+kind: mechanism
+topic: 'Porter''s Five Forces: Competitive Forces That Shape Industry Profitability'
+topic_type: Framework
+true_statement: In his 2008 restatement, Porter held that government policy and complementary products matter through their effect on the five forces rather than as forces of their own.
+false_statement: In his 2008 restatement, Porter added government policy and complementary products as a sixth force acting alongside the original five.
+explanation: 'Porter resisted adding a sixth force: regulation or complements matter because they raise or lower entry barriers, buyer power and the rest. He also warned that fast growth does not guarantee profitability.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/porters-five-forces.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 8953be8aa8d60467c6360fbd8743b4f395a14ea0
+concepts:
+- kt:porters-five-forces
+- kt:industry-analysis
+difficulty: 2
+created: '2026-11-19'
+status: active

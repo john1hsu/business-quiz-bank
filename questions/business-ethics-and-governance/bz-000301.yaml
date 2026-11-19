@@ -1,0 +1,20 @@
+id: bz-000301
+area: business-ethics-and-governance
+kind: origin
+topic: Proxy Advisory Firm
+topic_type: Concept
+true_statement: In 1988 the US Department of Labor told Avon's management that the fiduciary duties of ERISA pension plans included proxy voting.
+false_statement: In 1988 the US Securities and Exchange Commission told Avon's management that the fiduciary duties of ERISA pension plans included proxy voting.
+explanation: The Labor Department's Avon letter meant pension funds had to vote every ballot item, which created steady demand for outside analysis. ISS, founded in the mid-1980s, was well placed to supply it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/proxy-advisory-firm.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 4bb8d3e37370e1ff09bdd56d7ecd7bf615f1aa11
+concepts:
+- kt:proxy-advisory-firm
+- kt:fiduciary-duty
+- kt:institutional-shareholder-services
+difficulty: 2
+created: '2026-11-19'
+status: active

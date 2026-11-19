@@ -1,0 +1,20 @@
+id: bz-000246
+area: strategy
+kind: origin
+topic: BCG Growth-Share Matrix
+topic_type: Framework
+true_statement: Bruce Henderson set out the logic of the growth-share matrix in a short 1970 essay, The Product Portfolio, and his core argument was about cash, not accounting profit.
+false_statement: Bruce Henderson set out the logic of the growth-share matrix in a short 1970 essay, The Product Portfolio, and his core argument was about accounting profit, not cash.
+explanation: Henderson's point was that fast-growing products absorb cash while slow-growing ones should throw it off, so a firm must move cash between them. Profit on paper can coexist with a product that never generates cash, which he considered worthless.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/bcg-growth-share-matrix.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: d43da9d2ffcadbf9011d8db65ad4ba86de84da9e
+concepts:
+- kt:bcg-growth-share-matrix
+- kt:bruce-henderson
+- kt:the-product-portfolio-1970
+difficulty: 2
+created: '2026-11-19'
+status: active

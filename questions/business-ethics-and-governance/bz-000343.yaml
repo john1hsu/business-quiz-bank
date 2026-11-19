@@ -1,0 +1,19 @@
+id: bz-000343
+area: business-ethics-and-governance
+kind: mechanism
+topic: 'Board of Directors: The Corporation''s Elected Monitors'
+topic_type: Concept
+true_statement: Under Delaware's default rules, directors on a classified board can be removed by shareholders only for cause, while other directors can be removed with or without cause.
+false_statement: Under Delaware's default rules, directors on a classified board can be removed by shareholders with or without cause, while other directors can be removed only for cause.
+explanation: A staggered board puts only part of its seats up for election each year, and the for-cause default adds further protection. Together they make it harder for shareholders to replace a board quickly.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/board-of-directors.md
+  commit: d254c317ea52b5a79176454672ebe6af39e1295e
+  blob: 9aae93068c63d93d40860a467bcae522ed7535dd
+concepts:
+- kt:board-of-directors
+- kt:delaware-general-corporation-law
+difficulty: 3
+created: '2026-11-19'
+status: active
