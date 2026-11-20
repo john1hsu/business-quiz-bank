@@ -1,0 +1,20 @@
+id: bz-000385
+area: accounting-and-reporting
+kind: evidence
+topic: 'DuPont Analysis: Decomposing Return on Equity'
+topic_type: Framework
+true_statement: Nissim and Penman argued the standard DuPont identity mixes operating and financing activities, so they split ROE into operating return plus a leverage-times-spread term.
+false_statement: Nissim and Penman argued the standard DuPont identity overstates operating returns, so they replaced ROE with return on total assets plus a leverage-times-spread term.
+explanation: Their 2001 analysis treats operations as the source of value and separates out how borrowing adds or subtracts from it. They found return on total assets actually understates operating profitability because it blends in financial items.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/dupont-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ff8d06f14c172c6d2650b12227ed5d2f22c60d4e
+concepts:
+- kt:dupont-analysis
+- kt:residual-income-valuation
+- kt:return-on-equity
+difficulty: 3
+created: '2026-11-20'
+status: active

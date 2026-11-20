@@ -1,0 +1,20 @@
+id: bz-000423
+area: leadership-and-management
+kind: evidence
+topic: 'Span of Control: Number of Direct Reports per Manager'
+topic_type: Concept
+true_statement: Wulf found that flattening in large firms moved some decision rights up to top functional managers, so it looked more like centralization than empowerment.
+false_statement: Wulf found that flattening in large firms moved most decision rights down to division heads, so it looked more like empowerment than centralization.
+explanation: As CEOs took on more direct reports and layers disappeared, CEOs became more involved with those reports. Wider spans alone do not push decisions down the hierarchy.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/span-of-control.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 75b9a9ef9b93522fc89a205533f651f80ece52cc
+concepts:
+- kt:span-of-control
+- kt:centralization-and-decentralization
+- kt:decision-rights
+difficulty: 3
+created: '2026-11-20'
+status: active

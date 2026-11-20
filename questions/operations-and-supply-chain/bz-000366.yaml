@@ -1,0 +1,19 @@
+id: bz-000366
+area: operations-and-supply-chain
+kind: mechanism
+topic: 'Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality'
+topic_type: Framework
+true_statement: Spear and Bowen argued that TPS's tightly specified work makes it flexible, because each specification acts as a hypothesis that exposes problems.
+false_statement: Spear and Bowen argued that TPS's loosely specified work makes it flexible, because workers are free to improvise around problems as they arise.
+explanation: After studying over 40 plants, they said the system's real engine is four unwritten rules. Scripting work precisely means any deviation is visible at once, so it can be fixed and the standard improved.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/toyota-production-system.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: e28fec54760b6aae66a79fbeb0ec21c6747dd475
+concepts:
+- kt:toyota-production-system
+- kt:operations-management
+difficulty: 3
+created: '2026-11-20'
+status: active

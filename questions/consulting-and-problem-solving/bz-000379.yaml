@@ -1,0 +1,20 @@
+id: bz-000379
+area: consulting-and-problem-solving
+kind: evidence
+topic: 'Delphi Method: Iterative Anonymous Expert Consensus'
+topic_type: Practice
+true_statement: Rowe and Wright's 1999 review found Delphi groups usually beat unstructured interacting groups but showed no consistent edge over other structured group methods.
+false_statement: Rowe and Wright's 1999 review found Delphi groups usually beat other structured group methods but showed no consistent edge over unstructured interacting groups.
+explanation: Delphi mostly outperformed simple averages and free discussion, yet techniques like the nominal group method did about as well. They also warned that lab versions often strayed from the original design.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/delphi-method.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 31a7df94f861d5d4ec2524b2ad269552a3d71c36
+concepts:
+- kt:delphi-method
+- kt:nominal-group-technique
+- kt:forecasting
+difficulty: 3
+created: '2026-11-20'
+status: active

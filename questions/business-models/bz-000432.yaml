@@ -1,0 +1,19 @@
+id: bz-000432
+area: business-models
+kind: evidence
+topic: 'Platform Business Model: Value Creation by Orchestrating External Producers and Consumers'
+topic_type: BusinessModel
+true_statement: Yoffie's team counted about 209 platform failures against roughly 45 lasting successes from 1995 to 2015, most failing within five years.
+false_statement: Yoffie's team counted about 45 platform failures against roughly 209 lasting successes from 1995 to 2015, most failing within five years.
+explanation: Network effects alone do not guarantee success. Common killers were mispriced subsidies, failing to build trust between strangers, mistimed entry and the cost of attracting outside participants.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/platform-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 442496c7762e4671b0f5331d4adbddfd916fce8c
+concepts:
+- kt:platform-business-model
+- kt:network-effect
+difficulty: 3
+created: '2026-11-20'
+status: active

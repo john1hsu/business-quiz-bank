@@ -1,0 +1,20 @@
+id: bz-000389
+area: business-models
+kind: origin
+topic: 'Long Tail: Aggregating Demand for Niche Products'
+topic_type: BusinessModel
+true_statement: Chris Anderson, then editor of Wired, introduced the long tail in the magazine's October 2004 issue and later expanded it into a book.
+false_statement: Chris Anderson, then editor of Wired, introduced the long tail in the magazine's October 2008 issue and later expanded it into a book.
+explanation: Anderson built the idea on 2004 data from Amazon, Netflix and Rhapsody showing large sales outside the titles a physical store could stock. 2008 is the year of Anita Elberse's best-known critique in Harvard Business Review.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/long-tail.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8da7af21824508125b5833ad5b3a2b1ad3a9e9e9
+concepts:
+- kt:long-tail
+- kt:chris-anderson
+- kt:the-long-tail-wired-2004
+difficulty: 1
+created: '2026-11-20'
+status: active

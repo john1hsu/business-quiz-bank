@@ -1,0 +1,19 @@
+id: bz-000417
+area: business-ethics-and-governance
+kind: mechanism
+topic: 'Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value'
+topic_type: Theory
+true_statement: Jensen argued multi-measure tools like the balanced scorecard can help managers understand value drivers but should not be used to set their pay.
+false_statement: Jensen argued multi-measure tools like the balanced scorecard should be used to set managers' pay but cannot help them understand value drivers.
+explanation: His enlightened value maximization insists on one criterion, long-run firm value, because nobody can maximize in several dimensions at once. A scorecard has no single score, so tying pay to it leaves trade-offs unresolved.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/shareholder-primacy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 65661700b7d666459e1adcfd8875e55f29d96fb8
+concepts:
+- kt:shareholder-primacy
+- kt:michael-c-jensen
+difficulty: 3
+created: '2026-11-20'
+status: active

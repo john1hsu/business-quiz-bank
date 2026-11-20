@@ -1,0 +1,20 @@
+id: bz-000397
+area: government-contracting-and-public-sector
+kind: figure
+topic: 'DFARS: Defense Department Rules Layered on Top of the FAR'
+topic_type: Regulation
+true_statement: The Section 809 Panel reported in 2018 that, of 165 government clauses for commercial-item buys under the FAR and DFARS, 122 came from statute.
+false_statement: The Section 809 Panel reported in 2018 that, of 165 government clauses for commercial-item buys under the FAR and DFARS, 122 came from agency policy.
+explanation: The clause count had nearly tripled from 57 in 1995, but only 23 came from agency policy. So much of the complexity contractors blame on DoD actually rests on laws Congress passed.
+as_of: '2018'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/defense-federal-acquisition-regulation-supplement.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 61f016e85ab0d9c72eb52249fe71bd6a756d1a4a
+concepts:
+- kt:defense-federal-acquisition-regulation-supplement
+- kt:department-of-defense
+difficulty: 3
+created: '2026-11-20'
+status: active

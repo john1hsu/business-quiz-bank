@@ -1,0 +1,20 @@
+id: bz-000391
+area: business-models
+kind: figure
+topic: 'Long Tail: Aggregating Demand for Niche Products'
+topic_type: BusinessModel
+true_statement: Greater variety at online booksellers raised U.S. consumer welfare by an estimated $731 million to $1.03 billion in 2000, 7 to 10 times the gain from lower prices.
+false_statement: Greater variety at online booksellers raised U.S. consumer welfare by an estimated $731 million to $1.03 billion in 2000, about one-tenth the gain from lower prices.
+explanation: Brynjolfsson, Hu and Smith found Amazon offered over 23 times the titles of a typical superstore. Access to obscure books, not cheaper prices, was the main benefit of online bookselling to consumers.
+as_of: '2000'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/long-tail.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8da7af21824508125b5833ad5b3a2b1ad3a9e9e9
+concepts:
+- kt:long-tail
+- kt:amazon
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,21 @@
+id: bz-000367
+area: operations-and-supply-chain
+kind: figure
+topic: 'Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality'
+topic_type: Framework
+true_statement: In 1983 Toyota turned its inventory about 36 times, versus roughly 11 to 12 times for the U.S. automakers.
+false_statement: In 1983 Toyota turned its inventory about 12 times, versus roughly 36 times for the U.S. automakers.
+explanation: Cusumano's comparison shows how little stock just-in-time leaves in the system. Because Toyota was also more capital-intensive per car, the gap was credited to the system as a whole rather than to cheap labor.
+as_of: '1983'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/toyota-production-system.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: e28fec54760b6aae66a79fbeb0ec21c6747dd475
+concepts:
+- kt:toyota-production-system
+- kt:toyota-motor-corporation
+- kt:mass-production
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000408
+area: operations-and-supply-chain
+kind: mechanism
+topic: 'Lean Manufacturing: Eliminating Waste Across the Value Stream'
+topic_type: Framework
+true_statement: In Womack and Jones's five lean principles, the customer pulls production wherever continuous flow is not yet possible.
+false_statement: In Womack and Jones's five lean principles, a forecast pushes production wherever continuous flow is not yet possible.
+explanation: The principles run from specifying value and mapping the value stream to creating flow, then pull, then pursuing perfection. Pull means nothing is made until downstream demand asks for it, which keeps inventory from piling up.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/lean-manufacturing.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: be4e04c77a34160e67d28e9df46d057382cd7525
+concepts:
+- kt:lean-manufacturing
+- kt:just-in-time
+difficulty: 2
+created: '2026-11-20'
+status: active

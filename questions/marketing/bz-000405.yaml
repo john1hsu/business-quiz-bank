@@ -1,0 +1,19 @@
+id: bz-000405
+area: marketing
+kind: evidence
+topic: 'Marketing Mix: The Four Ps of Product, Price, Place and Promotion'
+topic_type: Framework
+true_statement: 'Constantinides'' 2006 review found two weaknesses of the 4Ps common across marketing fields: an internal, seller-side orientation and no room for personalisation.'
+false_statement: 'Constantinides'' 2006 review found two weaknesses of the 4Ps common across marketing fields: an external, customer-side orientation and too much room for personalisation.'
+explanation: The mix was built for mass markets and describes what the seller controls, not what customers need. That gap is why relationship and services marketers proposed alternatives or extensions.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/marketing-mix.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 10e0764e5d2f55127823bef9c0f3a75e2cad8b77
+concepts:
+- kt:marketing-mix
+- kt:relationship-marketing
+difficulty: 3
+created: '2026-11-20'
+status: active

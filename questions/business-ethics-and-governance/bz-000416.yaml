@@ -1,0 +1,20 @@
+id: bz-000416
+area: business-ethics-and-governance
+kind: application
+topic: 'Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value'
+topic_type: Theory
+true_statement: In Dodge v. Ford, the Michigan court in 1919 sided with minority shareholders and ordered a dividend after Ford withheld profits to cut prices and expand.
+false_statement: In Dodge v. Ford, the Michigan court in 1919 sided with Henry Ford and let him withhold dividends so he could cut prices and expand.
+explanation: The court said a business exists for the profit of its stockholders and ordered about $19.3 million paid out. Ford then bought out the minority holders, which freed him from the constraint.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/shareholder-primacy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 65661700b7d666459e1adcfd8875e55f29d96fb8
+concepts:
+- kt:shareholder-primacy
+- kt:dodge-v-ford-motor-co
+- kt:fiduciary-duty
+difficulty: 1
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000369
+area: organizational-behavior
+kind: evidence
+topic: 'Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge'
+topic_type: Concept
+true_statement: In a competency trap, good results with an inferior routine build so much experience with it that a superior alternative is never adopted.
+false_statement: In superstitious learning, good results with an inferior routine build so much experience with it that a superior alternative is never adopted.
+explanation: Levitt and March named both pathologies. The competency trap is about experience locking in a second-best routine; superstitious learning is drawing confident but wrong conclusions about what caused an outcome.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-learning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ea30c2a2716d4518349ae2e93316f39e5a4d1e44
+concepts:
+- kt:organizational-learning
+- kt:organizational-ambidexterity
+difficulty: 2
+created: '2026-11-20'
+status: active

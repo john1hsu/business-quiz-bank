@@ -1,0 +1,20 @@
+id: bz-000407
+area: operations-and-supply-chain
+kind: origin
+topic: 'Lean Manufacturing: Eliminating Waste Across the Value Stream'
+topic_type: Framework
+true_statement: The Machine That Changed the World (1990) defined lean largely by outcomes, and Lean Thinking (1996) recast it as a roadmap any organization could follow.
+false_statement: Lean Thinking (1990) defined lean largely by outcomes, and The Machine That Changed the World (1996) recast it as a roadmap any organization could follow.
+explanation: The MIT car-industry study showed lean plants doing more with less than mass producers. Womack and Jones's later book turned those findings into principles, and the Lean Enterprise Institute followed in 1997 to spread them.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/lean-manufacturing.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: be4e04c77a34160e67d28e9df46d057382cd7525
+concepts:
+- kt:lean-manufacturing
+- kt:the-machine-that-changed-the-world
+- kt:mass-production
+difficulty: 2
+created: '2026-11-20'
+status: active

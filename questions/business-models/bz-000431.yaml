@@ -1,0 +1,20 @@
+id: bz-000431
+area: business-models
+kind: definition
+topic: 'Platform Business Model: Value Creation by Orchestrating External Producers and Consumers'
+topic_type: BusinessModel
+true_statement: Cusumano, Gawer and Yoffie classify Windows and AWS as innovation platforms that enable third-party complements, and Uber as a transaction platform that matches buyers and sellers.
+false_statement: Cusumano, Gawer and Yoffie classify Windows and AWS as transaction platforms that match buyers and sellers, and Uber as an innovation platform that enables third-party complements.
+explanation: Innovation platforms are foundations others build products on; transaction platforms reduce friction in exchanges. Hybrids such as some large tech firms do both.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/platform-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 442496c7762e4671b0f5331d4adbddfd916fce8c
+concepts:
+- kt:platform-business-model
+- kt:business-ecosystem
+- kt:two-sided-market
+difficulty: 2
+created: '2026-11-20'
+status: active

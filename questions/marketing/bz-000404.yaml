@@ -1,0 +1,20 @@
+id: bz-000404
+area: marketing
+kind: origin
+topic: 'Marketing Mix: The Four Ps of Product, Price, Place and Promotion'
+topic_type: Framework
+true_statement: Neil Borden popularised the term marketing mix, and E. Jerome McCarthy later condensed Borden's list of twelve ingredients into the four Ps.
+false_statement: E. Jerome McCarthy popularised the term marketing mix, and Neil Borden later condensed McCarthy's list of twelve ingredients into the four Ps.
+explanation: Borden's twelve ingredients ran from product planning and pricing to packaging, display and fact finding. McCarthy's simpler product, price, place and promotion became the dominant teaching framework.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/marketing-mix.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 10e0764e5d2f55127823bef9c0f3a75e2cad8b77
+concepts:
+- kt:marketing-mix
+- kt:neil-borden
+- kt:the-concept-of-the-marketing-mix-1964
+difficulty: 1
+created: '2026-11-20'
+status: active

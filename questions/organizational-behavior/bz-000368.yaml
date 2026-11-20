@@ -1,0 +1,19 @@
+id: bz-000368
+area: organizational-behavior
+kind: definition
+topic: 'Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge'
+topic_type: Concept
+true_statement: Argyris's double-loop learning both corrects an action after an error and questions the assumptions and goals that lay behind the action.
+false_statement: Argyris's single-loop learning both corrects an action after an error and questions the assumptions and goals that lay behind the action.
+explanation: Single-loop learning only fixes the action, like a thermostat switching on heat below 68 degrees. Double-loop learning also asks why the setting is 68, which is harder because it challenges the learner's own reasoning.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-learning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ea30c2a2716d4518349ae2e93316f39e5a4d1e44
+concepts:
+- kt:organizational-learning
+- kt:double-loop-learning
+difficulty: 1
+created: '2026-11-20'
+status: active

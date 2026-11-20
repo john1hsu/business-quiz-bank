@@ -1,0 +1,20 @@
+id: bz-000364
+area: marketing
+kind: application
+topic: 'Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing'
+topic_type: Strategy
+true_statement: In pricing practice, unit cost sets the floor, competitors' prices set a reference point, and customer value sets the ceiling a strategy tries to approach.
+false_statement: In pricing practice, customer value sets the floor, competitors' prices set a reference point, and unit cost sets the ceiling a strategy tries to approach.
+explanation: Pricing below cost loses money on each unit, while buyers will not pay more than the product is worth to them. A supermarket that priced a yogurt from cost alone risked leaving money on the table below that value ceiling.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/pricing-strategy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 47a1b2f2673f96c2093b1dd59e575a3fd1adf957
+concepts:
+- kt:pricing-strategy
+- kt:value-based-pricing
+- kt:cost-plus-pricing
+difficulty: 1
+created: '2026-11-20'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000383
+area: accounting-and-reporting
+kind: mechanism
+topic: 'DuPont Analysis: Decomposing Return on Equity'
+topic_type: Framework
+true_statement: In the three-step DuPont formula, ROE equals profit margin times total asset turnover times the equity multiplier, total assets over shareholders' equity.
+false_statement: In the three-step DuPont formula, ROE equals profit margin times total asset turnover times the debt ratio, total liabilities over total assets.
+explanation: 'Sales and total assets cancel across the three ratios, leaving net income over equity. The equity multiplier is the leverage term: the more assets financed by liabilities, the higher it is.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/dupont-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ff8d06f14c172c6d2650b12227ed5d2f22c60d4e
+concepts:
+- kt:dupont-analysis
+- kt:return-on-equity
+- kt:capital-structure
+difficulty: 1
+created: '2026-11-20'
+status: active

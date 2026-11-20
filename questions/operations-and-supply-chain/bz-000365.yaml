@@ -1,0 +1,20 @@
+id: bz-000365
+area: operations-and-supply-chain
+kind: origin
+topic: 'Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality'
+topic_type: Framework
+true_statement: Toyota credits just-in-time to Kiichiro Toyoda's flow production, and traces jidoka to Sakichi Toyoda's looms that stopped when a thread broke.
+false_statement: Toyota credits just-in-time to Sakichi Toyoda's flow production, and traces jidoka to Kiichiro Toyoda's looms that stopped when a thread broke.
+explanation: 'The two pillars come from two generations: Sakichi''s self-stopping looms (from 1896) gave jidoka, and Kiichiro installed conveyor flow production in 1927. Taiichi Ohno later combined them into a working system after the war.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/toyota-production-system.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: e28fec54760b6aae66a79fbeb0ec21c6747dd475
+concepts:
+- kt:toyota-production-system
+- kt:just-in-time
+- kt:jidoka
+difficulty: 2
+created: '2026-11-20'
+status: active

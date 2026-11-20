@@ -1,0 +1,20 @@
+id: bz-000386
+area: business-history-and-cases
+kind: mechanism
+topic: 'Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron'
+topic_type: Case
+true_statement: The SEC alleged that Enron's CFO used special purpose entities he secretly controlled so that Enron overstated net income and understated debt.
+false_statement: The SEC alleged that Enron's CFO used special purpose entities he secretly controlled so that Enron understated net income and overstated debt.
+explanation: A properly independent SPE can keep assets and debt off the sponsor's balance sheet. Because Fastow controlled vehicles like Chewco and LJM, or they were guaranteed against loss, they were not truly independent, so the deals flattered profits and hid borrowing.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/enron-scandal.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 2b4ec0bd4312b16e77615ed6683c13ccd4aebb14
+concepts:
+- kt:enron-scandal
+- kt:special-purpose-entity
+- kt:information-asymmetry
+difficulty: 2
+created: '2026-11-20'
+status: active

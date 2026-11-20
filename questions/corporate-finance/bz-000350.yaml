@@ -1,0 +1,20 @@
+id: bz-000350
+area: corporate-finance
+kind: origin
+topic: 'Capital Asset Pricing Model: Pricing Systematic Risk'
+topic_type: Theory
+true_statement: William Sharpe published the capital asset pricing model in The Journal of Finance in 1964, building on portfolio theory Harry Markowitz introduced in 1952.
+false_statement: William Sharpe published the capital asset pricing model in The Journal of Finance in 1964, building on portfolio theory Merton Miller introduced in 1952.
+explanation: Markowitz's 1952 portfolio theory showed how diversification reduces risk; Sharpe asked what that implies for prices in equilibrium. Miller shared the 1990 Nobel with both men, but for corporate finance work, not portfolio theory.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/capital-asset-pricing-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d0f0a8e2a8ecfc6dfaae33a3174849e4758b23bd
+concepts:
+- kt:capital-asset-pricing-model
+- kt:william-sharpe
+- kt:modern-portfolio-theory
+difficulty: 1
+created: '2026-11-20'
+status: active

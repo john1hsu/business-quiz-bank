@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 342,
- "active": 342,
+ "count": 436,
+ "active": 436,
  "questions": [
   {
    "id": "bz-000001",
@@ -5561,6 +5561,1577 @@
    "difficulty": 3,
    "status": "active",
    "source": "https://john1hsu.github.io/business-knowledge-graph/articles/board-of-directors.html"
+  },
+  {
+   "id": "bz-000344",
+   "area": "business-history-and-cases",
+   "kind": "origin",
+   "topic": "Scientific Management: Taylor's System of Task Study and Standardized Work",
+   "t": "Frederick Taylor began timing shop tasks with a stopwatch at Midvale Steel in 1881, work that became the base of scientific management.",
+   "f": "Frederick Taylor began timing shop tasks with a stopwatch at Bethlehem Steel in 1881, work that became the base of scientific management.",
+   "x": "Taylor joined Midvale as a laborer in 1878 and started his time studies there. Bethlehem Steel came later, as his biggest consulting client, where he ran the shoveling and pig-iron studies.",
+   "concepts": [
+    "kt:scientific-management",
+    "kt:frederick-winslow-taylor"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scientific-management.html"
+  },
+  {
+   "id": "bz-000345",
+   "area": "business-history-and-cases",
+   "kind": "definition",
+   "topic": "Scientific Management: Taylor's System of Task Study and Standardized Work",
+   "t": "Taylor saw soldiering, the deliberate holding down of output, mainly as workers' systematic defence against piece-rate cuts and job losses.",
+   "f": "Taylor saw soldiering, the deliberate holding down of output, mainly as workers' natural laziness rather than a defence against piece-rate cuts.",
+   "x": "Taylor granted some natural inclination to take it easy, but blamed most restriction of output on workers protecting themselves from rate cuts and layoffs. That is why he argued higher productivity had to benefit both employer and employee.",
+   "concepts": [
+    "kt:scientific-management",
+    "kt:soldiering"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scientific-management.html"
+  },
+  {
+   "id": "bz-000346",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Scientific Management: Taylor's System of Task Study and Standardized Work",
+   "t": "Historian Charles Wrege argued that Taylor's assistants largely ran the pig-iron studies and that Morris L. Cooke substantially drafted Taylor's 1911 book.",
+   "f": "Historian Charles Wrege argued that Taylor's assistants largely ran the pig-iron studies and that Henry Gantt substantially drafted Taylor's 1911 book.",
+   "x": "After decades in the Taylor archives, Wrege concluded the famous anecdotes in The Principles of Scientific Management were embellished and the text owed much to Cooke. Gantt was a Taylor associate known for his progress chart, not for writing the book.",
+   "concepts": [
+    "kt:scientific-management",
+    "kt:the-principles-of-scientific-management",
+    "kt:gantt-chart"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scientific-management.html"
+  },
+  {
+   "id": "bz-000347",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Subscription Business Model: Selling Ongoing Access",
+   "t": "In the shifted-beta-geometric model, a subscriber cohort's retention rate rises over time because high-churn customers leave first, not because individuals grow more loyal.",
+   "f": "In the shifted-beta-geometric model, a subscriber cohort's retention rate rises over time because individuals grow more loyal, not because high-churn customers leave first.",
+   "x": "Fader and Hardie give each customer a constant churn probability that varies across customers. As the churn-prone drop out, the survivors are the low-churn types, so aggregate retention climbs even though nobody's own probability changes.",
+   "concepts": [
+    "kt:subscription-business-model",
+    "kt:churn-rate",
+    "kt:customer-lifetime-value"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/subscription-business-model.html"
+  },
+  {
+   "id": "bz-000348",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Subscription Business Model: Selling Ongoing Access",
+   "t": "Lambrecht and Skiera found that internet customers who picked a flat rate when pay-per-use was cheaper did not churn significantly more, while those wrongly on pay-per-use churned much more.",
+   "f": "Lambrecht and Skiera found that internet customers who picked a flat rate when pay-per-use was cheaper churned much more, while those wrongly on pay-per-use did not churn significantly more.",
+   "x": "Customers paid extra for a flat rate to insure against variable bills, enjoy usage without a running meter, or because they overestimated use. That bias raised profit without raising churn, which is part of why flat-rate subscriptions can beat their unit economics.",
+   "concepts": [
+    "kt:subscription-business-model",
+    "kt:churn-rate"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/subscription-business-model.html"
+  },
+  {
+   "id": "bz-000349",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Subscription Business Model: Selling Ongoing Access",
+   "t": "Research summarized in 2023 reported that subscription-based firms had grown 3.7 times faster than the S&P 500 over the preceding decade.",
+   "f": "Research summarized in 2023 reported that subscription-based firms had grown 1.7 times faster than the S&P 500 over the preceding decade.",
+   "x": "Ofek and Konary cited this growth gap alongside the finding that nearly three-quarters of direct-to-consumer companies offered a subscription option, showing how mainstream the model had become.",
+   "concepts": [
+    "kt:subscription-business-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/subscription-business-model.html",
+   "asOf": "2023"
+  },
+  {
+   "id": "bz-000350",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Capital Asset Pricing Model: Pricing Systematic Risk",
+   "t": "William Sharpe published the capital asset pricing model in The Journal of Finance in 1964, building on portfolio theory Harry Markowitz introduced in 1952.",
+   "f": "William Sharpe published the capital asset pricing model in The Journal of Finance in 1964, building on portfolio theory Merton Miller introduced in 1952.",
+   "x": "Markowitz's 1952 portfolio theory showed how diversification reduces risk; Sharpe asked what that implies for prices in equilibrium. Miller shared the 1990 Nobel with both men, but for corporate finance work, not portfolio theory.",
+   "concepts": [
+    "kt:capital-asset-pricing-model",
+    "kt:william-sharpe",
+    "kt:modern-portfolio-theory"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-asset-pricing-model.html"
+  },
+  {
+   "id": "bz-000351",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Capital Asset Pricing Model: Pricing Systematic Risk",
+   "t": "In the CAPM, only systematic risk earns a reward, because company-specific risk cancels out in a diversified portfolio.",
+   "f": "In the CAPM, only company-specific risk earns a reward, because systematic risk cancels out in a diversified portfolio.",
+   "x": "Diversification can wash out risks peculiar to one firm but not market-wide swings, so investors are paid only for bearing the latter. Beta measures that market exposure, which is why it is the model's single risk input.",
+   "concepts": [
+    "kt:capital-asset-pricing-model",
+    "kt:asset-pricing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-asset-pricing-model.html"
+  },
+  {
+   "id": "bz-000352",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Capital Asset Pricing Model: Pricing Systematic Risk",
+   "t": "Tests of the CAPM found the return-beta line too flat: low-beta stocks earned more, and high-beta stocks less, than the model predicts.",
+   "f": "Tests of the CAPM found the return-beta line too steep: low-beta stocks earned less, and high-beta stocks more, than the model predicts.",
+   "x": "In Fama and French's beta-sorted portfolios for 1928–2003, the lowest-beta group beat its prediction while the highest-beta group fell short. Returns rose with beta, just much less steeply than theory says.",
+   "concepts": [
+    "kt:capital-asset-pricing-model",
+    "kt:fama-french-three-factor-model"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-asset-pricing-model.html"
+  },
+  {
+   "id": "bz-000353",
+   "area": "government-contracting-and-public-sector",
+   "kind": "definition",
+   "topic": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
+   "t": "Under the federal rule of two, work must be set aside when a contracting officer expects offers from two or more responsible small businesses at fair market prices.",
+   "f": "Under the federal rule of two, work must be set aside when a contracting officer expects offers from three or more responsible small businesses at fair market prices.",
+   "x": "The rule's name is its threshold: two credible small-business offers are enough to expect real price competition among small firms. Market research and past buying history inform the judgment, but the test itself is the reasonable expectation of two such offers.",
+   "concepts": [
+    "kt:small-business-set-asides",
+    "kt:contracting-officer",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/small-business-set-asides.html"
+  },
+  {
+   "id": "bz-000354",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
+   "t": "Nakabayashi estimated that removing set-asides in Japanese public construction would drive out about 40% of small firms and raise procurement costs overall.",
+   "f": "Nakabayashi estimated that removing set-asides in Japanese public construction would drive out about 40% of small firms but lower procurement costs overall.",
+   "x": "In that market the protected firms would exit without set-asides, and the lost competition costs more than the efficiency gained. US timber-sale evidence points the other way, so a set-aside's cost depends on whether small firms would otherwise stay in.",
+   "concepts": [
+    "kt:small-business-set-asides",
+    "kt:bidder-subsidies"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/small-business-set-asides.html"
+  },
+  {
+   "id": "bz-000355",
+   "area": "government-contracting-and-public-sector",
+   "kind": "application",
+   "topic": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
+   "t": "In Kingdomware (2016), a unanimous Supreme Court held that the VA's veteran-business rule of two applies to every covered contract, even after its annual goals are met.",
+   "f": "In Kingdomware (2016), a unanimous Supreme Court held that the VA's veteran-business rule of two becomes optional for contracts once its annual goals are met.",
+   "x": "The VA had treated the rule as a target it could stop applying after hitting its goals. Justice Thomas's opinion read the statute's 'shall' as a duty covering each contract, including Federal Supply Schedule orders.",
+   "concepts": [
+    "kt:small-business-set-asides",
+    "kt:kingdomware-technologies-v-united-states"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/small-business-set-asides.html"
+  },
+  {
+   "id": "bz-000356",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
+   "t": "In open innovation's inside-out mode, unused internal ideas leave the firm through out-licensing, spin-outs and corporate venture capital.",
+   "f": "In open innovation's outside-in mode, unused internal ideas leave the firm through out-licensing, spin-outs and corporate venture capital.",
+   "x": "Chesbrough and Bogers separate inbound flows (outside-in: scouting, in-licensing, crowdsourcing) from outbound ones (inside-out: letting ideas that don't fit the business model reach market elsewhere). A coupled mode combines both with partners.",
+   "concepts": [
+    "kt:open-innovation",
+    "kt:venture-capital",
+    "kt:business-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/open-innovation.html"
+  },
+  {
+   "id": "bz-000357",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "definition",
+   "topic": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
+   "t": "Chesbrough's false negatives are projects a closed firm judged unpromising that later proved valuable elsewhere, as with technologies from Xerox PARC.",
+   "f": "Chesbrough's false positives are projects a closed firm judged unpromising that later proved valuable elsewhere, as with technologies from Xerox PARC.",
+   "x": "A false negative is a wrong 'no': the firm rejects something that is actually worth a lot. Chesbrough used these lost opportunities to argue that closed innovation wastes value a firm could capture by licensing or spinning ideas out.",
+   "concepts": [
+    "kt:open-innovation",
+    "kt:closed-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/open-innovation.html"
+  },
+  {
+   "id": "bz-000358",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
+   "t": "Laursen and Salter's 2006 study of UK manufacturers found that drawing on more external knowledge sources helps innovation only up to a point, forming an inverted U.",
+   "f": "Laursen and Salter's 2006 study of UK manufacturers found that drawing on more external knowledge sources hurts innovation only up to a point, forming a U shape.",
+   "x": "Broader and deeper external search both raised innovation at first and then turned negative, implying firms can over-search and spread attention too thin. The study of 2,707 firms is the best-known empirical test of open innovation.",
+   "concepts": [
+    "kt:open-innovation",
+    "kt:absorptive-capacity"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/open-innovation.html"
+  },
+  {
+   "id": "bz-000359",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision",
+   "t": "Ronald Coase's 1937 article The Nature of the Firm argued that firms exist because using the market carries costs of negotiating and monitoring contracts.",
+   "f": "Ronald Coase's 1937 article The Nature of the Firm argued that firms exist because managerial authority carries costs of negotiating and monitoring contracts.",
+   "x": "Coase asked why so much allocation happens by command inside firms if prices allocate resources. His answer: markets are not free to use, so a firm grows until one more internal transaction would cost more than buying it outside.",
+   "concepts": [
+    "kt:transaction-cost-economics",
+    "kt:ronald-coase",
+    "kt:the-nature-of-the-firm-1937"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/transaction-cost-economics.html"
+  },
+  {
+   "id": "bz-000360",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision",
+   "t": "In transaction cost economics, high asset specificity turns competitive bidding into small-numbers bargaining, which makes hierarchy more attractive than market buying.",
+   "f": "In transaction cost economics, high asset specificity turns small-numbers bargaining into competitive bidding, which makes market buying more attractive than hierarchy.",
+   "x": "Once investments are tailored to one relationship, they lose value elsewhere, so each side can hold the other up. Williamson predicted generic inputs get bought while specific ones are better made in-house or protected by contract.",
+   "concepts": [
+    "kt:transaction-cost-economics",
+    "kt:make-or-buy-decision",
+    "kt:vertical-integration",
+    "kt:oliver-williamson"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/transaction-cost-economics.html"
+  },
+  {
+   "id": "bz-000361",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision",
+   "t": "Monteverde and Teece found that U.S. auto components needing specialized engineering know-how were more likely to be made in-house.",
+   "f": "Monteverde and Teece found that U.S. auto components needing specialized engineering know-how were more likely to be bought from outside suppliers.",
+   "x": "Their probit study was an early test of TCE: know-how tied to a particular car maker is a specific asset, so integration protects it from hold-up. The result matched Williamson's prediction.",
+   "concepts": [
+    "kt:transaction-cost-economics",
+    "kt:david-j-teece",
+    "kt:vertical-integration"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/transaction-cost-economics.html"
+  },
+  {
+   "id": "bz-000362",
+   "area": "marketing",
+   "kind": "figure",
+   "topic": "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing",
+   "t": "Averaging pricing studies from 1983–2006, Hinterhuber found only about 17% of firms set prices from customer value, versus about 44% from competition.",
+   "f": "Averaging pricing studies from 1983–2006, Hinterhuber found about 44% of firms set prices from customer value, versus only about 17% from competition.",
+   "x": "Competition-based pricing was most common and cost-based came second at about 37%, leaving value-based pricing last even though scholars rate it the strongest approach. Hinterhuber traced the gap to obstacles such as hard-to-assess value and discount-prone sales forces.",
+   "concepts": [
+    "kt:pricing-strategy",
+    "kt:value-based-pricing",
+    "kt:cost-plus-pricing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pricing-strategy.html",
+   "asOf": "1983-2006"
+  },
+  {
+   "id": "bz-000363",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing",
+   "t": "A study of digital camera launches found plain market pricing was far more common than either price skimming or penetration pricing.",
+   "f": "A study of digital camera launches found price skimming was far more common than either plain market pricing or penetration pricing.",
+   "x": "Spann, Fischer and Tellis found skimming and penetration each described only about a fifth of launch paths, with market pricing covering the rest. Crowded markets and late entry left little room for a distinct strategic price.",
+   "concepts": [
+    "kt:pricing-strategy",
+    "kt:price-skimming",
+    "kt:penetration-pricing"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pricing-strategy.html"
+  },
+  {
+   "id": "bz-000364",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing",
+   "t": "In pricing practice, unit cost sets the floor, competitors' prices set a reference point, and customer value sets the ceiling a strategy tries to approach.",
+   "f": "In pricing practice, customer value sets the floor, competitors' prices set a reference point, and unit cost sets the ceiling a strategy tries to approach.",
+   "x": "Pricing below cost loses money on each unit, while buyers will not pay more than the product is worth to them. A supermarket that priced a yogurt from cost alone risked leaving money on the table below that value ceiling.",
+   "concepts": [
+    "kt:pricing-strategy",
+    "kt:value-based-pricing",
+    "kt:cost-plus-pricing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/pricing-strategy.html"
+  },
+  {
+   "id": "bz-000365",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
+   "t": "Toyota credits just-in-time to Kiichiro Toyoda's flow production, and traces jidoka to Sakichi Toyoda's looms that stopped when a thread broke.",
+   "f": "Toyota credits just-in-time to Sakichi Toyoda's flow production, and traces jidoka to Kiichiro Toyoda's looms that stopped when a thread broke.",
+   "x": "The two pillars come from two generations: Sakichi's self-stopping looms (from 1896) gave jidoka, and Kiichiro installed conveyor flow production in 1927. Taiichi Ohno later combined them into a working system after the war.",
+   "concepts": [
+    "kt:toyota-production-system",
+    "kt:just-in-time",
+    "kt:jidoka"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-production-system.html"
+  },
+  {
+   "id": "bz-000366",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
+   "t": "Spear and Bowen argued that TPS's tightly specified work makes it flexible, because each specification acts as a hypothesis that exposes problems.",
+   "f": "Spear and Bowen argued that TPS's loosely specified work makes it flexible, because workers are free to improvise around problems as they arise.",
+   "x": "After studying over 40 plants, they said the system's real engine is four unwritten rules. Scripting work precisely means any deviation is visible at once, so it can be fixed and the standard improved.",
+   "concepts": [
+    "kt:toyota-production-system",
+    "kt:operations-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-production-system.html"
+  },
+  {
+   "id": "bz-000367",
+   "area": "operations-and-supply-chain",
+   "kind": "figure",
+   "topic": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
+   "t": "In 1983 Toyota turned its inventory about 36 times, versus roughly 11 to 12 times for the U.S. automakers.",
+   "f": "In 1983 Toyota turned its inventory about 12 times, versus roughly 36 times for the U.S. automakers.",
+   "x": "Cusumano's comparison shows how little stock just-in-time leaves in the system. Because Toyota was also more capital-intensive per car, the gap was credited to the system as a whole rather than to cheap labor.",
+   "concepts": [
+    "kt:toyota-production-system",
+    "kt:toyota-motor-corporation",
+    "kt:mass-production"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-production-system.html",
+   "asOf": "1983"
+  },
+  {
+   "id": "bz-000368",
+   "area": "organizational-behavior",
+   "kind": "definition",
+   "topic": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
+   "t": "Argyris's double-loop learning both corrects an action after an error and questions the assumptions and goals that lay behind the action.",
+   "f": "Argyris's single-loop learning both corrects an action after an error and questions the assumptions and goals that lay behind the action.",
+   "x": "Single-loop learning only fixes the action, like a thermostat switching on heat below 68 degrees. Double-loop learning also asks why the setting is 68, which is harder because it challenges the learner's own reasoning.",
+   "concepts": [
+    "kt:organizational-learning",
+    "kt:double-loop-learning"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-learning.html"
+  },
+  {
+   "id": "bz-000369",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
+   "t": "In a competency trap, good results with an inferior routine build so much experience with it that a superior alternative is never adopted.",
+   "f": "In superstitious learning, good results with an inferior routine build so much experience with it that a superior alternative is never adopted.",
+   "x": "Levitt and March named both pathologies. The competency trap is about experience locking in a second-best routine; superstitious learning is drawing confident but wrong conclusions about what caused an outcome.",
+   "concepts": [
+    "kt:organizational-learning",
+    "kt:organizational-ambidexterity"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-learning.html"
+  },
+  {
+   "id": "bz-000370",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
+   "t": "In Huber's 1991 review, grafting means acquiring knowledge by bringing in members or units that already hold it, unlike vicarious learning from watching other firms.",
+   "f": "In Huber's 1991 review, vicarious learning means acquiring knowledge by bringing in members or units that already hold it, unlike grafting from watching other firms.",
+   "x": "Huber listed five routes to knowledge: what the firm knew at founding, its own experience, observing others (vicarious), grafting on people or units, and searching the environment. Grafting imports knowledge with its carriers; vicarious learning copies by observation.",
+   "concepts": [
+    "kt:organizational-learning",
+    "kt:knowledge-transfer"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-learning.html"
+  },
+  {
+   "id": "bz-000371",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Scenario Planning: Strategy for Multiple Plausible Futures",
+   "t": "Pierre Wack set out Shell's scenario method in a 1985 Harvard Business Review article, after Shell's early-1970s scenarios had explored producers restricting oil supply.",
+   "f": "Pierre Wack set out Shell's scenario method in a 1965 Harvard Business Review article, after Shell's early-1960s scenarios had explored producers restricting oil supply.",
+   "x": "Shell began long-term studies in 1965 and ran its first formal scenario round in 1971. When the 1973 oil crisis hit, its managers had already considered a similar world; Wack wrote up the method more than a decade later.",
+   "concepts": [
+    "kt:scenario-planning",
+    "kt:pierre-wack",
+    "kt:scenarios-uncharted-waters-ahead-1985",
+    "kt:royal-dutch-shell"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scenario-planning.html"
+  },
+  {
+   "id": "bz-000372",
+   "area": "strategy",
+   "kind": "mechanism",
+   "topic": "Scenario Planning: Strategy for Multiple Plausible Futures",
+   "t": "Wack distinguished predetermined elements, developments already in motion whose consequences can be traced, from critical uncertainties that remain genuinely open.",
+   "f": "Wack distinguished critical uncertainties, developments already in motion whose consequences can be traced, from predetermined elements that remain genuinely open.",
+   "x": "Demographic or supply trends already under way can be projected; truly open questions cannot. Treating an uncertainty as settled, or hiding it, is what makes plans brittle, so scenarios vary the uncertainties while holding the predetermined elements.",
+   "concepts": [
+    "kt:scenario-planning",
+    "kt:pierre-wack",
+    "kt:forecasting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scenario-planning.html"
+  },
+  {
+   "id": "bz-000373",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Scenario Planning: Strategy for Multiple Plausible Futures",
+   "t": "Field experiments by Phadnis and colleagues found that using multiple scenarios did not systematically change experts' overall confidence, but did push them toward more flexible investments.",
+   "f": "Field experiments by Phadnis and colleagues found that using multiple scenarios systematically lowered experts' overall confidence, but did not push them toward more flexible investments.",
+   "x": "Their 2014 study with infrastructure experts is one of the few rigorous tests. Judgments shifted toward the scenario considered and flexible options gained favor, yet with no control group it shows effects on judgment, not on outcomes.",
+   "concepts": [
+    "kt:scenario-planning",
+    "kt:real-options",
+    "kt:overconfidence-bias"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/scenario-planning.html"
+  },
+  {
+   "id": "bz-000374",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Separation of Ownership and Control: Dispersed Shareholders and Managerial Power",
+   "t": "Fama and Jensen argued open corporations contain agency problems by separating decision management, initiating choices, from decision control, ratifying and monitoring them.",
+   "f": "Fama and Jensen argued open corporations contain agency problems by separating decision control, initiating choices, from decision management, ratifying and monitoring them.",
+   "x": "Managers propose and implement, while boards, internal hierarchies and ultimately the takeover market approve and check. Splitting these roles lets dispersed shareholders bear risk without trusting managers to police themselves.",
+   "concepts": [
+    "kt:separation-of-ownership-and-control",
+    "kt:board-of-directors",
+    "kt:market-for-corporate-control",
+    "kt:agency-costs"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/separation-of-ownership-and-control.html"
+  },
+  {
+   "id": "bz-000375",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Separation of Ownership and Control: Dispersed Shareholders and Managerial Power",
+   "t": "La Porta and colleagues found widely held large firms are rare outside countries with very good shareholder protection; elsewhere most are controlled by families or the state.",
+   "f": "La Porta and colleagues found widely held large firms are rare outside countries with weak shareholder protection; elsewhere most are controlled by families or the state.",
+   "x": "Their 1999 study of 27 wealthy economies showed the Berle-Means dispersed firm is mostly an American and British pattern. Where investors are poorly protected, controlling owners, often via pyramids, keep control instead.",
+   "concepts": [
+    "kt:separation-of-ownership-and-control",
+    "kt:corporate-governance"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/separation-of-ownership-and-control.html"
+  },
+  {
+   "id": "bz-000376",
+   "area": "business-ethics-and-governance",
+   "kind": "figure",
+   "topic": "Separation of Ownership and Control: Dispersed Shareholders and Managerial Power",
+   "t": "As of April 1, 2026, Mark Zuckerberg held about 60.8% of Meta's total voting power, largely through its ten-vote Class B shares.",
+   "f": "As of April 1, 2026, Mark Zuckerberg held about 99.8% of Meta's total voting power, largely through its ten-vote Class B shares.",
+   "x": "He owned 99.8% of the Class B shares, which translated into about 60.8% of all votes. That majority makes Meta a controlled company, the reverse of the manager-dominated firm Berle and Means described.",
+   "concepts": [
+    "kt:separation-of-ownership-and-control",
+    "kt:dual-class-shares"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/separation-of-ownership-and-control.html",
+   "asOf": "2026"
+  },
+  {
+   "id": "bz-000377",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "Delphi Method: Iterative Anonymous Expert Consensus",
+   "t": "The Delphi method was developed at the RAND Corporation in the 1950s, and Norman Dalkey and Olaf Helmer described an experiment with it in 1963.",
+   "f": "The Delphi method was developed at the RAND Corporation in the 1970s, and Norman Dalkey and Olaf Helmer described an experiment with it in 1983.",
+   "x": "Their 1963 Management Science article framed the aim as reaching the most reliable consensus of experts through questionnaires with controlled feedback. RAND's 1964 long-range forecasting study then showed the method at scale.",
+   "concepts": [
+    "kt:delphi-method",
+    "kt:norman-dalkey",
+    "kt:olaf-helmer",
+    "kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/delphi-method.html"
+  },
+  {
+   "id": "bz-000378",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Delphi Method: Iterative Anonymous Expert Consensus",
+   "t": "In a classical Delphi, panellists stay anonymous to one another and the group answer is computed statistically rather than negotiated in discussion.",
+   "f": "In a classical Delphi, panellists meet face to face and the group answer is negotiated in discussion rather than computed statistically.",
+   "x": "Anonymity and statistical aggregation, such as a median with quartiles, stop eloquent speakers or senior figures from swaying the panel. Experts see the group summary between rounds and may revise their own answers.",
+   "concepts": [
+    "kt:delphi-method",
+    "kt:groupthink",
+    "kt:group-decision-making"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/delphi-method.html"
+  },
+  {
+   "id": "bz-000379",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Delphi Method: Iterative Anonymous Expert Consensus",
+   "t": "Rowe and Wright's 1999 review found Delphi groups usually beat unstructured interacting groups but showed no consistent edge over other structured group methods.",
+   "f": "Rowe and Wright's 1999 review found Delphi groups usually beat other structured group methods but showed no consistent edge over unstructured interacting groups.",
+   "x": "Delphi mostly outperformed simple averages and free discussion, yet techniques like the nominal group method did about as well. They also warned that lab versions often strayed from the original design.",
+   "concepts": [
+    "kt:delphi-method",
+    "kt:nominal-group-technique",
+    "kt:forecasting"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/delphi-method.html"
+  },
+  {
+   "id": "bz-000380",
+   "area": "leadership-and-management",
+   "kind": "definition",
+   "topic": "Performance Management: Planning, Appraising and Developing Employee Performance",
+   "t": "Performance appraisal, the periodic rating of an individual, is one step within performance management, which also covers what managers do before and after the rating.",
+   "f": "Performance management, the periodic rating of an individual, is one step within performance appraisal, which also covers what managers do before and after the rating.",
+   "x": "OPM's cycle runs from planning and monitoring through developing, rating and rewarding. Appraisal is just the rating stage, so a firm can drop or redesign ratings while still managing performance.",
+   "concepts": [
+    "kt:performance-management",
+    "kt:performance-appraisal"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/performance-management.html"
+  },
+  {
+   "id": "bz-000381",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Performance Management: Planning, Appraising and Developing Employee Performance",
+   "t": "Kluger and DeNisi's 1996 meta-analysis found feedback had a positive average effect on performance, yet over one-third of feedback interventions reduced it.",
+   "f": "Kluger and DeNisi's 1996 meta-analysis found feedback had a negative average effect on performance, though over one-third of feedback interventions improved it.",
+   "x": "Across 607 effect sizes the average gain was moderate, but the spread was wide enough that feedback often backfired. That is why feedback, the core of most systems, cannot be assumed to help.",
+   "concepts": [
+    "kt:performance-management",
+    "kt:goal-setting-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/performance-management.html"
+  },
+  {
+   "id": "bz-000382",
+   "area": "leadership-and-management",
+   "kind": "application",
+   "topic": "Performance Management: Planning, Appraising and Developing Employee Performance",
+   "t": "In Deloitte's 2015 redesign, team leaders answered questions about future actions they would take for each person instead of rating that person's skills.",
+   "f": "In Deloitte's 2015 redesign, team leaders rated each person's skills on a detailed scale instead of answering questions about future actions they would take.",
+   "x": "Research on idiosyncratic rater effects showed skill ratings say more about the rater than the person rated. Asking about the leader's own intended actions, such as promotion, aimed to give more reliable, forward-looking data.",
+   "concepts": [
+    "kt:performance-management",
+    "kt:deloitte",
+    "kt:performance-appraisal"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/performance-management.html"
+  },
+  {
+   "id": "bz-000383",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "DuPont Analysis: Decomposing Return on Equity",
+   "t": "In the three-step DuPont formula, ROE equals profit margin times total asset turnover times the equity multiplier, total assets over shareholders' equity.",
+   "f": "In the three-step DuPont formula, ROE equals profit margin times total asset turnover times the debt ratio, total liabilities over total assets.",
+   "x": "Sales and total assets cancel across the three ratios, leaving net income over equity. The equity multiplier is the leverage term: the more assets financed by liabilities, the higher it is.",
+   "concepts": [
+    "kt:dupont-analysis",
+    "kt:return-on-equity",
+    "kt:capital-structure"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dupont-analysis.html"
+  },
+  {
+   "id": "bz-000384",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "DuPont Analysis: Decomposing Return on Equity",
+   "t": "Donaldson Brown devised DuPont's return-on-investment measure in 1914 and, after moving to General Motors in 1921, adapted it into a target-return pricing method.",
+   "f": "Donaldson Brown devised General Motors' return-on-investment measure in 1914 and, after moving to DuPont in 1921, adapted it into a target-return pricing method.",
+   "x": "Brown combined earnings, working capital and plant investment into one ROI figure at DuPont. At GM each division set a target return and standard volume, then worked out the price needed to hit it.",
+   "concepts": [
+    "kt:dupont-analysis",
+    "kt:donaldson-brown",
+    "kt:general-motors"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dupont-analysis.html"
+  },
+  {
+   "id": "bz-000385",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "DuPont Analysis: Decomposing Return on Equity",
+   "t": "Nissim and Penman argued the standard DuPont identity mixes operating and financing activities, so they split ROE into operating return plus a leverage-times-spread term.",
+   "f": "Nissim and Penman argued the standard DuPont identity overstates operating returns, so they replaced ROE with return on total assets plus a leverage-times-spread term.",
+   "x": "Their 2001 analysis treats operations as the source of value and separates out how borrowing adds or subtracts from it. They found return on total assets actually understates operating profitability because it blends in financial items.",
+   "concepts": [
+    "kt:dupont-analysis",
+    "kt:residual-income-valuation",
+    "kt:return-on-equity"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/dupont-analysis.html"
+  },
+  {
+   "id": "bz-000386",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
+   "t": "The SEC alleged that Enron's CFO used special purpose entities he secretly controlled so that Enron overstated net income and understated debt.",
+   "f": "The SEC alleged that Enron's CFO used special purpose entities he secretly controlled so that Enron understated net income and overstated debt.",
+   "x": "A properly independent SPE can keep assets and debt off the sponsor's balance sheet. Because Fastow controlled vehicles like Chewco and LJM, or they were guaranteed against loss, they were not truly independent, so the deals flattered profits and hid borrowing.",
+   "concepts": [
+    "kt:enron-scandal",
+    "kt:special-purpose-entity",
+    "kt:information-asymmetry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enron-scandal.html"
+  },
+  {
+   "id": "bz-000387",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
+   "t": "A 2002 Senate subcommittee found Enron's board had waived its code of conduct so CFO Andrew Fastow could run the LJM partnerships.",
+   "f": "A 2002 Senate subcommittee found Enron's board had waived its code of conduct so CEO Jeffrey Skilling could run the LJM partnerships.",
+   "x": "Letting the finance chief run funds that traded with Enron was a glaring conflict of interest. The subcommittee cited it among the board's failures of fiduciary duty and rejected directors' claims that they had simply relied on advisers.",
+   "concepts": [
+    "kt:enron-scandal",
+    "kt:board-of-directors",
+    "kt:fiduciary-duty"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enron-scandal.html"
+  },
+  {
+   "id": "bz-000388",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
+   "t": "By an October 2000 Enron presentation, about $27 billion of its roughly $60 billion in assets sat with unconsolidated affiliates.",
+   "f": "By an October 2000 Enron presentation, about $7 billion of its roughly $60 billion in assets sat with unconsolidated affiliates.",
+   "x": "Nearly half of Enron's assets were held outside its consolidated statements, and its annual reports listed almost 3,000 related entities. That scale is why off-balance-sheet vehicles were central to the fraud.",
+   "concepts": [
+    "kt:enron-scandal",
+    "kt:special-purpose-entity"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/enron-scandal.html",
+   "asOf": "2000"
+  },
+  {
+   "id": "bz-000389",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Long Tail: Aggregating Demand for Niche Products",
+   "t": "Chris Anderson, then editor of Wired, introduced the long tail in the magazine's October 2004 issue and later expanded it into a book.",
+   "f": "Chris Anderson, then editor of Wired, introduced the long tail in the magazine's October 2008 issue and later expanded it into a book.",
+   "x": "Anderson built the idea on 2004 data from Amazon, Netflix and Rhapsody showing large sales outside the titles a physical store could stock. 2008 is the year of Anita Elberse's best-known critique in Harvard Business Review.",
+   "concepts": [
+    "kt:long-tail",
+    "kt:chris-anderson",
+    "kt:the-long-tail-wired-2004"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/long-tail.html"
+  },
+  {
+   "id": "bz-000390",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Long Tail: Aggregating Demand for Niche Products",
+   "t": "A retailer selling the same products at the same prices online and by catalog had less concentrated online sales, pointing to lower search costs as a cause of the long tail.",
+   "f": "A retailer selling the same products at the same prices online and by catalog had equally concentrated sales in both, pointing to wider selection alone as the cause of the long tail.",
+   "x": "Brynjolfsson, Hu and Simester held selection and price fixed, yet online buyers still bought more niche items, especially those using search and recommendations. So discovery tools, not only bigger catalogs, push demand into the tail.",
+   "concepts": [
+    "kt:long-tail",
+    "kt:recommender-system"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/long-tail.html"
+  },
+  {
+   "id": "bz-000391",
+   "area": "business-models",
+   "kind": "figure",
+   "topic": "Long Tail: Aggregating Demand for Niche Products",
+   "t": "Greater variety at online booksellers raised U.S. consumer welfare by an estimated $731 million to $1.03 billion in 2000, 7 to 10 times the gain from lower prices.",
+   "f": "Greater variety at online booksellers raised U.S. consumer welfare by an estimated $731 million to $1.03 billion in 2000, about one-tenth the gain from lower prices.",
+   "x": "Brynjolfsson, Hu and Smith found Amazon offered over 23 times the titles of a typical superstore. Access to obscure books, not cheaper prices, was the main benefit of online bookselling to consumers.",
+   "concepts": [
+    "kt:long-tail",
+    "kt:amazon"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/long-tail.html",
+   "asOf": "2000"
+  },
+  {
+   "id": "bz-000392",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Capital Structure: The Mix of Debt and Equity Financing",
+   "t": "Under the pecking order theory, firms use internal funds first, then debt, and issue equity last, since investors read a stock issue as a sign of overvalued shares.",
+   "f": "Under the pecking order theory, firms use internal funds first, then equity, and issue debt last, since investors read a bond issue as a sign of overvalued shares.",
+   "x": "Myers tied the ordering to asymmetric information: managers know more than outsiders, so selling stock signals they think it is overpriced. A firm's debt ratio then reflects its past need for outside money, not a target.",
+   "concepts": [
+    "kt:capital-structure",
+    "kt:pecking-order-theory",
+    "kt:information-asymmetry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-structure.html"
+  },
+  {
+   "id": "bz-000393",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Capital Structure: The Mix of Debt and Equity Financing",
+   "t": "Baker and Wurgler found firms tend to issue equity when market-to-book ratios are high and repurchase when they are low, leaving a persistent mark on leverage.",
+   "f": "Baker and Wurgler found firms tend to issue equity when market-to-book ratios are low and repurchase when they are high, leaving a persistent mark on leverage.",
+   "x": "Firms sell shares when they look richly valued. Because the effect lasted years instead of being reversed toward a target, Baker and Wurgler saw capital structure as the cumulative result of timing the equity market.",
+   "concepts": [
+    "kt:capital-structure",
+    "kt:market-timing-theory-of-capital-structure"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-structure.html"
+  },
+  {
+   "id": "bz-000394",
+   "area": "corporate-finance",
+   "kind": "application",
+   "topic": "Capital Structure: The Mix of Debt and Equity Financing",
+   "t": "Graham and Harvey's CFO survey found financial flexibility and credit ratings were the main concerns when issuing debt, while EPS dilution weighed most when issuing equity.",
+   "f": "Graham and Harvey's CFO survey found EPS dilution was the main concern when issuing debt, while financial flexibility and credit ratings weighed most when issuing equity.",
+   "x": "Executives care about keeping spare borrowing capacity and protecting their rating when they borrow, and about diluting earnings per share when they sell stock. The survey also found little sign that CFOs consciously weigh many mechanisms in academic models.",
+   "concepts": [
+    "kt:capital-structure",
+    "kt:trade-off-theory-of-capital-structure",
+    "kt:pecking-order-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/capital-structure.html"
+  },
+  {
+   "id": "bz-000395",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "DFARS: Defense Department Rules Layered on Top of the FAR",
+   "t": "Before the FAR took effect in 1984, DoD bought under the Defense Acquisition Regulation, which had been called the Armed Services Procurement Regulation until 1978.",
+   "f": "Before the FAR took effect in 1984, DoD bought under the Defense Acquisition Regulation, which had been called the Federal Procurement Regulations until 1978.",
+   "x": "The Federal Procurement Regulations were the civilian agencies' rules. When the single FAR replaced both systems, DoD's remaining unique rules moved into the DFARS, codified right after the FAR in Title 48.",
+   "concepts": [
+    "kt:defense-federal-acquisition-regulation-supplement",
+    "kt:defense-acquisition-regulation",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/defense-federal-acquisition-regulation-supplement.html"
+  },
+  {
+   "id": "bz-000396",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "DFARS: Defense Department Rules Layered on Top of the FAR",
+   "t": "In the DFARS, purely supplemental text uses section numbers of 70 and up, while military department supplements use numbers of 90 and up.",
+   "f": "In the DFARS, purely supplemental text uses section numbers of 90 and up, while military department supplements use numbers of 70 and up.",
+   "x": "Text that implements a FAR rule keeps the FAR's numbering, so DFARS 201.3 parallels FAR 1.3. Reserved number ranges let readers tell at a glance whether a section implements the FAR, adds a DoD-wide rule or comes from a component.",
+   "concepts": [
+    "kt:defense-federal-acquisition-regulation-supplement",
+    "kt:federal-acquisition-regulation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/defense-federal-acquisition-regulation-supplement.html"
+  },
+  {
+   "id": "bz-000397",
+   "area": "government-contracting-and-public-sector",
+   "kind": "figure",
+   "topic": "DFARS: Defense Department Rules Layered on Top of the FAR",
+   "t": "The Section 809 Panel reported in 2018 that, of 165 government clauses for commercial-item buys under the FAR and DFARS, 122 came from statute.",
+   "f": "The Section 809 Panel reported in 2018 that, of 165 government clauses for commercial-item buys under the FAR and DFARS, 122 came from agency policy.",
+   "x": "The clause count had nearly tripled from 57 in 1995, but only 23 came from agency policy. So much of the complexity contractors blame on DoD actually rests on laws Congress passed.",
+   "concepts": [
+    "kt:defense-federal-acquisition-regulation-supplement",
+    "kt:department-of-defense"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/defense-federal-acquisition-regulation-supplement.html",
+   "asOf": "2018"
+  },
+  {
+   "id": "bz-000398",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop",
+   "t": "Eric Ries created the lean startup by combining Steve Blank's customer development with agile software practices, naming it after lean manufacturing.",
+   "f": "Steve Blank created the lean startup by combining Eric Ries's customer development with agile software practices, naming it after lean manufacturing.",
+   "x": "Blank developed customer development and published it in 2003; Ries, a founder Blank advised, added agile methods and the lean label, then wrote The Lean Startup in 2011. The name nods to Toyota's war on waste.",
+   "concepts": [
+    "kt:lean-startup",
+    "kt:eric-ries",
+    "kt:customer-development",
+    "kt:lean-manufacturing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-startup.html"
+  },
+  {
+   "id": "bz-000399",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "definition",
+   "topic": "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop",
+   "t": "Steve Blank defines a startup as a temporary organization searching for a repeatable, scalable business model, not a small company executing a known one.",
+   "f": "Steve Blank defines a startup as a temporary organization executing a known, scalable business model, not a small company still searching for one.",
+   "x": "Because a startup does not yet know its customers, channels or revenue model, writing a detailed plan is premature. Blank's definition is why lean startup treats the business model as hypotheses to test.",
+   "concepts": [
+    "kt:lean-startup",
+    "kt:business-model-canvas"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-startup.html"
+  },
+  {
+   "id": "bz-000400",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop",
+   "t": "Felin, Gambardella, Stern and Zenger argue lean startup's reliance on quick customer feedback steers founders toward incremental rather than truly novel opportunities.",
+   "f": "Felin, Gambardella, Stern and Zenger argue lean startup's reliance on quick customer feedback steers founders toward truly novel rather than incremental opportunities.",
+   "x": "Customers find it hard to judge products unlike anything they know, so fast validation favours safe ideas. The authors suggest starting from a theory of value and running critical experiments, a stance known as the theory-based view.",
+   "concepts": [
+    "kt:lean-startup",
+    "kt:theory-based-view"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-startup.html"
+  },
+  {
+   "id": "bz-000401",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Adverse Selection: Hidden Information Before a Contract",
+   "t": "Besides used cars, Akerlof's 1970 lemons paper analysed health insurance for people over 65, an argument he used in favour of a public scheme like Medicare.",
+   "f": "Besides used cars, Akerlof's 1970 lemons paper analysed health insurance for low-income families, an argument he used in favour of a public scheme like Medicaid.",
+   "x": "As premiums for older people rise, those who remain are increasingly the ones expecting to need care, so there may be no price at which policies sell. A public scheme sidesteps that unravelling.",
+   "concepts": [
+    "kt:adverse-selection",
+    "kt:george-akerlof",
+    "kt:the-market-for-lemons-1970",
+    "kt:insurance-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/adverse-selection.html"
+  },
+  {
+   "id": "bz-000402",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Adverse Selection: Hidden Information Before a Contract",
+   "t": "In Rothschild and Stiglitz's separating equilibrium, high-risk buyers get full insurance at fair odds, while low-risk buyers get only partial cover.",
+   "f": "In Rothschild and Stiglitz's separating equilibrium, low-risk buyers get full insurance at fair odds, while high-risk buyers get only partial cover.",
+   "x": "Insurers cannot see risk, so they ration cover for the cheap policy to make it unattractive to high-risk buyers, who would otherwise mimic the low-risk type. The low-risk group bears the cost, and nobody gains from it.",
+   "concepts": [
+    "kt:adverse-selection",
+    "kt:screening-theory",
+    "kt:contract-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/adverse-selection.html"
+  },
+  {
+   "id": "bz-000403",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Adverse Selection: Hidden Information Before a Contract",
+   "t": "Cutler and Reber found that Harvard's mid-1990s switch to equal health-plan contributions set off adverse selection, yet lower premiums meant welfare rose overall.",
+   "f": "Cutler and Reber found that Harvard's mid-1990s switch to equal health-plan contributions set off adverse selection, and its losses outweighed lower premiums so welfare fell overall.",
+   "x": "Selection cost about 2% of baseline health spending, but competition cut Harvard's premiums nearly 10% relative to the Boston area. It is the cleanest documented death spiral, and still a net gain.",
+   "concepts": [
+    "kt:adverse-selection",
+    "kt:insurance-death-spiral"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/adverse-selection.html"
+  },
+  {
+   "id": "bz-000404",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
+   "t": "Neil Borden popularised the term marketing mix, and E. Jerome McCarthy later condensed Borden's list of twelve ingredients into the four Ps.",
+   "f": "E. Jerome McCarthy popularised the term marketing mix, and Neil Borden later condensed McCarthy's list of twelve ingredients into the four Ps.",
+   "x": "Borden's twelve ingredients ran from product planning and pricing to packaging, display and fact finding. McCarthy's simpler product, price, place and promotion became the dominant teaching framework.",
+   "concepts": [
+    "kt:marketing-mix",
+    "kt:neil-borden",
+    "kt:the-concept-of-the-marketing-mix-1964"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/marketing-mix.html"
+  },
+  {
+   "id": "bz-000405",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
+   "t": "Constantinides' 2006 review found two weaknesses of the 4Ps common across marketing fields: an internal, seller-side orientation and no room for personalisation.",
+   "f": "Constantinides' 2006 review found two weaknesses of the 4Ps common across marketing fields: an external, customer-side orientation and too much room for personalisation.",
+   "x": "The mix was built for mass markets and describes what the seller controls, not what customers need. That gap is why relationship and services marketers proposed alternatives or extensions.",
+   "concepts": [
+    "kt:marketing-mix",
+    "kt:relationship-marketing"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/marketing-mix.html"
+  },
+  {
+   "id": "bz-000406",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
+   "t": "For services, Booms and Bitner extended the mix to 7Ps by adding people, physical evidence and process to product, price, place and promotion.",
+   "f": "For services, Booms and Bitner extended the mix to 7Ps by adding people, packaging and positioning to product, price, place and promotion.",
+   "x": "In a service the staff, the setting and the delivery process are part of what the customer buys, so the original four levers missed them. Their 1981 proposal became the standard services-marketing mix.",
+   "concepts": [
+    "kt:marketing-mix",
+    "kt:services-marketing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/marketing-mix.html"
+  },
+  {
+   "id": "bz-000407",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
+   "t": "The Machine That Changed the World (1990) defined lean largely by outcomes, and Lean Thinking (1996) recast it as a roadmap any organization could follow.",
+   "f": "Lean Thinking (1990) defined lean largely by outcomes, and The Machine That Changed the World (1996) recast it as a roadmap any organization could follow.",
+   "x": "The MIT car-industry study showed lean plants doing more with less than mass producers. Womack and Jones's later book turned those findings into principles, and the Lean Enterprise Institute followed in 1997 to spread them.",
+   "concepts": [
+    "kt:lean-manufacturing",
+    "kt:the-machine-that-changed-the-world",
+    "kt:mass-production"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-manufacturing.html"
+  },
+  {
+   "id": "bz-000408",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
+   "t": "In Womack and Jones's five lean principles, the customer pulls production wherever continuous flow is not yet possible.",
+   "f": "In Womack and Jones's five lean principles, a forecast pushes production wherever continuous flow is not yet possible.",
+   "x": "The principles run from specifying value and mapping the value stream to creating flow, then pull, then pursuing perfection. Pull means nothing is made until downstream demand asks for it, which keeps inventory from piling up.",
+   "concepts": [
+    "kt:lean-manufacturing",
+    "kt:just-in-time"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-manufacturing.html"
+  },
+  {
+   "id": "bz-000409",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
+   "t": "A study of 351 pharmaceutical plants found hard lean practices like just-in-time improved performance directly, while soft practices acted only as moderators.",
+   "f": "A study of 351 pharmaceutical plants found soft lean practices like empowerment improved performance directly, while hard practices acted only as moderators.",
+   "x": "Just-in-time, TQM and total productive maintenance raised operational results on their own. Empowerment and visual management amplified those gains, whereas rigid standardization and heavy goal setting seemed to weaken them.",
+   "concepts": [
+    "kt:lean-manufacturing",
+    "kt:total-quality-management",
+    "kt:just-in-time"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/lean-manufacturing.html"
+  },
+  {
+   "id": "bz-000410",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
+   "t": "Stoner's 1961 work found individuals became riskier after group discussion, a result later research generalized into group polarization.",
+   "f": "Stoner's 1961 work found individuals became more cautious after group discussion, a result later research generalized into group polarization.",
+   "x": "The 'risky shift' turned out to be one case of a broader pattern: discussion pushes like-minded members further in whatever direction they already leaned. More than 200 studies document it.",
+   "concepts": [
+    "kt:group-decision-making",
+    "kt:group-polarization"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/group-decision-making.html"
+  },
+  {
+   "id": "bz-000411",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
+   "t": "In Stasser and Titus's 1985 hidden-profile experiment, groups seldom chose the best candidate when its favorable facts were split among members, since discussion rarely surfaced unshared facts.",
+   "f": "In Stasser and Titus's 1985 hidden-profile experiment, groups usually chose the best candidate when its favorable facts were split among members, since discussion readily surfaced unshared facts.",
+   "x": "When everyone saw all the facts, most groups picked the best option; when facts were scattered, few did, and initial majorities simply grew. Unstructured discussion tends to reinforce what members already share.",
+   "concepts": [
+    "kt:group-decision-making",
+    "kt:decision-making"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/group-decision-making.html"
+  },
+  {
+   "id": "bz-000412",
+   "area": "organizational-behavior",
+   "kind": "application",
+   "topic": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
+   "t": "A contingency rule says a group should decide when no single person holds the needed information, while one individual should decide in emergencies.",
+   "f": "A contingency rule says one individual should decide when no single person holds the needed information, while a group should decide in emergencies.",
+   "x": "Groups pool dispersed knowledge and win commitment from those who must implement, but they are slow. Under acute time pressure, or when one person already has the facts, an individual decision is better.",
+   "concepts": [
+    "kt:group-decision-making",
+    "kt:decision-making"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/group-decision-making.html"
+  },
+  {
+   "id": "bz-000413",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
+   "t": "Dan Schendel and Charles Hofer's 1977 Pittsburgh conference called for strategic management to become an academic discipline grounded in empirical research.",
+   "f": "Kenneth Andrews and C. Roland Christensen's 1977 Pittsburgh conference called for strategic management to become an academic discipline grounded in empirical research.",
+   "x": "Andrews and Christensen belong to the earlier Harvard business policy tradition built on cases. Schendel and Hofer renamed and rebuilt the field, and Schendel went on to found the Strategic Management Journal in 1980.",
+   "concepts": [
+    "kt:strategic-management",
+    "kt:dan-schendel",
+    "kt:business-policy"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategic-management.html"
+  },
+  {
+   "id": "bz-000414",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
+   "t": "Mintzberg and Waters treated deliberate and emergent strategies as two ends of a continuum, with types such as umbrella and imposed strategies in between.",
+   "f": "Mintzberg and Waters treated deliberate and emergent strategies as two separate kinds that never mix, rejecting in-between types such as umbrella strategies.",
+   "x": "Their 1985 article argued that real strategies are rarely purely planned or purely emergent. The point undercuts the neat process model, since patterns that form in action also make strategy.",
+   "concepts": [
+    "kt:strategic-management",
+    "kt:emergent-strategy",
+    "kt:strategic-planning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategic-management.html"
+  },
+  {
+   "id": "bz-000415",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
+   "t": "A 2006 meta-analysis found a modest positive link between strategic planning and performance that shrank toward zero after adjusting for publication bias.",
+   "f": "A 2006 meta-analysis found a modest positive link between strategic planning and performance that grew stronger after adjusting for publication bias.",
+   "x": "Pooling 39 studies of 5,223 firms gave a small positive effect, but correcting for likely unpublished null results cut it to roughly 0.1 with a confidence interval spanning zero. Support for formal planning is real but fragile.",
+   "concepts": [
+    "kt:strategic-management",
+    "kt:strategic-planning"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategic-management.html"
+  },
+  {
+   "id": "bz-000416",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value",
+   "t": "In Dodge v. Ford, the Michigan court in 1919 sided with minority shareholders and ordered a dividend after Ford withheld profits to cut prices and expand.",
+   "f": "In Dodge v. Ford, the Michigan court in 1919 sided with Henry Ford and let him withhold dividends so he could cut prices and expand.",
+   "x": "The court said a business exists for the profit of its stockholders and ordered about $19.3 million paid out. Ford then bought out the minority holders, which freed him from the constraint.",
+   "concepts": [
+    "kt:shareholder-primacy",
+    "kt:dodge-v-ford-motor-co",
+    "kt:fiduciary-duty"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/shareholder-primacy.html"
+  },
+  {
+   "id": "bz-000417",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value",
+   "t": "Jensen argued multi-measure tools like the balanced scorecard can help managers understand value drivers but should not be used to set their pay.",
+   "f": "Jensen argued multi-measure tools like the balanced scorecard should be used to set managers' pay but cannot help them understand value drivers.",
+   "x": "His enlightened value maximization insists on one criterion, long-run firm value, because nobody can maximize in several dimensions at once. A scorecard has no single score, so tying pay to it leaves trade-offs unresolved.",
+   "concepts": [
+    "kt:shareholder-primacy",
+    "kt:michael-c-jensen"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/shareholder-primacy.html"
+  },
+  {
+   "id": "bz-000418",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value",
+   "t": "Hart and Zingales argued that when shareholders care about social outcomes tied to production, maximizing their welfare is not the same as maximizing market value.",
+   "f": "Hart and Zingales argued that even when shareholders care about social outcomes tied to production, maximizing their welfare is the same as maximizing market value.",
+   "x": "If some harms cannot be separated from how a firm makes money, investors cannot undo them with their own giving. Hart and Zingales suggested firms follow shareholders' preferences, for instance through votes on corporate policy.",
+   "concepts": [
+    "kt:shareholder-primacy",
+    "kt:esg",
+    "kt:stakeholder-theory"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/shareholder-primacy.html"
+  },
+  {
+   "id": "bz-000419",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Root Cause Analysis: Tracing Problems to Their Underlying Causes",
+   "t": "In a health-care root cause analysis, active errors happen at the point of care, while latent errors are hidden conditions such as staffing or task design that explain why.",
+   "f": "In a health-care root cause analysis, latent errors happen at the point of care, while active errors are hidden conditions such as staffing or task design that explain why.",
+   "x": "Separating the two keeps an investigation from stopping at the person who made the visible mistake. The fixes that last usually target the latent conditions that let the active error happen.",
+   "concepts": [
+    "kt:root-cause-analysis",
+    "kt:patient-safety"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/root-cause-analysis.html"
+  },
+  {
+   "id": "bz-000420",
+   "area": "consulting-and-problem-solving",
+   "kind": "application",
+   "topic": "Root Cause Analysis: Tracing Problems to Their Underlying Causes",
+   "t": "The RCA² action hierarchy ranks forcing functions and physical redesign as strong actions, and new policies and retraining as weak ones.",
+   "f": "The RCA² action hierarchy ranks new policies and retraining as strong actions, and forcing functions and physical redesign as weak ones.",
+   "x": "Fixes are ranked by how little they rely on people remembering to do the right thing. A design that makes the error impossible beats a reminder, so teams are urged to pair each root cause with at least one strong or intermediate action.",
+   "concepts": [
+    "kt:root-cause-analysis",
+    "kt:patient-safety",
+    "kt:barrier-analysis"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/root-cause-analysis.html"
+  },
+  {
+   "id": "bz-000421",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Root Cause Analysis: Tracing Problems to Their Underlying Causes",
+   "t": "Peerally and colleagues criticised root cause analysis for a bias toward weak administrative fixes, such as reminders and training, that rarely prevent recurrence.",
+   "f": "Peerally and colleagues criticised root cause analysis for a bias toward costly physical redesigns, such as new equipment, that rarely prevent recurrence.",
+   "x": "Their 2017 critique gave the example of a wrong cataract lens answered with a protocol, training and a poster, followed by the same error a year later. Administrative fixes are cheap to write but easy to forget.",
+   "concepts": [
+    "kt:root-cause-analysis",
+    "kt:patient-safety"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/root-cause-analysis.html"
+  },
+  {
+   "id": "bz-000422",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Span of Control: Number of Direct Reports per Manager",
+   "t": "In 1933 V. A. Graicunas argued a manager's coordination load grows geometrically with each extra report, because subordinates also form group and cross relationships.",
+   "f": "In 1933 V. A. Graicunas argued a manager's coordination load grows only linearly with each extra report, because only one-to-one relationships with subordinates count.",
+   "x": "Counting group relationships and relationships among subordinates, four reports imply 44 potential relationships and eight imply 1,080. Urwick turned this into a rule of about five or six interlocking subordinates.",
+   "concepts": [
+    "kt:span-of-control",
+    "kt:v-a-graicunas",
+    "kt:lyndall-urwick"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/span-of-control.html"
+  },
+  {
+   "id": "bz-000423",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Span of Control: Number of Direct Reports per Manager",
+   "t": "Wulf found that flattening in large firms moved some decision rights up to top functional managers, so it looked more like centralization than empowerment.",
+   "f": "Wulf found that flattening in large firms moved most decision rights down to division heads, so it looked more like empowerment than centralization.",
+   "x": "As CEOs took on more direct reports and layers disappeared, CEOs became more involved with those reports. Wider spans alone do not push decisions down the hierarchy.",
+   "concepts": [
+    "kt:span-of-control",
+    "kt:centralization-and-decentralization",
+    "kt:decision-rights"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/span-of-control.html"
+  },
+  {
+   "id": "bz-000424",
+   "area": "leadership-and-management",
+   "kind": "figure",
+   "topic": "Span of Control: Number of Direct Reports per Manager",
+   "t": "Gallup reports the mean number of direct reports for U.S. managers rose from 8.2 in 2013 to 12.1 in 2025, while the median stayed at about five to six.",
+   "f": "Gallup reports the mean number of direct reports for U.S. managers rose from 8.2 in 2013 to 12.1 in 2025, and the median rose by a similar amount.",
+   "x": "A flat median with a rising mean means a minority of very large teams is pulling the average up; in 2025, 13% of managers had 25 or more reports. Typical teams did not grow much.",
+   "concepts": [
+    "kt:span-of-control",
+    "kt:organizational-structure"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/span-of-control.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000425",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB",
+   "t": "In November 2007 the SEC let foreign private issuers file IFRS statements without reconciling to US GAAP, but only if they used IFRS as issued by the IASB.",
+   "f": "In November 2007 the SEC let foreign private issuers file IFRS statements without reconciling to US GAAP, including national variants of IFRS adopted locally.",
+   "x": "Requiring the IASB's own version discouraged countries from tailoring IFRS and undermining comparability. Domestic US companies still report under US GAAP.",
+   "concepts": [
+    "kt:ifrs",
+    "kt:gaap",
+    "kt:international-accounting-standards-board"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ifrs.html"
+  },
+  {
+   "id": "bz-000426",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB",
+   "t": "IFRS prohibits LIFO inventory costing and allows certain impairment losses to be reversed, two fundamental differences from US GAAP.",
+   "f": "IFRS permits LIFO inventory costing and forbids any reversal of impairment losses, two fundamental differences from US GAAP.",
+   "x": "The SEC staff listed these among the gaps analysts must adjust for when comparing an IFRS reporter with a US peer. IFRS is also more principles-based, with less industry-specific guidance than GAAP.",
+   "concepts": [
+    "kt:ifrs",
+    "kt:gaap",
+    "kt:goodwill"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ifrs.html"
+  },
+  {
+   "id": "bz-000427",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB",
+   "t": "Daske, Hail, Leuz and Verdi found the capital-market benefits of mandatory IFRS appeared only where firms had incentives to be transparent and enforcement was strong.",
+   "f": "Daske, Hail, Leuz and Verdi found the capital-market benefits of mandatory IFRS appeared evenly across countries, regardless of firms' incentives or legal enforcement.",
+   "x": "Liquidity generally rose around adoption, but gains clustered where institutions supported honest reporting. Because enforcement reforms happened at the same time, the authors warned against crediting the accounting switch alone.",
+   "concepts": [
+    "kt:ifrs",
+    "kt:eu-ias-regulation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ifrs.html"
+  },
+  {
+   "id": "bz-000428",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy",
+   "t": "Under Alfred Sloan, GM's car divisions each targeted a different price band and ran their own operations, while a strong head office set company-wide policy.",
+   "f": "Under Alfred Sloan, GM's car divisions each targeted a different price band and set company-wide policy, while a small head office ran their day-to-day operations.",
+   "x": "Sloan paired operating autonomy in the divisions with central financial and policy control. Chandler later held up this design as the model multidivisional form, freeing top executives for long-range planning.",
+   "concepts": [
+    "kt:general-motors",
+    "kt:alfred-p-sloan-jr",
+    "kt:multidivisional-form",
+    "kt:segmentation-targeting-positioning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/general-motors.html"
+  },
+  {
+   "id": "bz-000429",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy",
+   "t": "Helper and Henderson argue GM's decline came mainly from weaker design, quality and productivity, with pension and retiree costs partly a result of lost share.",
+   "f": "Helper and Henderson argue GM's decline came mainly from pension and retiree costs, with weaker design, quality and productivity partly a result of lost share.",
+   "x": "They trace the operating gap to GM's failure to build trust-based relationships with workers and suppliers like Toyota's. GM had money and a close view of Toyota through NUMMI, yet took over two decades to imitate it.",
+   "concepts": [
+    "kt:general-motors",
+    "kt:corporate-decline",
+    "kt:toyota-motor-corporation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/general-motors.html"
+  },
+  {
+   "id": "bz-000430",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy",
+   "t": "GM's share of the U.S. vehicle market fell from 62.6 percent in 1980 to 19.8 percent in 2009, the year it filed for Chapter 11.",
+   "f": "GM's share of the U.S. vehicle market fell from 42.6 percent in 1980 to 29.8 percent in 2009, the year it filed for Chapter 11.",
+   "x": "The collapse spans three decades of losing ground to rivals with better operating practices. GM filed in June 2009, and the U.S. Treasury took a 60.8 percent stake in the new company that bought most of its assets.",
+   "concepts": [
+    "kt:general-motors",
+    "kt:corporate-decline",
+    "kt:automotive-industry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/general-motors.html",
+   "asOf": "2009"
+  },
+  {
+   "id": "bz-000431",
+   "area": "business-models",
+   "kind": "definition",
+   "topic": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
+   "t": "Cusumano, Gawer and Yoffie classify Windows and AWS as innovation platforms that enable third-party complements, and Uber as a transaction platform that matches buyers and sellers.",
+   "f": "Cusumano, Gawer and Yoffie classify Windows and AWS as transaction platforms that match buyers and sellers, and Uber as an innovation platform that enables third-party complements.",
+   "x": "Innovation platforms are foundations others build products on; transaction platforms reduce friction in exchanges. Hybrids such as some large tech firms do both.",
+   "concepts": [
+    "kt:platform-business-model",
+    "kt:business-ecosystem",
+    "kt:two-sided-market"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/platform-business-model.html"
+  },
+  {
+   "id": "bz-000432",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
+   "t": "Yoffie's team counted about 209 platform failures against roughly 45 lasting successes from 1995 to 2015, most failing within five years.",
+   "f": "Yoffie's team counted about 45 platform failures against roughly 209 lasting successes from 1995 to 2015, most failing within five years.",
+   "x": "Network effects alone do not guarantee success. Common killers were mispriced subsidies, failing to build trust between strangers, mistimed entry and the cost of attracting outside participants.",
+   "concepts": [
+    "kt:platform-business-model",
+    "kt:network-effect"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/platform-business-model.html"
+  },
+  {
+   "id": "bz-000433",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
+   "t": "Hagiu and Wright argue vertical integration coordinates spillovers better, while a multi-sided platform wins when suppliers' effort and private information matter most.",
+   "f": "Hagiu and Wright argue a multi-sided platform coordinates spillovers better, while vertical integration wins when suppliers' effort and private information matter most.",
+   "x": "Letting independent suppliers deal directly with customers motivates them and uses what they know, which suits an MSP. When one party's choices spill over onto others, owning the whole chain makes coordination easier.",
+   "concepts": [
+    "kt:platform-business-model",
+    "kt:vertical-integration"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/platform-business-model.html"
+  },
+  {
+   "id": "bz-000434",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
+   "t": "Irving Fisher's The Theory of Interest (1930) argued that borrowing and lending reshape the timing of an income stream but not its present value.",
+   "f": "Irving Fisher's The Theory of Interest (1930) argued that borrowing and lending reshape the present value of an income stream but not its timing.",
+   "x": "Because financing only shifts when money arrives, an owner should first pick the use with the highest present worth and finance it separately. That separation underlies the modern NPV rule.",
+   "concepts": [
+    "kt:net-present-value",
+    "kt:irving-fisher"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/net-present-value.html"
+  },
+  {
+   "id": "bz-000435",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
+   "t": "NPV and IRR give the same accept-or-reject answer for independent projects, but can rank mutually exclusive projects differently.",
+   "f": "NPV and IRR give the same ranking for mutually exclusive projects, but can disagree on whether to accept independent projects.",
+   "x": "A positive NPV always means the IRR exceeds the discount rate, so single go/no-go decisions agree. When choosing one of several projects, NPV counts dollars of value and IRR a percentage, so a big project and a small one can swap places.",
+   "concepts": [
+    "kt:net-present-value",
+    "kt:internal-rate-of-return",
+    "kt:capital-budgeting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/net-present-value.html"
+  },
+  {
+   "id": "bz-000436",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
+   "t": "Christensen, Kaufman and Shih argued NPV as commonly used understates innovation's value, since the do-nothing baseline wrongly assumes current performance will persist.",
+   "f": "Christensen, Kaufman and Shih argued NPV as commonly used overstates innovation's value, since the do-nothing baseline wrongly assumes current performance will decline.",
+   "x": "If rivals keep moving, not investing usually means falling behind, not standing still. Comparing a new project with an unrealistically healthy status quo makes the project look worse than it is.",
+   "concepts": [
+    "kt:net-present-value",
+    "kt:innovators-dilemma",
+    "kt:discounted-cash-flow"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/net-present-value.html"
+  },
+  {
+   "id": "bz-000437",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Moral Hazard: Risk-Taking When Others Bear the Cost",
+   "t": "Kenneth Arrow's 1963 article on medical care brought moral hazard into economics, noting insurance works best when the insured event is beyond the policyholder's control.",
+   "f": "Bengt Holmström's 1963 article on medical care brought moral hazard into economics, noting insurance works best when the insured event is beyond the policyholder's control.",
+   "x": "Arrow observed that medical costs depend partly on patients' and doctors' choices, so insurance raises demand for care. Holmström came later, recasting the problem in 1979 as a principal-agent contract with hidden action.",
+   "concepts": [
+    "kt:moral-hazard",
+    "kt:uncertainty-and-the-welfare-economics-of-medical-care-1963",
+    "kt:bengt-holmstrom"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/moral-hazard.html"
   }
  ]
 }

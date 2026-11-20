@@ -1,0 +1,19 @@
+id: bz-000411
+area: organizational-behavior
+kind: evidence
+topic: 'Group Decision Making: How Groups Combine Individual Judgments into Choices'
+topic_type: Concept
+true_statement: In Stasser and Titus's 1985 hidden-profile experiment, groups seldom chose the best candidate when its favorable facts were split among members, since discussion rarely surfaced unshared facts.
+false_statement: In Stasser and Titus's 1985 hidden-profile experiment, groups usually chose the best candidate when its favorable facts were split among members, since discussion readily surfaced unshared facts.
+explanation: When everyone saw all the facts, most groups picked the best option; when facts were scattered, few did, and initial majorities simply grew. Unstructured discussion tends to reinforce what members already share.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/group-decision-making.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 7f639727f81b4fd1df90330245daf3053bbd5343
+concepts:
+- kt:group-decision-making
+- kt:decision-making
+difficulty: 3
+created: '2026-11-20'
+status: active

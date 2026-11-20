@@ -1,0 +1,19 @@
+id: bz-000393
+area: corporate-finance
+kind: evidence
+topic: 'Capital Structure: The Mix of Debt and Equity Financing'
+topic_type: Concept
+true_statement: Baker and Wurgler found firms tend to issue equity when market-to-book ratios are high and repurchase when they are low, leaving a persistent mark on leverage.
+false_statement: Baker and Wurgler found firms tend to issue equity when market-to-book ratios are low and repurchase when they are high, leaving a persistent mark on leverage.
+explanation: Firms sell shares when they look richly valued. Because the effect lasted years instead of being reversed toward a target, Baker and Wurgler saw capital structure as the cumulative result of timing the equity market.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/capital-structure.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 784f3653ac2070c69942e2738352822c5ffdcabd
+concepts:
+- kt:capital-structure
+- kt:market-timing-theory-of-capital-structure
+difficulty: 3
+created: '2026-11-20'
+status: active

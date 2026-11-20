@@ -1,0 +1,19 @@
+id: bz-000348
+area: business-models
+kind: evidence
+topic: 'Subscription Business Model: Selling Ongoing Access'
+topic_type: BusinessModel
+true_statement: Lambrecht and Skiera found that internet customers who picked a flat rate when pay-per-use was cheaper did not churn significantly more, while those wrongly on pay-per-use churned much more.
+false_statement: Lambrecht and Skiera found that internet customers who picked a flat rate when pay-per-use was cheaper churned much more, while those wrongly on pay-per-use did not churn significantly more.
+explanation: Customers paid extra for a flat rate to insure against variable bills, enjoy usage without a running meter, or because they overestimated use. That bias raised profit without raising churn, which is part of why flat-rate subscriptions can beat their unit economics.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/subscription-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 28b826017236f7ba4e175e84da9a3ccb1bcee450
+concepts:
+- kt:subscription-business-model
+- kt:churn-rate
+difficulty: 3
+created: '2026-11-20'
+status: active

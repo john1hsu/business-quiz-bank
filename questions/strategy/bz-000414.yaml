@@ -1,0 +1,20 @@
+id: bz-000414
+area: strategy
+kind: evidence
+topic: 'Strategic Management: Setting Direction and Sustaining Competitive Advantage'
+topic_type: Field
+true_statement: Mintzberg and Waters treated deliberate and emergent strategies as two ends of a continuum, with types such as umbrella and imposed strategies in between.
+false_statement: Mintzberg and Waters treated deliberate and emergent strategies as two separate kinds that never mix, rejecting in-between types such as umbrella strategies.
+explanation: Their 1985 article argued that real strategies are rarely purely planned or purely emergent. The point undercuts the neat process model, since patterns that form in action also make strategy.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/strategic-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 95646bed63a1bae2050777afa95cd17c68939a52
+concepts:
+- kt:strategic-management
+- kt:emergent-strategy
+- kt:strategic-planning
+difficulty: 2
+created: '2026-11-20'
+status: active

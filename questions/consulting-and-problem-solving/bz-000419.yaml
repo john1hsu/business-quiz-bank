@@ -1,0 +1,19 @@
+id: bz-000419
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Root Cause Analysis: Tracing Problems to Their Underlying Causes'
+topic_type: Practice
+true_statement: In a health-care root cause analysis, active errors happen at the point of care, while latent errors are hidden conditions such as staffing or task design that explain why.
+false_statement: In a health-care root cause analysis, latent errors happen at the point of care, while active errors are hidden conditions such as staffing or task design that explain why.
+explanation: Separating the two keeps an investigation from stopping at the person who made the visible mistake. The fixes that last usually target the latent conditions that let the active error happen.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/root-cause-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: fb3db7d86c626a2e42ca45f30bf08584c76ab998
+concepts:
+- kt:root-cause-analysis
+- kt:patient-safety
+difficulty: 2
+created: '2026-11-20'
+status: active

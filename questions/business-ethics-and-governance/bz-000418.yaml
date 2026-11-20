@@ -1,0 +1,20 @@
+id: bz-000418
+area: business-ethics-and-governance
+kind: evidence
+topic: 'Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value'
+topic_type: Theory
+true_statement: Hart and Zingales argued that when shareholders care about social outcomes tied to production, maximizing their welfare is not the same as maximizing market value.
+false_statement: Hart and Zingales argued that even when shareholders care about social outcomes tied to production, maximizing their welfare is the same as maximizing market value.
+explanation: If some harms cannot be separated from how a firm makes money, investors cannot undo them with their own giving. Hart and Zingales suggested firms follow shareholders' preferences, for instance through votes on corporate policy.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/shareholder-primacy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 65661700b7d666459e1adcfd8875e55f29d96fb8
+concepts:
+- kt:shareholder-primacy
+- kt:esg
+- kt:stakeholder-theory
+difficulty: 3
+created: '2026-11-20'
+status: active

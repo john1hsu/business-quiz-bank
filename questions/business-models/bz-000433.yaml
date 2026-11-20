@@ -1,0 +1,19 @@
+id: bz-000433
+area: business-models
+kind: evidence
+topic: 'Platform Business Model: Value Creation by Orchestrating External Producers and Consumers'
+topic_type: BusinessModel
+true_statement: Hagiu and Wright argue vertical integration coordinates spillovers better, while a multi-sided platform wins when suppliers' effort and private information matter most.
+false_statement: Hagiu and Wright argue a multi-sided platform coordinates spillovers better, while vertical integration wins when suppliers' effort and private information matter most.
+explanation: Letting independent suppliers deal directly with customers motivates them and uses what they know, which suits an MSP. When one party's choices spill over onto others, owning the whole chain makes coordination easier.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/platform-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 442496c7762e4671b0f5331d4adbddfd916fce8c
+concepts:
+- kt:platform-business-model
+- kt:vertical-integration
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,21 @@
+id: bz-000362
+area: marketing
+kind: figure
+topic: 'Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing'
+topic_type: Strategy
+true_statement: Averaging pricing studies from 1983–2006, Hinterhuber found only about 17% of firms set prices from customer value, versus about 44% from competition.
+false_statement: Averaging pricing studies from 1983–2006, Hinterhuber found about 44% of firms set prices from customer value, versus only about 17% from competition.
+explanation: Competition-based pricing was most common and cost-based came second at about 37%, leaving value-based pricing last even though scholars rate it the strongest approach. Hinterhuber traced the gap to obstacles such as hard-to-assess value and discount-prone sales forces.
+as_of: 1983-2006
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/pricing-strategy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 47a1b2f2673f96c2093b1dd59e575a3fd1adf957
+concepts:
+- kt:pricing-strategy
+- kt:value-based-pricing
+- kt:cost-plus-pricing
+difficulty: 2
+created: '2026-11-20'
+status: active

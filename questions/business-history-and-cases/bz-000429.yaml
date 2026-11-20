@@ -1,0 +1,20 @@
+id: bz-000429
+area: business-history-and-cases
+kind: evidence
+topic: 'General Motors: From Sloan''s Decentralization to the 2009 Bankruptcy'
+topic_type: Company
+true_statement: Helper and Henderson argue GM's decline came mainly from weaker design, quality and productivity, with pension and retiree costs partly a result of lost share.
+false_statement: Helper and Henderson argue GM's decline came mainly from pension and retiree costs, with weaker design, quality and productivity partly a result of lost share.
+explanation: They trace the operating gap to GM's failure to build trust-based relationships with workers and suppliers like Toyota's. GM had money and a close view of Toyota through NUMMI, yet took over two decades to imitate it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/general-motors.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 34693f6e4eff88fdcdf43b7f7763f4babd7d364c
+concepts:
+- kt:general-motors
+- kt:corporate-decline
+- kt:toyota-motor-corporation
+difficulty: 3
+created: '2026-11-20'
+status: active

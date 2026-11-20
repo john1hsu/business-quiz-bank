@@ -1,0 +1,19 @@
+id: bz-000380
+area: leadership-and-management
+kind: definition
+topic: 'Performance Management: Planning, Appraising and Developing Employee Performance'
+topic_type: Practice
+true_statement: Performance appraisal, the periodic rating of an individual, is one step within performance management, which also covers what managers do before and after the rating.
+false_statement: Performance management, the periodic rating of an individual, is one step within performance appraisal, which also covers what managers do before and after the rating.
+explanation: OPM's cycle runs from planning and monitoring through developing, rating and rewarding. Appraisal is just the rating stage, so a firm can drop or redesign ratings while still managing performance.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/performance-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8ce4469568536f7d9154e8b4967e811847909c0b
+concepts:
+- kt:performance-management
+- kt:performance-appraisal
+difficulty: 1
+created: '2026-11-20'
+status: active

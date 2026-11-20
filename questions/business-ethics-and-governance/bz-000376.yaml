@@ -1,0 +1,20 @@
+id: bz-000376
+area: business-ethics-and-governance
+kind: figure
+topic: 'Separation of Ownership and Control: Dispersed Shareholders and Managerial Power'
+topic_type: Concept
+true_statement: As of April 1, 2026, Mark Zuckerberg held about 60.8% of Meta's total voting power, largely through its ten-vote Class B shares.
+false_statement: As of April 1, 2026, Mark Zuckerberg held about 99.8% of Meta's total voting power, largely through its ten-vote Class B shares.
+explanation: He owned 99.8% of the Class B shares, which translated into about 60.8% of all votes. That majority makes Meta a controlled company, the reverse of the manager-dominated firm Berle and Means described.
+as_of: '2026'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/separation-of-ownership-and-control.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 5ab4255afd6bec1b8ea673a51ec9b2d09cfb4afa
+concepts:
+- kt:separation-of-ownership-and-control
+- kt:dual-class-shares
+difficulty: 2
+created: '2026-11-20'
+status: active

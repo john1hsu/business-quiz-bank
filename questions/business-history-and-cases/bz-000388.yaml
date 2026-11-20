@@ -1,0 +1,20 @@
+id: bz-000388
+area: business-history-and-cases
+kind: figure
+topic: 'Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron'
+topic_type: Case
+true_statement: By an October 2000 Enron presentation, about $27 billion of its roughly $60 billion in assets sat with unconsolidated affiliates.
+false_statement: By an October 2000 Enron presentation, about $7 billion of its roughly $60 billion in assets sat with unconsolidated affiliates.
+explanation: Nearly half of Enron's assets were held outside its consolidated statements, and its annual reports listed almost 3,000 related entities. That scale is why off-balance-sheet vehicles were central to the fraud.
+as_of: '2000'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/enron-scandal.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 2b4ec0bd4312b16e77615ed6683c13ccd4aebb14
+concepts:
+- kt:enron-scandal
+- kt:special-purpose-entity
+difficulty: 2
+created: '2026-11-20'
+status: active

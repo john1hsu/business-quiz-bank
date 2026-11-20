@@ -9,8 +9,8 @@ explanation: The majority treated card networks as two-sided transaction platfor
 source:
   repo: john1hsu/business-knowledge-graph
   path: articles/business-models/two-sided-market.md
-  commit: ab913bb87ed3d7ce32575d40b3af5aae13f97c2b
-  blob: 761c5aa411dc9dfc454182404618c609195361d4
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 097d315ff38af9ce83732a8a12f0be68effed34b
 concepts:
 - kt:two-sided-market
 - kt:ohio-v-american-express

@@ -1,0 +1,21 @@
+id: bz-000430
+area: business-history-and-cases
+kind: figure
+topic: 'General Motors: From Sloan''s Decentralization to the 2009 Bankruptcy'
+topic_type: Company
+true_statement: GM's share of the U.S. vehicle market fell from 62.6 percent in 1980 to 19.8 percent in 2009, the year it filed for Chapter 11.
+false_statement: GM's share of the U.S. vehicle market fell from 42.6 percent in 1980 to 29.8 percent in 2009, the year it filed for Chapter 11.
+explanation: The collapse spans three decades of losing ground to rivals with better operating practices. GM filed in June 2009, and the U.S. Treasury took a 60.8 percent stake in the new company that bought most of its assets.
+as_of: '2009'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/general-motors.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 34693f6e4eff88fdcdf43b7f7763f4babd7d364c
+concepts:
+- kt:general-motors
+- kt:corporate-decline
+- kt:automotive-industry
+difficulty: 2
+created: '2026-11-20'
+status: active

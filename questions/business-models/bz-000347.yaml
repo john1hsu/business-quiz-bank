@@ -1,0 +1,20 @@
+id: bz-000347
+area: business-models
+kind: mechanism
+topic: 'Subscription Business Model: Selling Ongoing Access'
+topic_type: BusinessModel
+true_statement: In the shifted-beta-geometric model, a subscriber cohort's retention rate rises over time because high-churn customers leave first, not because individuals grow more loyal.
+false_statement: In the shifted-beta-geometric model, a subscriber cohort's retention rate rises over time because individuals grow more loyal, not because high-churn customers leave first.
+explanation: Fader and Hardie give each customer a constant churn probability that varies across customers. As the churn-prone drop out, the survivors are the low-churn types, so aggregate retention climbs even though nobody's own probability changes.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/subscription-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 28b826017236f7ba4e175e84da9a3ccb1bcee450
+concepts:
+- kt:subscription-business-model
+- kt:churn-rate
+- kt:customer-lifetime-value
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000437
+area: managerial-economics
+kind: origin
+topic: 'Moral Hazard: Risk-Taking When Others Bear the Cost'
+topic_type: Concept
+true_statement: Kenneth Arrow's 1963 article on medical care brought moral hazard into economics, noting insurance works best when the insured event is beyond the policyholder's control.
+false_statement: Bengt Holmström's 1963 article on medical care brought moral hazard into economics, noting insurance works best when the insured event is beyond the policyholder's control.
+explanation: Arrow observed that medical costs depend partly on patients' and doctors' choices, so insurance raises demand for care. Holmström came later, recasting the problem in 1979 as a principal-agent contract with hidden action.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/moral-hazard.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 2848d1ec5376cb51e138d93572de24cf8115555b
+concepts:
+- kt:moral-hazard
+- kt:uncertainty-and-the-welfare-economics-of-medical-care-1963
+- kt:bengt-holmstrom
+difficulty: 2
+created: '2026-11-20'
+status: active

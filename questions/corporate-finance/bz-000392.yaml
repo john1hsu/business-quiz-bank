@@ -1,0 +1,20 @@
+id: bz-000392
+area: corporate-finance
+kind: mechanism
+topic: 'Capital Structure: The Mix of Debt and Equity Financing'
+topic_type: Concept
+true_statement: Under the pecking order theory, firms use internal funds first, then debt, and issue equity last, since investors read a stock issue as a sign of overvalued shares.
+false_statement: Under the pecking order theory, firms use internal funds first, then equity, and issue debt last, since investors read a bond issue as a sign of overvalued shares.
+explanation: 'Myers tied the ordering to asymmetric information: managers know more than outsiders, so selling stock signals they think it is overpriced. A firm''s debt ratio then reflects its past need for outside money, not a target.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/capital-structure.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 784f3653ac2070c69942e2738352822c5ffdcabd
+concepts:
+- kt:capital-structure
+- kt:pecking-order-theory
+- kt:information-asymmetry
+difficulty: 2
+created: '2026-11-20'
+status: active

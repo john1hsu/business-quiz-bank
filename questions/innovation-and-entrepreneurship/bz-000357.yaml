@@ -1,0 +1,19 @@
+id: bz-000357
+area: innovation-and-entrepreneurship
+kind: definition
+topic: 'Open Innovation: Purposive Inflows and Outflows of Knowledge'
+topic_type: Concept
+true_statement: Chesbrough's false negatives are projects a closed firm judged unpromising that later proved valuable elsewhere, as with technologies from Xerox PARC.
+false_statement: Chesbrough's false positives are projects a closed firm judged unpromising that later proved valuable elsewhere, as with technologies from Xerox PARC.
+explanation: 'A false negative is a wrong ''no'': the firm rejects something that is actually worth a lot. Chesbrough used these lost opportunities to argue that closed innovation wastes value a firm could capture by licensing or spinning ideas out.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/open-innovation.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 1f5bc4de54edcbfd2e0d10e1ae361acfb1775318
+concepts:
+- kt:open-innovation
+- kt:closed-innovation
+difficulty: 2
+created: '2026-11-20'
+status: active

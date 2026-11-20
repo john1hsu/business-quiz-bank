@@ -1,0 +1,20 @@
+id: bz-000425
+area: accounting-and-reporting
+kind: origin
+topic: 'International Financial Reporting Standards (IFRS): Global Rules Set by the IASB'
+topic_type: Framework
+true_statement: In November 2007 the SEC let foreign private issuers file IFRS statements without reconciling to US GAAP, but only if they used IFRS as issued by the IASB.
+false_statement: In November 2007 the SEC let foreign private issuers file IFRS statements without reconciling to US GAAP, including national variants of IFRS adopted locally.
+explanation: Requiring the IASB's own version discouraged countries from tailoring IFRS and undermining comparability. Domestic US companies still report under US GAAP.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ifrs.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ce4c9c35f2f5fc72be1891dcc6ed5fae912a481d
+concepts:
+- kt:ifrs
+- kt:gaap
+- kt:international-accounting-standards-board
+difficulty: 2
+created: '2026-11-20'
+status: active

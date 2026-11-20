@@ -1,0 +1,19 @@
+id: bz-000399
+area: innovation-and-entrepreneurship
+kind: definition
+topic: 'Lean Startup: Validated Learning Through the Build-Measure-Learn Loop'
+topic_type: Practice
+true_statement: Steve Blank defines a startup as a temporary organization searching for a repeatable, scalable business model, not a small company executing a known one.
+false_statement: Steve Blank defines a startup as a temporary organization executing a known, scalable business model, not a small company still searching for one.
+explanation: Because a startup does not yet know its customers, channels or revenue model, writing a detailed plan is premature. Blank's definition is why lean startup treats the business model as hypotheses to test.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/lean-startup.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: aa27f6d0a7a637324265f05181d546947de1ee54
+concepts:
+- kt:lean-startup
+- kt:business-model-canvas
+difficulty: 1
+created: '2026-11-20'
+status: active

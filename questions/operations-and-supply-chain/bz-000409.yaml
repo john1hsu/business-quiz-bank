@@ -1,0 +1,20 @@
+id: bz-000409
+area: operations-and-supply-chain
+kind: evidence
+topic: 'Lean Manufacturing: Eliminating Waste Across the Value Stream'
+topic_type: Framework
+true_statement: A study of 351 pharmaceutical plants found hard lean practices like just-in-time improved performance directly, while soft practices acted only as moderators.
+false_statement: A study of 351 pharmaceutical plants found soft lean practices like empowerment improved performance directly, while hard practices acted only as moderators.
+explanation: Just-in-time, TQM and total productive maintenance raised operational results on their own. Empowerment and visual management amplified those gains, whereas rigid standardization and heavy goal setting seemed to weaken them.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/lean-manufacturing.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: be4e04c77a34160e67d28e9df46d057382cd7525
+concepts:
+- kt:lean-manufacturing
+- kt:total-quality-management
+- kt:just-in-time
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000375
+area: business-ethics-and-governance
+kind: evidence
+topic: 'Separation of Ownership and Control: Dispersed Shareholders and Managerial Power'
+topic_type: Concept
+true_statement: La Porta and colleagues found widely held large firms are rare outside countries with very good shareholder protection; elsewhere most are controlled by families or the state.
+false_statement: La Porta and colleagues found widely held large firms are rare outside countries with weak shareholder protection; elsewhere most are controlled by families or the state.
+explanation: Their 1999 study of 27 wealthy economies showed the Berle-Means dispersed firm is mostly an American and British pattern. Where investors are poorly protected, controlling owners, often via pyramids, keep control instead.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/separation-of-ownership-and-control.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 5ab4255afd6bec1b8ea673a51ec9b2d09cfb4afa
+concepts:
+- kt:separation-of-ownership-and-control
+- kt:corporate-governance
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,21 @@
+id: bz-000360
+area: managerial-economics
+kind: mechanism
+topic: 'Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision'
+topic_type: Theory
+true_statement: In transaction cost economics, high asset specificity turns competitive bidding into small-numbers bargaining, which makes hierarchy more attractive than market buying.
+false_statement: In transaction cost economics, high asset specificity turns small-numbers bargaining into competitive bidding, which makes market buying more attractive than hierarchy.
+explanation: Once investments are tailored to one relationship, they lose value elsewhere, so each side can hold the other up. Williamson predicted generic inputs get bought while specific ones are better made in-house or protected by contract.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/transaction-cost-economics.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 06183b44b70ab50940e9ea5a10cfc2052cf8ff40
+concepts:
+- kt:transaction-cost-economics
+- kt:make-or-buy-decision
+- kt:vertical-integration
+- kt:oliver-williamson
+difficulty: 2
+created: '2026-11-20'
+status: active

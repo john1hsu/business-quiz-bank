@@ -1,0 +1,19 @@
+id: bz-000354
+area: government-contracting-and-public-sector
+kind: evidence
+topic: 'Small Business Set-Asides: Reserving Federal Contracts for Small Firms'
+topic_type: Practice
+true_statement: Nakabayashi estimated that removing set-asides in Japanese public construction would drive out about 40% of small firms and raise procurement costs overall.
+false_statement: Nakabayashi estimated that removing set-asides in Japanese public construction would drive out about 40% of small firms but lower procurement costs overall.
+explanation: In that market the protected firms would exit without set-asides, and the lost competition costs more than the efficiency gained. US timber-sale evidence points the other way, so a set-aside's cost depends on whether small firms would otherwise stay in.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/small-business-set-asides.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 5bce50ea5c7fe9f23da1f1f5e1751d1a9a455b36
+concepts:
+- kt:small-business-set-asides
+- kt:bidder-subsidies
+difficulty: 3
+created: '2026-11-20'
+status: active

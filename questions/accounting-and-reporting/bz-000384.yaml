@@ -1,0 +1,20 @@
+id: bz-000384
+area: accounting-and-reporting
+kind: origin
+topic: 'DuPont Analysis: Decomposing Return on Equity'
+topic_type: Framework
+true_statement: Donaldson Brown devised DuPont's return-on-investment measure in 1914 and, after moving to General Motors in 1921, adapted it into a target-return pricing method.
+false_statement: Donaldson Brown devised General Motors' return-on-investment measure in 1914 and, after moving to DuPont in 1921, adapted it into a target-return pricing method.
+explanation: Brown combined earnings, working capital and plant investment into one ROI figure at DuPont. At GM each division set a target return and standard volume, then worked out the price needed to hit it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/dupont-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ff8d06f14c172c6d2650b12227ed5d2f22c60d4e
+concepts:
+- kt:dupont-analysis
+- kt:donaldson-brown
+- kt:general-motors
+difficulty: 2
+created: '2026-11-20'
+status: active

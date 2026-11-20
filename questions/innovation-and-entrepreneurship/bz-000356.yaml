@@ -1,0 +1,20 @@
+id: bz-000356
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: 'Open Innovation: Purposive Inflows and Outflows of Knowledge'
+topic_type: Concept
+true_statement: In open innovation's inside-out mode, unused internal ideas leave the firm through out-licensing, spin-outs and corporate venture capital.
+false_statement: In open innovation's outside-in mode, unused internal ideas leave the firm through out-licensing, spin-outs and corporate venture capital.
+explanation: 'Chesbrough and Bogers separate inbound flows (outside-in: scouting, in-licensing, crowdsourcing) from outbound ones (inside-out: letting ideas that don''t fit the business model reach market elsewhere). A coupled mode combines both with partners.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/open-innovation.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 1f5bc4de54edcbfd2e0d10e1ae361acfb1775318
+concepts:
+- kt:open-innovation
+- kt:venture-capital
+- kt:business-model
+difficulty: 2
+created: '2026-11-20'
+status: active

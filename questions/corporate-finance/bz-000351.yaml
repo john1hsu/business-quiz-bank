@@ -1,0 +1,19 @@
+id: bz-000351
+area: corporate-finance
+kind: mechanism
+topic: 'Capital Asset Pricing Model: Pricing Systematic Risk'
+topic_type: Theory
+true_statement: In the CAPM, only systematic risk earns a reward, because company-specific risk cancels out in a diversified portfolio.
+false_statement: In the CAPM, only company-specific risk earns a reward, because systematic risk cancels out in a diversified portfolio.
+explanation: Diversification can wash out risks peculiar to one firm but not market-wide swings, so investors are paid only for bearing the latter. Beta measures that market exposure, which is why it is the model's single risk input.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/capital-asset-pricing-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d0f0a8e2a8ecfc6dfaae33a3174849e4758b23bd
+concepts:
+- kt:capital-asset-pricing-model
+- kt:asset-pricing
+difficulty: 1
+created: '2026-11-20'
+status: active

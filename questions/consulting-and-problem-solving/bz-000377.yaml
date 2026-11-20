@@ -1,0 +1,21 @@
+id: bz-000377
+area: consulting-and-problem-solving
+kind: origin
+topic: 'Delphi Method: Iterative Anonymous Expert Consensus'
+topic_type: Practice
+true_statement: The Delphi method was developed at the RAND Corporation in the 1950s, and Norman Dalkey and Olaf Helmer described an experiment with it in 1963.
+false_statement: The Delphi method was developed at the RAND Corporation in the 1970s, and Norman Dalkey and Olaf Helmer described an experiment with it in 1983.
+explanation: Their 1963 Management Science article framed the aim as reaching the most reliable consensus of experts through questionnaires with controlled feedback. RAND's 1964 long-range forecasting study then showed the method at scale.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/delphi-method.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 31a7df94f861d5d4ec2524b2ad269552a3d71c36
+concepts:
+- kt:delphi-method
+- kt:norman-dalkey
+- kt:olaf-helmer
+- kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963
+difficulty: 1
+created: '2026-11-20'
+status: active

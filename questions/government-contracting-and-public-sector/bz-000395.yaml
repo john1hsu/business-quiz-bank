@@ -1,0 +1,20 @@
+id: bz-000395
+area: government-contracting-and-public-sector
+kind: origin
+topic: 'DFARS: Defense Department Rules Layered on Top of the FAR'
+topic_type: Regulation
+true_statement: Before the FAR took effect in 1984, DoD bought under the Defense Acquisition Regulation, which had been called the Armed Services Procurement Regulation until 1978.
+false_statement: Before the FAR took effect in 1984, DoD bought under the Defense Acquisition Regulation, which had been called the Federal Procurement Regulations until 1978.
+explanation: The Federal Procurement Regulations were the civilian agencies' rules. When the single FAR replaced both systems, DoD's remaining unique rules moved into the DFARS, codified right after the FAR in Title 48.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/defense-federal-acquisition-regulation-supplement.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 61f016e85ab0d9c72eb52249fe71bd6a756d1a4a
+concepts:
+- kt:defense-federal-acquisition-regulation-supplement
+- kt:defense-acquisition-regulation
+- kt:federal-acquisition-regulation
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000387
+area: business-history-and-cases
+kind: evidence
+topic: 'Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron'
+topic_type: Case
+true_statement: A 2002 Senate subcommittee found Enron's board had waived its code of conduct so CFO Andrew Fastow could run the LJM partnerships.
+false_statement: A 2002 Senate subcommittee found Enron's board had waived its code of conduct so CEO Jeffrey Skilling could run the LJM partnerships.
+explanation: Letting the finance chief run funds that traded with Enron was a glaring conflict of interest. The subcommittee cited it among the board's failures of fiduciary duty and rejected directors' claims that they had simply relied on advisers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/enron-scandal.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 2b4ec0bd4312b16e77615ed6683c13ccd4aebb14
+concepts:
+- kt:enron-scandal
+- kt:board-of-directors
+- kt:fiduciary-duty
+difficulty: 2
+created: '2026-11-20'
+status: active

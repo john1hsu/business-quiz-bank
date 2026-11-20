@@ -1,0 +1,21 @@
+id: bz-000398
+area: innovation-and-entrepreneurship
+kind: origin
+topic: 'Lean Startup: Validated Learning Through the Build-Measure-Learn Loop'
+topic_type: Practice
+true_statement: Eric Ries created the lean startup by combining Steve Blank's customer development with agile software practices, naming it after lean manufacturing.
+false_statement: Steve Blank created the lean startup by combining Eric Ries's customer development with agile software practices, naming it after lean manufacturing.
+explanation: Blank developed customer development and published it in 2003; Ries, a founder Blank advised, added agile methods and the lean label, then wrote The Lean Startup in 2011. The name nods to Toyota's war on waste.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/lean-startup.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: aa27f6d0a7a637324265f05181d546947de1ee54
+concepts:
+- kt:lean-startup
+- kt:eric-ries
+- kt:customer-development
+- kt:lean-manufacturing
+difficulty: 1
+created: '2026-11-20'
+status: active

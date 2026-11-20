@@ -1,0 +1,20 @@
+id: bz-000426
+area: accounting-and-reporting
+kind: mechanism
+topic: 'International Financial Reporting Standards (IFRS): Global Rules Set by the IASB'
+topic_type: Framework
+true_statement: IFRS prohibits LIFO inventory costing and allows certain impairment losses to be reversed, two fundamental differences from US GAAP.
+false_statement: IFRS permits LIFO inventory costing and forbids any reversal of impairment losses, two fundamental differences from US GAAP.
+explanation: The SEC staff listed these among the gaps analysts must adjust for when comparing an IFRS reporter with a US peer. IFRS is also more principles-based, with less industry-specific guidance than GAAP.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ifrs.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ce4c9c35f2f5fc72be1891dcc6ed5fae912a481d
+concepts:
+- kt:ifrs
+- kt:gaap
+- kt:goodwill
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000422
+area: leadership-and-management
+kind: origin
+topic: 'Span of Control: Number of Direct Reports per Manager'
+topic_type: Concept
+true_statement: In 1933 V. A. Graicunas argued a manager's coordination load grows geometrically with each extra report, because subordinates also form group and cross relationships.
+false_statement: In 1933 V. A. Graicunas argued a manager's coordination load grows only linearly with each extra report, because only one-to-one relationships with subordinates count.
+explanation: Counting group relationships and relationships among subordinates, four reports imply 44 potential relationships and eight imply 1,080. Urwick turned this into a rule of about five or six interlocking subordinates.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/span-of-control.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 75b9a9ef9b93522fc89a205533f651f80ece52cc
+concepts:
+- kt:span-of-control
+- kt:v-a-graicunas
+- kt:lyndall-urwick
+difficulty: 2
+created: '2026-11-20'
+status: active

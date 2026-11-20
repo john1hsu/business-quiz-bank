@@ -1,0 +1,20 @@
+id: bz-000359
+area: managerial-economics
+kind: origin
+topic: 'Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision'
+topic_type: Theory
+true_statement: Ronald Coase's 1937 article The Nature of the Firm argued that firms exist because using the market carries costs of negotiating and monitoring contracts.
+false_statement: Ronald Coase's 1937 article The Nature of the Firm argued that firms exist because managerial authority carries costs of negotiating and monitoring contracts.
+explanation: 'Coase asked why so much allocation happens by command inside firms if prices allocate resources. His answer: markets are not free to use, so a firm grows until one more internal transaction would cost more than buying it outside.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/transaction-cost-economics.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 06183b44b70ab50940e9ea5a10cfc2052cf8ff40
+concepts:
+- kt:transaction-cost-economics
+- kt:ronald-coase
+- kt:the-nature-of-the-firm-1937
+difficulty: 1
+created: '2026-11-20'
+status: active

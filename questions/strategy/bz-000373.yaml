@@ -1,0 +1,20 @@
+id: bz-000373
+area: strategy
+kind: evidence
+topic: 'Scenario Planning: Strategy for Multiple Plausible Futures'
+topic_type: Practice
+true_statement: Field experiments by Phadnis and colleagues found that using multiple scenarios did not systematically change experts' overall confidence, but did push them toward more flexible investments.
+false_statement: Field experiments by Phadnis and colleagues found that using multiple scenarios systematically lowered experts' overall confidence, but did not push them toward more flexible investments.
+explanation: Their 2014 study with infrastructure experts is one of the few rigorous tests. Judgments shifted toward the scenario considered and flexible options gained favor, yet with no control group it shows effects on judgment, not on outcomes.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/scenario-planning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d45be14e4c73b99fd3bfd81870c11c9da851c0ad
+concepts:
+- kt:scenario-planning
+- kt:real-options
+- kt:overconfidence-bias
+difficulty: 3
+created: '2026-11-20'
+status: active

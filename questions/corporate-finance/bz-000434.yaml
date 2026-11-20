@@ -1,0 +1,19 @@
+id: bz-000434
+area: corporate-finance
+kind: origin
+topic: 'Net Present Value: Discounting Future Cash Flows to Evaluate Investments'
+topic_type: Metric
+true_statement: Irving Fisher's The Theory of Interest (1930) argued that borrowing and lending reshape the timing of an income stream but not its present value.
+false_statement: Irving Fisher's The Theory of Interest (1930) argued that borrowing and lending reshape the present value of an income stream but not its timing.
+explanation: Because financing only shifts when money arrives, an owner should first pick the use with the highest present worth and finance it separately. That separation underlies the modern NPV rule.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/net-present-value.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 9e12c7eb8a63280e7c2ed068c8b48f364a695917
+concepts:
+- kt:net-present-value
+- kt:irving-fisher
+difficulty: 2
+created: '2026-11-20'
+status: active

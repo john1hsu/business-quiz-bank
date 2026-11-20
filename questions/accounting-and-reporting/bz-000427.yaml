@@ -1,0 +1,19 @@
+id: bz-000427
+area: accounting-and-reporting
+kind: evidence
+topic: 'International Financial Reporting Standards (IFRS): Global Rules Set by the IASB'
+topic_type: Framework
+true_statement: Daske, Hail, Leuz and Verdi found the capital-market benefits of mandatory IFRS appeared only where firms had incentives to be transparent and enforcement was strong.
+false_statement: Daske, Hail, Leuz and Verdi found the capital-market benefits of mandatory IFRS appeared evenly across countries, regardless of firms' incentives or legal enforcement.
+explanation: Liquidity generally rose around adoption, but gains clustered where institutions supported honest reporting. Because enforcement reforms happened at the same time, the authors warned against crediting the accounting switch alone.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ifrs.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ce4c9c35f2f5fc72be1891dcc6ed5fae912a481d
+concepts:
+- kt:ifrs
+- kt:eu-ias-regulation
+difficulty: 3
+created: '2026-11-20'
+status: active

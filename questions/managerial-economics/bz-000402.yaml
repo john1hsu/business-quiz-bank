@@ -1,0 +1,20 @@
+id: bz-000402
+area: managerial-economics
+kind: mechanism
+topic: 'Adverse Selection: Hidden Information Before a Contract'
+topic_type: Concept
+true_statement: In Rothschild and Stiglitz's separating equilibrium, high-risk buyers get full insurance at fair odds, while low-risk buyers get only partial cover.
+false_statement: In Rothschild and Stiglitz's separating equilibrium, low-risk buyers get full insurance at fair odds, while high-risk buyers get only partial cover.
+explanation: Insurers cannot see risk, so they ration cover for the cheap policy to make it unattractive to high-risk buyers, who would otherwise mimic the low-risk type. The low-risk group bears the cost, and nobody gains from it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/adverse-selection.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 932e5c5dc23ac94209496836864164f7b057b14a
+concepts:
+- kt:adverse-selection
+- kt:screening-theory
+- kt:contract-theory
+difficulty: 3
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000349
+area: business-models
+kind: figure
+topic: 'Subscription Business Model: Selling Ongoing Access'
+topic_type: BusinessModel
+true_statement: Research summarized in 2023 reported that subscription-based firms had grown 3.7 times faster than the S&P 500 over the preceding decade.
+false_statement: Research summarized in 2023 reported that subscription-based firms had grown 1.7 times faster than the S&P 500 over the preceding decade.
+explanation: Ofek and Konary cited this growth gap alongside the finding that nearly three-quarters of direct-to-consumer companies offered a subscription option, showing how mainstream the model had become.
+as_of: '2023'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/subscription-business-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 28b826017236f7ba4e175e84da9a3ccb1bcee450
+concepts:
+- kt:subscription-business-model
+difficulty: 2
+created: '2026-11-20'
+status: active

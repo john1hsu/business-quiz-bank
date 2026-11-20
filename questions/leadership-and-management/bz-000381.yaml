@@ -1,0 +1,19 @@
+id: bz-000381
+area: leadership-and-management
+kind: evidence
+topic: 'Performance Management: Planning, Appraising and Developing Employee Performance'
+topic_type: Practice
+true_statement: Kluger and DeNisi's 1996 meta-analysis found feedback had a positive average effect on performance, yet over one-third of feedback interventions reduced it.
+false_statement: Kluger and DeNisi's 1996 meta-analysis found feedback had a negative average effect on performance, though over one-third of feedback interventions improved it.
+explanation: Across 607 effect sizes the average gain was moderate, but the spread was wide enough that feedback often backfired. That is why feedback, the core of most systems, cannot be assumed to help.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/performance-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8ce4469568536f7d9154e8b4967e811847909c0b
+concepts:
+- kt:performance-management
+- kt:goal-setting-theory
+difficulty: 3
+created: '2026-11-20'
+status: active

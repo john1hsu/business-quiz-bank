@@ -1,0 +1,20 @@
+id: bz-000378
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Delphi Method: Iterative Anonymous Expert Consensus'
+topic_type: Practice
+true_statement: In a classical Delphi, panellists stay anonymous to one another and the group answer is computed statistically rather than negotiated in discussion.
+false_statement: In a classical Delphi, panellists meet face to face and the group answer is negotiated in discussion rather than computed statistically.
+explanation: Anonymity and statistical aggregation, such as a median with quartiles, stop eloquent speakers or senior figures from swaying the panel. Experts see the group summary between rounds and may revise their own answers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/delphi-method.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 31a7df94f861d5d4ec2524b2ad269552a3d71c36
+concepts:
+- kt:delphi-method
+- kt:groupthink
+- kt:group-decision-making
+difficulty: 1
+created: '2026-11-20'
+status: active

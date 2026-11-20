@@ -1,0 +1,20 @@
+id: bz-000413
+area: strategy
+kind: origin
+topic: 'Strategic Management: Setting Direction and Sustaining Competitive Advantage'
+topic_type: Field
+true_statement: Dan Schendel and Charles Hofer's 1977 Pittsburgh conference called for strategic management to become an academic discipline grounded in empirical research.
+false_statement: Kenneth Andrews and C. Roland Christensen's 1977 Pittsburgh conference called for strategic management to become an academic discipline grounded in empirical research.
+explanation: Andrews and Christensen belong to the earlier Harvard business policy tradition built on cases. Schendel and Hofer renamed and rebuilt the field, and Schendel went on to found the Strategic Management Journal in 1980.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/strategic-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 95646bed63a1bae2050777afa95cd17c68939a52
+concepts:
+- kt:strategic-management
+- kt:dan-schendel
+- kt:business-policy
+difficulty: 2
+created: '2026-11-20'
+status: active

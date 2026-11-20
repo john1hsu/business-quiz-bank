@@ -1,0 +1,20 @@
+id: bz-000382
+area: leadership-and-management
+kind: application
+topic: 'Performance Management: Planning, Appraising and Developing Employee Performance'
+topic_type: Practice
+true_statement: In Deloitte's 2015 redesign, team leaders answered questions about future actions they would take for each person instead of rating that person's skills.
+false_statement: In Deloitte's 2015 redesign, team leaders rated each person's skills on a detailed scale instead of answering questions about future actions they would take.
+explanation: Research on idiosyncratic rater effects showed skill ratings say more about the rater than the person rated. Asking about the leader's own intended actions, such as promotion, aimed to give more reliable, forward-looking data.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/performance-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8ce4469568536f7d9154e8b4967e811847909c0b
+concepts:
+- kt:performance-management
+- kt:deloitte
+- kt:performance-appraisal
+difficulty: 2
+created: '2026-11-20'
+status: active

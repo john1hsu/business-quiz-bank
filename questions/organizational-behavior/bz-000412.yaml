@@ -1,0 +1,19 @@
+id: bz-000412
+area: organizational-behavior
+kind: application
+topic: 'Group Decision Making: How Groups Combine Individual Judgments into Choices'
+topic_type: Concept
+true_statement: A contingency rule says a group should decide when no single person holds the needed information, while one individual should decide in emergencies.
+false_statement: A contingency rule says one individual should decide when no single person holds the needed information, while a group should decide in emergencies.
+explanation: Groups pool dispersed knowledge and win commitment from those who must implement, but they are slow. Under acute time pressure, or when one person already has the facts, an individual decision is better.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/group-decision-making.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 7f639727f81b4fd1df90330245daf3053bbd5343
+concepts:
+- kt:group-decision-making
+- kt:decision-making
+difficulty: 1
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000345
+area: business-history-and-cases
+kind: definition
+topic: 'Scientific Management: Taylor''s System of Task Study and Standardized Work'
+topic_type: Practice
+true_statement: Taylor saw soldiering, the deliberate holding down of output, mainly as workers' systematic defence against piece-rate cuts and job losses.
+false_statement: Taylor saw soldiering, the deliberate holding down of output, mainly as workers' natural laziness rather than a defence against piece-rate cuts.
+explanation: Taylor granted some natural inclination to take it easy, but blamed most restriction of output on workers protecting themselves from rate cuts and layoffs. That is why he argued higher productivity had to benefit both employer and employee.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/scientific-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: e5b6c18469e08014f144d0b4878e129cc0539bff
+concepts:
+- kt:scientific-management
+- kt:soldiering
+difficulty: 2
+created: '2026-11-20'
+status: active

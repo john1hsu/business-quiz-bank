@@ -1,0 +1,19 @@
+id: bz-000396
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: 'DFARS: Defense Department Rules Layered on Top of the FAR'
+topic_type: Regulation
+true_statement: In the DFARS, purely supplemental text uses section numbers of 70 and up, while military department supplements use numbers of 90 and up.
+false_statement: In the DFARS, purely supplemental text uses section numbers of 90 and up, while military department supplements use numbers of 70 and up.
+explanation: Text that implements a FAR rule keeps the FAR's numbering, so DFARS 201.3 parallels FAR 1.3. Reserved number ranges let readers tell at a glance whether a section implements the FAR, adds a DoD-wide rule or comes from a component.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/defense-federal-acquisition-regulation-supplement.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 61f016e85ab0d9c72eb52249fe71bd6a756d1a4a
+concepts:
+- kt:defense-federal-acquisition-regulation-supplement
+- kt:federal-acquisition-regulation
+difficulty: 3
+created: '2026-11-20'
+status: active

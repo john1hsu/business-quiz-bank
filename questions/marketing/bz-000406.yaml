@@ -1,0 +1,19 @@
+id: bz-000406
+area: marketing
+kind: application
+topic: 'Marketing Mix: The Four Ps of Product, Price, Place and Promotion'
+topic_type: Framework
+true_statement: For services, Booms and Bitner extended the mix to 7Ps by adding people, physical evidence and process to product, price, place and promotion.
+false_statement: For services, Booms and Bitner extended the mix to 7Ps by adding people, packaging and positioning to product, price, place and promotion.
+explanation: In a service the staff, the setting and the delivery process are part of what the customer buys, so the original four levers missed them. Their 1981 proposal became the standard services-marketing mix.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/marketing-mix.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 10e0764e5d2f55127823bef9c0f3a75e2cad8b77
+concepts:
+- kt:marketing-mix
+- kt:services-marketing
+difficulty: 2
+created: '2026-11-20'
+status: active

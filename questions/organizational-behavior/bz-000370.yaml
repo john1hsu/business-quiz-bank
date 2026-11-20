@@ -1,0 +1,19 @@
+id: bz-000370
+area: organizational-behavior
+kind: mechanism
+topic: 'Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge'
+topic_type: Concept
+true_statement: In Huber's 1991 review, grafting means acquiring knowledge by bringing in members or units that already hold it, unlike vicarious learning from watching other firms.
+false_statement: In Huber's 1991 review, vicarious learning means acquiring knowledge by bringing in members or units that already hold it, unlike grafting from watching other firms.
+explanation: 'Huber listed five routes to knowledge: what the firm knew at founding, its own experience, observing others (vicarious), grafting on people or units, and searching the environment. Grafting imports knowledge with its carriers; vicarious learning copies by observation.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-learning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: ea30c2a2716d4518349ae2e93316f39e5a4d1e44
+concepts:
+- kt:organizational-learning
+- kt:knowledge-transfer
+difficulty: 2
+created: '2026-11-20'
+status: active

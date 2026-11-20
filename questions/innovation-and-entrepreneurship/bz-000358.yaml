@@ -1,0 +1,19 @@
+id: bz-000358
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: 'Open Innovation: Purposive Inflows and Outflows of Knowledge'
+topic_type: Concept
+true_statement: Laursen and Salter's 2006 study of UK manufacturers found that drawing on more external knowledge sources helps innovation only up to a point, forming an inverted U.
+false_statement: Laursen and Salter's 2006 study of UK manufacturers found that drawing on more external knowledge sources hurts innovation only up to a point, forming a U shape.
+explanation: Broader and deeper external search both raised innovation at first and then turned negative, implying firms can over-search and spread attention too thin. The study of 2,707 firms is the best-known empirical test of open innovation.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/open-innovation.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 1f5bc4de54edcbfd2e0d10e1ae361acfb1775318
+concepts:
+- kt:open-innovation
+- kt:absorptive-capacity
+difficulty: 3
+created: '2026-11-20'
+status: active

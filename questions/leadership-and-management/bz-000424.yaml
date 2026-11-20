@@ -1,0 +1,20 @@
+id: bz-000424
+area: leadership-and-management
+kind: figure
+topic: 'Span of Control: Number of Direct Reports per Manager'
+topic_type: Concept
+true_statement: Gallup reports the mean number of direct reports for U.S. managers rose from 8.2 in 2013 to 12.1 in 2025, while the median stayed at about five to six.
+false_statement: Gallup reports the mean number of direct reports for U.S. managers rose from 8.2 in 2013 to 12.1 in 2025, and the median rose by a similar amount.
+explanation: A flat median with a rising mean means a minority of very large teams is pulling the average up; in 2025, 13% of managers had 25 or more reports. Typical teams did not grow much.
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/span-of-control.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 75b9a9ef9b93522fc89a205533f651f80ece52cc
+concepts:
+- kt:span-of-control
+- kt:organizational-structure
+difficulty: 2
+created: '2026-11-20'
+status: active

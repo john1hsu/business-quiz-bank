@@ -1,0 +1,19 @@
+id: bz-000410
+area: organizational-behavior
+kind: origin
+topic: 'Group Decision Making: How Groups Combine Individual Judgments into Choices'
+topic_type: Concept
+true_statement: Stoner's 1961 work found individuals became riskier after group discussion, a result later research generalized into group polarization.
+false_statement: Stoner's 1961 work found individuals became more cautious after group discussion, a result later research generalized into group polarization.
+explanation: 'The ''risky shift'' turned out to be one case of a broader pattern: discussion pushes like-minded members further in whatever direction they already leaned. More than 200 studies document it.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/group-decision-making.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 7f639727f81b4fd1df90330245daf3053bbd5343
+concepts:
+- kt:group-decision-making
+- kt:group-polarization
+difficulty: 2
+created: '2026-11-20'
+status: active

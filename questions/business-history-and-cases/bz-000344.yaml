@@ -1,0 +1,19 @@
+id: bz-000344
+area: business-history-and-cases
+kind: origin
+topic: 'Scientific Management: Taylor''s System of Task Study and Standardized Work'
+topic_type: Practice
+true_statement: Frederick Taylor began timing shop tasks with a stopwatch at Midvale Steel in 1881, work that became the base of scientific management.
+false_statement: Frederick Taylor began timing shop tasks with a stopwatch at Bethlehem Steel in 1881, work that became the base of scientific management.
+explanation: Taylor joined Midvale as a laborer in 1878 and started his time studies there. Bethlehem Steel came later, as his biggest consulting client, where he ran the shoveling and pig-iron studies.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/scientific-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: e5b6c18469e08014f144d0b4878e129cc0539bff
+concepts:
+- kt:scientific-management
+- kt:frederick-winslow-taylor
+difficulty: 2
+created: '2026-11-20'
+status: active

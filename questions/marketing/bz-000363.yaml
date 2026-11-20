@@ -1,0 +1,20 @@
+id: bz-000363
+area: marketing
+kind: evidence
+topic: 'Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing'
+topic_type: Strategy
+true_statement: A study of digital camera launches found plain market pricing was far more common than either price skimming or penetration pricing.
+false_statement: A study of digital camera launches found price skimming was far more common than either plain market pricing or penetration pricing.
+explanation: Spann, Fischer and Tellis found skimming and penetration each described only about a fifth of launch paths, with market pricing covering the rest. Crowded markets and late entry left little room for a distinct strategic price.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/pricing-strategy.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 47a1b2f2673f96c2093b1dd59e575a3fd1adf957
+concepts:
+- kt:pricing-strategy
+- kt:price-skimming
+- kt:penetration-pricing
+difficulty: 3
+created: '2026-11-20'
+status: active

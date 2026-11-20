@@ -1,0 +1,19 @@
+id: bz-000421
+area: consulting-and-problem-solving
+kind: evidence
+topic: 'Root Cause Analysis: Tracing Problems to Their Underlying Causes'
+topic_type: Practice
+true_statement: Peerally and colleagues criticised root cause analysis for a bias toward weak administrative fixes, such as reminders and training, that rarely prevent recurrence.
+false_statement: Peerally and colleagues criticised root cause analysis for a bias toward costly physical redesigns, such as new equipment, that rarely prevent recurrence.
+explanation: Their 2017 critique gave the example of a wrong cataract lens answered with a protocol, training and a poster, followed by the same error a year later. Administrative fixes are cheap to write but easy to forget.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/root-cause-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: fb3db7d86c626a2e42ca45f30bf08584c76ab998
+concepts:
+- kt:root-cause-analysis
+- kt:patient-safety
+difficulty: 3
+created: '2026-11-20'
+status: active

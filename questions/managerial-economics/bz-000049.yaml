@@ -9,8 +9,8 @@ explanation: Since Standard Oil (1911), courts ban only unreasonable restraints.
 source:
   repo: john1hsu/business-knowledge-graph
   path: articles/managerial-economics/antitrust-law.md
-  commit: 89ce86fd2217d7475db43674a3376d76b2de97e3
-  blob: 4a6a0bd320dd7172033dacde353b6f5e0430cdfb
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: cd6684a384f1ba33359439eccced1b8faad1958f
 concepts:
 - kt:antitrust-law
 - kt:sherman-act

@@ -1,0 +1,20 @@
+id: bz-000372
+area: strategy
+kind: mechanism
+topic: 'Scenario Planning: Strategy for Multiple Plausible Futures'
+topic_type: Practice
+true_statement: Wack distinguished predetermined elements, developments already in motion whose consequences can be traced, from critical uncertainties that remain genuinely open.
+false_statement: Wack distinguished critical uncertainties, developments already in motion whose consequences can be traced, from predetermined elements that remain genuinely open.
+explanation: Demographic or supply trends already under way can be projected; truly open questions cannot. Treating an uncertainty as settled, or hiding it, is what makes plans brittle, so scenarios vary the uncertainties while holding the predetermined elements.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/scenario-planning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d45be14e4c73b99fd3bfd81870c11c9da851c0ad
+concepts:
+- kt:scenario-planning
+- kt:pierre-wack
+- kt:forecasting
+difficulty: 2
+created: '2026-11-20'
+status: active

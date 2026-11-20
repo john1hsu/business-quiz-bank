@@ -1,0 +1,19 @@
+id: bz-000355
+area: government-contracting-and-public-sector
+kind: application
+topic: 'Small Business Set-Asides: Reserving Federal Contracts for Small Firms'
+topic_type: Practice
+true_statement: In Kingdomware (2016), a unanimous Supreme Court held that the VA's veteran-business rule of two applies to every covered contract, even after its annual goals are met.
+false_statement: In Kingdomware (2016), a unanimous Supreme Court held that the VA's veteran-business rule of two becomes optional for contracts once its annual goals are met.
+explanation: The VA had treated the rule as a target it could stop applying after hitting its goals. Justice Thomas's opinion read the statute's 'shall' as a duty covering each contract, including Federal Supply Schedule orders.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/small-business-set-asides.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 5bce50ea5c7fe9f23da1f1f5e1751d1a9a455b36
+concepts:
+- kt:small-business-set-asides
+- kt:kingdomware-technologies-v-united-states
+difficulty: 2
+created: '2026-11-20'
+status: active

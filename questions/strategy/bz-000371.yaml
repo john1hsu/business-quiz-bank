@@ -1,0 +1,21 @@
+id: bz-000371
+area: strategy
+kind: origin
+topic: 'Scenario Planning: Strategy for Multiple Plausible Futures'
+topic_type: Practice
+true_statement: Pierre Wack set out Shell's scenario method in a 1985 Harvard Business Review article, after Shell's early-1970s scenarios had explored producers restricting oil supply.
+false_statement: Pierre Wack set out Shell's scenario method in a 1965 Harvard Business Review article, after Shell's early-1960s scenarios had explored producers restricting oil supply.
+explanation: Shell began long-term studies in 1965 and ran its first formal scenario round in 1971. When the 1973 oil crisis hit, its managers had already considered a similar world; Wack wrote up the method more than a decade later.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/scenario-planning.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d45be14e4c73b99fd3bfd81870c11c9da851c0ad
+concepts:
+- kt:scenario-planning
+- kt:pierre-wack
+- kt:scenarios-uncharted-waters-ahead-1985
+- kt:royal-dutch-shell
+difficulty: 2
+created: '2026-11-20'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000390
+area: business-models
+kind: evidence
+topic: 'Long Tail: Aggregating Demand for Niche Products'
+topic_type: BusinessModel
+true_statement: A retailer selling the same products at the same prices online and by catalog had less concentrated online sales, pointing to lower search costs as a cause of the long tail.
+false_statement: A retailer selling the same products at the same prices online and by catalog had equally concentrated sales in both, pointing to wider selection alone as the cause of the long tail.
+explanation: Brynjolfsson, Hu and Simester held selection and price fixed, yet online buyers still bought more niche items, especially those using search and recommendations. So discovery tools, not only bigger catalogs, push demand into the tail.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/long-tail.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 8da7af21824508125b5833ad5b3a2b1ad3a9e9e9
+concepts:
+- kt:long-tail
+- kt:recommender-system
+difficulty: 3
+created: '2026-11-20'
+status: active

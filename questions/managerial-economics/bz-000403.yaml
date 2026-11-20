@@ -1,0 +1,19 @@
+id: bz-000403
+area: managerial-economics
+kind: evidence
+topic: 'Adverse Selection: Hidden Information Before a Contract'
+topic_type: Concept
+true_statement: Cutler and Reber found that Harvard's mid-1990s switch to equal health-plan contributions set off adverse selection, yet lower premiums meant welfare rose overall.
+false_statement: Cutler and Reber found that Harvard's mid-1990s switch to equal health-plan contributions set off adverse selection, and its losses outweighed lower premiums so welfare fell overall.
+explanation: Selection cost about 2% of baseline health spending, but competition cut Harvard's premiums nearly 10% relative to the Boston area. It is the cleanest documented death spiral, and still a net gain.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/adverse-selection.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 932e5c5dc23ac94209496836864164f7b057b14a
+concepts:
+- kt:adverse-selection
+- kt:insurance-death-spiral
+difficulty: 3
+created: '2026-11-20'
+status: active

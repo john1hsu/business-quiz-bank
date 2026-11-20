@@ -1,0 +1,19 @@
+id: bz-000415
+area: strategy
+kind: evidence
+topic: 'Strategic Management: Setting Direction and Sustaining Competitive Advantage'
+topic_type: Field
+true_statement: A 2006 meta-analysis found a modest positive link between strategic planning and performance that shrank toward zero after adjusting for publication bias.
+false_statement: A 2006 meta-analysis found a modest positive link between strategic planning and performance that grew stronger after adjusting for publication bias.
+explanation: Pooling 39 studies of 5,223 firms gave a small positive effect, but correcting for likely unpublished null results cut it to roughly 0.1 with a confidence interval spanning zero. Support for formal planning is real but fragile.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/strategic-management.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 95646bed63a1bae2050777afa95cd17c68939a52
+concepts:
+- kt:strategic-management
+- kt:strategic-planning
+difficulty: 3
+created: '2026-11-20'
+status: active

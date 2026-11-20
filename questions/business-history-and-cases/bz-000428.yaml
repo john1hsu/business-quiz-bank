@@ -1,0 +1,21 @@
+id: bz-000428
+area: business-history-and-cases
+kind: mechanism
+topic: 'General Motors: From Sloan''s Decentralization to the 2009 Bankruptcy'
+topic_type: Company
+true_statement: Under Alfred Sloan, GM's car divisions each targeted a different price band and ran their own operations, while a strong head office set company-wide policy.
+false_statement: Under Alfred Sloan, GM's car divisions each targeted a different price band and set company-wide policy, while a small head office ran their day-to-day operations.
+explanation: Sloan paired operating autonomy in the divisions with central financial and policy control. Chandler later held up this design as the model multidivisional form, freeing top executives for long-range planning.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/general-motors.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 34693f6e4eff88fdcdf43b7f7763f4babd7d364c
+concepts:
+- kt:general-motors
+- kt:alfred-p-sloan-jr
+- kt:multidivisional-form
+- kt:segmentation-targeting-positioning
+difficulty: 2
+created: '2026-11-20'
+status: active

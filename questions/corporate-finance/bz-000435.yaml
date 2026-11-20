@@ -1,0 +1,20 @@
+id: bz-000435
+area: corporate-finance
+kind: mechanism
+topic: 'Net Present Value: Discounting Future Cash Flows to Evaluate Investments'
+topic_type: Metric
+true_statement: NPV and IRR give the same accept-or-reject answer for independent projects, but can rank mutually exclusive projects differently.
+false_statement: NPV and IRR give the same ranking for mutually exclusive projects, but can disagree on whether to accept independent projects.
+explanation: A positive NPV always means the IRR exceeds the discount rate, so single go/no-go decisions agree. When choosing one of several projects, NPV counts dollars of value and IRR a percentage, so a big project and a small one can swap places.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/net-present-value.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 9e12c7eb8a63280e7c2ed068c8b48f364a695917
+concepts:
+- kt:net-present-value
+- kt:internal-rate-of-return
+- kt:capital-budgeting
+difficulty: 2
+created: '2026-11-20'
+status: active

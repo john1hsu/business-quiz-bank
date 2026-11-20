@@ -1,0 +1,20 @@
+id: bz-000436
+area: corporate-finance
+kind: evidence
+topic: 'Net Present Value: Discounting Future Cash Flows to Evaluate Investments'
+topic_type: Metric
+true_statement: Christensen, Kaufman and Shih argued NPV as commonly used understates innovation's value, since the do-nothing baseline wrongly assumes current performance will persist.
+false_statement: Christensen, Kaufman and Shih argued NPV as commonly used overstates innovation's value, since the do-nothing baseline wrongly assumes current performance will decline.
+explanation: If rivals keep moving, not investing usually means falling behind, not standing still. Comparing a new project with an unrealistically healthy status quo makes the project look worse than it is.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/net-present-value.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: 9e12c7eb8a63280e7c2ed068c8b48f364a695917
+concepts:
+- kt:net-present-value
+- kt:innovators-dilemma
+- kt:discounted-cash-flow
+difficulty: 3
+created: '2026-11-20'
+status: active

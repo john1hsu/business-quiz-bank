@@ -1,0 +1,20 @@
+id: bz-000420
+area: consulting-and-problem-solving
+kind: application
+topic: 'Root Cause Analysis: Tracing Problems to Their Underlying Causes'
+topic_type: Practice
+true_statement: The RCA² action hierarchy ranks forcing functions and physical redesign as strong actions, and new policies and retraining as weak ones.
+false_statement: The RCA² action hierarchy ranks new policies and retraining as strong actions, and forcing functions and physical redesign as weak ones.
+explanation: Fixes are ranked by how little they rely on people remembering to do the right thing. A design that makes the error impossible beats a reminder, so teams are urged to pair each root cause with at least one strong or intermediate action.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/root-cause-analysis.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: fb3db7d86c626a2e42ca45f30bf08584c76ab998
+concepts:
+- kt:root-cause-analysis
+- kt:patient-safety
+- kt:barrier-analysis
+difficulty: 2
+created: '2026-11-20'
+status: active

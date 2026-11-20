@@ -1,0 +1,19 @@
+id: bz-000352
+area: corporate-finance
+kind: evidence
+topic: 'Capital Asset Pricing Model: Pricing Systematic Risk'
+topic_type: Theory
+true_statement: 'Tests of the CAPM found the return-beta line too flat: low-beta stocks earned more, and high-beta stocks less, than the model predicts.'
+false_statement: 'Tests of the CAPM found the return-beta line too steep: low-beta stocks earned less, and high-beta stocks more, than the model predicts.'
+explanation: In Fama and French's beta-sorted portfolios for 1928–2003, the lowest-beta group beat its prediction while the highest-beta group fell short. Returns rose with beta, just much less steeply than theory says.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/capital-asset-pricing-model.md
+  commit: def8280c8e129ebe64caf73584ca549ba2a18dab
+  blob: d0f0a8e2a8ecfc6dfaae33a3174849e4758b23bd
+concepts:
+- kt:capital-asset-pricing-model
+- kt:fama-french-three-factor-model
+difficulty: 3
+created: '2026-11-20'
+status: active
