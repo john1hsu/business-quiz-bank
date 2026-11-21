@@ -1,0 +1,20 @@
+id: bz-000484
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: 'Technology Adoption Life Cycle: Adopter Segments and the Chasm'
+topic_type: Framework
+true_statement: Moore's way to cross the chasm is to dominate a single vertical niche with a complete solution, then knock down adjacent niches before a mass-market tornado.
+false_statement: Moore's way to cross the chasm is to launch across the whole mass market at once with a basic product, then retreat to vertical niches once growth slows.
+explanation: Pragmatists buy only what peers already use, so a startup first wins one niche where a broken, mission-critical process makes buyers willing to try something unproven. Those references then help it win neighbouring niches, the bowling alley, before hypergrowth.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/technology-adoption-life-cycle.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 39882977b8bfa9382e2ee2cc2bd069cb4d95df7d
+concepts:
+- kt:technology-adoption-life-cycle
+- kt:crossing-the-chasm
+- kt:segmentation-targeting-positioning
+difficulty: 2
+created: '2026-11-21'
+status: active

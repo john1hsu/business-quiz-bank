@@ -1,0 +1,18 @@
+id: bz-000529
+area: innovation-and-entrepreneurship
+kind: mechanism
+topic: 'Customer Development: Steve Blank''s Search for a Repeatable Business Model'
+topic_type: Practice
+true_statement: In customer development, a startup whose validation evidence is weak pivots by changing one or more hypotheses and loops back to customer discovery.
+false_statement: In customer development, a startup whose validation evidence is weak pivots by changing one or more hypotheses and moves ahead to customer creation.
+explanation: Customer creation, the push from a few customers to many, only makes sense once a repeatable sales roadmap and workable financial model have been validated. Weak evidence sends the team back to discovery to test revised hypotheses about the problem and solution.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/customer-development.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: fa56d872d215a995fab55db0eb2aa8782e27286a
+concepts:
+- kt:customer-development
+difficulty: 2
+created: '2026-11-21'
+status: active

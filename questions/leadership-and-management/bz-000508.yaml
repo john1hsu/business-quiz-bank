@@ -1,0 +1,18 @@
+id: bz-000508
+area: leadership-and-management
+kind: evidence
+topic: 'Leadership: Influencing People Toward Shared Goals'
+topic_type: Concept
+true_statement: Judge and colleagues' 2002 meta-analysis found extraversion the most consistent Big Five correlate of leadership (.31), ahead of conscientiousness (.28).
+false_statement: Judge and colleagues' 2002 meta-analysis found conscientiousness the most consistent Big Five correlate of leadership (.31), ahead of extraversion (.28).
+explanation: 'Pooling 222 correlations from 73 samples, the study revived trait research: extraversion held up across settings and for both leader emergence and effectiveness. Conscientiousness came second, then openness and low neuroticism, with a multiple correlation of .48 for all five.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/leadership.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: ebfc1a98541aaa641f9897edea79942aef00ff61
+concepts:
+- kt:leadership
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000531
+area: marketing
+kind: origin
+topic: 'Churn Rate: Measuring Customer Attrition and Retention'
+topic_type: Metric
+true_statement: Reichheld and Sasser argued in a 1990 Harvard Business Review article that retaining just 5% more customers could raise profits by nearly 100% in the service businesses they studied.
+false_statement: Reichheld and Sasser argued in a 1990 Harvard Business Review article that retaining just 5% more customers could raise profits by nearly 10% in the service businesses they studied.
+explanation: Their point was that defections can matter more to profit than scale, market share or unit cost, so the defection rate works as a leading indicator. A gain of only about 10% would not have supported that bold claim.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/churn-rate.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8a413db6e906e1d21769c9568c61efe7c75158ad
+concepts:
+- kt:churn-rate
+difficulty: 1
+created: '2026-11-21'
+status: active

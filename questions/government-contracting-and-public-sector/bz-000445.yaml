@@ -1,0 +1,21 @@
+id: bz-000445
+area: government-contracting-and-public-sector
+kind: evidence
+topic: 'Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements'
+topic_type: Framework
+true_statement: McAfee and McMillan's 1986 model of contract bidding under moral hazard found the optimal linear contract is never cost-plus and is usually an incentive contract.
+false_statement: McAfee and McMillan's 1986 model of contract bidding under moral hazard found the optimal linear contract is never an incentive contract and is usually cost-plus.
+explanation: The optimal contract has to balance cost-control incentives against sharing risk with risk-averse bidders and the gains from competition, so it lands between the extremes, usually as an incentive contract and sometimes fixed-price. Pure cost-plus gives the seller no reason to control costs, so the model rules it out.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/government-contract-types.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: f7305e3f324bec17890c82cf231a7d3643a1b2b1
+concepts:
+- kt:government-contract-types
+- kt:moral-hazard
+- kt:principal-agent-problem
+- kt:cost-plus-contract
+difficulty: 3
+created: '2026-11-21'
+status: active

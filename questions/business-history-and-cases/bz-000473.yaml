@@ -1,0 +1,20 @@
+id: bz-000473
+area: business-history-and-cases
+kind: mechanism
+topic: 'Blockbuster: Rise and Fall of the Video Rental Chain'
+topic_type: Case
+true_statement: Birger Wernerfelt uses Blockbuster and Netflix to argue an underdog wins when its model does not provoke imitation and the incumbent reacts slowly and invests less.
+false_statement: Birger Wernerfelt uses Blockbuster and Netflix to argue an underdog wins when its model provokes fast imitation and the incumbent overinvests in copying it.
+explanation: Netflix's store-free, mail-based subscription model was awkward for a chain built on stores and new releases to copy, so Blockbuster moved late and cautiously. Wernerfelt's advice to incumbents is to test alternative models in small parts of the business.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/blockbuster-decline.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: b61e8a66f5589496cce066077d808eb02f27d875
+concepts:
+- kt:blockbuster-decline
+- kt:netflix
+- kt:disruptive-innovation
+difficulty: 2
+created: '2026-11-21'
+status: active

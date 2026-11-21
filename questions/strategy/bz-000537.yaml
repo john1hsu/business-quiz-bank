@@ -1,0 +1,19 @@
+id: bz-000537
+area: strategy
+kind: evidence
+topic: 'Competitive Advantage: Why Some Firms Persistently Outperform Rivals'
+topic_type: Concept
+true_statement: Rumelt's 1991 decomposition of business-unit returns found large, stable business-unit effects, small industry effects and negligible corporate-parent effects.
+false_statement: Rumelt's 1991 decomposition of business-unit returns found large, stable corporate-parent effects, small industry effects and negligible business-unit effects.
+explanation: Using FTC Line of Business data, Rumelt showed most economic rents come from business-specific sources, not from industry membership or the corporate parent. That finding challenged a purely industry-structure view and lent weight to resource-based explanations of advantage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/competitive-advantage.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: f197f6f7cef4bb48cde628f14a698100bd524850
+concepts:
+- kt:competitive-advantage
+- kt:resource-based-view
+difficulty: 3
+created: '2026-11-21'
+status: active

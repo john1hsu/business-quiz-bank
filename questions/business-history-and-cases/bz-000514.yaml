@@ -1,0 +1,19 @@
+id: bz-000514
+area: business-history-and-cases
+kind: evidence
+topic: 'Toyota: From Automatic Looms to the World''s Largest Automaker'
+topic_type: Company
+true_statement: Takahiro Fujimoto argued Toyota's 2010 recall defects were mainly design-quality problems, so they did not discredit the Toyota Production System itself.
+false_statement: Takahiro Fujimoto argued Toyota's 2010 recall defects were mainly manufacturing-quality problems, so they discredited the Toyota Production System itself.
+explanation: Fujimoto traced the problems to Toyota taking on more lines, global models and complex vehicles than its capabilities could handle, and to managers drifting from the Toyota Way. Because the faults lay in design rather than on the shop floor, the production system was not the culprit.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/toyota-motor-corporation.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 9342347ee43179b3bb9f9c4c2f3bcb8d654684d8
+concepts:
+- kt:toyota-motor-corporation
+- kt:toyota-production-system
+difficulty: 3
+created: '2026-11-21'
+status: active

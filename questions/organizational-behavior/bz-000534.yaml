@@ -1,0 +1,19 @@
+id: bz-000534
+area: organizational-behavior
+kind: origin
+topic: 'Change Management: From Lewin''s Unfreezing to Kotter''s Eight Steps'
+topic_type: Practice
+true_statement: John Kotter based his eight-step change advice, in a 1995 Harvard Business Review article, on watching more than 100 companies such as Ford and British Airways attempt transformation.
+false_statement: John Kotter based his eight-step change advice, in a 1975 Harvard Business Review article, on watching more than 100 companies such as Ford and British Airways attempt transformation.
+explanation: Kotter's 1995 article framed its advice as eight errors to avoid, from insufficient urgency to failing to anchor change in culture. He found a few efforts very successful, a few outright failures, and most in between, tilted toward the lower end.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/change-management.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 2cb6dd9b3b96285231070c87d5f34840bcd8a492
+concepts:
+- kt:change-management
+- kt:kotters-eight-step-model
+difficulty: 2
+created: '2026-11-21'
+status: active

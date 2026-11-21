@@ -1,0 +1,20 @@
+id: bz-000497
+area: strategy
+kind: application
+topic: 'Resource-Based View: Firm Resources as the Source of Competitive Advantage'
+topic_type: Theory
+true_statement: In a VRIO analysis of Southwest Airlines, its culture supports a sustained advantage, while its on-time arrival capability is imitable and gives only a temporary edge.
+false_statement: In a VRIO analysis of Southwest Airlines, its on-time arrival capability supports a sustained advantage, while its culture is imitable and gives only a temporary edge.
+explanation: Southwest's culture passes every VRIO test because its history makes it hard to replicate. On-time performance is valuable and rare, but rivals can copy it, so it fails the imitability test and yields only a temporary advantage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/resource-based-view.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 599b7a6a849dc2cc0eaea08c6b46678c7d70768d
+concepts:
+- kt:resource-based-view
+- kt:vrio-framework
+- kt:southwest-airlines
+difficulty: 2
+created: '2026-11-21'
+status: active

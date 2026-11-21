@@ -1,0 +1,19 @@
+id: bz-000444
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: 'Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements'
+topic_type: Framework
+true_statement: In a cost-plus-fixed-fee contract, the government reimburses allowable costs and pays a fee that stays the same whether costs come in high or low.
+false_statement: In a cost-plus-fixed-fee contract, the government reimburses allowable costs and pays a fee that rises in proportion to the costs incurred.
+explanation: The fee is fixed at the outset and does not move with cost, which is why this type leaves the contractor minimal cost responsibility at the far end of the FAR Part 16 spectrum. A fee that grew with costs would reward overruns, the opposite of what the fixed fee is meant to avoid.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/government-contract-types.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: f7305e3f324bec17890c82cf231a7d3643a1b2b1
+concepts:
+- kt:government-contract-types
+- kt:cost-plus-contract
+difficulty: 2
+created: '2026-11-21'
+status: active

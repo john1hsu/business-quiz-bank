@@ -1,0 +1,20 @@
+id: bz-000478
+area: corporate-finance
+kind: mechanism
+topic: 'Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows'
+topic_type: Framework
+true_statement: A firm-level DCF discounts free cash flow to the firm at the WACC, while an equity DCF discounts free cash flow to equity at the cost of equity.
+false_statement: A firm-level DCF discounts free cash flow to the firm at the cost of equity, while an equity DCF discounts free cash flow to equity at the WACC.
+explanation: Cash flow to the firm is measured before debt payments and so belongs to all capital providers, which is why it takes the blended WACC; cash flow to equity is what remains after debt, so it takes the cost of equity. Done consistently, both routes reach the same equity value once debt is subtracted from firm value.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/discounted-cash-flow.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8c69fdd365f227329baf528142299af420ea0b63
+concepts:
+- kt:discounted-cash-flow
+- kt:free-cash-flow
+- kt:weighted-average-cost-of-capital
+difficulty: 2
+created: '2026-11-21'
+status: active

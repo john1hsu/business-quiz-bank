@@ -1,0 +1,20 @@
+id: bz-000447
+area: innovation-and-entrepreneurship
+kind: origin
+topic: 'Creative Destruction: Schumpeter''s Process of Innovation-Driven Industrial Change'
+topic_type: Theory
+true_statement: Joseph Schumpeter named creative destruction in Capitalism, Socialism, and Democracy (1942), describing capitalism as a perennial gale of industrial mutation.
+false_statement: Joseph Schumpeter named creative destruction in Capitalism, Socialism, and Democracy (1962), describing capitalism as a perennial gale of industrial mutation.
+explanation: Schumpeter, who died in 1950, gave the idea a short chapter in his 1942 book. His point was that the competition that matters is not price-cutting among similar firms but new goods, technologies and forms of organization that threaten incumbents' existence.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/creative-destruction.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 64286152fe2c43a7a7ca8d2244ef340b083e2ad5
+concepts:
+- kt:creative-destruction
+- kt:joseph-schumpeter
+- kt:capitalism-socialism-and-democracy
+difficulty: 1
+created: '2026-11-21'
+status: active

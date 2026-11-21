@@ -1,0 +1,19 @@
+id: bz-000518
+area: operations-and-supply-chain
+kind: application
+topic: 'Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory'
+topic_type: Practice
+true_statement: After the 2011 earthquake, Toyota asked suppliers to hold two to six months of semiconductors, which helped it keep building cars in the 2021 chip shortage.
+false_statement: After the 2011 earthquake, Toyota asked suppliers to hold two to six days of semiconductors, which left it idling plants in the 2021 chip shortage.
+explanation: Toyota flagged about 500 parts and materials as needing secure supply and kept strategic stock of long-lead chips. Mature JIT users buffer single-source, long-lead items rather than applying minimal inventory everywhere, which is why Toyota kept running while rivals idled.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/just-in-time.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 71840f167635d664ea3d0726998ace37d1f8979f
+concepts:
+- kt:just-in-time
+- kt:toyota-motor-corporation
+difficulty: 2
+created: '2026-11-21'
+status: active

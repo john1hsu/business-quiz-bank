@@ -1,0 +1,20 @@
+id: bz-000477
+area: corporate-finance
+kind: origin
+topic: 'Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows'
+topic_type: Framework
+true_statement: John Burr Williams's The Theory of Investment Value (1938) argued that a stock is worth the present value of all the dividends it will ever pay.
+false_statement: Irving Fisher's The Theory of Investment Value (1938) argued that a stock is worth the present value of all the dividends it will ever pay.
+explanation: Williams's dividend discount model is the ancestor of today's DCF models, which later swapped dividends for free cash flow to equity or to the firm. Fisher supplied the earlier present-value reasoning about interest that Williams built on, but the 1938 book is Williams's.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/discounted-cash-flow.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8c69fdd365f227329baf528142299af420ea0b63
+concepts:
+- kt:discounted-cash-flow
+- kt:john-burr-williams
+- kt:irving-fisher
+difficulty: 2
+created: '2026-11-21'
+status: active

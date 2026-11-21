@@ -1,0 +1,19 @@
+id: bz-000460
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause'
+topic_type: Practice
+true_statement: Eric Ries's proportional investment makes a small fix at each of the five levels of a why-chain, adding a further increment every time the problem recurs.
+false_statement: Eric Ries's proportional investment makes one large fix at the deepest level of a why-chain, launching a full prevention programme the first time a problem occurs.
+explanation: Ries wanted a middle path between ignoring an incident and starting a months-long prevention effort. Spreading small fixes across every level, and investing more only when a problem keeps coming back, matches the effort to how costly the problem proves to be.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/five-whys.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: cbffbffcbdc88f4ddc48332f90b245b7865c4ef6
+concepts:
+- kt:five-whys
+- kt:lean-startup
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000527
+area: government-contracting-and-public-sector
+kind: evidence
+topic: 'Bid Protest: Challenging Federal Contract Awards at GAO'
+topic_type: Practice
+true_statement: Penn State finance researchers found that firms winning a bid protest face a 68% lower chance of getting contracts from the contested agency over the next four years.
+false_statement: Penn State finance researchers found that firms winning a bid protest enjoy a 68% higher chance of getting contracts from the contested agency over the next four years.
+explanation: 'The finding points to a hidden cost of protesting: even a successful challenge can sour the relationship with the buying agency. It sits alongside critiques that protests push agencies to over-document and favour price-driven or existing contract vehicles.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/bid-protest.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a0bdd4de39a19e68cd6aca8a4de08a47ce88a80d
+concepts:
+- kt:bid-protest
+difficulty: 3
+created: '2026-11-21'
+status: active

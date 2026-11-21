@@ -1,0 +1,19 @@
+id: bz-000470
+area: accounting-and-reporting
+kind: evidence
+topic: 'EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization'
+topic_type: Metric
+true_statement: In nearly 4,000 US syndicated loans from 2000 to 2016, more permissive covenant EBITDA definitions went with fewer covenant violations and higher credit spreads.
+false_statement: In nearly 4,000 US syndicated loans from 2000 to 2016, more permissive covenant EBITDA definitions went with more covenant violations and lower credit spreads.
+explanation: Generous add-backs inflate covenant EBITDA, so borrowers trip covenants less often, while lenders price in the weaker protection with spreads about 43 basis points higher per standard deviation of permissiveness. Badawi and co-authors also found definitions grew looser over time, especially in private-equity-sponsored deals.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ebitda.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 19e8012d2986cbb49cb109ea2d8d599aae33debb
+concepts:
+- kt:ebitda
+- kt:debt-covenant
+difficulty: 3
+created: '2026-11-21'
+status: active

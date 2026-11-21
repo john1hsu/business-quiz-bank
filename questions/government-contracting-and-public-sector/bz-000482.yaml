@@ -1,0 +1,18 @@
+id: bz-000482
+area: government-contracting-and-public-sector
+kind: evidence
+topic: 'Public Value: Mark Moore''s Strategic Triangle for Public Managers'
+topic_type: Framework
+true_statement: Rhodes and Wanna (2009) questioned whether public value suits Westminster governments, with their strong ministers, tight accountability and disciplined party politics.
+false_statement: Rhodes and Wanna (2009) questioned whether public value suits networked governance, with its many partners and its reliance on dialogue and exchange across sectors.
+explanation: Rhodes and Wanna worried that encouraging unelected managers to define public value could weaken democratic accountability under ministerial government. Networked governance is where supporters such as Stoker argued the approach fits best, so the false version flips critic and supporter.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-value.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a4fcf5b71def85b27bf06edb82cbd5061d0a5511
+concepts:
+- kt:public-value
+difficulty: 3
+created: '2026-11-21'
+status: active

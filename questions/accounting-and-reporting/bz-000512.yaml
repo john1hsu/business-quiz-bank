@@ -1,0 +1,20 @@
+id: bz-000512
+area: accounting-and-reporting
+kind: application
+topic: 'Working Capital: Current Assets Minus Current Liabilities'
+topic_type: Metric
+true_statement: In the decade before its 2008 bankruptcy, Circuit City had a stronger average current ratio than Best Buy but a much longer cash conversion cycle.
+false_statement: In the decade before its 2008 bankruptcy, Circuit City had a stronger average current ratio than Best Buy and a much shorter cash conversion cycle.
+explanation: 'Cagle, Campbell and Jones used the comparison to show that static ratios can mislead: Circuit City looked more liquid on its balance sheet, yet its cash stayed tied up in operations far longer than Best Buy''s. They recommend reading the cycle alongside the current and quick ratios rather than relying on either alone.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/working-capital.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 43f4e99a8068c9278c8b0175a70d14224e5c0d6c
+concepts:
+- kt:working-capital
+- kt:current-ratio
+- kt:cash-conversion-cycle
+difficulty: 2
+created: '2026-11-21'
+status: active

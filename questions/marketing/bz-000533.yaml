@@ -1,0 +1,20 @@
+id: bz-000533
+area: marketing
+kind: figure
+topic: 'Churn Rate: Measuring Customer Attrition and Retention'
+topic_type: Metric
+true_statement: T-Mobile US reported branded postpaid phone churn of 1.18% for 2017, far below its branded prepaid churn of 4.04% that year.
+false_statement: T-Mobile US reported branded prepaid churn of 1.18% for 2017, far below its branded postpaid phone churn of 4.04% that year.
+explanation: Postpaid phone customers left at roughly a quarter of the prepaid rate in 2017. T-Mobile credited part of that year's postpaid improvement to moving higher-churn customers to a wholesale partner, so reported churn can also change through who is counted.
+as_of: '2017'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/churn-rate.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8a413db6e906e1d21769c9568c61efe7c75158ad
+concepts:
+- kt:churn-rate
+- kt:t-mobile-us
+difficulty: 2
+created: '2026-11-21'
+status: active

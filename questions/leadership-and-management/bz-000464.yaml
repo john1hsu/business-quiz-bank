@@ -1,0 +1,19 @@
+id: bz-000464
+area: leadership-and-management
+kind: evidence
+topic: Strategy Execution
+topic_type: Concept
+true_statement: In Hrebiniak's surveys of more than 400 managers, inability to manage change and overcome resistance ranked as the top obstacle to executing strategy.
+false_statement: In Hrebiniak's surveys of more than 400 managers, conflicts with the power structure ranked as the top obstacle to executing strategy, ahead of managing change.
+explanation: Both survey groups put managing change and resistance first; power-structure conflicts, poor information sharing, unclear accountability and vague strategy followed. This is why execution is said to depend on change management.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/strategy-execution.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: da6089d33479bbf84972921b8702388e2796859a
+concepts:
+- kt:strategy-execution
+- kt:change-management
+difficulty: 2
+created: '2026-11-21'
+status: active

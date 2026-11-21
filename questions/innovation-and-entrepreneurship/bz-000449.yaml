@@ -1,0 +1,19 @@
+id: bz-000449
+area: innovation-and-entrepreneurship
+kind: evidence
+topic: 'Creative Destruction: Schumpeter''s Process of Innovation-Driven Industrial Change'
+topic_type: Theory
+true_statement: Foster and colleagues found surges of U.S. business entry are followed by a brief productivity slowdown, then faster growth as successful entrants expand and weak firms exit.
+false_statement: Foster and colleagues found surges of U.S. business entry are followed by a brief productivity speedup, then slower growth as entrants crowd the market and strong firms exit.
+explanation: Using Census microdata, they saw productivity dispersion widen after entry waves, then reallocation toward the more productive firms lift growth, especially in high tech. Creative destruction pays off with a lag, not immediately.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/creative-destruction.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 64286152fe2c43a7a7ca8d2244ef340b083e2ad5
+concepts:
+- kt:creative-destruction
+- kt:industrial-organization
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000507
+area: leadership-and-management
+kind: mechanism
+topic: 'Leadership: Influencing People Toward Shared Goals'
+topic_type: Concept
+true_statement: In his 1990 HBR article What Leaders Really Do, John Kotter cast management as coping with complexity and leadership as coping with change.
+false_statement: In his 1990 HBR article What Leaders Really Do, John Kotter cast management as coping with change and leadership as coping with complexity.
+explanation: 'Kotter paired the processes: planning and budgeting versus setting direction, organizing and staffing versus aligning people, controlling versus motivating. Management brings order to complexity, leadership moves an organization through change, and firms need both.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/leadership.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: ebfc1a98541aaa641f9897edea79942aef00ff61
+concepts:
+- kt:leadership
+- kt:management
+- kt:change-management
+difficulty: 2
+created: '2026-11-21'
+status: active

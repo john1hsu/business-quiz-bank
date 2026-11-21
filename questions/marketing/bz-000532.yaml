@@ -1,0 +1,18 @@
+id: bz-000532
+area: marketing
+kind: evidence
+topic: 'Churn Rate: Measuring Customer Attrition and Retention'
+topic_type: Metric
+true_statement: In a field experiment with about 65,000 mobile subscribers, proactively nudging users toward better-fitting plans raised churn from 6% to 10%.
+false_statement: In a field experiment with about 65,000 mobile subscribers, proactively nudging users toward better-fitting plans cut churn from 10% to 6%.
+explanation: Ascarza, Iyengar and Schleicher found the outreach backfired, with the worst effects among customers whose usage was volatile or falling. It is a warning that retention campaigns should target customers whose behaviour they will actually change, not simply those at highest risk.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/churn-rate.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8a413db6e906e1d21769c9568c61efe7c75158ad
+concepts:
+- kt:churn-rate
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000466
+area: managerial-economics
+kind: evidence
+topic: 'Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure'
+topic_type: Industry
+true_statement: Grieco, Murry and Yurukoglu found that from 1980 to 2018 U.S. car market concentration and market power fell substantially, and consumers captured a growing share of surplus.
+false_statement: Grieco, Murry and Yurukoglu found that from 1980 to 2018 U.S. car market concentration and market power rose substantially, and producers captured a growing share of surplus.
+explanation: Prices rose over the period, but better quality and lower marginal costs meant buyers gained more than firms. The authors link the decline in market power to import competition, the growth of SUVs and changing vehicle features, a warning against reading rising prices as rising market power.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/automotive-industry.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 05178caf383614dccd949a8aec760e485d5988a7
+concepts:
+- kt:automotive-industry
+- kt:industrial-organization
+difficulty: 3
+created: '2026-11-21'
+status: active

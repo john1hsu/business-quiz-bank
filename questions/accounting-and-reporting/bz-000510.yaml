@@ -1,0 +1,20 @@
+id: bz-000510
+area: accounting-and-reporting
+kind: mechanism
+topic: 'Working Capital: Current Assets Minus Current Liabilities'
+topic_type: Metric
+true_statement: The cash conversion cycle adds the inventory conversion period to the receivables collection period and subtracts the payables deferral period.
+false_statement: The cash conversion cycle adds the inventory conversion period to the payables deferral period and subtracts the receivables collection period.
+explanation: 'The cycle counts the days cash is tied up in operations: money is locked in inventory and then in receivables, while supplier credit covers part of that time, so payables come off. Paying suppliers more slowly shortens the cycle; collecting from customers more slowly lengthens it.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/working-capital.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 43f4e99a8068c9278c8b0175a70d14224e5c0d6c
+concepts:
+- kt:working-capital
+- kt:cash-conversion-cycle
+- kt:trade-credit
+difficulty: 2
+created: '2026-11-21'
+status: active

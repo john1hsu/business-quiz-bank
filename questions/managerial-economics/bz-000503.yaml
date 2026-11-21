@@ -1,0 +1,19 @@
+id: bz-000503
+area: managerial-economics
+kind: application
+topic: 'Contract Theory: How Incentives and Ownership Shape Agreements'
+topic_type: Field
+true_statement: Hart, Shleifer and Vishny (1997) concluded that the case against privatising prisons is strongest for maximum-security facilities.
+false_statement: Hart, Shleifer and Vishny (1997) concluded that the case against privatising prisons is strongest for minimum-security facilities.
+explanation: A private operator holds residual control and keeps its savings, so it cuts costs harder than a public manager, but it may also cut quality the contract cannot specify, such as restraint in the use of force. That non-contractible quality matters most in maximum-security settings.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/contract-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 6232a8fb02993b4894ba0aaef144600fe856c949
+concepts:
+- kt:contract-theory
+- kt:prison-privatization
+difficulty: 3
+created: '2026-11-21'
+status: active

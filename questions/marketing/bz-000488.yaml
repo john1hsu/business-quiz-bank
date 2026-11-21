@@ -1,0 +1,19 @@
+id: bz-000488
+area: marketing
+kind: definition
+topic: 'Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit'
+topic_type: Concept
+true_statement: Oliver argued in 1999 that satisfaction is a necessary step toward loyalty but an unreliable predictor of it, since many satisfied customers still defect.
+false_statement: Oliver argued in 1999 that satisfaction is a reliable predictor of loyalty, since satisfied customers almost always buy again unless a rival undercuts them on price.
+explanation: Satisfaction is a judgment after consumption, while loyalty is a commitment to buy again. In Oliver's view satisfaction grows into loyalty only with extra ingredients such as personal commitment and social bonds, so a high score is no proof of retention.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/customer-satisfaction.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: e171d9fe54b6e8a921fae8e54878ef750c1e55f9
+concepts:
+- kt:customer-satisfaction
+- kt:customer-loyalty
+difficulty: 2
+created: '2026-11-21'
+status: active

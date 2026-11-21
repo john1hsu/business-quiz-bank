@@ -1,0 +1,18 @@
+id: bz-000522
+area: corporate-finance
+kind: mechanism
+topic: 'Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors'
+topic_type: Field
+true_statement: Under the stochastic discount factor approach, expected returns compensate investors for an asset's covariance with bad times, not for its volatility as such.
+false_statement: Under the stochastic discount factor approach, expected returns compensate investors for an asset's volatility as such, not for its covariance with bad times.
+explanation: A dollar is worth more in states like recessions, so an asset that pays off then is valuable and needs only a low expected return, while one that pays mainly in good times must offer more. Cochrane uses this single idea to show the CAPM, multifactor and option models are all versions of one discount factor.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/asset-pricing.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: b6276e717b6a0bbc7eeb052828c2659e7b15db57
+concepts:
+- kt:asset-pricing
+difficulty: 3
+created: '2026-11-21'
+status: active

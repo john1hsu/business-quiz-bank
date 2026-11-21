@@ -1,0 +1,19 @@
+id: bz-000524
+area: corporate-finance
+kind: evidence
+topic: 'Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors'
+topic_type: Field
+true_statement: Mehra and Prescott found a US equity premium of about 6 points a year over 1889-1978, while their calibrated models could generate a premium of only about 0.35 points.
+false_statement: Mehra and Prescott found a US equity premium of only about 0.35 points a year over 1889-1978, while their calibrated models could generate a premium of about 6 points.
+explanation: 'That gap is the equity premium puzzle: stocks earned far more over near-riskless assets than standard equilibrium models can justify, so the authors suspected frictions outside those models. Behavioral finance is one of the rival explanations offered since.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/asset-pricing.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: b6276e717b6a0bbc7eeb052828c2659e7b15db57
+concepts:
+- kt:asset-pricing
+- kt:behavioral-finance
+difficulty: 3
+created: '2026-11-21'
+status: active

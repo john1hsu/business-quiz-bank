@@ -1,0 +1,20 @@
+id: bz-000502
+area: managerial-economics
+kind: mechanism
+topic: 'Contract Theory: How Incentives and Ownership Shape Agreements'
+topic_type: Field
+true_statement: Holmström and Milgrom's multitask model implies that easy-to-measure and hard-to-measure work should go to different people, with one responsible agent per task.
+false_statement: Holmström and Milgrom's multitask model implies that easy-to-measure and hard-to-measure work should go to the same person, so measured output disciplines the rest.
+explanation: When one agent does both, incentive pay on the measurable task pulls limited attention away from the unmeasured one, so separating them lets each job carry incentives that suit it. The same logic explains when firms use employees rather than independent contractors.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/contract-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 6232a8fb02993b4894ba0aaef144600fe856c949
+concepts:
+- kt:contract-theory
+- kt:bengt-holmstrom
+- kt:principal-agent-problem
+difficulty: 3
+created: '2026-11-21'
+status: active

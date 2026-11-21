@@ -1,0 +1,20 @@
+id: bz-000474
+area: business-models
+kind: mechanism
+topic: 'Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand'
+topic_type: Theory
+true_statement: 'Ben Thompson''s aggregation theory builds on the conservation of attractive profits: when one stage of a value chain is commoditized, profits migrate to an adjacent stage that stays integrated.'
+false_statement: 'Ben Thompson''s aggregation theory builds on the conservation of attractive profits: when one stage of a value chain is commoditized, profits migrate into that stage as its volume grows.'
+explanation: In Thompson's account the internet modularized supply, so profit moved to firms that integrated the user relationship with that commoditized supply. A commoditized stage loses pricing power, which is why profits flow away from it, not into it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/aggregation-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 28d6ed1cc1b7a9eb2b5d784efb17f58a78420224
+concepts:
+- kt:aggregation-theory
+- kt:ben-thompson
+- kt:conservation-of-attractive-profits
+difficulty: 2
+created: '2026-11-21'
+status: active

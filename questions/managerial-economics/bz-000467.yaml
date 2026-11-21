@@ -1,0 +1,19 @@
+id: bz-000467
+area: managerial-economics
+kind: figure
+topic: 'Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure'
+topic_type: Industry
+true_statement: OICA data show China produced 34.53 million of the world's 96.4 million vehicles in 2025, far ahead of the United States at 10.24 million.
+false_statement: OICA data show the United States produced 34.53 million of the world's 96.4 million vehicles in 2025, far ahead of China at 10.24 million.
+explanation: China makes more than a third of the world's vehicles, over three times U.S. output, with Japan and India next. World production rose 3.9% in 2025, and China's lead is even larger in electric cars.
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/automotive-industry.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 05178caf383614dccd949a8aec760e485d5988a7
+concepts:
+- kt:automotive-industry
+difficulty: 1
+created: '2026-11-21'
+status: active

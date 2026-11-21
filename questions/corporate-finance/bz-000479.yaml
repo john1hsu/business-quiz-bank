@@ -1,0 +1,20 @@
+id: bz-000479
+area: corporate-finance
+kind: evidence
+topic: 'Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows'
+topic_type: Framework
+true_statement: Kaplan and Ruback found that discounting management's forecasts for 51 leveraged deals of 1983-1989 gave values within 10%, on average, of the prices paid.
+false_statement: Kaplan and Ruback found that discounting management's forecasts for 51 leveraged deals of 1983-1989 gave values within 40%, on average, of the prices paid.
+explanation: 'Their study is the best-known test of DCF in practice: the cash-flow valuations came close to actual transaction prices and did at least as well as comparable-company and comparable-transaction multiples. A 40% average error would have made DCF far less credible than the evidence suggests.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/corporate-finance/discounted-cash-flow.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8c69fdd365f227329baf528142299af420ea0b63
+concepts:
+- kt:discounted-cash-flow
+- kt:leveraged-buyout
+- kt:relative-valuation
+difficulty: 3
+created: '2026-11-21'
+status: active

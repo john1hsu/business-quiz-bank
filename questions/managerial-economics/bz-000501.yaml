@@ -1,0 +1,20 @@
+id: bz-000501
+area: managerial-economics
+kind: origin
+topic: 'Contract Theory: How Incentives and Ownership Shape Agreements'
+topic_type: Field
+true_statement: Grossman and Hart's 1986 Journal of Political Economy paper defined ownership as the purchase of residual rights of control over whatever a contract leaves out.
+false_statement: Grossman and Hart's 1986 Journal of Political Economy paper defined ownership as the purchase of specific rights of control that a contract spells out in advance.
+explanation: Because no contract can foresee every contingency, Grossman and Hart argued that what matters is who decides in the gaps, and owning an asset means holding those residual rights. Specific rights are the ones written into the contract, which is exactly what ownership adds to.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/contract-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 6232a8fb02993b4894ba0aaef144600fe856c949
+concepts:
+- kt:contract-theory
+- kt:oliver-hart
+- kt:theory-of-the-firm
+difficulty: 2
+created: '2026-11-21'
+status: active

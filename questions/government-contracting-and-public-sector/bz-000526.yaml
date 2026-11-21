@@ -1,0 +1,20 @@
+id: bz-000526
+area: government-contracting-and-public-sector
+kind: figure
+topic: 'Bid Protest: Challenging Federal Contract Awards at GAO'
+topic_type: Practice
+true_statement: In fiscal 2025 (FY2025), GAO sustained 53 of its 380 bid protest merit decisions, a sustain rate of about 14%.
+false_statement: In fiscal 2025 (FY2025), GAO sustained 198 of its 380 bid protest merit decisions, a sustain rate of about 52%.
+explanation: Only about one merit decision in seven went the protester's way, which is why protests are rarer winners than their reputation suggests. The 52% figure is GAO's broader effectiveness rate, which also counts voluntary corrective action by agencies.
+as_of: FY2025
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/bid-protest.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a0bdd4de39a19e68cd6aca8a4de08a47ce88a80d
+concepts:
+- kt:bid-protest
+- kt:government-accountability-office
+difficulty: 2
+created: '2026-11-21'
+status: active

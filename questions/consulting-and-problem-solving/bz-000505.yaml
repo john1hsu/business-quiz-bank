@@ -1,0 +1,19 @@
+id: bz-000505
+area: consulting-and-problem-solving
+kind: mechanism
+topic: 'Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis'
+topic_type: Framework
+true_statement: In Kepner-Tregoe Decision Analysis, an alternative failing any MUST objective is dropped, while WANT objectives are weighted and used to score the survivors.
+false_statement: In Kepner-Tregoe Decision Analysis, an alternative failing any WANT objective is dropped, while MUST objectives are weighted and used to score the survivors.
+explanation: MUSTs are mandatory, measurable screens, so they eliminate rather than score. WANTs carry importance weights, typically 1 to 10, and the surviving options' weighted scores are summed to reach a tentative choice before its risks are assessed.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/kepner-tregoe-method.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 26d98d2e0cdfa4c5cc6d6b44b0e4d48e1a959d4e
+concepts:
+- kt:kepner-tregoe-method
+- kt:decision-making
+difficulty: 2
+created: '2026-11-21'
+status: active

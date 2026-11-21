@@ -1,0 +1,19 @@
+id: bz-000471
+area: business-history-and-cases
+kind: evidence
+topic: 'Blockbuster: Rise and Fall of the Video Rental Chain'
+topic_type: Case
+true_statement: Former Blockbuster CEO John Antioco disputed in 2022 the story that the chain spurned buying Netflix for $50 million around 2002, saying serious merger talks came only in early 2007.
+false_statement: Netflix co-founder Reed Hastings disputed in 2022 the story that Blockbuster spurned buying Netflix for $50 million around 2002, saying serious merger talks came only in early 2007.
+explanation: Hastings is the one who tells the $50 million story; Antioco says no serious talks happened then and that discussions came after Total Access had taken share from Netflix. The dispute complicates the simple tale that Blockbuster just missed the internet.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/blockbuster-decline.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: b61e8a66f5589496cce066077d808eb02f27d875
+concepts:
+- kt:blockbuster-decline
+- kt:netflix
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000519
+area: business-models
+kind: origin
+topic: 'Business Model Canvas: Osterwalder and Pigneur''s Nine-Block Template'
+topic_type: Framework
+true_statement: The Business Model Canvas grew out of Alexander Osterwalder's 2004 doctoral dissertation at the University of Lausanne, which built a formal business model ontology.
+false_statement: The Business Model Canvas grew out of Alexander Osterwalder's 2004 doctoral dissertation at the University of St. Gallen, which built a formal business model ontology.
+explanation: Osterwalder's Lausanne thesis aimed to give the field a shared vocabulary, since one survey drew 54 definitions of business model from 62 respondents. A 2005 tutorial with Pigneur and Tucci condensed it into nine blocks, and the 2010 book made the canvas famous.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model-canvas.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 298273db279e0e96f1f695db41658916ad7896e4
+concepts:
+- kt:business-model-canvas
+- kt:alexander-osterwalder
+difficulty: 2
+created: '2026-11-21'
+status: active

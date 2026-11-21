@@ -1,0 +1,19 @@
+id: bz-000468
+area: accounting-and-reporting
+kind: origin
+topic: 'EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization'
+topic_type: Metric
+true_statement: EBITDA spread during the leveraged-buyout boom of the 1980s, when sponsors argued that depreciation and amortization are non-cash and so free to pay lenders.
+false_statement: EBITDA spread during the conglomerate merger wave of the 1960s, when acquirers argued that depreciation and amortization are non-cash and so free to pay lenders.
+explanation: Before the 1980s credit analysts mostly judged debt capacity on EBIT; buyout sponsors popularised EBITDA because adding back non-cash charges made more cash look available for heavy debt service. Its use then widened to acquisitions with goodwill, distressed firms and eventually companies of every kind.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ebitda.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 19e8012d2986cbb49cb109ea2d8d599aae33debb
+concepts:
+- kt:ebitda
+- kt:leveraged-buyout
+difficulty: 2
+created: '2026-11-21'
+status: active

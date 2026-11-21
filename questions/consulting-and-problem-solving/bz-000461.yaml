@@ -1,0 +1,20 @@
+id: bz-000461
+area: consulting-and-problem-solving
+kind: evidence
+topic: 'Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause'
+topic_type: Practice
+true_statement: Alan Card's 2016 critique argues the five whys wrongly implies the most distal cause is the best place to intervene, when a proximate control may prevent recurrence better.
+false_statement: Alan Card's 2016 critique argues the five whys wrongly implies the most proximate cause is the best place to intervene, when a distal control may prevent recurrence better.
+explanation: A why-chain ends at the cause furthest back, but a nearby control such as a forcing function can be more reliable. Card also faults the method for following a single causal path and assuming a single root cause, and suggests keeping it only as a teaching device in patient safety.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/consulting-and-problem-solving/five-whys.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: cbffbffcbdc88f4ddc48332f90b245b7865c4ef6
+concepts:
+- kt:five-whys
+- kt:root-cause-analysis
+- kt:patient-safety
+difficulty: 3
+created: '2026-11-21'
+status: active

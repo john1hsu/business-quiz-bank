@@ -1,0 +1,20 @@
+id: bz-000453
+area: strategy
+kind: origin
+topic: 'Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition'
+topic_type: Concept
+true_statement: James F. Moore introduced the business ecosystem in a 1993 Harvard Business Review article, arguing that rivalry increasingly occurs between whole ecosystems rather than single firms.
+false_statement: Marco Iansiti introduced the business ecosystem in a 2004 Harvard Business Review article, arguing that rivalry increasingly occurs between whole ecosystems rather than single firms.
+explanation: Moore's "Predators and Prey" borrowed from biology and cited contests such as Wal-Mart versus Kmart. Iansiti and Roy Levien came later, in 2004, extending the metaphor with the idea of a keystone firm that stabilizes the ecosystem.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/business-ecosystem.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 71761e63385add5a345914768ba5b6b47cfea02c
+concepts:
+- kt:business-ecosystem
+- kt:james-f-moore
+- kt:predators-and-prey-a-new-ecology-of-competition-1993
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000446
+area: government-contracting-and-public-sector
+kind: application
+topic: 'Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements'
+topic_type: Framework
+true_statement: Executive Order 14402, signed in April 2026, makes fixed-price contracts with performance-based elements the federal default and requires written justification for any other type.
+false_statement: Executive Order 14402, signed in April 2026, makes cost-reimbursement contracts with award fees the federal default and requires written justification for any fixed-price type.
+explanation: The order pushes risk toward contractors by defaulting to fixed price, and it adds agency-head approval for large non-fixed-price awards, with exemptions for emergencies and early development of major systems. It continues a line of policy, going back to GAO's 2009 warning, that treats cost-reimbursement as high risk for the government.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/government-contract-types.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: f7305e3f324bec17890c82cf231a7d3643a1b2b1
+concepts:
+- kt:government-contract-types
+- kt:executive-order-14402
+- kt:fixed-price-contract
+difficulty: 2
+created: '2026-11-21'
+status: active

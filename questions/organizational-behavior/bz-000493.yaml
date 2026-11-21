@@ -1,0 +1,19 @@
+id: bz-000493
+area: organizational-behavior
+kind: evidence
+topic: 'Organizational Culture: Shared Assumptions, Values and Artifacts in Firms'
+topic_type: Concept
+true_statement: Hartnell, Ou and Kinicki's 2011 meta-analysis linked clan cultures most closely to job satisfaction and commitment, and market cultures to profit.
+false_statement: Hartnell, Ou and Kinicki's 2011 meta-analysis linked market cultures most closely to job satisfaction and commitment, and clan cultures to profit.
+explanation: The meta-analysis of 84 studies found clan, adhocracy and market cultures all tied to better outcomes, but clan cultures mattered most for employee attitudes and market cultures for profit. It also found clan and market traits correlated positively, though the Competing Values Framework treats them as opposites.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-culture.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 525075ef5e983742aa64f4183f18479b386f52ee
+concepts:
+- kt:organizational-culture
+- kt:competing-values-framework
+difficulty: 3
+created: '2026-11-21'
+status: active

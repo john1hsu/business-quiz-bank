@@ -1,0 +1,18 @@
+id: bz-000496
+area: strategy
+kind: evidence
+topic: 'Resource-Based View: Firm Resources as the Source of Competitive Advantage'
+topic_type: Theory
+true_statement: A 2008 meta-analysis of 125 studies estimated a 0.22 correlation between strategic resources and performance, rising to 0.29 when resources met the RBV's criteria.
+false_statement: A 2008 meta-analysis of 125 studies estimated a 0.22 correlation between strategic resources and performance, falling to 0.09 when resources met the RBV's criteria.
+explanation: Crook, Ketchen, Combs and Todd pooled studies of over 29,000 organizations and found the link strengthened, to 0.29, when resources truly met the theory's tests and performance was measured cleanly. A weaker link for qualifying resources would cut against the theory rather than support it.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/resource-based-view.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 599b7a6a849dc2cc0eaea08c6b46678c7d70768d
+concepts:
+- kt:resource-based-view
+difficulty: 3
+created: '2026-11-21'
+status: active

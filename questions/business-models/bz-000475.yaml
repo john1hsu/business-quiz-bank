@@ -1,0 +1,20 @@
+id: bz-000475
+area: business-models
+kind: application
+topic: 'Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand'
+topic_type: Theory
+true_statement: In Thompson's grading, Netflix is a Level 1 aggregator that must buy its supply, while Google search is a Level 3 aggregator that gets its supply at no cost.
+false_statement: In Thompson's grading, Google search is a Level 1 aggregator that must buy its supply, while Netflix is a Level 3 aggregator that gets its supply at no cost.
+explanation: 'Levels rank aggregators by what supply costs them: Netflix pays for programming, Uber and Airbnb (Level 2) pay to onboard and vet suppliers, and web pages come to Google free. Lower supply cost means a purer, more scalable aggregator.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/aggregation-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 28d6ed1cc1b7a9eb2b5d784efb17f58a78420224
+concepts:
+- kt:aggregation-theory
+- kt:netflix
+- kt:google
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,19 @@
+id: bz-000517
+area: operations-and-supply-chain
+kind: evidence
+topic: 'Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory'
+topic_type: Practice
+true_statement: Ortiz's 2022 Federal Reserve paper estimated JIT adds about 1.3% to firm value but makes output contract about 15% more after a large unexpected supply shock.
+false_statement: Ortiz's 2022 Federal Reserve paper estimated JIT adds about 15% to firm value but makes output contract about 1.3% more after a large unexpected supply shock.
+explanation: The gain from leaner inventory is modest while the downside in a big supply shock is severe, because JIT firms either run out of materials or scramble to stockpile. The result captures JIT's core trade of resilience for efficiency.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/just-in-time.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 71840f167635d664ea3d0726998ace37d1f8979f
+concepts:
+- kt:just-in-time
+- kt:inventory-management
+difficulty: 3
+created: '2026-11-21'
+status: active

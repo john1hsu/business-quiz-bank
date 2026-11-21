@@ -1,0 +1,19 @@
+id: bz-000452
+area: organizational-behavior
+kind: evidence
+topic: 'Organization Theory: Contingency, Institutional and Ecological Explanations of Structure'
+topic_type: Field
+true_statement: Hannan and Freeman argued in 1984 that organizational inertia is a product of selection, and found older organizations more inert than younger ones.
+false_statement: Hannan and Freeman argued in 1984 that organizational inertia is a product of selection, and found younger organizations more inert than older ones.
+explanation: Environments favor organizations that act reliably and can account for their activities, which requires reproducing structure faithfully, so inertia grows with age. The effect of size was less clear-cut, and this view stresses replacement over adaptation.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organization-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 9c3ee44b2b79fdc1357446a170d064ae69a8b90a
+concepts:
+- kt:organization-theory
+- kt:organizational-ecology
+difficulty: 3
+created: '2026-11-21'
+status: active

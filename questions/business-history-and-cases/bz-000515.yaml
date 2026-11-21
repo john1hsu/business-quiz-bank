@@ -1,0 +1,20 @@
+id: bz-000515
+area: business-history-and-cases
+kind: figure
+topic: 'Toyota: From Automatic Looms to the World''s Largest Automaker'
+topic_type: Company
+true_statement: In 2025 the Toyota group sold a record 11.3 million vehicles, staying the world's top-selling automaker for a sixth consecutive year.
+false_statement: In 2025 the Toyota group sold a record 11.3 million vehicles, regaining the title of world's top-selling automaker from Volkswagen Group.
+explanation: The calendar-2025 group total counts Daihatsu and Hino and put Toyota well ahead of Volkswagen Group's just under 9 million. Toyota first passed General Motors as the largest automaker in 2008, and by 2025 it had led for six straight years.
+as_of: '2025'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/toyota-motor-corporation.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 9342347ee43179b3bb9f9c4c2f3bcb8d654684d8
+concepts:
+- kt:toyota-motor-corporation
+- kt:volkswagen-group
+difficulty: 1
+created: '2026-11-21'
+status: active

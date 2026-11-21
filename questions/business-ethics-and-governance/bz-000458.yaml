@@ -1,0 +1,18 @@
+id: bz-000458
+area: business-ethics-and-governance
+kind: evidence
+topic: 'Corporate Social Responsibility (CSR): A Firm''s Obligations Beyond Profit and Law'
+topic_type: Concept
+true_statement: Orlitzky, Schmidt and Rynes's 2003 meta-analysis of 52 studies found social performance positively linked to financial performance, more strongly for accounting-based than market-based returns.
+false_statement: Orlitzky, Schmidt and Rynes's 2003 meta-analysis of 52 studies found social performance positively linked to financial performance, more strongly for market-based than accounting-based returns.
+explanation: The study supports a business case for CSR, with reputation as a key mediator. The size of the payoff is debated, because the average correlation shrinks markedly once survey- and reputation-based measures, which may carry halo effects, are excluded.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/corporate-social-responsibility.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 01a9531c947917ad52c7043d26d069750112363a
+concepts:
+- kt:corporate-social-responsibility
+difficulty: 3
+created: '2026-11-21'
+status: active

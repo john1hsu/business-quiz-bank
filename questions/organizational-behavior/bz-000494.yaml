@@ -1,0 +1,18 @@
+id: bz-000494
+area: organizational-behavior
+kind: application
+topic: 'Organizational Culture: Shared Assumptions, Values and Artifacts in Firms'
+topic_type: Concept
+true_statement: Cameron and Quinn attribute the turnaround of GM's Fremont plant as NUMMI, with Toyota, mainly to changed culture rather than new technology.
+false_statement: Cameron and Quinn attribute the turnaround of GM's Fremont plant as NUMMI, with Toyota, mainly to new technology rather than changed culture.
+explanation: Reopened as a GM-Toyota joint venture, the plant saw far fewer grievances, higher output with fewer workers and better quality. Cameron and Quinn use it as the classic case that culture change, not equipment, drove the improvement.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-culture.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 525075ef5e983742aa64f4183f18479b386f52ee
+concepts:
+- kt:organizational-culture
+difficulty: 2
+created: '2026-11-21'
+status: active

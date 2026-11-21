@@ -1,0 +1,19 @@
+id: bz-000535
+area: organizational-behavior
+kind: mechanism
+topic: 'Change Management: From Lewin''s Unfreezing to Kotter''s Eight Steps'
+topic_type: Practice
+true_statement: Kotter judged a sense of urgency sufficient only when roughly 75% of a company's management is convinced that business as usual is unacceptable.
+false_statement: Kotter judged a sense of urgency sufficient only when roughly 50% of a company's management is convinced that business as usual is unacceptable.
+explanation: Kotter set a high bar, about three quarters of management, for the first step of establishing urgency. He found that well over half of the companies he watched failed at this first phase.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/change-management.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 2cb6dd9b3b96285231070c87d5f34840bcd8a492
+concepts:
+- kt:change-management
+- kt:kotters-eight-step-model
+difficulty: 2
+created: '2026-11-21'
+status: active

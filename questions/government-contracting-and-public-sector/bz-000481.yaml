@@ -1,0 +1,18 @@
+id: bz-000481
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: 'Public Value: Mark Moore''s Strategic Triangle for Public Managers'
+topic_type: Framework
+true_statement: In Moore's strategic triangle, "big hat and no cattle" describes an agency that has political support but lacks the operational capacity to deliver.
+false_statement: In Moore's strategic triangle, "big hat and no cattle" describes an agency that has the operational capacity to deliver but lacks political support.
+explanation: The triangle requires public value, legitimacy and support, and operational capacity to line up; the big hat is the backing from the authorizing environment and the missing cattle is the ability to produce results. Moore's other failure mode is funding that keeps flowing to activities that no longer create value.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-value.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a4fcf5b71def85b27bf06edb82cbd5061d0a5511
+concepts:
+- kt:public-value
+difficulty: 2
+created: '2026-11-21'
+status: active

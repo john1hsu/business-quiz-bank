@@ -1,0 +1,19 @@
+id: bz-000472
+area: business-history-and-cases
+kind: figure
+topic: 'Blockbuster: Rise and Fall of the Video Rental Chain'
+topic_type: Case
+true_statement: Blockbuster dropped late fees at its U.S. company stores from January 1, 2005, giving up an estimated $400-450 million of revenue for 2005.
+false_statement: Blockbuster dropped late fees at its U.S. company stores from January 1, 2005, giving up an estimated $40-45 million of revenue for 2005.
+explanation: Late fees were a major profit stream, also worth an estimated $250-300 million of 2005 operating income, which shows how costly it was to answer Netflix's no-late-fee subscription. Blockbuster budgeted about $50 million just to launch the change.
+as_of: '2005'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-history-and-cases/blockbuster-decline.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: b61e8a66f5589496cce066077d808eb02f27d875
+concepts:
+- kt:blockbuster-decline
+difficulty: 2
+created: '2026-11-21'
+status: active

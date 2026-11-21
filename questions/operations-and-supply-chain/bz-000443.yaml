@@ -1,0 +1,19 @@
+id: bz-000443
+area: operations-and-supply-chain
+kind: evidence
+topic: 'Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization'
+topic_type: Practice
+true_statement: Sabel and Zeitlin argue mass production was not industrialization's inevitable endpoint, since craft districts like Lyon silk competed through flexible specialization.
+false_statement: Sabel and Zeitlin argue mass production was industrialization's inevitable endpoint, since craft districts like Lyon silk lost out once flexible specialization appeared.
+explanation: The historians point to flexible, craft-based districts such as Lyon silk and Solingen cutlery that competed successfully, and conclude that mass production's dominance reflected political and strategic choices as much as pure efficiency.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/mass-production.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: dbdbf8abf1163fadfce2a8732747033265a7157c
+concepts:
+- kt:mass-production
+- kt:flexible-specialization
+difficulty: 3
+created: '2026-11-21'
+status: active

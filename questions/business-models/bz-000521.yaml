@@ -1,0 +1,19 @@
+id: bz-000521
+area: business-models
+kind: application
+topic: 'Business Model Canvas: Osterwalder and Pigneur''s Nine-Block Template'
+topic_type: Framework
+true_statement: On the Business Model Canvas, a free newspaper maps both readers and advertisers as separate customer segments, because each group depends on the other.
+false_statement: On the Business Model Canvas, a free newspaper maps advertisers as its customer segment and readers as a key resource, because only advertisers pay.
+explanation: 'The canvas treats each interdependent group in a multi-sided model as its own segment: readers attract the advertisers whose money funds the paper. The same logic maps cardholders and merchants for a credit card company.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model-canvas.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 298273db279e0e96f1f695db41658916ad7896e4
+concepts:
+- kt:business-model-canvas
+- kt:platform-business-model
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,18 @@
+id: bz-000536
+area: organizational-behavior
+kind: evidence
+topic: 'Change Management: From Lewin''s Unfreezing to Kotter''s Eight Steps'
+topic_type: Practice
+true_statement: Mark Hughes reviewed five published sources for the claim that about 70% of change initiatives fail and found that none gives valid, reliable evidence for it.
+false_statement: Mark Hughes reviewed five published sources for the claim that about 70% of change initiatives fail and found that all five give valid, reliable evidence for it.
+explanation: The 70% failure rate is widely repeated, but Hughes traced it to sources that lack sound empirical support. It is a useful caution against treating a popular statistic as established fact.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/change-management.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 2cb6dd9b3b96285231070c87d5f34840bcd8a492
+concepts:
+- kt:change-management
+difficulty: 3
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000476
+area: business-models
+kind: evidence
+topic: 'Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand'
+topic_type: Theory
+true_statement: Thibault Schrepel argues antitrust should separate platforms such as Android from aggregators such as Google Search, as aggregators are more prone to exploitative conduct.
+false_statement: Thibault Schrepel argues antitrust should separate platforms such as Google Search from aggregators such as Android, as aggregators are more prone to exploitative conduct.
+explanation: For Schrepel a platform is a base others build on, like Android, while an aggregator collects and sorts existing offerings for users, like Google Search. Because suppliers depend on reaching an aggregator's users, the two belong in different relevant markets and pose different harms.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/aggregation-theory.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 28d6ed1cc1b7a9eb2b5d784efb17f58a78420224
+concepts:
+- kt:aggregation-theory
+- kt:antitrust-law
+- kt:google
+difficulty: 3
+created: '2026-11-21'
+status: active

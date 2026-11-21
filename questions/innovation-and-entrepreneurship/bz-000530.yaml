@@ -1,0 +1,20 @@
+id: bz-000530
+area: innovation-and-entrepreneurship
+kind: figure
+topic: 'Customer Development: Steve Blank''s Search for a Repeatable Business Model'
+topic_type: Practice
+true_statement: As of 2026, NSF's I-Corps national teams program runs about seven weeks and requires each team to complete at least 100 interviews with potential customers and stakeholders.
+false_statement: As of 2026, NSF's I-Corps national teams program runs about seven weeks and requires each team to complete at least 20 interviews with potential customers and stakeholders.
+explanation: I-Corps is the largest institutional application of customer development, and its high interview quota forces academic founders out of the lab to test their business model hypotheses. Teams also commit at least 15 hours a week and end with a lessons-learned presentation.
+as_of: '2026'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/customer-development.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: fa56d872d215a995fab55db0eb2aa8782e27286a
+concepts:
+- kt:customer-development
+- kt:nsf-innovation-corps
+difficulty: 2
+created: '2026-11-21'
+status: active

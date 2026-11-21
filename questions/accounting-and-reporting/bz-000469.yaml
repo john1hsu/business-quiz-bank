@@ -1,0 +1,20 @@
+id: bz-000469
+area: accounting-and-reporting
+kind: mechanism
+topic: 'EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization'
+topic_type: Metric
+true_statement: SEC staff require a company presenting EBITDA as a performance measure to reconcile it to net income rather than to operating income.
+false_statement: SEC staff require a company presenting EBITDA as a performance measure to reconcile it to operating income rather than to net income.
+explanation: EBITDA adds back interest and income taxes, items that sit below operating income, so net income is the GAAP figure it is actually built from. The same guidance bars EBITDA per share and requires a distinct label, such as Adjusted EBITDA, for any variant computed differently.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/ebitda.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 19e8012d2986cbb49cb109ea2d8d599aae33debb
+concepts:
+- kt:ebitda
+- kt:regulation-g
+- kt:income-statement
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,20 @@
+id: bz-000480
+area: government-contracting-and-public-sector
+kind: origin
+topic: 'Public Value: Mark Moore''s Strategic Triangle for Public Managers'
+topic_type: Framework
+true_statement: Mark H. Moore of Harvard's Kennedy School set out the public value framework in Creating Public Value, published by Harvard University Press in 1995.
+false_statement: Gerry Stoker of Harvard's Kennedy School set out the public value framework in Creating Public Value, published by Harvard University Press in 1995.
+explanation: Moore wrote the 1995 book that framed the public manager's job as creating value for citizens collectively, much as private managers create value for shareholders. Stoker came later, arguing in 2006 that public value management suits networked governance.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/public-value.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a4fcf5b71def85b27bf06edb82cbd5061d0a5511
+concepts:
+- kt:public-value
+- kt:mark-h-moore
+- kt:creating-public-value-1995
+difficulty: 1
+created: '2026-11-21'
+status: active

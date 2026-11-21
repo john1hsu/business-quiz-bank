@@ -1,0 +1,20 @@
+id: bz-000525
+area: government-contracting-and-public-sector
+kind: mechanism
+topic: 'Bid Protest: Challenging Federal Contract Awards at GAO'
+topic_type: Practice
+true_statement: A GAO bid protest triggers an automatic stay of performance if GAO notifies the agency within 10 days after award, or within 5 days after a required debriefing.
+false_statement: A GAO bid protest triggers an automatic stay of performance if GAO notifies the agency within 30 days after award, or within 15 days after a required debriefing.
+explanation: 'The short window is what makes the stay powerful: a protest filed quickly forces the contracting officer to suspend or terminate performance unless agency leadership finds urgent and compelling reasons to override. Thirty days is the deadline for the agency''s report to GAO, not the stay window.'
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/government-contracting-and-public-sector/bid-protest.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: a0bdd4de39a19e68cd6aca8a4de08a47ce88a80d
+concepts:
+- kt:bid-protest
+- kt:government-accountability-office
+- kt:contracting-officer
+difficulty: 2
+created: '2026-11-21'
+status: active

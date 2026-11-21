@@ -1,0 +1,19 @@
+id: bz-000492
+area: organizational-behavior
+kind: definition
+topic: 'Organizational Culture: Shared Assumptions, Values and Artifacts in Firms'
+topic_type: Concept
+true_statement: Schein held that basic underlying assumptions, not espoused values or visible artifacts, are the unconscious core of an organization's culture.
+false_statement: Schein held that espoused values, not basic underlying assumptions or visible artifacts, are the unconscious core of an organization's culture.
+explanation: Espoused values are what members say they believe and can be surveyed; underlying assumptions are taken for granted and need deep joint inquiry to uncover. A gap between the two explains why a firm's stated values can differ from its behavior, as at Enron.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/organizational-behavior/organizational-culture.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 525075ef5e983742aa64f4183f18479b386f52ee
+concepts:
+- kt:organizational-culture
+- kt:edgar-schein
+difficulty: 1
+created: '2026-11-21'
+status: active

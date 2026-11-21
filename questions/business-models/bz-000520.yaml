@@ -1,0 +1,19 @@
+id: bz-000520
+area: business-models
+kind: evidence
+topic: 'Business Model Canvas: Osterwalder and Pigneur''s Nine-Block Template'
+topic_type: Framework
+true_statement: Fritscher and Pigneur note that most canvas use stays basic, analysing one business model at a single point in time, a weakness they trace to its static ontology.
+false_statement: Fritscher and Pigneur note that most canvas use stays basic, analysing one business model at a single point in time, a weakness they trace to its lack of a revenue block.
+explanation: The canvas already has a Revenue Streams block; the limit is that its ontology describes a model as a snapshot. Fritscher and Pigneur propose coherence rules, cause-and-effect mechanics and layered versioning to make it dynamic.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-models/business-model-canvas.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 298273db279e0e96f1f695db41658916ad7896e4
+concepts:
+- kt:business-model-canvas
+- kt:yves-pigneur
+difficulty: 3
+created: '2026-11-21'
+status: active

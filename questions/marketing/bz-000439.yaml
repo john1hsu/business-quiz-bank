@@ -1,0 +1,18 @@
+id: bz-000439
+area: marketing
+kind: evidence
+topic: 'Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings'
+topic_type: Field
+true_statement: Lovelock and Gummesson proposed in 2004 that services be defined as exchanges that transfer no ownership, delivering benefits through rental of or access to labour, skills, facilities or systems.
+false_statement: Lovelock and Gummesson proposed in 2004 that services be defined as exchanges produced and consumed at the same moment, making inseparability alone the line between services and goods.
+explanation: Lovelock and Gummesson questioned the whole IHIP paradigm, so they did not rescue one of its traits; they replaced it with a non-ownership test. A hotel room or a rented car delivers value through access, while the guest or driver never owns the asset.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/marketing/services-marketing.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 8e8575d6d447b06656f07cbaa570a0f5b48a43fe
+concepts:
+- kt:services-marketing
+difficulty: 3
+created: '2026-11-21'
+status: active

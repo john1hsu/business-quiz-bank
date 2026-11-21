@@ -1,0 +1,20 @@
+id: bz-000499
+area: business-ethics-and-governance
+kind: mechanism
+topic: 'Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay'
+topic_type: Practice
+true_statement: Under SEC rules adopted in 2011 under Dodd-Frank, companies hold an advisory say-on-pay vote at least once every three years, and vote on its frequency at least every six.
+false_statement: Under SEC rules adopted in 2011 under Dodd-Frank, companies hold an advisory say-on-pay vote at least once every six years, and vote on its frequency at least every three.
+explanation: The pay vote comes at least every three years and the frequency vote at least every six, with a separate advisory vote on merger golden parachutes. All three votes are non-binding, so they work through pressure on the board.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/executive-compensation.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: d30ea1aec4c38a3b47e33a442d251fbfa292c72e
+concepts:
+- kt:executive-compensation
+- kt:say-on-pay
+- kt:dodd-frank-act
+difficulty: 2
+created: '2026-11-21'
+status: active

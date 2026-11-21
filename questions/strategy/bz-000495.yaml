@@ -1,0 +1,21 @@
+id: bz-000495
+area: strategy
+kind: origin
+topic: 'Resource-Based View: Firm Resources as the Source of Competitive Advantage'
+topic_type: Theory
+true_statement: Birger Wernerfelt named the resource-based view in a 1984 Strategic Management Journal article, recasting entry barriers as resource position barriers.
+false_statement: Jay Barney named the resource-based view in a 1984 Strategic Management Journal article, recasting entry barriers as resource position barriers.
+explanation: Wernerfelt coined the view in 1984 by turning product-market tools, such as entry barriers and growth-share matrices, toward resources. Barney came later, in a 1991 Journal of Management article that made it a testable theory of sustained advantage.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/strategy/resource-based-view.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 599b7a6a849dc2cc0eaea08c6b46678c7d70768d
+concepts:
+- kt:resource-based-view
+- kt:birger-wernerfelt
+- kt:a-resource-based-view-of-the-firm-1984
+- kt:barriers-to-entry
+difficulty: 2
+created: '2026-11-21'
+status: active

@@ -1,0 +1,21 @@
+id: bz-000483
+area: innovation-and-entrepreneurship
+kind: origin
+topic: 'Technology Adoption Life Cycle: Adopter Segments and the Chasm'
+topic_type: Framework
+true_statement: The adoption life cycle began in a 1957 Iowa State report in which sociologists George Beal and Joe Bohlen grouped farmers by how early they took up new practices.
+false_statement: The adoption life cycle began in a 1957 study of early computer buyers in which George Beal and Joe Bohlen grouped firms by how early they took up new machines.
+explanation: The model came from agricultural extension research, not technology marketing; hybrid seed corn took about 13 years to reach most Iowa farmers. Everett Rogers generalized it in 1962, and Geoffrey Moore later adapted it to high-tech buyers.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/innovation-and-entrepreneurship/technology-adoption-life-cycle.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 39882977b8bfa9382e2ee2cc2bd069cb4d95df7d
+concepts:
+- kt:technology-adoption-life-cycle
+- kt:george-m-beal
+- kt:joe-m-bohlen
+- kt:diffusion-of-innovations
+difficulty: 2
+created: '2026-11-21'
+status: active

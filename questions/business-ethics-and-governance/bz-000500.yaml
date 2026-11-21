@@ -1,0 +1,19 @@
+id: bz-000500
+area: business-ethics-and-governance
+kind: application
+topic: 'Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay'
+topic_type: Practice
+true_statement: When Citigroup became the first Wall Street bank to lose a say-on-pay vote in April 2012, the result did not oblige it to change pay, but its board said it would consult shareholders.
+false_statement: When Citigroup became the first Wall Street bank to lose a say-on-pay vote in April 2012, the result legally obliged it to change pay, so its board cut the CEO's package.
+explanation: Say-on-pay votes are advisory, so the Citigroup defeat over Vikram Pandit's pay, including a retention award without financial metrics, carried no legal force. It shows these votes work through shareholder pressure and board engagement rather than as binding orders.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/executive-compensation.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: d30ea1aec4c38a3b47e33a442d251fbfa292c72e
+concepts:
+- kt:executive-compensation
+- kt:say-on-pay
+difficulty: 2
+created: '2026-11-21'
+status: active

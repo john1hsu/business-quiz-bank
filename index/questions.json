@@ -1,7 +1,7 @@
 {
  "version": 1,
- "count": 436,
- "active": 436,
+ "count": 536,
+ "active": 536,
  "questions": [
   {
    "id": "bz-000001",
@@ -7132,6 +7132,1629 @@
    "difficulty": 2,
    "status": "active",
    "source": "https://john1hsu.github.io/business-knowledge-graph/articles/moral-hazard.html"
+  },
+  {
+   "id": "bz-000438",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
+   "t": "The canonical four service traits (intangibility, inseparability, variability, perishability) come from a 1985 Journal of Marketing review by Zeithaml, Parasuraman and Berry.",
+   "f": "The canonical four service traits (intangibility, inseparability, variability, perishability) come from a 1966 list of service differences drawn up by Rathmell.",
+   "x": "Zeithaml, Parasuraman and Berry distilled the IHIP list from a systematic literature review in 1985. Rathmell's 1966 list was an earlier, longer attempt naming 13 differences, and Lovelock later proposed seven.",
+   "concepts": [
+    "kt:services-marketing"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/services-marketing.html"
+  },
+  {
+   "id": "bz-000439",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
+   "t": "Lovelock and Gummesson proposed in 2004 that services be defined as exchanges that transfer no ownership, delivering benefits through rental of or access to labour, skills, facilities or systems.",
+   "f": "Lovelock and Gummesson proposed in 2004 that services be defined as exchanges produced and consumed at the same moment, making inseparability alone the line between services and goods.",
+   "x": "Lovelock and Gummesson questioned the whole IHIP paradigm, so they did not rescue one of its traits; they replaced it with a non-ownership test. A hotel room or a rented car delivers value through access, while the guest or driver never owns the asset.",
+   "concepts": [
+    "kt:services-marketing"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/services-marketing.html"
+  },
+  {
+   "id": "bz-000440",
+   "area": "marketing",
+   "kind": "application",
+   "topic": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
+   "t": "Hotels and airlines use off-peak pricing to fill rooms and seats because services are perishable: an unsold night or seat cannot be stored and sold later.",
+   "f": "Hotels and airlines use off-peak pricing to fill rooms and seats because services are variable: quality depends on who delivers the service, when and how.",
+   "x": "Perishability means unused capacity is lost for good, so firms shift demand toward slack periods with lower prices, much as bars use happy hours. Variability is a different trait, met with staff training and standards rather than pricing.",
+   "concepts": [
+    "kt:services-marketing"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/services-marketing.html"
+  },
+  {
+   "id": "bz-000441",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization",
+   "t": "Piore and Sabel describe mass production as building precision into special-purpose machines rather than workers, so it pays off only with a large, stable market.",
+   "f": "Piore and Sabel describe mass production as building precision into highly skilled workers rather than machines, so it pays off even in small, unstable markets.",
+   "x": "Product-specific machines run by low-skill workers are a bet on volume: the tooling only earns back its cost if demand is big and steady. That is why they treat market size as the binding limit on the division of labour, and why craft skill is the opposite of the mass-production logic.",
+   "concepts": [
+    "kt:mass-production",
+    "kt:economies-of-scale"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mass-production.html"
+  },
+  {
+   "id": "bz-000442",
+   "area": "operations-and-supply-chain",
+   "kind": "origin",
+   "topic": "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization",
+   "t": "Ford's first moving line, for flywheel magnetos in April 1913, cut the labour per unit from about 20 minutes to five minutes after successive adjustments.",
+   "f": "Ford's first moving line, for complete engines in April 1913, cut the labour per unit from about 20 minutes to five minutes after successive adjustments.",
+   "x": "Highland Park tried the moving line first on a small subassembly, the flywheel magneto, before extending it to engines, transmissions and, in August 1913, the whole chassis. Starting small let Ford refine the method before scaling it.",
+   "concepts": [
+    "kt:mass-production",
+    "kt:assembly-line",
+    "kt:ford-model-t"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mass-production.html"
+  },
+  {
+   "id": "bz-000443",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization",
+   "t": "Sabel and Zeitlin argue mass production was not industrialization's inevitable endpoint, since craft districts like Lyon silk competed through flexible specialization.",
+   "f": "Sabel and Zeitlin argue mass production was industrialization's inevitable endpoint, since craft districts like Lyon silk lost out once flexible specialization appeared.",
+   "x": "The historians point to flexible, craft-based districts such as Lyon silk and Solingen cutlery that competed successfully, and conclude that mass production's dominance reflected political and strategic choices as much as pure efficiency.",
+   "concepts": [
+    "kt:mass-production",
+    "kt:flexible-specialization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/mass-production.html"
+  },
+  {
+   "id": "bz-000444",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
+   "t": "In a cost-plus-fixed-fee contract, the government reimburses allowable costs and pays a fee that stays the same whether costs come in high or low.",
+   "f": "In a cost-plus-fixed-fee contract, the government reimburses allowable costs and pays a fee that rises in proportion to the costs incurred.",
+   "x": "The fee is fixed at the outset and does not move with cost, which is why this type leaves the contractor minimal cost responsibility at the far end of the FAR Part 16 spectrum. A fee that grew with costs would reward overruns, the opposite of what the fixed fee is meant to avoid.",
+   "concepts": [
+    "kt:government-contract-types",
+    "kt:cost-plus-contract"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/government-contract-types.html"
+  },
+  {
+   "id": "bz-000445",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
+   "t": "McAfee and McMillan's 1986 model of contract bidding under moral hazard found the optimal linear contract is never cost-plus and is usually an incentive contract.",
+   "f": "McAfee and McMillan's 1986 model of contract bidding under moral hazard found the optimal linear contract is never an incentive contract and is usually cost-plus.",
+   "x": "The optimal contract has to balance cost-control incentives against sharing risk with risk-averse bidders and the gains from competition, so it lands between the extremes, usually as an incentive contract and sometimes fixed-price. Pure cost-plus gives the seller no reason to control costs, so the model rules it out.",
+   "concepts": [
+    "kt:government-contract-types",
+    "kt:moral-hazard",
+    "kt:principal-agent-problem",
+    "kt:cost-plus-contract"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/government-contract-types.html"
+  },
+  {
+   "id": "bz-000446",
+   "area": "government-contracting-and-public-sector",
+   "kind": "application",
+   "topic": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
+   "t": "Executive Order 14402, signed in April 2026, makes fixed-price contracts with performance-based elements the federal default and requires written justification for any other type.",
+   "f": "Executive Order 14402, signed in April 2026, makes cost-reimbursement contracts with award fees the federal default and requires written justification for any fixed-price type.",
+   "x": "The order pushes risk toward contractors by defaulting to fixed price, and it adds agency-head approval for large non-fixed-price awards, with exemptions for emergencies and early development of major systems. It continues a line of policy, going back to GAO's 2009 warning, that treats cost-reimbursement as high risk for the government.",
+   "concepts": [
+    "kt:government-contract-types",
+    "kt:executive-order-14402",
+    "kt:fixed-price-contract"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/government-contract-types.html"
+  },
+  {
+   "id": "bz-000447",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
+   "t": "Joseph Schumpeter named creative destruction in Capitalism, Socialism, and Democracy (1942), describing capitalism as a perennial gale of industrial mutation.",
+   "f": "Joseph Schumpeter named creative destruction in Capitalism, Socialism, and Democracy (1962), describing capitalism as a perennial gale of industrial mutation.",
+   "x": "Schumpeter, who died in 1950, gave the idea a short chapter in his 1942 book. His point was that the competition that matters is not price-cutting among similar firms but new goods, technologies and forms of organization that threaten incumbents' existence.",
+   "concepts": [
+    "kt:creative-destruction",
+    "kt:joseph-schumpeter",
+    "kt:capitalism-socialism-and-democracy"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/creative-destruction.html"
+  },
+  {
+   "id": "bz-000448",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
+   "t": "In Aghion and Howitt's 1992 model, expecting more research in the future shortens the life of today's innovation rents, so firms invest less in research now.",
+   "f": "In Aghion and Howitt's 1992 model, expecting more research in the future lengthens the life of today's innovation rents, so firms invest more in research now.",
+   "x": "Each quality-improving innovation erodes the rents of the one before it, so future innovation is a threat to today's innovator. That intertemporal link means anticipated research discourages current research, one reason market outcomes can deliver too much or too little growth.",
+   "concepts": [
+    "kt:creative-destruction",
+    "kt:a-model-of-growth-through-creative-destruction-1992",
+    "kt:economic-growth"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/creative-destruction.html"
+  },
+  {
+   "id": "bz-000449",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
+   "t": "Foster and colleagues found surges of U.S. business entry are followed by a brief productivity slowdown, then faster growth as successful entrants expand and weak firms exit.",
+   "f": "Foster and colleagues found surges of U.S. business entry are followed by a brief productivity speedup, then slower growth as entrants crowd the market and strong firms exit.",
+   "x": "Using Census microdata, they saw productivity dispersion widen after entry waves, then reallocation toward the more productive firms lift growth, especially in high tech. Creative destruction pays off with a lag, not immediately.",
+   "concepts": [
+    "kt:creative-destruction",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/creative-destruction.html"
+  },
+  {
+   "id": "bz-000450",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure",
+   "t": "Jeffrey Pfeffer and Gerald Salancik set out resource dependence theory in The External Control of Organizations in 1978.",
+   "f": "Paul DiMaggio and Walter Powell set out resource dependence theory in The External Control of Organizations in 1978.",
+   "x": "Pfeffer and Salancik argued that needing resources held by others makes outside control nearly inevitable, so managers respond politically or through alliances, board interlocks and mergers. DiMaggio and Powell are the institutional theorists behind the 1983 isomorphism paper.",
+   "concepts": [
+    "kt:organization-theory",
+    "kt:resource-dependence-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organization-theory.html"
+  },
+  {
+   "id": "bz-000451",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure",
+   "t": "In DiMaggio and Powell's account of isomorphism, mimetic pressure is copying rivals under uncertainty, while coercive pressure comes from powerful outsiders such as regulators.",
+   "f": "In DiMaggio and Powell's account of isomorphism, coercive pressure is copying rivals under uncertainty, while mimetic pressure comes from powerful outsiders such as regulators.",
+   "x": "Mimetic means imitation: when unsure what works, organizations copy peers. Coercive pressure comes from funders and regulators who can force conformity, and the third, normative pressure, comes from professionalization and staff moving between organizations.",
+   "concepts": [
+    "kt:organization-theory",
+    "kt:institutional-theory"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organization-theory.html"
+  },
+  {
+   "id": "bz-000452",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure",
+   "t": "Hannan and Freeman argued in 1984 that organizational inertia is a product of selection, and found older organizations more inert than younger ones.",
+   "f": "Hannan and Freeman argued in 1984 that organizational inertia is a product of selection, and found younger organizations more inert than older ones.",
+   "x": "Environments favor organizations that act reliably and can account for their activities, which requires reproducing structure faithfully, so inertia grows with age. The effect of size was less clear-cut, and this view stresses replacement over adaptation.",
+   "concepts": [
+    "kt:organization-theory",
+    "kt:organizational-ecology"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organization-theory.html"
+  },
+  {
+   "id": "bz-000453",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition",
+   "t": "James F. Moore introduced the business ecosystem in a 1993 Harvard Business Review article, arguing that rivalry increasingly occurs between whole ecosystems rather than single firms.",
+   "f": "Marco Iansiti introduced the business ecosystem in a 2004 Harvard Business Review article, arguing that rivalry increasingly occurs between whole ecosystems rather than single firms.",
+   "x": "Moore's \"Predators and Prey\" borrowed from biology and cited contests such as Wal-Mart versus Kmart. Iansiti and Roy Levien came later, in 2004, extending the metaphor with the idea of a keystone firm that stabilizes the ecosystem.",
+   "concepts": [
+    "kt:business-ecosystem",
+    "kt:james-f-moore",
+    "kt:predators-and-prey-a-new-ecology-of-competition-1993"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-ecosystem.html"
+  },
+  {
+   "id": "bz-000454",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition",
+   "t": "Adner and Kapoor's study of lithography tools from 1962 to 2005 found hard upstream component challenges amplified early movers' advantages, while hard downstream complementor challenges erased them.",
+   "f": "Adner and Kapoor's study of lithography tools from 1962 to 2005 found hard downstream complementor challenges amplified early movers' advantages, while hard upstream component challenges erased them.",
+   "x": "When complements downstream lag, adoption is slow and rivals get time to catch up, so being first buys little. Upstream bottlenecks instead reward the firm that solves them first, showing that first-mover value depends on where in the ecosystem the hard problem sits.",
+   "concepts": [
+    "kt:business-ecosystem",
+    "kt:first-mover-advantage"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-ecosystem.html"
+  },
+  {
+   "id": "bz-000455",
+   "area": "strategy",
+   "kind": "application",
+   "topic": "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition",
+   "t": "Michelin's PAX run-flat tire illustrates Ron Adner's adoption-chain risk: its success depended on independent repair garages choosing to change their equipment and practices.",
+   "f": "Michelin's PAX run-flat tire illustrates Ron Adner's co-innovation risk: its success depended on independent repair garages choosing to change their equipment and practices.",
+   "x": "Adner separates co-innovation risk, whether partners can build what is needed, from adoption-chain risk, whether intermediaries will choose to adopt. Garages deciding whether to re-equip is a question of adoption, so the PAX case is the adoption-chain kind.",
+   "concepts": [
+    "kt:business-ecosystem"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-ecosystem.html"
+  },
+  {
+   "id": "bz-000456",
+   "area": "business-ethics-and-governance",
+   "kind": "origin",
+   "topic": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
+   "t": "Archie Carroll dates the modern era of corporate social responsibility to Howard Bowen's 1953 book Social Responsibilities of the Businessman.",
+   "f": "Archie Carroll dates the modern era of corporate social responsibility to Theodore Levitt's 1953 book Social Responsibilities of the Businessman.",
+   "x": "Bowen's 1953 book is credited with launching the modern CSR concept. Levitt was an early opponent, arguing in 1958 that a firm's main duty is profit, and Friedman objected in 1962.",
+   "concepts": [
+    "kt:corporate-social-responsibility",
+    "kt:howard-bowen",
+    "kt:social-responsibilities-of-the-businessman"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-social-responsibility.html"
+  },
+  {
+   "id": "bz-000457",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
+   "t": "In Carroll's CSR pyramid, society requires economic and legal responsibilities, expects ethical ones, and desires philanthropic ones.",
+   "f": "In Carroll's CSR pyramid, society requires economic and legal responsibilities, expects philanthropic ones, and desires ethical ones.",
+   "x": "That is why a firm giving little to charity is not usually called unethical, while one ignoring ethical expectations is. Carroll meant the four layers to be met together, with ethics running through all of them, including how profits are earned.",
+   "concepts": [
+    "kt:corporate-social-responsibility",
+    "kt:pyramid-of-corporate-social-responsibility"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-social-responsibility.html"
+  },
+  {
+   "id": "bz-000458",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
+   "t": "Orlitzky, Schmidt and Rynes's 2003 meta-analysis of 52 studies found social performance positively linked to financial performance, more strongly for accounting-based than market-based returns.",
+   "f": "Orlitzky, Schmidt and Rynes's 2003 meta-analysis of 52 studies found social performance positively linked to financial performance, more strongly for market-based than accounting-based returns.",
+   "x": "The study supports a business case for CSR, with reputation as a key mediator. The size of the payoff is debated, because the average correlation shrinks markedly once survey- and reputation-based measures, which may carry halo effects, are excluded.",
+   "concepts": [
+    "kt:corporate-social-responsibility"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/corporate-social-responsibility.html"
+  },
+  {
+   "id": "bz-000459",
+   "area": "consulting-and-problem-solving",
+   "kind": "application",
+   "topic": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",
+   "t": "In Ohno's stopped-machine example, the fix that removes the root cause is fitting a strainer to keep out metal scrap, not replacing the fuse or the pump.",
+   "f": "In Ohno's stopped-machine example, the fix that removes the root cause is replacing the worn pump shaft, not fitting a strainer to keep out metal scrap.",
+   "x": "The chain runs from a blown fuse to a dry bearing, a weak lubrication pump, a worn shaft and finally the missing strainer that let scrap in. Replacing the fuse, pump or shaft treats symptoms, so the failure would recur; only the strainer stops it.",
+   "concepts": [
+    "kt:five-whys",
+    "kt:taiichi-ohno",
+    "kt:toyota-production-system"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/five-whys.html"
+  },
+  {
+   "id": "bz-000460",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",
+   "t": "Eric Ries's proportional investment makes a small fix at each of the five levels of a why-chain, adding a further increment every time the problem recurs.",
+   "f": "Eric Ries's proportional investment makes one large fix at the deepest level of a why-chain, launching a full prevention programme the first time a problem occurs.",
+   "x": "Ries wanted a middle path between ignoring an incident and starting a months-long prevention effort. Spreading small fixes across every level, and investing more only when a problem keeps coming back, matches the effort to how costly the problem proves to be.",
+   "concepts": [
+    "kt:five-whys",
+    "kt:lean-startup"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/five-whys.html"
+  },
+  {
+   "id": "bz-000461",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",
+   "t": "Alan Card's 2016 critique argues the five whys wrongly implies the most distal cause is the best place to intervene, when a proximate control may prevent recurrence better.",
+   "f": "Alan Card's 2016 critique argues the five whys wrongly implies the most proximate cause is the best place to intervene, when a distal control may prevent recurrence better.",
+   "x": "A why-chain ends at the cause furthest back, but a nearby control such as a forcing function can be more reliable. Card also faults the method for following a single causal path and assuming a single root cause, and suggests keeping it only as a teaching device in patient safety.",
+   "concepts": [
+    "kt:five-whys",
+    "kt:root-cause-analysis",
+    "kt:patient-safety"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/five-whys.html"
+  },
+  {
+   "id": "bz-000462",
+   "area": "leadership-and-management",
+   "kind": "origin",
+   "topic": "Strategy Execution",
+   "t": "Lawrence Hrebiniak argued in Making Strategy Work (2005) that executing strategy is harder than making it, and that MBA programmes taught planning but not execution.",
+   "f": "Robert Kaplan argued in Making Strategy Work (2005) that executing strategy is harder than making it, and that MBA programmes taught planning but not execution.",
+   "x": "Wharton's Hrebiniak helped make execution a topic of its own because formulation dominated the literature and curricula. Kaplan, with David Norton, wrote The Execution Premium (2008), which proposes a closed-loop execution system.",
+   "concepts": [
+    "kt:strategy-execution"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategy-execution.html"
+  },
+  {
+   "id": "bz-000463",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Strategy Execution",
+   "t": "Kaplan and Norton advise an Office of Strategy Management that holds strategy reviews separately from operational meetings, so strategy is not crowded out by firefighting.",
+   "f": "Kaplan and Norton advise an Office of Strategy Management that folds strategy reviews into operational meetings, so strategy stays tied to daily firefighting.",
+   "x": "In The Execution Premium, strategy reviews are one stage of a six-stage loop running from developing the strategy to testing and adapting it. Keeping them apart from operational meetings protects time for strategic questions that urgent problems would otherwise push aside.",
+   "concepts": [
+    "kt:strategy-execution",
+    "kt:balanced-scorecard"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategy-execution.html"
+  },
+  {
+   "id": "bz-000464",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Strategy Execution",
+   "t": "In Hrebiniak's surveys of more than 400 managers, inability to manage change and overcome resistance ranked as the top obstacle to executing strategy.",
+   "f": "In Hrebiniak's surveys of more than 400 managers, conflicts with the power structure ranked as the top obstacle to executing strategy, ahead of managing change.",
+   "x": "Both survey groups put managing change and resistance first; power-structure conflicts, poor information sharing, unclear accountability and vague strategy followed. This is why execution is said to depend on change management.",
+   "concepts": [
+    "kt:strategy-execution",
+    "kt:change-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/strategy-execution.html"
+  },
+  {
+   "id": "bz-000465",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure",
+   "t": "Britannica puts the efficient output of one car assembly plant at roughly 200,000 to 400,000 vehicles a year, a scale requirement that acts as a barrier to entry.",
+   "f": "Britannica puts the efficient output of one car assembly plant at roughly 20,000 to 40,000 vehicles a year, a scale requirement that acts as a barrier to entry.",
+   "x": "Because a single plant must make hundreds of thousands of cars a year to reach low unit cost, an entrant needs heavy capital and a large share of demand. That is why national car output is concentrated in a few very large firms and small independents have nearly vanished.",
+   "concepts": [
+    "kt:automotive-industry",
+    "kt:economies-of-scale",
+    "kt:barriers-to-entry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/automotive-industry.html"
+  },
+  {
+   "id": "bz-000466",
+   "area": "managerial-economics",
+   "kind": "evidence",
+   "topic": "Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure",
+   "t": "Grieco, Murry and Yurukoglu found that from 1980 to 2018 U.S. car market concentration and market power fell substantially, and consumers captured a growing share of surplus.",
+   "f": "Grieco, Murry and Yurukoglu found that from 1980 to 2018 U.S. car market concentration and market power rose substantially, and producers captured a growing share of surplus.",
+   "x": "Prices rose over the period, but better quality and lower marginal costs meant buyers gained more than firms. The authors link the decline in market power to import competition, the growth of SUVs and changing vehicle features, a warning against reading rising prices as rising market power.",
+   "concepts": [
+    "kt:automotive-industry",
+    "kt:industrial-organization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/automotive-industry.html"
+  },
+  {
+   "id": "bz-000467",
+   "area": "managerial-economics",
+   "kind": "figure",
+   "topic": "Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure",
+   "t": "OICA data show China produced 34.53 million of the world's 96.4 million vehicles in 2025, far ahead of the United States at 10.24 million.",
+   "f": "OICA data show the United States produced 34.53 million of the world's 96.4 million vehicles in 2025, far ahead of China at 10.24 million.",
+   "x": "China makes more than a third of the world's vehicles, over three times U.S. output, with Japan and India next. World production rose 3.9% in 2025, and China's lead is even larger in electric cars.",
+   "concepts": [
+    "kt:automotive-industry"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/automotive-industry.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000468",
+   "area": "accounting-and-reporting",
+   "kind": "origin",
+   "topic": "EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization",
+   "t": "EBITDA spread during the leveraged-buyout boom of the 1980s, when sponsors argued that depreciation and amortization are non-cash and so free to pay lenders.",
+   "f": "EBITDA spread during the conglomerate merger wave of the 1960s, when acquirers argued that depreciation and amortization are non-cash and so free to pay lenders.",
+   "x": "Before the 1980s credit analysts mostly judged debt capacity on EBIT; buyout sponsors popularised EBITDA because adding back non-cash charges made more cash look available for heavy debt service. Its use then widened to acquisitions with goodwill, distressed firms and eventually companies of every kind.",
+   "concepts": [
+    "kt:ebitda",
+    "kt:leveraged-buyout"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ebitda.html"
+  },
+  {
+   "id": "bz-000469",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization",
+   "t": "SEC staff require a company presenting EBITDA as a performance measure to reconcile it to net income rather than to operating income.",
+   "f": "SEC staff require a company presenting EBITDA as a performance measure to reconcile it to operating income rather than to net income.",
+   "x": "EBITDA adds back interest and income taxes, items that sit below operating income, so net income is the GAAP figure it is actually built from. The same guidance bars EBITDA per share and requires a distinct label, such as Adjusted EBITDA, for any variant computed differently.",
+   "concepts": [
+    "kt:ebitda",
+    "kt:regulation-g",
+    "kt:income-statement"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ebitda.html"
+  },
+  {
+   "id": "bz-000470",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization",
+   "t": "In nearly 4,000 US syndicated loans from 2000 to 2016, more permissive covenant EBITDA definitions went with fewer covenant violations and higher credit spreads.",
+   "f": "In nearly 4,000 US syndicated loans from 2000 to 2016, more permissive covenant EBITDA definitions went with more covenant violations and lower credit spreads.",
+   "x": "Generous add-backs inflate covenant EBITDA, so borrowers trip covenants less often, while lenders price in the weaker protection with spreads about 43 basis points higher per standard deviation of permissiveness. Badawi and co-authors also found definitions grew looser over time, especially in private-equity-sponsored deals.",
+   "concepts": [
+    "kt:ebitda",
+    "kt:debt-covenant"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/ebitda.html"
+  },
+  {
+   "id": "bz-000471",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Blockbuster: Rise and Fall of the Video Rental Chain",
+   "t": "Former Blockbuster CEO John Antioco disputed in 2022 the story that the chain spurned buying Netflix for $50 million around 2002, saying serious merger talks came only in early 2007.",
+   "f": "Netflix co-founder Reed Hastings disputed in 2022 the story that Blockbuster spurned buying Netflix for $50 million around 2002, saying serious merger talks came only in early 2007.",
+   "x": "Hastings is the one who tells the $50 million story; Antioco says no serious talks happened then and that discussions came after Total Access had taken share from Netflix. The dispute complicates the simple tale that Blockbuster just missed the internet.",
+   "concepts": [
+    "kt:blockbuster-decline",
+    "kt:netflix"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/blockbuster-decline.html"
+  },
+  {
+   "id": "bz-000472",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Blockbuster: Rise and Fall of the Video Rental Chain",
+   "t": "Blockbuster dropped late fees at its U.S. company stores from January 1, 2005, giving up an estimated $400-450 million of revenue for 2005.",
+   "f": "Blockbuster dropped late fees at its U.S. company stores from January 1, 2005, giving up an estimated $40-45 million of revenue for 2005.",
+   "x": "Late fees were a major profit stream, also worth an estimated $250-300 million of 2005 operating income, which shows how costly it was to answer Netflix's no-late-fee subscription. Blockbuster budgeted about $50 million just to launch the change.",
+   "concepts": [
+    "kt:blockbuster-decline"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/blockbuster-decline.html",
+   "asOf": "2005"
+  },
+  {
+   "id": "bz-000473",
+   "area": "business-history-and-cases",
+   "kind": "mechanism",
+   "topic": "Blockbuster: Rise and Fall of the Video Rental Chain",
+   "t": "Birger Wernerfelt uses Blockbuster and Netflix to argue an underdog wins when its model does not provoke imitation and the incumbent reacts slowly and invests less.",
+   "f": "Birger Wernerfelt uses Blockbuster and Netflix to argue an underdog wins when its model provokes fast imitation and the incumbent overinvests in copying it.",
+   "x": "Netflix's store-free, mail-based subscription model was awkward for a chain built on stores and new releases to copy, so Blockbuster moved late and cautiously. Wernerfelt's advice to incumbents is to test alternative models in small parts of the business.",
+   "concepts": [
+    "kt:blockbuster-decline",
+    "kt:netflix",
+    "kt:disruptive-innovation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/blockbuster-decline.html"
+  },
+  {
+   "id": "bz-000474",
+   "area": "business-models",
+   "kind": "mechanism",
+   "topic": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
+   "t": "Ben Thompson's aggregation theory builds on the conservation of attractive profits: when one stage of a value chain is commoditized, profits migrate to an adjacent stage that stays integrated.",
+   "f": "Ben Thompson's aggregation theory builds on the conservation of attractive profits: when one stage of a value chain is commoditized, profits migrate into that stage as its volume grows.",
+   "x": "In Thompson's account the internet modularized supply, so profit moved to firms that integrated the user relationship with that commoditized supply. A commoditized stage loses pricing power, which is why profits flow away from it, not into it.",
+   "concepts": [
+    "kt:aggregation-theory",
+    "kt:ben-thompson",
+    "kt:conservation-of-attractive-profits"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/aggregation-theory.html"
+  },
+  {
+   "id": "bz-000475",
+   "area": "business-models",
+   "kind": "application",
+   "topic": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
+   "t": "In Thompson's grading, Netflix is a Level 1 aggregator that must buy its supply, while Google search is a Level 3 aggregator that gets its supply at no cost.",
+   "f": "In Thompson's grading, Google search is a Level 1 aggregator that must buy its supply, while Netflix is a Level 3 aggregator that gets its supply at no cost.",
+   "x": "Levels rank aggregators by what supply costs them: Netflix pays for programming, Uber and Airbnb (Level 2) pay to onboard and vet suppliers, and web pages come to Google free. Lower supply cost means a purer, more scalable aggregator.",
+   "concepts": [
+    "kt:aggregation-theory",
+    "kt:netflix",
+    "kt:google"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/aggregation-theory.html"
+  },
+  {
+   "id": "bz-000476",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
+   "t": "Thibault Schrepel argues antitrust should separate platforms such as Android from aggregators such as Google Search, as aggregators are more prone to exploitative conduct.",
+   "f": "Thibault Schrepel argues antitrust should separate platforms such as Google Search from aggregators such as Android, as aggregators are more prone to exploitative conduct.",
+   "x": "For Schrepel a platform is a base others build on, like Android, while an aggregator collects and sorts existing offerings for users, like Google Search. Because suppliers depend on reaching an aggregator's users, the two belong in different relevant markets and pose different harms.",
+   "concepts": [
+    "kt:aggregation-theory",
+    "kt:antitrust-law",
+    "kt:google"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/aggregation-theory.html"
+  },
+  {
+   "id": "bz-000477",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows",
+   "t": "John Burr Williams's The Theory of Investment Value (1938) argued that a stock is worth the present value of all the dividends it will ever pay.",
+   "f": "Irving Fisher's The Theory of Investment Value (1938) argued that a stock is worth the present value of all the dividends it will ever pay.",
+   "x": "Williams's dividend discount model is the ancestor of today's DCF models, which later swapped dividends for free cash flow to equity or to the firm. Fisher supplied the earlier present-value reasoning about interest that Williams built on, but the 1938 book is Williams's.",
+   "concepts": [
+    "kt:discounted-cash-flow",
+    "kt:john-burr-williams",
+    "kt:irving-fisher"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/discounted-cash-flow.html"
+  },
+  {
+   "id": "bz-000478",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows",
+   "t": "A firm-level DCF discounts free cash flow to the firm at the WACC, while an equity DCF discounts free cash flow to equity at the cost of equity.",
+   "f": "A firm-level DCF discounts free cash flow to the firm at the cost of equity, while an equity DCF discounts free cash flow to equity at the WACC.",
+   "x": "Cash flow to the firm is measured before debt payments and so belongs to all capital providers, which is why it takes the blended WACC; cash flow to equity is what remains after debt, so it takes the cost of equity. Done consistently, both routes reach the same equity value once debt is subtracted from firm value.",
+   "concepts": [
+    "kt:discounted-cash-flow",
+    "kt:free-cash-flow",
+    "kt:weighted-average-cost-of-capital"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/discounted-cash-flow.html"
+  },
+  {
+   "id": "bz-000479",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows",
+   "t": "Kaplan and Ruback found that discounting management's forecasts for 51 leveraged deals of 1983-1989 gave values within 10%, on average, of the prices paid.",
+   "f": "Kaplan and Ruback found that discounting management's forecasts for 51 leveraged deals of 1983-1989 gave values within 40%, on average, of the prices paid.",
+   "x": "Their study is the best-known test of DCF in practice: the cash-flow valuations came close to actual transaction prices and did at least as well as comparable-company and comparable-transaction multiples. A 40% average error would have made DCF far less credible than the evidence suggests.",
+   "concepts": [
+    "kt:discounted-cash-flow",
+    "kt:leveraged-buyout",
+    "kt:relative-valuation"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/discounted-cash-flow.html"
+  },
+  {
+   "id": "bz-000480",
+   "area": "government-contracting-and-public-sector",
+   "kind": "origin",
+   "topic": "Public Value: Mark Moore's Strategic Triangle for Public Managers",
+   "t": "Mark H. Moore of Harvard's Kennedy School set out the public value framework in Creating Public Value, published by Harvard University Press in 1995.",
+   "f": "Gerry Stoker of Harvard's Kennedy School set out the public value framework in Creating Public Value, published by Harvard University Press in 1995.",
+   "x": "Moore wrote the 1995 book that framed the public manager's job as creating value for citizens collectively, much as private managers create value for shareholders. Stoker came later, arguing in 2006 that public value management suits networked governance.",
+   "concepts": [
+    "kt:public-value",
+    "kt:mark-h-moore",
+    "kt:creating-public-value-1995"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-value.html"
+  },
+  {
+   "id": "bz-000481",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Public Value: Mark Moore's Strategic Triangle for Public Managers",
+   "t": "In Moore's strategic triangle, \"big hat and no cattle\" describes an agency that has political support but lacks the operational capacity to deliver.",
+   "f": "In Moore's strategic triangle, \"big hat and no cattle\" describes an agency that has the operational capacity to deliver but lacks political support.",
+   "x": "The triangle requires public value, legitimacy and support, and operational capacity to line up; the big hat is the backing from the authorizing environment and the missing cattle is the ability to produce results. Moore's other failure mode is funding that keeps flowing to activities that no longer create value.",
+   "concepts": [
+    "kt:public-value"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-value.html"
+  },
+  {
+   "id": "bz-000482",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Public Value: Mark Moore's Strategic Triangle for Public Managers",
+   "t": "Rhodes and Wanna (2009) questioned whether public value suits Westminster governments, with their strong ministers, tight accountability and disciplined party politics.",
+   "f": "Rhodes and Wanna (2009) questioned whether public value suits networked governance, with its many partners and its reliance on dialogue and exchange across sectors.",
+   "x": "Rhodes and Wanna worried that encouraging unelected managers to define public value could weaken democratic accountability under ministerial government. Networked governance is where supporters such as Stoker argued the approach fits best, so the false version flips critic and supporter.",
+   "concepts": [
+    "kt:public-value"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/public-value.html"
+  },
+  {
+   "id": "bz-000483",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
+   "t": "The adoption life cycle began in a 1957 Iowa State report in which sociologists George Beal and Joe Bohlen grouped farmers by how early they took up new practices.",
+   "f": "The adoption life cycle began in a 1957 study of early computer buyers in which George Beal and Joe Bohlen grouped firms by how early they took up new machines.",
+   "x": "The model came from agricultural extension research, not technology marketing; hybrid seed corn took about 13 years to reach most Iowa farmers. Everett Rogers generalized it in 1962, and Geoffrey Moore later adapted it to high-tech buyers.",
+   "concepts": [
+    "kt:technology-adoption-life-cycle",
+    "kt:george-m-beal",
+    "kt:joe-m-bohlen",
+    "kt:diffusion-of-innovations"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/technology-adoption-life-cycle.html"
+  },
+  {
+   "id": "bz-000484",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
+   "t": "Moore's way to cross the chasm is to dominate a single vertical niche with a complete solution, then knock down adjacent niches before a mass-market tornado.",
+   "f": "Moore's way to cross the chasm is to launch across the whole mass market at once with a basic product, then retreat to vertical niches once growth slows.",
+   "x": "Pragmatists buy only what peers already use, so a startup first wins one niche where a broken, mission-critical process makes buyers willing to try something unproven. Those references then help it win neighbouring niches, the bowling alley, before hypergrowth.",
+   "concepts": [
+    "kt:technology-adoption-life-cycle",
+    "kt:crossing-the-chasm",
+    "kt:segmentation-targeting-positioning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/technology-adoption-life-cycle.html"
+  },
+  {
+   "id": "bz-000485",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "evidence",
+   "topic": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
+   "t": "Chandrasekaran and Tellis found a sales saddle after takeoff across many products, but business and technological cycles explained it as well as or better than chasms in some categories.",
+   "f": "Chandrasekaran and Tellis found a sales saddle after takeoff across many products, and chasms between adopter segments explained it better than business cycles in every category.",
+   "x": "Across 148 product-country cases the saddle was real, starting around nine years after takeoff and cutting sales by about 29% at its trough. Yet a chasm was only one possible cause, so a post-launch slump should not automatically be read as one.",
+   "concepts": [
+    "kt:technology-adoption-life-cycle",
+    "kt:crossing-the-chasm"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/technology-adoption-life-cycle.html"
+  },
+  {
+   "id": "bz-000486",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
+   "t": "Richard Oliver's 1980 expectancy-disconfirmation model, tested on a flu inoculation programme, makes satisfaction depend on prior expectations and how far experience departs from them.",
+   "f": "Claes Fornell's 1996 expectancy-disconfirmation model, tested on a flu inoculation programme, makes satisfaction depend on prior expectations and how far experience departs from them.",
+   "x": "Oliver set out the model in the Journal of Marketing Research in 1980, so the same performance can delight one customer and disappoint another who expected more. Fornell's 1996 contribution was the American Customer Satisfaction Index, a measurement system, not this model.",
+   "concepts": [
+    "kt:customer-satisfaction"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-satisfaction.html"
+  },
+  {
+   "id": "bz-000487",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
+   "t": "Re-running the ACSI stock-return analysis, Jacobson and Mizik found significant mispricing only among computer and Internet firms, not a market-wide failure to price satisfaction.",
+   "f": "Re-running the ACSI stock-return analysis, Jacobson and Mizik found significant mispricing across nearly every sector, confirming a market-wide failure to price satisfaction.",
+   "x": "Fornell and colleagues had read their high-ACSI portfolio's excess returns as a market imperfection. Jacobson and Mizik traced the effect to a small group of high-satisfaction tech firms in that window, which weakens the claim against the efficient-market hypothesis.",
+   "concepts": [
+    "kt:customer-satisfaction",
+    "kt:american-customer-satisfaction-index",
+    "kt:efficient-market-hypothesis"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-satisfaction.html"
+  },
+  {
+   "id": "bz-000488",
+   "area": "marketing",
+   "kind": "definition",
+   "topic": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
+   "t": "Oliver argued in 1999 that satisfaction is a necessary step toward loyalty but an unreliable predictor of it, since many satisfied customers still defect.",
+   "f": "Oliver argued in 1999 that satisfaction is a reliable predictor of loyalty, since satisfied customers almost always buy again unless a rival undercuts them on price.",
+   "x": "Satisfaction is a judgment after consumption, while loyalty is a commitment to buy again. In Oliver's view satisfaction grows into loyalty only with extra ingredients such as personal commitment and social bonds, so a high score is no proof of retention.",
+   "concepts": [
+    "kt:customer-satisfaction",
+    "kt:customer-loyalty"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-satisfaction.html"
+  },
+  {
+   "id": "bz-000489",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
+   "t": "In ABC analysis, about 20% of stock items carry roughly 80% of inventory value, while about half of items account for only around 5% of value.",
+   "f": "In ABC analysis, about 20% of stock items carry roughly 80% of inventory value, while about 5% of items account for around half of value.",
+   "x": "ABC analysis applies the Pareto idea to stock: the few high-value A items get the closest monitoring and the most safety stock, and the many low-value C items get little attention. The point is to spend control effort where the money is.",
+   "concepts": [
+    "kt:inventory-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/inventory-management.html"
+  },
+  {
+   "id": "bz-000490",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
+   "t": "Chen, Frank and Wu found U.S. manufacturers with abnormally high inventories earned poor long-run stock returns, while the leanest firms earned only ordinary returns.",
+   "f": "Chen, Frank and Wu found U.S. manufacturers with abnormally high inventories earned poor long-run stock returns, while the leanest firms earned abnormally high returns.",
+   "x": "Bloated stock was penalized, but going leanest did not earn a premium, which suggests cutting inventory pays only up to a point. The same 1981 to 2000 study found holding periods fell mostly through less work in process.",
+   "concepts": [
+    "kt:inventory-management",
+    "kt:working-capital"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/inventory-management.html"
+  },
+  {
+   "id": "bz-000491",
+   "area": "operations-and-supply-chain",
+   "kind": "figure",
+   "topic": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
+   "t": "In the third quarter of fiscal 2001, Cisco recorded a $2.25 billion excess inventory charge after a sudden drop in demand left stock above its forecast needs.",
+   "f": "In the third quarter of fiscal 2001, Cisco recorded a $2.25 billion excess inventory charge after a sudden surge in demand left stock below its forecast needs.",
+   "x": "Demand collapsed faster than Cisco's forecasts anticipated, so the inventory it had built was worth less than its book value; a $187 million benefit the next quarter only partly offset the charge. It shows how much inventory decisions rest on forecast quality.",
+   "concepts": [
+    "kt:inventory-management",
+    "kt:cisco-systems",
+    "kt:demand-forecasting"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/inventory-management.html",
+   "asOf": "FY2001"
+  },
+  {
+   "id": "bz-000492",
+   "area": "organizational-behavior",
+   "kind": "definition",
+   "topic": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",
+   "t": "Schein held that basic underlying assumptions, not espoused values or visible artifacts, are the unconscious core of an organization's culture.",
+   "f": "Schein held that espoused values, not basic underlying assumptions or visible artifacts, are the unconscious core of an organization's culture.",
+   "x": "Espoused values are what members say they believe and can be surveyed; underlying assumptions are taken for granted and need deep joint inquiry to uncover. A gap between the two explains why a firm's stated values can differ from its behavior, as at Enron.",
+   "concepts": [
+    "kt:organizational-culture",
+    "kt:edgar-schein"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-culture.html"
+  },
+  {
+   "id": "bz-000493",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",
+   "t": "Hartnell, Ou and Kinicki's 2011 meta-analysis linked clan cultures most closely to job satisfaction and commitment, and market cultures to profit.",
+   "f": "Hartnell, Ou and Kinicki's 2011 meta-analysis linked market cultures most closely to job satisfaction and commitment, and clan cultures to profit.",
+   "x": "The meta-analysis of 84 studies found clan, adhocracy and market cultures all tied to better outcomes, but clan cultures mattered most for employee attitudes and market cultures for profit. It also found clan and market traits correlated positively, though the Competing Values Framework treats them as opposites.",
+   "concepts": [
+    "kt:organizational-culture",
+    "kt:competing-values-framework"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-culture.html"
+  },
+  {
+   "id": "bz-000494",
+   "area": "organizational-behavior",
+   "kind": "application",
+   "topic": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",
+   "t": "Cameron and Quinn attribute the turnaround of GM's Fremont plant as NUMMI, with Toyota, mainly to changed culture rather than new technology.",
+   "f": "Cameron and Quinn attribute the turnaround of GM's Fremont plant as NUMMI, with Toyota, mainly to new technology rather than changed culture.",
+   "x": "Reopened as a GM-Toyota joint venture, the plant saw far fewer grievances, higher output with fewer workers and better quality. Cameron and Quinn use it as the classic case that culture change, not equipment, drove the improvement.",
+   "concepts": [
+    "kt:organizational-culture"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/organizational-culture.html"
+  },
+  {
+   "id": "bz-000495",
+   "area": "strategy",
+   "kind": "origin",
+   "topic": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
+   "t": "Birger Wernerfelt named the resource-based view in a 1984 Strategic Management Journal article, recasting entry barriers as resource position barriers.",
+   "f": "Jay Barney named the resource-based view in a 1984 Strategic Management Journal article, recasting entry barriers as resource position barriers.",
+   "x": "Wernerfelt coined the view in 1984 by turning product-market tools, such as entry barriers and growth-share matrices, toward resources. Barney came later, in a 1991 Journal of Management article that made it a testable theory of sustained advantage.",
+   "concepts": [
+    "kt:resource-based-view",
+    "kt:birger-wernerfelt",
+    "kt:a-resource-based-view-of-the-firm-1984",
+    "kt:barriers-to-entry"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/resource-based-view.html"
+  },
+  {
+   "id": "bz-000496",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
+   "t": "A 2008 meta-analysis of 125 studies estimated a 0.22 correlation between strategic resources and performance, rising to 0.29 when resources met the RBV's criteria.",
+   "f": "A 2008 meta-analysis of 125 studies estimated a 0.22 correlation between strategic resources and performance, falling to 0.09 when resources met the RBV's criteria.",
+   "x": "Crook, Ketchen, Combs and Todd pooled studies of over 29,000 organizations and found the link strengthened, to 0.29, when resources truly met the theory's tests and performance was measured cleanly. A weaker link for qualifying resources would cut against the theory rather than support it.",
+   "concepts": [
+    "kt:resource-based-view"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/resource-based-view.html"
+  },
+  {
+   "id": "bz-000497",
+   "area": "strategy",
+   "kind": "application",
+   "topic": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
+   "t": "In a VRIO analysis of Southwest Airlines, its culture supports a sustained advantage, while its on-time arrival capability is imitable and gives only a temporary edge.",
+   "f": "In a VRIO analysis of Southwest Airlines, its on-time arrival capability supports a sustained advantage, while its culture is imitable and gives only a temporary edge.",
+   "x": "Southwest's culture passes every VRIO test because its history makes it hard to replicate. On-time performance is valuable and rare, but rivals can copy it, so it fails the imitability test and yields only a temporary advantage.",
+   "concepts": [
+    "kt:resource-based-view",
+    "kt:vrio-framework",
+    "kt:southwest-airlines"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/resource-based-view.html"
+  },
+  {
+   "id": "bz-000498",
+   "area": "business-ethics-and-governance",
+   "kind": "evidence",
+   "topic": "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay",
+   "t": "Bebchuk and Fried's managerial power view holds that boards cannot bargain at arm's length with CEOs, so executives favor pay that is less visible and less tied to performance.",
+   "f": "Bebchuk and Fried's managerial power view holds that boards cannot bargain at arm's length with CEOs, so executives favor pay that is more visible and more tied to performance.",
+   "x": "If executives shape their own pay, they prefer less visible forms such as stealth compensation, executive loans and large exit payments. This rival to efficient contracting explains pay features that are puzzling if boards simply maximize shareholder value.",
+   "concepts": [
+    "kt:executive-compensation",
+    "kt:board-of-directors"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/executive-compensation.html"
+  },
+  {
+   "id": "bz-000499",
+   "area": "business-ethics-and-governance",
+   "kind": "mechanism",
+   "topic": "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay",
+   "t": "Under SEC rules adopted in 2011 under Dodd-Frank, companies hold an advisory say-on-pay vote at least once every three years, and vote on its frequency at least every six.",
+   "f": "Under SEC rules adopted in 2011 under Dodd-Frank, companies hold an advisory say-on-pay vote at least once every six years, and vote on its frequency at least every three.",
+   "x": "The pay vote comes at least every three years and the frequency vote at least every six, with a separate advisory vote on merger golden parachutes. All three votes are non-binding, so they work through pressure on the board.",
+   "concepts": [
+    "kt:executive-compensation",
+    "kt:say-on-pay",
+    "kt:dodd-frank-act"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/executive-compensation.html"
+  },
+  {
+   "id": "bz-000500",
+   "area": "business-ethics-and-governance",
+   "kind": "application",
+   "topic": "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay",
+   "t": "When Citigroup became the first Wall Street bank to lose a say-on-pay vote in April 2012, the result did not oblige it to change pay, but its board said it would consult shareholders.",
+   "f": "When Citigroup became the first Wall Street bank to lose a say-on-pay vote in April 2012, the result legally obliged it to change pay, so its board cut the CEO's package.",
+   "x": "Say-on-pay votes are advisory, so the Citigroup defeat over Vikram Pandit's pay, including a retention award without financial metrics, carried no legal force. It shows these votes work through shareholder pressure and board engagement rather than as binding orders.",
+   "concepts": [
+    "kt:executive-compensation",
+    "kt:say-on-pay"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/executive-compensation.html"
+  },
+  {
+   "id": "bz-000501",
+   "area": "managerial-economics",
+   "kind": "origin",
+   "topic": "Contract Theory: How Incentives and Ownership Shape Agreements",
+   "t": "Grossman and Hart's 1986 Journal of Political Economy paper defined ownership as the purchase of residual rights of control over whatever a contract leaves out.",
+   "f": "Grossman and Hart's 1986 Journal of Political Economy paper defined ownership as the purchase of specific rights of control that a contract spells out in advance.",
+   "x": "Because no contract can foresee every contingency, Grossman and Hart argued that what matters is who decides in the gaps, and owning an asset means holding those residual rights. Specific rights are the ones written into the contract, which is exactly what ownership adds to.",
+   "concepts": [
+    "kt:contract-theory",
+    "kt:oliver-hart",
+    "kt:theory-of-the-firm"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contract-theory.html"
+  },
+  {
+   "id": "bz-000502",
+   "area": "managerial-economics",
+   "kind": "mechanism",
+   "topic": "Contract Theory: How Incentives and Ownership Shape Agreements",
+   "t": "Holmström and Milgrom's multitask model implies that easy-to-measure and hard-to-measure work should go to different people, with one responsible agent per task.",
+   "f": "Holmström and Milgrom's multitask model implies that easy-to-measure and hard-to-measure work should go to the same person, so measured output disciplines the rest.",
+   "x": "When one agent does both, incentive pay on the measurable task pulls limited attention away from the unmeasured one, so separating them lets each job carry incentives that suit it. The same logic explains when firms use employees rather than independent contractors.",
+   "concepts": [
+    "kt:contract-theory",
+    "kt:bengt-holmstrom",
+    "kt:principal-agent-problem"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contract-theory.html"
+  },
+  {
+   "id": "bz-000503",
+   "area": "managerial-economics",
+   "kind": "application",
+   "topic": "Contract Theory: How Incentives and Ownership Shape Agreements",
+   "t": "Hart, Shleifer and Vishny (1997) concluded that the case against privatising prisons is strongest for maximum-security facilities.",
+   "f": "Hart, Shleifer and Vishny (1997) concluded that the case against privatising prisons is strongest for minimum-security facilities.",
+   "x": "A private operator holds residual control and keeps its savings, so it cuts costs harder than a public manager, but it may also cut quality the contract cannot specify, such as restraint in the use of force. That non-contractible quality matters most in maximum-security settings.",
+   "concepts": [
+    "kt:contract-theory",
+    "kt:prison-privatization"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/contract-theory.html"
+  },
+  {
+   "id": "bz-000504",
+   "area": "consulting-and-problem-solving",
+   "kind": "origin",
+   "topic": "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis",
+   "t": "Kepner and Tregoe built their method after studying decision breakdowns at the U.S. Air Force's Strategic Air Command in the late 1950s.",
+   "f": "Kepner and Tregoe built their method after studying decision breakdowns at NASA mission control during the Apollo program in the 1960s.",
+   "x": "At Strategic Air Command they concluded good decisions depended more on a disciplined sequence of reasoning than on rank or experience, then codified effective managers' habits; they founded their firm in 1958. NASA mission control used the processes later, in the Apollo era.",
+   "concepts": [
+    "kt:kepner-tregoe-method",
+    "kt:charles-kepner",
+    "kt:benjamin-tregoe"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kepner-tregoe-method.html"
+  },
+  {
+   "id": "bz-000505",
+   "area": "consulting-and-problem-solving",
+   "kind": "mechanism",
+   "topic": "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis",
+   "t": "In Kepner-Tregoe Decision Analysis, an alternative failing any MUST objective is dropped, while WANT objectives are weighted and used to score the survivors.",
+   "f": "In Kepner-Tregoe Decision Analysis, an alternative failing any WANT objective is dropped, while MUST objectives are weighted and used to score the survivors.",
+   "x": "MUSTs are mandatory, measurable screens, so they eliminate rather than score. WANTs carry importance weights, typically 1 to 10, and the surviving options' weighted scores are summed to reach a tentative choice before its risks are assessed.",
+   "concepts": [
+    "kt:kepner-tregoe-method",
+    "kt:decision-making"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kepner-tregoe-method.html"
+  },
+  {
+   "id": "bz-000506",
+   "area": "consulting-and-problem-solving",
+   "kind": "evidence",
+   "topic": "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis",
+   "t": "James Guyot argued in 1978 that evaluations of Kepner-Tregoe training leaned on participants' self-reports, which reflect intentions more than actual behaviour.",
+   "f": "James Guyot argued in 1978 that evaluations of Kepner-Tregoe training leaned on observed job behaviour, which reflects actual practice more than intentions.",
+   "x": "Writing in California Management Review, Guyot doubted that packaged programs had shown benefits large enough to matter. The 1963 USDA study illustrates his point: its gains came from small-sample, self-reported questionnaires.",
+   "concepts": [
+    "kt:kepner-tregoe-method"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/kepner-tregoe-method.html"
+  },
+  {
+   "id": "bz-000507",
+   "area": "leadership-and-management",
+   "kind": "mechanism",
+   "topic": "Leadership: Influencing People Toward Shared Goals",
+   "t": "In his 1990 HBR article What Leaders Really Do, John Kotter cast management as coping with complexity and leadership as coping with change.",
+   "f": "In his 1990 HBR article What Leaders Really Do, John Kotter cast management as coping with change and leadership as coping with complexity.",
+   "x": "Kotter paired the processes: planning and budgeting versus setting direction, organizing and staffing versus aligning people, controlling versus motivating. Management brings order to complexity, leadership moves an organization through change, and firms need both.",
+   "concepts": [
+    "kt:leadership",
+    "kt:management",
+    "kt:change-management"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leadership.html"
+  },
+  {
+   "id": "bz-000508",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Leadership: Influencing People Toward Shared Goals",
+   "t": "Judge and colleagues' 2002 meta-analysis found extraversion the most consistent Big Five correlate of leadership (.31), ahead of conscientiousness (.28).",
+   "f": "Judge and colleagues' 2002 meta-analysis found conscientiousness the most consistent Big Five correlate of leadership (.31), ahead of extraversion (.28).",
+   "x": "Pooling 222 correlations from 73 samples, the study revived trait research: extraversion held up across settings and for both leader emergence and effectiveness. Conscientiousness came second, then openness and low neuroticism, with a multiple correlation of .48 for all five.",
+   "concepts": [
+    "kt:leadership"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leadership.html"
+  },
+  {
+   "id": "bz-000509",
+   "area": "leadership-and-management",
+   "kind": "evidence",
+   "topic": "Leadership: Influencing People Toward Shared Goals",
+   "t": "Meindl, Ehrlich and Dukerich's 1985 romance-of-leadership thesis holds that scholars, media and the public over-credit leaders for organizational success and failure.",
+   "f": "Meindl, Ehrlich and Dukerich's 1985 romance-of-leadership thesis holds that scholars, media and the public under-credit leaders for organizational success and failure.",
+   "x": "The thesis says leadership offers a reassuring but simplified explanation of complex events, so people attribute too much to leaders. This critique later seeded shared, distributed and follower-centred theories of leadership.",
+   "concepts": [
+    "kt:leadership"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/leadership.html"
+  },
+  {
+   "id": "bz-000510",
+   "area": "accounting-and-reporting",
+   "kind": "mechanism",
+   "topic": "Working Capital: Current Assets Minus Current Liabilities",
+   "t": "The cash conversion cycle adds the inventory conversion period to the receivables collection period and subtracts the payables deferral period.",
+   "f": "The cash conversion cycle adds the inventory conversion period to the payables deferral period and subtracts the receivables collection period.",
+   "x": "The cycle counts the days cash is tied up in operations: money is locked in inventory and then in receivables, while supplier credit covers part of that time, so payables come off. Paying suppliers more slowly shortens the cycle; collecting from customers more slowly lengthens it.",
+   "concepts": [
+    "kt:working-capital",
+    "kt:cash-conversion-cycle",
+    "kt:trade-credit"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/working-capital.html"
+  },
+  {
+   "id": "bz-000511",
+   "area": "accounting-and-reporting",
+   "kind": "evidence",
+   "topic": "Working Capital: Current Assets Minus Current Liabilities",
+   "t": "Marc Deloof's study of 1,009 large Belgian firms in 1992-1996 found that less profitable firms took longer to pay their suppliers.",
+   "f": "Marc Deloof's study of 1,009 large Belgian firms in 1992-1996 found that more profitable firms took longer to pay their suppliers.",
+   "x": "Deloof also found firms could lift profitability by cutting receivable and inventory days, but long payables periods tracked weaker performance. That suggests slow supplier payment is often a symptom of financial strain rather than a smart working capital strategy.",
+   "concepts": [
+    "kt:working-capital",
+    "kt:trade-credit",
+    "kt:cash-conversion-cycle"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/working-capital.html"
+  },
+  {
+   "id": "bz-000512",
+   "area": "accounting-and-reporting",
+   "kind": "application",
+   "topic": "Working Capital: Current Assets Minus Current Liabilities",
+   "t": "In the decade before its 2008 bankruptcy, Circuit City had a stronger average current ratio than Best Buy but a much longer cash conversion cycle.",
+   "f": "In the decade before its 2008 bankruptcy, Circuit City had a stronger average current ratio than Best Buy and a much shorter cash conversion cycle.",
+   "x": "Cagle, Campbell and Jones used the comparison to show that static ratios can mislead: Circuit City looked more liquid on its balance sheet, yet its cash stayed tied up in operations far longer than Best Buy's. They recommend reading the cycle alongside the current and quick ratios rather than relying on either alone.",
+   "concepts": [
+    "kt:working-capital",
+    "kt:current-ratio",
+    "kt:cash-conversion-cycle"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/working-capital.html"
+  },
+  {
+   "id": "bz-000513",
+   "area": "business-history-and-cases",
+   "kind": "application",
+   "topic": "Toyota: From Automatic Looms to the World's Largest Automaker",
+   "t": "Researchers credit NUMMI's turnaround less to copying Japan than to a hybrid culture of job security, flat wages and a gradual rollout of Toyota's system.",
+   "f": "Researchers credit NUMMI's turnaround less to a hybrid culture of job security and flat wages than to replacing GM's former workforce with new hires.",
+   "x": "Toyota ran the reopened Fremont plant largely with GM's old workforce, yet reached Toyota's quality level by 1987. The researchers point to a no-layoff policy, a flat wage structure, interdependence built into the production system and a deliberately gradual rollout.",
+   "concepts": [
+    "kt:toyota-motor-corporation",
+    "kt:general-motors",
+    "kt:organizational-learning"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-motor-corporation.html"
+  },
+  {
+   "id": "bz-000514",
+   "area": "business-history-and-cases",
+   "kind": "evidence",
+   "topic": "Toyota: From Automatic Looms to the World's Largest Automaker",
+   "t": "Takahiro Fujimoto argued Toyota's 2010 recall defects were mainly design-quality problems, so they did not discredit the Toyota Production System itself.",
+   "f": "Takahiro Fujimoto argued Toyota's 2010 recall defects were mainly manufacturing-quality problems, so they discredited the Toyota Production System itself.",
+   "x": "Fujimoto traced the problems to Toyota taking on more lines, global models and complex vehicles than its capabilities could handle, and to managers drifting from the Toyota Way. Because the faults lay in design rather than on the shop floor, the production system was not the culprit.",
+   "concepts": [
+    "kt:toyota-motor-corporation",
+    "kt:toyota-production-system"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-motor-corporation.html"
+  },
+  {
+   "id": "bz-000515",
+   "area": "business-history-and-cases",
+   "kind": "figure",
+   "topic": "Toyota: From Automatic Looms to the World's Largest Automaker",
+   "t": "In 2025 the Toyota group sold a record 11.3 million vehicles, staying the world's top-selling automaker for a sixth consecutive year.",
+   "f": "In 2025 the Toyota group sold a record 11.3 million vehicles, regaining the title of world's top-selling automaker from Volkswagen Group.",
+   "x": "The calendar-2025 group total counts Daihatsu and Hino and put Toyota well ahead of Volkswagen Group's just under 9 million. Toyota first passed General Motors as the largest automaker in 2008, and by 2025 it had led for six straight years.",
+   "concepts": [
+    "kt:toyota-motor-corporation",
+    "kt:volkswagen-group"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/toyota-motor-corporation.html",
+   "asOf": "2025"
+  },
+  {
+   "id": "bz-000516",
+   "area": "operations-and-supply-chain",
+   "kind": "mechanism",
+   "topic": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
+   "t": "In just-in-time, takt time sets the pace of work to the rate of customer demand, while production leveling (heijunka) keeps the load on each process smooth.",
+   "f": "In just-in-time, takt time sets the pace of work to the full capacity of the machines, while production leveling (heijunka) keeps the load on each process smooth.",
+   "x": "JIT builds to the pace of sales, so takt time is derived from demand, not from how fast equipment can run; running to capacity would just pile up inventory. Heijunka is the foundation under pull, flow and takt because it evens out the demand each step sees.",
+   "concepts": [
+    "kt:just-in-time",
+    "kt:toyota-production-system"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/just-in-time.html"
+  },
+  {
+   "id": "bz-000517",
+   "area": "operations-and-supply-chain",
+   "kind": "evidence",
+   "topic": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
+   "t": "Ortiz's 2022 Federal Reserve paper estimated JIT adds about 1.3% to firm value but makes output contract about 15% more after a large unexpected supply shock.",
+   "f": "Ortiz's 2022 Federal Reserve paper estimated JIT adds about 15% to firm value but makes output contract about 1.3% more after a large unexpected supply shock.",
+   "x": "The gain from leaner inventory is modest while the downside in a big supply shock is severe, because JIT firms either run out of materials or scramble to stockpile. The result captures JIT's core trade of resilience for efficiency.",
+   "concepts": [
+    "kt:just-in-time",
+    "kt:inventory-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/just-in-time.html"
+  },
+  {
+   "id": "bz-000518",
+   "area": "operations-and-supply-chain",
+   "kind": "application",
+   "topic": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
+   "t": "After the 2011 earthquake, Toyota asked suppliers to hold two to six months of semiconductors, which helped it keep building cars in the 2021 chip shortage.",
+   "f": "After the 2011 earthquake, Toyota asked suppliers to hold two to six days of semiconductors, which left it idling plants in the 2021 chip shortage.",
+   "x": "Toyota flagged about 500 parts and materials as needing secure supply and kept strategic stock of long-lead chips. Mature JIT users buffer single-source, long-lead items rather than applying minimal inventory everywhere, which is why Toyota kept running while rivals idled.",
+   "concepts": [
+    "kt:just-in-time",
+    "kt:toyota-motor-corporation"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/just-in-time.html"
+  },
+  {
+   "id": "bz-000519",
+   "area": "business-models",
+   "kind": "origin",
+   "topic": "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template",
+   "t": "The Business Model Canvas grew out of Alexander Osterwalder's 2004 doctoral dissertation at the University of Lausanne, which built a formal business model ontology.",
+   "f": "The Business Model Canvas grew out of Alexander Osterwalder's 2004 doctoral dissertation at the University of St. Gallen, which built a formal business model ontology.",
+   "x": "Osterwalder's Lausanne thesis aimed to give the field a shared vocabulary, since one survey drew 54 definitions of business model from 62 respondents. A 2005 tutorial with Pigneur and Tucci condensed it into nine blocks, and the 2010 book made the canvas famous.",
+   "concepts": [
+    "kt:business-model-canvas",
+    "kt:alexander-osterwalder"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model-canvas.html"
+  },
+  {
+   "id": "bz-000520",
+   "area": "business-models",
+   "kind": "evidence",
+   "topic": "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template",
+   "t": "Fritscher and Pigneur note that most canvas use stays basic, analysing one business model at a single point in time, a weakness they trace to its static ontology.",
+   "f": "Fritscher and Pigneur note that most canvas use stays basic, analysing one business model at a single point in time, a weakness they trace to its lack of a revenue block.",
+   "x": "The canvas already has a Revenue Streams block; the limit is that its ontology describes a model as a snapshot. Fritscher and Pigneur propose coherence rules, cause-and-effect mechanics and layered versioning to make it dynamic.",
+   "concepts": [
+    "kt:business-model-canvas",
+    "kt:yves-pigneur"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model-canvas.html"
+  },
+  {
+   "id": "bz-000521",
+   "area": "business-models",
+   "kind": "application",
+   "topic": "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template",
+   "t": "On the Business Model Canvas, a free newspaper maps both readers and advertisers as separate customer segments, because each group depends on the other.",
+   "f": "On the Business Model Canvas, a free newspaper maps advertisers as its customer segment and readers as a key resource, because only advertisers pay.",
+   "x": "The canvas treats each interdependent group in a multi-sided model as its own segment: readers attract the advertisers whose money funds the paper. The same logic maps cardholders and merchants for a credit card company.",
+   "concepts": [
+    "kt:business-model-canvas",
+    "kt:platform-business-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/business-model-canvas.html"
+  },
+  {
+   "id": "bz-000522",
+   "area": "corporate-finance",
+   "kind": "mechanism",
+   "topic": "Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors",
+   "t": "Under the stochastic discount factor approach, expected returns compensate investors for an asset's covariance with bad times, not for its volatility as such.",
+   "f": "Under the stochastic discount factor approach, expected returns compensate investors for an asset's volatility as such, not for its covariance with bad times.",
+   "x": "A dollar is worth more in states like recessions, so an asset that pays off then is valuable and needs only a low expected return, while one that pays mainly in good times must offer more. Cochrane uses this single idea to show the CAPM, multifactor and option models are all versions of one discount factor.",
+   "concepts": [
+    "kt:asset-pricing"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/asset-pricing.html"
+  },
+  {
+   "id": "bz-000523",
+   "area": "corporate-finance",
+   "kind": "origin",
+   "topic": "Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors",
+   "t": "Harrison and Kreps formalised the link between no arbitrage and consistent prices in multiperiod markets in a 1979 paper, the basis for risk-neutral valuation of derivatives.",
+   "f": "Hansen and Jagannathan formalised the link between no arbitrage and consistent prices in multiperiod markets in a 1979 paper, the basis for risk-neutral valuation of derivatives.",
+   "x": "Harrison and Kreps's Journal of Economic Theory paper on martingales and arbitrage underpins the field's dependence on the no-arbitrage principle. Hansen and Jagannathan came later, around 1990-1991, with bounds that security market data place on any candidate discount factor.",
+   "concepts": [
+    "kt:asset-pricing",
+    "kt:arbitrage"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/asset-pricing.html"
+  },
+  {
+   "id": "bz-000524",
+   "area": "corporate-finance",
+   "kind": "evidence",
+   "topic": "Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors",
+   "t": "Mehra and Prescott found a US equity premium of about 6 points a year over 1889-1978, while their calibrated models could generate a premium of only about 0.35 points.",
+   "f": "Mehra and Prescott found a US equity premium of only about 0.35 points a year over 1889-1978, while their calibrated models could generate a premium of about 6 points.",
+   "x": "That gap is the equity premium puzzle: stocks earned far more over near-riskless assets than standard equilibrium models can justify, so the authors suspected frictions outside those models. Behavioral finance is one of the rival explanations offered since.",
+   "concepts": [
+    "kt:asset-pricing",
+    "kt:behavioral-finance"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/asset-pricing.html"
+  },
+  {
+   "id": "bz-000525",
+   "area": "government-contracting-and-public-sector",
+   "kind": "mechanism",
+   "topic": "Bid Protest: Challenging Federal Contract Awards at GAO",
+   "t": "A GAO bid protest triggers an automatic stay of performance if GAO notifies the agency within 10 days after award, or within 5 days after a required debriefing.",
+   "f": "A GAO bid protest triggers an automatic stay of performance if GAO notifies the agency within 30 days after award, or within 15 days after a required debriefing.",
+   "x": "The short window is what makes the stay powerful: a protest filed quickly forces the contracting officer to suspend or terminate performance unless agency leadership finds urgent and compelling reasons to override. Thirty days is the deadline for the agency's report to GAO, not the stay window.",
+   "concepts": [
+    "kt:bid-protest",
+    "kt:government-accountability-office",
+    "kt:contracting-officer"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bid-protest.html"
+  },
+  {
+   "id": "bz-000526",
+   "area": "government-contracting-and-public-sector",
+   "kind": "figure",
+   "topic": "Bid Protest: Challenging Federal Contract Awards at GAO",
+   "t": "In fiscal 2025 (FY2025), GAO sustained 53 of its 380 bid protest merit decisions, a sustain rate of about 14%.",
+   "f": "In fiscal 2025 (FY2025), GAO sustained 198 of its 380 bid protest merit decisions, a sustain rate of about 52%.",
+   "x": "Only about one merit decision in seven went the protester's way, which is why protests are rarer winners than their reputation suggests. The 52% figure is GAO's broader effectiveness rate, which also counts voluntary corrective action by agencies.",
+   "concepts": [
+    "kt:bid-protest",
+    "kt:government-accountability-office"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bid-protest.html",
+   "asOf": "FY2025"
+  },
+  {
+   "id": "bz-000527",
+   "area": "government-contracting-and-public-sector",
+   "kind": "evidence",
+   "topic": "Bid Protest: Challenging Federal Contract Awards at GAO",
+   "t": "Penn State finance researchers found that firms winning a bid protest face a 68% lower chance of getting contracts from the contested agency over the next four years.",
+   "f": "Penn State finance researchers found that firms winning a bid protest enjoy a 68% higher chance of getting contracts from the contested agency over the next four years.",
+   "x": "The finding points to a hidden cost of protesting: even a successful challenge can sour the relationship with the buying agency. It sits alongside critiques that protests push agencies to over-document and favour price-driven or existing contract vehicles.",
+   "concepts": [
+    "kt:bid-protest"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/bid-protest.html"
+  },
+  {
+   "id": "bz-000528",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "origin",
+   "topic": "Customer Development: Steve Blank's Search for a Repeatable Business Model",
+   "t": "Steve Blank began outlining customer development in a Berkeley course in 2003 and set it out in detail that year in The Four Steps to the Epiphany.",
+   "f": "Steve Blank began outlining customer development in a Stanford course in 2011 and set it out in detail that year in The Four Steps to the Epiphany.",
+   "x": "Blank developed the method in 2003 after about two decades in startups, when he concluded the usual product development sequence ignored the biggest risk: having no customers. 2011 is when NSF launched its Innovation Corps program built on his ideas, not when he wrote the book.",
+   "concepts": [
+    "kt:customer-development",
+    "kt:steve-blank",
+    "kt:the-four-steps-to-the-epiphany"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-development.html"
+  },
+  {
+   "id": "bz-000529",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "mechanism",
+   "topic": "Customer Development: Steve Blank's Search for a Repeatable Business Model",
+   "t": "In customer development, a startup whose validation evidence is weak pivots by changing one or more hypotheses and loops back to customer discovery.",
+   "f": "In customer development, a startup whose validation evidence is weak pivots by changing one or more hypotheses and moves ahead to customer creation.",
+   "x": "Customer creation, the push from a few customers to many, only makes sense once a repeatable sales roadmap and workable financial model have been validated. Weak evidence sends the team back to discovery to test revised hypotheses about the problem and solution.",
+   "concepts": [
+    "kt:customer-development"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-development.html"
+  },
+  {
+   "id": "bz-000530",
+   "area": "innovation-and-entrepreneurship",
+   "kind": "figure",
+   "topic": "Customer Development: Steve Blank's Search for a Repeatable Business Model",
+   "t": "As of 2026, NSF's I-Corps national teams program runs about seven weeks and requires each team to complete at least 100 interviews with potential customers and stakeholders.",
+   "f": "As of 2026, NSF's I-Corps national teams program runs about seven weeks and requires each team to complete at least 20 interviews with potential customers and stakeholders.",
+   "x": "I-Corps is the largest institutional application of customer development, and its high interview quota forces academic founders out of the lab to test their business model hypotheses. Teams also commit at least 15 hours a week and end with a lessons-learned presentation.",
+   "concepts": [
+    "kt:customer-development",
+    "kt:nsf-innovation-corps"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/customer-development.html",
+   "asOf": "2026"
+  },
+  {
+   "id": "bz-000531",
+   "area": "marketing",
+   "kind": "origin",
+   "topic": "Churn Rate: Measuring Customer Attrition and Retention",
+   "t": "Reichheld and Sasser argued in a 1990 Harvard Business Review article that retaining just 5% more customers could raise profits by nearly 100% in the service businesses they studied.",
+   "f": "Reichheld and Sasser argued in a 1990 Harvard Business Review article that retaining just 5% more customers could raise profits by nearly 10% in the service businesses they studied.",
+   "x": "Their point was that defections can matter more to profit than scale, market share or unit cost, so the defection rate works as a leading indicator. A gain of only about 10% would not have supported that bold claim.",
+   "concepts": [
+    "kt:churn-rate"
+   ],
+   "difficulty": 1,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/churn-rate.html"
+  },
+  {
+   "id": "bz-000532",
+   "area": "marketing",
+   "kind": "evidence",
+   "topic": "Churn Rate: Measuring Customer Attrition and Retention",
+   "t": "In a field experiment with about 65,000 mobile subscribers, proactively nudging users toward better-fitting plans raised churn from 6% to 10%.",
+   "f": "In a field experiment with about 65,000 mobile subscribers, proactively nudging users toward better-fitting plans cut churn from 10% to 6%.",
+   "x": "Ascarza, Iyengar and Schleicher found the outreach backfired, with the worst effects among customers whose usage was volatile or falling. It is a warning that retention campaigns should target customers whose behaviour they will actually change, not simply those at highest risk.",
+   "concepts": [
+    "kt:churn-rate"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/churn-rate.html"
+  },
+  {
+   "id": "bz-000533",
+   "area": "marketing",
+   "kind": "figure",
+   "topic": "Churn Rate: Measuring Customer Attrition and Retention",
+   "t": "T-Mobile US reported branded postpaid phone churn of 1.18% for 2017, far below its branded prepaid churn of 4.04% that year.",
+   "f": "T-Mobile US reported branded prepaid churn of 1.18% for 2017, far below its branded postpaid phone churn of 4.04% that year.",
+   "x": "Postpaid phone customers left at roughly a quarter of the prepaid rate in 2017. T-Mobile credited part of that year's postpaid improvement to moving higher-churn customers to a wholesale partner, so reported churn can also change through who is counted.",
+   "concepts": [
+    "kt:churn-rate",
+    "kt:t-mobile-us"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/churn-rate.html",
+   "asOf": "2017"
+  },
+  {
+   "id": "bz-000534",
+   "area": "organizational-behavior",
+   "kind": "origin",
+   "topic": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
+   "t": "John Kotter based his eight-step change advice, in a 1995 Harvard Business Review article, on watching more than 100 companies such as Ford and British Airways attempt transformation.",
+   "f": "John Kotter based his eight-step change advice, in a 1975 Harvard Business Review article, on watching more than 100 companies such as Ford and British Airways attempt transformation.",
+   "x": "Kotter's 1995 article framed its advice as eight errors to avoid, from insufficient urgency to failing to anchor change in culture. He found a few efforts very successful, a few outright failures, and most in between, tilted toward the lower end.",
+   "concepts": [
+    "kt:change-management",
+    "kt:kotters-eight-step-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/change-management.html"
+  },
+  {
+   "id": "bz-000535",
+   "area": "organizational-behavior",
+   "kind": "mechanism",
+   "topic": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
+   "t": "Kotter judged a sense of urgency sufficient only when roughly 75% of a company's management is convinced that business as usual is unacceptable.",
+   "f": "Kotter judged a sense of urgency sufficient only when roughly 50% of a company's management is convinced that business as usual is unacceptable.",
+   "x": "Kotter set a high bar, about three quarters of management, for the first step of establishing urgency. He found that well over half of the companies he watched failed at this first phase.",
+   "concepts": [
+    "kt:change-management",
+    "kt:kotters-eight-step-model"
+   ],
+   "difficulty": 2,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/change-management.html"
+  },
+  {
+   "id": "bz-000536",
+   "area": "organizational-behavior",
+   "kind": "evidence",
+   "topic": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
+   "t": "Mark Hughes reviewed five published sources for the claim that about 70% of change initiatives fail and found that none gives valid, reliable evidence for it.",
+   "f": "Mark Hughes reviewed five published sources for the claim that about 70% of change initiatives fail and found that all five give valid, reliable evidence for it.",
+   "x": "The 70% failure rate is widely repeated, but Hughes traced it to sources that lack sound empirical support. It is a useful caution against treating a popular statistic as established fact.",
+   "concepts": [
+    "kt:change-management"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/change-management.html"
+  },
+  {
+   "id": "bz-000537",
+   "area": "strategy",
+   "kind": "evidence",
+   "topic": "Competitive Advantage: Why Some Firms Persistently Outperform Rivals",
+   "t": "Rumelt's 1991 decomposition of business-unit returns found large, stable business-unit effects, small industry effects and negligible corporate-parent effects.",
+   "f": "Rumelt's 1991 decomposition of business-unit returns found large, stable corporate-parent effects, small industry effects and negligible business-unit effects.",
+   "x": "Using FTC Line of Business data, Rumelt showed most economic rents come from business-specific sources, not from industry membership or the corporate parent. That finding challenged a purely industry-structure view and lent weight to resource-based explanations of advantage.",
+   "concepts": [
+    "kt:competitive-advantage",
+    "kt:resource-based-view"
+   ],
+   "difficulty": 3,
+   "status": "active",
+   "source": "https://john1hsu.github.io/business-knowledge-graph/articles/competitive-advantage.html"
   }
  ]
 }

@@ -1,0 +1,19 @@
+id: bz-000457
+area: business-ethics-and-governance
+kind: mechanism
+topic: 'Corporate Social Responsibility (CSR): A Firm''s Obligations Beyond Profit and Law'
+topic_type: Concept
+true_statement: In Carroll's CSR pyramid, society requires economic and legal responsibilities, expects ethical ones, and desires philanthropic ones.
+false_statement: In Carroll's CSR pyramid, society requires economic and legal responsibilities, expects philanthropic ones, and desires ethical ones.
+explanation: That is why a firm giving little to charity is not usually called unethical, while one ignoring ethical expectations is. Carroll meant the four layers to be met together, with ethics running through all of them, including how profits are earned.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/corporate-social-responsibility.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 01a9531c947917ad52c7043d26d069750112363a
+concepts:
+- kt:corporate-social-responsibility
+- kt:pyramid-of-corporate-social-responsibility
+difficulty: 2
+created: '2026-11-21'
+status: active

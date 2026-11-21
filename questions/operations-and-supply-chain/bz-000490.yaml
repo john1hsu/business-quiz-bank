@@ -1,0 +1,19 @@
+id: bz-000490
+area: operations-and-supply-chain
+kind: evidence
+topic: 'Inventory Management: Order Quantities, Reorder Points and Safety Stock'
+topic_type: Practice
+true_statement: Chen, Frank and Wu found U.S. manufacturers with abnormally high inventories earned poor long-run stock returns, while the leanest firms earned only ordinary returns.
+false_statement: Chen, Frank and Wu found U.S. manufacturers with abnormally high inventories earned poor long-run stock returns, while the leanest firms earned abnormally high returns.
+explanation: Bloated stock was penalized, but going leanest did not earn a premium, which suggests cutting inventory pays only up to a point. The same 1981 to 2000 study found holding periods fell mostly through less work in process.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/operations-and-supply-chain/inventory-management.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: bcde784b0f05c7051680ba0eed1e99d0b0a0c885
+concepts:
+- kt:inventory-management
+- kt:working-capital
+difficulty: 3
+created: '2026-11-21'
+status: active

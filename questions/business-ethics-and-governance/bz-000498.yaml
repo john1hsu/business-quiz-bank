@@ -1,0 +1,19 @@
+id: bz-000498
+area: business-ethics-and-governance
+kind: evidence
+topic: 'Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay'
+topic_type: Practice
+true_statement: Bebchuk and Fried's managerial power view holds that boards cannot bargain at arm's length with CEOs, so executives favor pay that is less visible and less tied to performance.
+false_statement: Bebchuk and Fried's managerial power view holds that boards cannot bargain at arm's length with CEOs, so executives favor pay that is more visible and more tied to performance.
+explanation: If executives shape their own pay, they prefer less visible forms such as stealth compensation, executive loans and large exit payments. This rival to efficient contracting explains pay features that are puzzling if boards simply maximize shareholder value.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/business-ethics-and-governance/executive-compensation.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: d30ea1aec4c38a3b47e33a442d251fbfa292c72e
+concepts:
+- kt:executive-compensation
+- kt:board-of-directors
+difficulty: 3
+created: '2026-11-21'
+status: active

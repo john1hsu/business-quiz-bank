@@ -1,0 +1,18 @@
+id: bz-000509
+area: leadership-and-management
+kind: evidence
+topic: 'Leadership: Influencing People Toward Shared Goals'
+topic_type: Concept
+true_statement: Meindl, Ehrlich and Dukerich's 1985 romance-of-leadership thesis holds that scholars, media and the public over-credit leaders for organizational success and failure.
+false_statement: Meindl, Ehrlich and Dukerich's 1985 romance-of-leadership thesis holds that scholars, media and the public under-credit leaders for organizational success and failure.
+explanation: The thesis says leadership offers a reassuring but simplified explanation of complex events, so people attribute too much to leaders. This critique later seeded shared, distributed and follower-centred theories of leadership.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/leadership.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: ebfc1a98541aaa641f9897edea79942aef00ff61
+concepts:
+- kt:leadership
+difficulty: 3
+created: '2026-11-21'
+status: active

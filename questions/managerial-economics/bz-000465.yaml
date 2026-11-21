@@ -1,0 +1,20 @@
+id: bz-000465
+area: managerial-economics
+kind: mechanism
+topic: 'Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure'
+topic_type: Industry
+true_statement: Britannica puts the efficient output of one car assembly plant at roughly 200,000 to 400,000 vehicles a year, a scale requirement that acts as a barrier to entry.
+false_statement: Britannica puts the efficient output of one car assembly plant at roughly 20,000 to 40,000 vehicles a year, a scale requirement that acts as a barrier to entry.
+explanation: Because a single plant must make hundreds of thousands of cars a year to reach low unit cost, an entrant needs heavy capital and a large share of demand. That is why national car output is concentrated in a few very large firms and small independents have nearly vanished.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/managerial-economics/automotive-industry.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 05178caf383614dccd949a8aec760e485d5988a7
+concepts:
+- kt:automotive-industry
+- kt:economies-of-scale
+- kt:barriers-to-entry
+difficulty: 2
+created: '2026-11-21'
+status: active

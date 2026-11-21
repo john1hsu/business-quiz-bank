@@ -1,0 +1,19 @@
+id: bz-000463
+area: leadership-and-management
+kind: mechanism
+topic: Strategy Execution
+topic_type: Concept
+true_statement: Kaplan and Norton advise an Office of Strategy Management that holds strategy reviews separately from operational meetings, so strategy is not crowded out by firefighting.
+false_statement: Kaplan and Norton advise an Office of Strategy Management that folds strategy reviews into operational meetings, so strategy stays tied to daily firefighting.
+explanation: In The Execution Premium, strategy reviews are one stage of a six-stage loop running from developing the strategy to testing and adapting it. Keeping them apart from operational meetings protects time for strategic questions that urgent problems would otherwise push aside.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/leadership-and-management/strategy-execution.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: da6089d33479bbf84972921b8702388e2796859a
+concepts:
+- kt:strategy-execution
+- kt:balanced-scorecard
+difficulty: 2
+created: '2026-11-21'
+status: active

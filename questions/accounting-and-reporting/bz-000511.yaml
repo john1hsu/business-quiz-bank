@@ -1,0 +1,20 @@
+id: bz-000511
+area: accounting-and-reporting
+kind: evidence
+topic: 'Working Capital: Current Assets Minus Current Liabilities'
+topic_type: Metric
+true_statement: Marc Deloof's study of 1,009 large Belgian firms in 1992-1996 found that less profitable firms took longer to pay their suppliers.
+false_statement: Marc Deloof's study of 1,009 large Belgian firms in 1992-1996 found that more profitable firms took longer to pay their suppliers.
+explanation: Deloof also found firms could lift profitability by cutting receivable and inventory days, but long payables periods tracked weaker performance. That suggests slow supplier payment is often a symptom of financial strain rather than a smart working capital strategy.
+source:
+  repo: john1hsu/business-knowledge-graph
+  path: articles/accounting-and-reporting/working-capital.md
+  commit: f00a6d8e570eec0cb185c3fca31313961aaaece8
+  blob: 43f4e99a8068c9278c8b0175a70d14224e5c0d6c
+concepts:
+- kt:working-capital
+- kt:trade-credit
+- kt:cash-conversion-cycle
+difficulty: 3
+created: '2026-11-21'
+status: active
